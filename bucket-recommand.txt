@@ -1,5 +1,4 @@
 kkzzhizhou/scoop-zapps
 HCLonely/my-scoop-bucket
 Weidows-projects/scoop-3rd
-
-prezesp/scoop-viewer
+prezesp/scoop-viewer-bucket
