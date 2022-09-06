@@ -2952,6 +2952,7 @@ winget_ivaquero.json,ivaquero/scoopet
 lx-music.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
+dingtalk.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
@@ -6109,7 +6110,7 @@ VNote_zhoujin7.json,zhoujin7/tomato
 OracleJDK17.json,zhoujin7/tomato
 HBuilderX_zhoujin7.json,zhoujin7/tomato
 PartAssist_zhoujin7.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 HBuilderX-Alpha.json,zhoujin7/tomato
 DoubleKiller.json,zhoujin7/tomato
 Q-Dir_zhoujin7.json,zhoujin7/tomato
