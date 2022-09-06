@@ -249,10 +249,7 @@ Pixeval.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 XStudio.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
-package-lock.json,prezesp/scoop-viewer
-package.json,prezesp/scoop-viewer
-example-app-02.json,prezesp/scoop-viewer
-example-app-01.json,prezesp/scoop-viewer
+scoop-viewer.json,prezesp/scoop-viewer-bucket
 oh-my-posh_ScoopInstaller.json,ScoopInstaller/Extras
 p4merge.json,ScoopInstaller/Extras
 harmonoid.json,ScoopInstaller/Extras
@@ -2925,7 +2922,7 @@ bsnes.json,Calinou/scoop-games
 rbdoom-3-bfg.json,Calinou/scoop-games
 rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
-package_ivaquero.json,ivaquero/scoopet
+package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
 clash-for-windows_ivaquero.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
@@ -5338,7 +5335,7 @@ redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-scummvm-nightly.json,borger/scoop-emulators
+scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators

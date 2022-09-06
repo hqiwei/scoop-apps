@@ -49,7 +49,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - kkzzhizhou/scoop-zapps
 - HCLonely/my-scoop-bucket
 - Weidows-projects/scoop-3rd
-- prezesp/scoop-viewer
+- prezesp/scoop-viewer-bucket
 - ScoopInstaller/Extras
 - chawyehsu/dorado
 - matthewjberger/scoop-nerd-fonts
