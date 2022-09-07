@@ -4785,7 +4785,7 @@ tdengine-client.json,hoilc/scoop-lemon
 maple-mono-sc-nerd.json,hoilc/scoop-lemon
 haproxy_exporter.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
-kui_hoilc.json,hoilc/scoop-lemon
+kui.json,hoilc/scoop-lemon
 windows_exporter.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 privexec.json,hoilc/scoop-lemon
@@ -5307,7 +5307,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -6984,7 +6984,7 @@ pping.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 doh.json,wzv5/ScoopBucket
-xnview_wzv5.json,wzv5/ScoopBucket
+xnview.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 wechat.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
