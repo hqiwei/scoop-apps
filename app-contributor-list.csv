@@ -2952,7 +2952,6 @@ winget_ivaquero.json,ivaquero/scoopet
 lx-music.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-dingtalk.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
@@ -5128,7 +5127,7 @@ mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-yuzu.json,hermanjustnu/scoop-emulators
+yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 pegasus.json,hermanjustnu/scoop-emulators
@@ -6102,7 +6101,7 @@ ContextMenuMgr.json,zhoujin7/tomato
 mysql8.json,zhoujin7/tomato
 Elasticsearch6.json,zhoujin7/tomato
 PixBuilder.json,zhoujin7/tomato
-WinSCP.json,zhoujin7/tomato
+WinSCP_zhoujin7.json,zhoujin7/tomato
 BeyondCompare_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 EmEditor_zhoujin7.json,zhoujin7/tomato
@@ -7882,7 +7881,7 @@ immuadmin.json,littleli/Scoop-littleli
 exe-explorer_littleli.json,littleli/Scoop-littleli
 netsurf.json,littleli/Scoop-littleli
 zcashd.json,littleli/Scoop-littleli
-llvm-mingw.json,littleli/Scoop-littleli
+llvm-mingw_littleli.json,littleli/Scoop-littleli
 dooble.json,littleli/Scoop-littleli
 tdu.json,littleli/Scoop-littleli
 tic80.json,littleli/Scoop-littleli
