@@ -1865,6 +1865,7 @@ find-java.json,ScoopInstaller/Extras
 vieas.json,ScoopInstaller/Extras
 simple-assembly-explorer.json,ScoopInstaller/Extras
 eclipse-android.json,ScoopInstaller/Extras
+jpass.json,ScoopInstaller/Extras
 dn-tool-container.json,ScoopInstaller/Extras
 win11dragdroptaskbarfix.json,ScoopInstaller/Extras
 hxd.json,ScoopInstaller/Extras
@@ -3879,7 +3880,7 @@ Rider-EAP_Ash258.json,Ash258/Scoop-JetBrains
 DotTraceCLT-EAP.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-RC-portable.json,Ash258/Scoop-JetBrains
 PyCharm-RC_Ash258.json,Ash258/Scoop-JetBrains
-RubyMine-EAP_Ash258.json,Ash258/Scoop-JetBrains
+RubyMine-EAP.json,Ash258/Scoop-JetBrains
 DotMemoryCLT.json,Ash258/Scoop-JetBrains
 DataSpell-portable.json,Ash258/Scoop-JetBrains
 MPS-portable.json,Ash258/Scoop-JetBrains
@@ -4233,7 +4234,7 @@ csvfileview.json,MCOfficer/scoop-nirsoft
 chromehistoryview.json,MCOfficer/scoop-nirsoft
 regdllview_MCOfficer.json,MCOfficer/scoop-nirsoft
 dnsquerysniffer_MCOfficer.json,MCOfficer/scoop-nirsoft
-handlecountersview_MCOfficer.json,MCOfficer/scoop-nirsoft
+handlecountersview.json,MCOfficer/scoop-nirsoft
 opensavefilesview_MCOfficer.json,MCOfficer/scoop-nirsoft
 wirelessnetview_MCOfficer.json,MCOfficer/scoop-nirsoft
 skypelogview_MCOfficer.json,MCOfficer/scoop-nirsoft
@@ -4785,7 +4786,7 @@ tdengine-client.json,hoilc/scoop-lemon
 maple-mono-sc-nerd.json,hoilc/scoop-lemon
 haproxy_exporter.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
-kui.json,hoilc/scoop-lemon
+kui_hoilc.json,hoilc/scoop-lemon
 windows_exporter.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 privexec.json,hoilc/scoop-lemon
@@ -5126,8 +5127,8 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
-rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
+rpcs3.json,hermanjustnu/scoop-emulators
+yuzu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 pegasus.json,hermanjustnu/scoop-emulators
@@ -5307,7 +5308,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -6984,7 +6985,7 @@ pping.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 doh.json,wzv5/ScoopBucket
-xnview.json,wzv5/ScoopBucket
+xnview_wzv5.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 wechat.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
