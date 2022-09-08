@@ -3847,7 +3847,7 @@ JBHub.json,Ash258/Scoop-JetBrains
 DotCoverCLT.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-portable.json,Ash258/Scoop-JetBrains
 Gateway-EAP-portable.json,Ash258/Scoop-JetBrains
-DataGrip_Ash258.json,Ash258/Scoop-JetBrains
+DataGrip.json,Ash258/Scoop-JetBrains
 DataSpell-EAP-portable.json,Ash258/Scoop-JetBrains
 PyCharm-portable.json,Ash258/Scoop-JetBrains
 DataSpell-RC-portable.json,Ash258/Scoop-JetBrains
@@ -4224,7 +4224,7 @@ siteshoter_MCOfficer.json,MCOfficer/scoop-nirsoft
 mailpv.json,MCOfficer/scoop-nirsoft
 shadowcopyview_MCOfficer.json,MCOfficer/scoop-nirsoft
 svcl.json,MCOfficer/scoop-nirsoft
-networkopenedfiles_MCOfficer.json,MCOfficer/scoop-nirsoft
+networkopenedfiles.json,MCOfficer/scoop-nirsoft
 ntfslinksview_MCOfficer.json,MCOfficer/scoop-nirsoft
 officeins_MCOfficer.json,MCOfficer/scoop-nirsoft
 networkconnectlog.json,MCOfficer/scoop-nirsoft
@@ -5018,7 +5018,7 @@ swagger-codegen-cli@2.json,hoilc/scoop-lemon
 httpdownloader.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 chart-testing.json,hoilc/scoop-lemon
-coodesker_hoilc.json,hoilc/scoop-lemon
+coodesker.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
 terminus-player.json,hoilc/scoop-lemon
 imgpkg.json,hoilc/scoop-lemon
@@ -5094,7 +5094,7 @@ clash-premium.json,everyx/scoop-bucket
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
-vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
+vita3k.json,hermanjustnu/scoop-emulators
 xenia-canary.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 mameui.json,hermanjustnu/scoop-emulators
@@ -5308,7 +5308,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -6995,7 +6995,7 @@ besttrace.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
-qqmusic_wzv5.json,wzv5/ScoopBucket
+qqmusic.json,wzv5/ScoopBucket
 lantern-np.json,ScoopInstaller/Nonportable
 cppcryptfs-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
@@ -7401,7 +7401,7 @@ apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
-googlechrome-beta.json,42wim/scoop-bucket
+googlechrome-beta_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
