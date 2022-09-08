@@ -5127,8 +5127,8 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
-yuzu.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
+yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 pegasus.json,hermanjustnu/scoop-emulators
@@ -7396,7 +7396,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
