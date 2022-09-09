@@ -515,6 +515,7 @@ sphinxtrain.json,ScoopInstaller/Extras
 obs-studio.json,ScoopInstaller/Extras
 video-thumbnails-maker.json,ScoopInstaller/Extras
 sfk.json,ScoopInstaller/Extras
+nheko.json,ScoopInstaller/Extras
 weasel-pageant.json,ScoopInstaller/Extras
 logisim-evolution.json,ScoopInstaller/Extras
 qbittorrent.json,ScoopInstaller/Extras
@@ -557,6 +558,7 @@ capture2text.json,ScoopInstaller/Extras
 jexiftoolgui.json,ScoopInstaller/Extras
 yubikey-manager-qt.json,ScoopInstaller/Extras
 folder-marker.json,ScoopInstaller/Extras
+contour.json,ScoopInstaller/Extras
 mtpcopy.json,ScoopInstaller/Extras
 pixitracker-1bit.json,ScoopInstaller/Extras
 explorerplusplus.json,ScoopInstaller/Extras
@@ -598,6 +600,7 @@ tachidesk-jui.json,ScoopInstaller/Extras
 cpu-v.json,ScoopInstaller/Extras
 steam-library-manager.json,ScoopInstaller/Extras
 notion.json,ScoopInstaller/Extras
+sd-card-formatter.json,ScoopInstaller/Extras
 notepad2.json,ScoopInstaller/Extras
 dxirc.json,ScoopInstaller/Extras
 eclipse-reporting.json,ScoopInstaller/Extras
@@ -2925,7 +2928,7 @@ rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
@@ -3847,7 +3850,7 @@ JBHub.json,Ash258/Scoop-JetBrains
 DotCoverCLT.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-portable.json,Ash258/Scoop-JetBrains
 Gateway-EAP-portable.json,Ash258/Scoop-JetBrains
-DataGrip.json,Ash258/Scoop-JetBrains
+DataGrip_Ash258.json,Ash258/Scoop-JetBrains
 DataSpell-EAP-portable.json,Ash258/Scoop-JetBrains
 PyCharm-portable.json,Ash258/Scoop-JetBrains
 DataSpell-RC-portable.json,Ash258/Scoop-JetBrains
@@ -3865,7 +3868,7 @@ MPS-RC.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA.json,Ash258/Scoop-JetBrains
 JetBrains-Toolbox-RC.json,Ash258/Scoop-JetBrains
 TeamCity_Ash258.json,Ash258/Scoop-JetBrains
-PhpStorm-RC_Ash258.json,Ash258/Scoop-JetBrains
+PhpStorm-RC.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Education-EAP-portable.json,Ash258/Scoop-JetBrains
 DotCoverCLT-EAP.json,Ash258/Scoop-JetBrains
 CLion-EAP-portable.json,Ash258/Scoop-JetBrains
@@ -3900,7 +3903,7 @@ GoLand-RC_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-Professional-RC-portable.json,Ash258/Scoop-JetBrains
 DotMemoryCLT-EAP.json,Ash258/Scoop-JetBrains
 TeamCity-RC_Ash258.json,Ash258/Scoop-JetBrains
-WebStorm-EAP_Ash258.json,Ash258/Scoop-JetBrains
+WebStorm-EAP.json,Ash258/Scoop-JetBrains
 PhpStorm-EAP-portable.json,Ash258/Scoop-JetBrains
 YouTrack_Ash258.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-RC.json,Ash258/Scoop-JetBrains
@@ -5018,7 +5021,7 @@ swagger-codegen-cli@2.json,hoilc/scoop-lemon
 httpdownloader.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 chart-testing.json,hoilc/scoop-lemon
-coodesker.json,hoilc/scoop-lemon
+coodesker_hoilc.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
 terminus-player.json,hoilc/scoop-lemon
 imgpkg.json,hoilc/scoop-lemon
@@ -5308,7 +5311,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -6995,7 +6998,7 @@ besttrace.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
-qqmusic.json,wzv5/ScoopBucket
+qqmusic_wzv5.json,wzv5/ScoopBucket
 lantern-np.json,ScoopInstaller/Nonportable
 cppcryptfs-np.json,ScoopInstaller/Nonportable
 anki-np.json,ScoopInstaller/Nonportable
@@ -7408,7 +7411,7 @@ matterircd_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
-googlechrome-dev_42wim.json,42wim/scoop-bucket
+googlechrome-dev.json,42wim/scoop-bucket
 oraclejdk8u.json,krproject/qi-windows
 vscode_krproject.json,krproject/qi-windows
 postman_krproject.json,krproject/qi-windows
@@ -7663,7 +7666,7 @@ imgcat.json,batkiz/backit
 ls-lint.json,batkiz/backit
 tinytex-min_batkiz.json,batkiz/backit
 hck.json,batkiz/backit
-contour.json,batkiz/backit
+contour_batkiz.json,batkiz/backit
 HiBitUninstaller-Portable_batkiz.json,batkiz/backit
 openjdk11_batkiz.json,batkiz/backit
 gitty.json,batkiz/backit
