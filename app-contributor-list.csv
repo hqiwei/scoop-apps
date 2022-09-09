@@ -1716,6 +1716,7 @@ renderdoc.json,ScoopInstaller/Extras
 nexusfont.json,ScoopInstaller/Extras
 dotPeek.json,ScoopInstaller/Extras
 thunderbird.json,ScoopInstaller/Extras
+hibit-startup-manager.json,ScoopInstaller/Extras
 multrin.json,ScoopInstaller/Extras
 hydrus-network.json,ScoopInstaller/Extras
 yubikey-personalization-gui.json,ScoopInstaller/Extras
@@ -1811,6 +1812,7 @@ driverstoreexplorer.json,ScoopInstaller/Extras
 mqtt-explorer.json,ScoopInstaller/Extras
 elisa.json,ScoopInstaller/Extras
 rednotebook.json,ScoopInstaller/Extras
+hibit-uninstaller.json,ScoopInstaller/Extras
 bat2exe.json,ScoopInstaller/Extras
 beeftext.json,ScoopInstaller/Extras
 ueli.json,ScoopInstaller/Extras
@@ -1878,6 +1880,7 @@ mumble.json,ScoopInstaller/Extras
 qmk-toolbox.json,ScoopInstaller/Extras
 puttie.json,ScoopInstaller/Extras
 i2pd.json,ScoopInstaller/Extras
+hibit-system-information.json,ScoopInstaller/Extras
 wumgr.json,ScoopInstaller/Extras
 buttercup.json,ScoopInstaller/Extras
 tileiconifier.json,ScoopInstaller/Extras
@@ -4582,7 +4585,7 @@ arend.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -5130,7 +5133,7 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
-rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
+rpcs3.json,hermanjustnu/scoop-emulators
 yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
@@ -5311,7 +5314,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -5334,7 +5337,7 @@ mgba-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
-xemu_borger.json,borger/scoop-emulators
+xemu.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
@@ -5455,7 +5458,7 @@ Masterway.json,dodorz/scoop
 Undelete360.json,dodorz/scoop
 SendMessage.json,dodorz/scoop
 Noto-Mono-Font_dodorz.json,dodorz/scoop
-XMLNotepad_dodorz.json,dodorz/scoop
+XMLNotepad.json,dodorz/scoop
 winpty-cygwin.json,dodorz/scoop
 Keybase.json,dodorz/scoop
 Xion.json,dodorz/scoop
@@ -7399,7 +7402,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
@@ -7411,7 +7414,7 @@ matterircd_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
-googlechrome-dev.json,42wim/scoop-bucket
+googlechrome-dev_42wim.json,42wim/scoop-bucket
 oraclejdk8u.json,krproject/qi-windows
 vscode_krproject.json,krproject/qi-windows
 postman_krproject.json,krproject/qi-windows
