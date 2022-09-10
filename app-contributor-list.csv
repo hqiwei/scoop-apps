@@ -2931,7 +2931,7 @@ rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
@@ -5133,7 +5133,7 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
@@ -5314,7 +5314,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -5337,12 +5337,12 @@ mgba-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
-xemu.json,borger/scoop-emulators
+xemu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-scummvm-nightly_borger.json,borger/scoop-emulators
+scummvm-nightly.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -5458,7 +5458,7 @@ Masterway.json,dodorz/scoop
 Undelete360.json,dodorz/scoop
 SendMessage.json,dodorz/scoop
 Noto-Mono-Font_dodorz.json,dodorz/scoop
-XMLNotepad.json,dodorz/scoop
+XMLNotepad_dodorz.json,dodorz/scoop
 winpty-cygwin.json,dodorz/scoop
 Keybase.json,dodorz/scoop
 Xion.json,dodorz/scoop
@@ -7402,7 +7402,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
