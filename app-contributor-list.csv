@@ -565,6 +565,7 @@ explorerplusplus.json,ScoopInstaller/Extras
 coretemp.json,ScoopInstaller/Extras
 klogg.json,ScoopInstaller/Extras
 redasm.json,ScoopInstaller/Extras
+moar.json,ScoopInstaller/Extras
 figma.json,ScoopInstaller/Extras
 butterflow-ui.json,ScoopInstaller/Extras
 elasticsearch.json,ScoopInstaller/Extras
@@ -825,6 +826,7 @@ eclipse-sumo.json,ScoopInstaller/Extras
 defraggler.json,ScoopInstaller/Extras
 xmousebuttoncontrol.json,ScoopInstaller/Extras
 smartty.json,ScoopInstaller/Extras
+openlens.json,ScoopInstaller/Extras
 webcord.json,ScoopInstaller/Extras
 grafana.json,ScoopInstaller/Extras
 kopiaui.json,ScoopInstaller/Extras
@@ -1119,6 +1121,7 @@ networkmanager.json,ScoopInstaller/Extras
 arcwelder.json,ScoopInstaller/Extras
 twine.json,ScoopInstaller/Extras
 processing.json,ScoopInstaller/Extras
+btop4win.json,ScoopInstaller/Extras
 folding-at-home.json,ScoopInstaller/Extras
 windjview.json,ScoopInstaller/Extras
 beekeeper-studio.json,ScoopInstaller/Extras
@@ -1167,6 +1170,7 @@ milton.json,ScoopInstaller/Extras
 lightcord.json,ScoopInstaller/Extras
 stretchly.json,ScoopInstaller/Extras
 caprine.json,ScoopInstaller/Extras
+cider.json,ScoopInstaller/Extras
 draw.io.json,ScoopInstaller/Extras
 m4a-to-mp3-converter.json,ScoopInstaller/Extras
 x64dbg.json,ScoopInstaller/Extras
@@ -1316,7 +1320,7 @@ antidupl.net.json,ScoopInstaller/Extras
 honeyview.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 dnspyex.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 terminal-icons.json,ScoopInstaller/Extras
 posh-git.json,ScoopInstaller/Extras
 moneymanagerex.json,ScoopInstaller/Extras
@@ -1345,6 +1349,7 @@ caesium-image-compressor.json,ScoopInstaller/Extras
 rescuetime.json,ScoopInstaller/Extras
 sandman.json,ScoopInstaller/Extras
 robo3t.json,ScoopInstaller/Extras
+restish.json,ScoopInstaller/Extras
 horcrux.json,ScoopInstaller/Extras
 dualmonitortaskbar.json,ScoopInstaller/Extras
 wpsoffice.json,ScoopInstaller/Extras
@@ -2931,7 +2936,7 @@ rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
@@ -4419,7 +4424,7 @@ lightproxy.json,echoiron/echo-scoop
 exescope.json,echoiron/echo-scoop
 newfiletime.json,echoiron/echo-scoop
 wisecare365_echoiron.json,echoiron/echo-scoop
-wechat.json,echoiron/echo-scoop
+wechat_echoiron.json,echoiron/echo-scoop
 qq.json,echoiron/echo-scoop
 iobituninstaller.json,echoiron/echo-scoop
 iobitdriverbooster.json,echoiron/echo-scoop
@@ -5051,7 +5056,7 @@ lpvpn.json,hoilc/scoop-lemon
 juicefs.json,hoilc/scoop-lemon
 balcon.json,hoilc/scoop-lemon
 dbgate.json,hoilc/scoop-lemon
-pestudio_hoilc.json,hoilc/scoop-lemon
+pestudio.json,hoilc/scoop-lemon
 mongodb-compass_hoilc.json,hoilc/scoop-lemon
 checkstyle.json,hoilc/scoop-lemon
 neat-reader.json,hoilc/scoop-lemon
@@ -5100,7 +5105,7 @@ clash-premium.json,everyx/scoop-bucket
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
-vita3k.json,hermanjustnu/scoop-emulators
+vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia-canary.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 mameui.json,hermanjustnu/scoop-emulators
@@ -5111,7 +5116,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -5342,7 +5347,7 @@ redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-scummvm-nightly.json,borger/scoop-emulators
+scummvm-nightly_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -6993,7 +6998,7 @@ oleviewdotnet.json,wzv5/ScoopBucket
 doh.json,wzv5/ScoopBucket
 xnview_wzv5.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
-wechat.json,wzv5/ScoopBucket
+wechat_wzv5.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 openark_wzv5.json,wzv5/ScoopBucket
@@ -7308,6 +7313,7 @@ grep-win.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
 caret_naderi.json,naderi/scoop-bucket
 colorcatcher.json,naderi/scoop-bucket
+uncolored.json,naderi/scoop-bucket
 amp-font-viewer.json,naderi/scoop-bucket
 idea-portable.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
@@ -7377,6 +7383,7 @@ mitec-system-information-x.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 caret-beta_naderi.json,naderi/scoop-bucket
+markdown-edit.json,naderi/scoop-bucket
 exif-pilot.json,naderi/scoop-bucket
 cpod_naderi.json,naderi/scoop-bucket
 miktex_naderi.json,naderi/scoop-bucket
@@ -7402,7 +7409,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
@@ -7737,7 +7744,7 @@ duf_batkiz.json,batkiz/backit
 gping_batkiz.json,batkiz/backit
 mage_batkiz.json,batkiz/backit
 scoop-search_batkiz.json,batkiz/backit
-Iosevka_batkiz.json,batkiz/backit
+Iosevka.json,batkiz/backit
 hopp-cli_batkiz.json,batkiz/backit
 hurl_batkiz.json,batkiz/backit
 typora_batkiz.json,batkiz/backit
