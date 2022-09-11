@@ -1,16 +1,18 @@
 {
-    "version": "5.0-17318",
-    "description": "A Nintendo GameCube and Wii emulator, with enhancements and Netplay. (development version)",
+    "version": "5.0-17322",
+    "description": "A Nintendo GameCube and Wii emulator",
     "homepage": "https://dolphin-emu.org/",
     "license": {
-        "identifier": "GPL-2.0-or-later",
-        "url": "https://github.com/dolphin-emu/dolphin/blob/master/COPYING"
+        "url": "https://github.com/dolphin-emu/dolphin/blob/master/COPYING",
+        "identifier": "GPL-2.0-or-later"
     },
-    "suggest": {
-        "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
+    "architecture": {
+        "64bit": {
+            "url": "https://dl.dolphin-emu.org/builds/56/10/dolphin-master-5.0-17322-x64.7z",
+            "hash": "4e94055478d151668ed3c5e4cc6852ec89c4f47c931d1ac5ac7fe20cff35121a",
+            "extract_dir": "Dolphin-x64"
+        }
     },
-    "url": "https://dl.dolphin-emu.org/builds/50/ca/dolphin-master-5.0-17318-x64.7z",
-    "hash": "e09d72e57287d6eaca354eb89bc9c9c7d9371323d49f8f39d3715b142bf58a52",
     "extract_dir": "Dolphin-x64",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\")) {",
@@ -24,6 +26,9 @@
         "}"
     ],
     "post_install": "Set-Content -Value $null -Path \"$dir\\portable.txt\"",
+    "suggest": {
+        "Microsoft Visual C++ Runtime 2019": "extras/vcredist2019"
+    },
     "bin": [
         [
             "Dolphin.exe",
@@ -33,7 +38,7 @@
     "shortcuts": [
         [
             "Dolphin.exe",
-            "Dolphin (Development)"
+            "Dolphin (dev)"
         ]
     ],
     "persist": "User",
@@ -43,6 +48,10 @@
         "replace": "${major}-${build}"
     },
     "autoupdate": {
-        "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$matchMajor-$matchBuild-x64.7z"
+        "architecture": {
+            "64bit": {
+                "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$version-x64.7z"
+            }
+        }
     }
 }

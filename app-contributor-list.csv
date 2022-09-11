@@ -1320,7 +1320,7 @@ antidupl.net.json,ScoopInstaller/Extras
 honeyview.json,ScoopInstaller/Extras
 runcat.json,ScoopInstaller/Extras
 dnspyex.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 terminal-icons.json,ScoopInstaller/Extras
 posh-git.json,ScoopInstaller/Extras
 moneymanagerex.json,ScoopInstaller/Extras
@@ -2008,7 +2008,7 @@ mubu.json,chawyehsu/dorado
 firefox-nightly-zh-cn.json,chawyehsu/dorado
 helmsman.json,chawyehsu/dorado
 rcon-cli.json,chawyehsu/dorado
-moonlight_chawyehsu.json,chawyehsu/dorado
+moonlight.json,chawyehsu/dorado
 firefox-developer-zh-cn.json,chawyehsu/dorado
 copytranslator_chawyehsu.json,chawyehsu/dorado
 lepton_chawyehsu.json,chawyehsu/dorado
@@ -2936,7 +2936,7 @@ rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
@@ -5116,7 +5116,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -5347,7 +5347,7 @@ redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-scummvm-nightly_borger.json,borger/scoop-emulators
+scummvm-nightly.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -7409,7 +7409,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
