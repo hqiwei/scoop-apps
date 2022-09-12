@@ -5120,7 +5120,7 @@ cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 pcsx2-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
-project64-dev.json,hermanjustnu/scoop-emulators
+project64-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-dev.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5596,7 +5596,7 @@ ASharperScaling.json,dodorz/scoop
 YoudaoDict.json,dodorz/scoop
 pet_dodorz.json,dodorz/scoop
 muCommander_dodorz.json,dodorz/scoop
-wimlib.json,dodorz/scoop
+wimlib_dodorz.json,dodorz/scoop
 Sejda-console.json,dodorz/scoop
 ElevatedStartup.json,dodorz/scoop
 CloverPdf.json,dodorz/scoop
@@ -7408,7 +7408,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
