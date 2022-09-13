@@ -5020,6 +5020,7 @@ bore.json,hoilc/scoop-lemon
 zoro.json,hoilc/scoop-lemon
 supervisord-go.json,hoilc/scoop-lemon
 cassowary.json,hoilc/scoop-lemon
+milvus_cli.json,hoilc/scoop-lemon
 av_data_capture.json,hoilc/scoop-lemon
 danmaku-factory.json,hoilc/scoop-lemon
 snmp_exporter.json,hoilc/scoop-lemon
