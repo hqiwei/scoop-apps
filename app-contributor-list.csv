@@ -4592,7 +4592,7 @@ arend.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
-remnote.json,hoilc/scoop-lemon
+remnote_hoilc.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -5124,7 +5124,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -5154,7 +5154,7 @@ pegasus.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx.json,hermanjustnu/scoop-emulators
+ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
 melonds_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager.json,hermanjustnu/scoop-emulators
@@ -5230,7 +5230,6 @@ CloudMusic_Paxxs.json,Paxxs/Cluttered-bucket
 UAC.RDP-Wrapper.json,Paxxs/Cluttered-bucket
 SakuraFrp-GUI.json,Paxxs/Cluttered-bucket
 UAC.xshell6.json,Paxxs/Cluttered-bucket
-dotnet-desktop-runtime.json,Paxxs/Cluttered-bucket
 Sakura_frpc.json,Paxxs/Cluttered-bucket
 Aida64-En.json,Paxxs/Cluttered-bucket
 Flutter-Coolapk.json,Paxxs/Cluttered-bucket
@@ -5328,7 +5327,7 @@ fceux_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -7418,6 +7417,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
+googlechrome.json,42wim/scoop-bucket
 googlechrome-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
