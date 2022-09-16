@@ -431,6 +431,7 @@ chromium.json,ScoopInstaller/Extras
 juce.json,ScoopInstaller/Extras
 proxifier_ScoopInstaller.json,ScoopInstaller/Extras
 fbide.json,ScoopInstaller/Extras
+sorayomi.json,ScoopInstaller/Extras
 adwcleaner.json,ScoopInstaller/Extras
 wizmouse.json,ScoopInstaller/Extras
 xx-net.json,ScoopInstaller/Extras
@@ -2937,7 +2938,7 @@ rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
@@ -3839,7 +3840,7 @@ RubyMine_Ash258.json,Ash258/Scoop-JetBrains
 DataGrip-EAP_Ash258.json,Ash258/Scoop-JetBrains
 FloatingLicenseServer.json,Ash258/Scoop-JetBrains
 DotPeek_Ash258.json,Ash258/Scoop-JetBrains
-PyCharm.json,Ash258/Scoop-JetBrains
+PyCharm_Ash258.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-EAP.json,Ash258/Scoop-JetBrains
 Rider-EAP-portable.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-RC.json,Ash258/Scoop-JetBrains
@@ -3900,7 +3901,7 @@ IntelliJ-IDEA-EAP-portable.json,Ash258/Scoop-JetBrains
 Upsource_Ash258.json,Ash258/Scoop-JetBrains
 GoLand_Ash258.json,Ash258/Scoop-JetBrains
 DataGrip-portable.json,Ash258/Scoop-JetBrains
-PyCharm-Professional.json,Ash258/Scoop-JetBrains
+PyCharm-Professional_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-Professional-RC_Ash258.json,Ash258/Scoop-JetBrains
 MPS-EAP_Ash258.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Education-portable.json,Ash258/Scoop-JetBrains
@@ -7213,6 +7214,7 @@ totalcommander-portable.json,naderi/scoop-bucket
 keyfinder.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
+duck_naderi.json,naderi/scoop-bucket
 win-aio.json,naderi/scoop-bucket
 winusb.json,naderi/scoop-bucket
 thunderbird-beta-de.json,naderi/scoop-bucket
