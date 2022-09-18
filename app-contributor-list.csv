@@ -301,7 +301,7 @@ listen1desktop.json,ScoopInstaller/Extras
 dartium.json,ScoopInstaller/Extras
 komokana.json,ScoopInstaller/Extras
 colorcontrol.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 notable.json,ScoopInstaller/Extras
 bulk-crap-uninstaller.json,ScoopInstaller/Extras
 beaker.json,ScoopInstaller/Extras
@@ -1432,6 +1432,7 @@ xnviewmp.json,ScoopInstaller/Extras
 sc1.json,ScoopInstaller/Extras
 keenwrite.json,ScoopInstaller/Extras
 rambox.json,ScoopInstaller/Extras
+simple-dnscrypt.json,ScoopInstaller/Extras
 dosbox-staging.json,ScoopInstaller/Extras
 chatty.json,ScoopInstaller/Extras
 ffqueue.json,ScoopInstaller/Extras
@@ -4066,7 +4067,7 @@ ejectmedia.json,rasa/scoops
 kpcli.json,rasa/scoops
 noto-sans-font.json,rasa/scoops
 api-monitor.json,rasa/scoops
-simple-dnscrypt.json,rasa/scoops
+simple-dnscrypt_rasa.json,rasa/scoops
 stc.json,rasa/scoops
 noto-serif-font.json,rasa/scoops
 noto-fonts.json,rasa/scoops
@@ -4563,7 +4564,7 @@ terraform-validator.json,hoilc/scoop-lemon
 drmemory-weekly.json,hoilc/scoop-lemon
 obs-browser-plus.json,hoilc/scoop-lemon
 steascree.json,hoilc/scoop-lemon
-balabolka_hoilc.json,hoilc/scoop-lemon
+balabolka.json,hoilc/scoop-lemon
 tdengine-server.json,hoilc/scoop-lemon
 lamedropxpd.json,hoilc/scoop-lemon
 xiaolai.json,hoilc/scoop-lemon
@@ -4594,7 +4595,7 @@ arend.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -5126,7 +5127,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -6034,7 +6035,6 @@ ooRexx.json,dodorz/scoop
 DeleteProfiles_dodorz.json,dodorz/scoop
 GaaihoReader.json,dodorz/scoop
 biyi_dodorz.json,dodorz/scoop
-WSLtty_dodorz.json,dodorz/scoop
 ModifyProfile_dodorz.json,dodorz/scoop
 EmptyRecycleBin_dodorz.json,dodorz/scoop
 BitKeeper.json,dodorz/scoop
@@ -7214,7 +7214,6 @@ totalcommander-portable.json,naderi/scoop-bucket
 keyfinder.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
-duck_naderi.json,naderi/scoop-bucket
 win-aio.json,naderi/scoop-bucket
 winusb.json,naderi/scoop-bucket
 thunderbird-beta-de.json,naderi/scoop-bucket
