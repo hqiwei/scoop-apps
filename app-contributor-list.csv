@@ -301,7 +301,7 @@ listen1desktop.json,ScoopInstaller/Extras
 dartium.json,ScoopInstaller/Extras
 komokana.json,ScoopInstaller/Extras
 colorcontrol.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 notable.json,ScoopInstaller/Extras
 bulk-crap-uninstaller.json,ScoopInstaller/Extras
 beaker.json,ScoopInstaller/Extras
@@ -2940,7 +2940,7 @@ raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
 clash-for-windows_ivaquero.json,ivaquero/scoopet
-baidunetdisk.json,ivaquero/scoopet
+baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
 winrar-cn.json,ivaquero/scoopet
@@ -5149,7 +5149,7 @@ mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
@@ -6135,7 +6135,7 @@ VNote_zhoujin7.json,zhoujin7/tomato
 OracleJDK17.json,zhoujin7/tomato
 HBuilderX_zhoujin7.json,zhoujin7/tomato
 PartAssist_zhoujin7.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 HBuilderX-Alpha.json,zhoujin7/tomato
 DoubleKiller.json,zhoujin7/tomato
 Q-Dir_zhoujin7.json,zhoujin7/tomato
