@@ -241,6 +241,7 @@ Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
+tdl.json,Weidows-projects/scoop-3rd
 audius.json,Weidows-projects/scoop-3rd
 RM-ATKtools.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
@@ -2948,6 +2949,7 @@ rectanglewin.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
 m3u8-downloader.json,ivaquero/scoopet
 rustup-init.json,ivaquero/scoopet
+reader.json,ivaquero/scoopet
 mpv.net-cm.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 yuque_ivaquero.json,ivaquero/scoopet
@@ -2967,6 +2969,7 @@ winget_ivaquero.json,ivaquero/scoopet
 lx-music.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
+dingtalk_ivaquero.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
@@ -4102,7 +4105,7 @@ safaricacheview_MCOfficer.json,MCOfficer/scoop-nirsoft
 registrychangesview_MCOfficer.json,MCOfficer/scoop-nirsoft
 browsertools.json,MCOfficer/scoop-nirsoft
 appnetworkcounter.json,MCOfficer/scoop-nirsoft
-managewirelessnetworks_MCOfficer.json,MCOfficer/scoop-nirsoft
+managewirelessnetworks.json,MCOfficer/scoop-nirsoft
 tabletextcompare_MCOfficer.json,MCOfficer/scoop-nirsoft
 altstreamdump_MCOfficer.json,MCOfficer/scoop-nirsoft
 fastresolver_MCOfficer.json,MCOfficer/scoop-nirsoft
@@ -4127,7 +4130,7 @@ shexview.json,MCOfficer/scoop-nirsoft
 wnetwatcher.json,MCOfficer/scoop-nirsoft
 wirelesskeyview_MCOfficer.json,MCOfficer/scoop-nirsoft
 gacview_MCOfficer.json,MCOfficer/scoop-nirsoft
-networkcounterswatch_MCOfficer.json,MCOfficer/scoop-nirsoft
+networkcounterswatch.json,MCOfficer/scoop-nirsoft
 regtools.json,MCOfficer/scoop-nirsoft
 fileactivitywatch_MCOfficer.json,MCOfficer/scoop-nirsoft
 passwordfox_MCOfficer.json,MCOfficer/scoop-nirsoft
@@ -5116,7 +5119,7 @@ clash-premium.json,everyx/scoop-bucket
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 xenia_hermanjustnu.json,hermanjustnu/scoop-emulators
-vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
+vita3k.json,hermanjustnu/scoop-emulators
 xenia-canary.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 mameui.json,hermanjustnu/scoop-emulators
@@ -5127,7 +5130,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -5157,7 +5160,7 @@ pegasus.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
+ryujinx.json,hermanjustnu/scoop-emulators
 melonds_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager.json,hermanjustnu/scoop-emulators
@@ -5738,7 +5741,7 @@ SetWallpaper.json,dodorz/scoop
 XMind2020.json,dodorz/scoop
 MCI-Browser.json,dodorz/scoop
 Zim.json,dodorz/scoop
-CCleaner_dodorz.json,dodorz/scoop
+CCleaner.json,dodorz/scoop
 OORegEditor.json,dodorz/scoop
 SciTE_dodorz.json,dodorz/scoop
 Feep.json,dodorz/scoop
@@ -6135,7 +6138,7 @@ VNote_zhoujin7.json,zhoujin7/tomato
 OracleJDK17.json,zhoujin7/tomato
 HBuilderX_zhoujin7.json,zhoujin7/tomato
 PartAssist_zhoujin7.json,zhoujin7/tomato
-Quicker.json,zhoujin7/tomato
+Quicker_zhoujin7.json,zhoujin7/tomato
 HBuilderX-Alpha.json,zhoujin7/tomato
 DoubleKiller.json,zhoujin7/tomato
 Q-Dir_zhoujin7.json,zhoujin7/tomato
@@ -7378,6 +7381,7 @@ thunderbird-fa.json,naderi/scoop-bucket
 rtools_naderi.json,naderi/scoop-bucket
 flashpad_naderi.json,naderi/scoop-bucket
 clcl_naderi.json,naderi/scoop-bucket
+ydl-ui-portable.json,naderi/scoop-bucket
 leomoon-subfix.json,naderi/scoop-bucket
 font-vazir.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
@@ -7424,7 +7428,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
