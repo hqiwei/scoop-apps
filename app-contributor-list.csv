@@ -1371,6 +1371,7 @@ goneovim.json,ScoopInstaller/Extras
 trojita.json,ScoopInstaller/Extras
 clash-mini.json,ScoopInstaller/Extras
 workrave.json,ScoopInstaller/Extras
+wsl-distrod.json,ScoopInstaller/Extras
 rainmeter.json,ScoopInstaller/Extras
 microsip.json,ScoopInstaller/Extras
 eclipse-sdk.json,ScoopInstaller/Extras
@@ -2965,7 +2966,6 @@ regester.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
-winget_ivaquero.json,ivaquero/scoopet
 lx-music.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
@@ -5130,7 +5130,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -5160,7 +5160,7 @@ pegasus.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx.json,hermanjustnu/scoop-emulators
+ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
 melonds_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager.json,hermanjustnu/scoop-emulators
@@ -5922,6 +5922,7 @@ BaiduPanFilesTransfers.json,dodorz/scoop
 IcecreamPDFEditor.json,dodorz/scoop
 WriteMonkey3.json,dodorz/scoop
 ssr.json,dodorz/scoop
+lolcat.json,dodorz/scoop
 JSONedit.json,dodorz/scoop
 PanDownload_dodorz.json,dodorz/scoop
 LibgenDesktop.json,dodorz/scoop
