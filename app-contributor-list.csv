@@ -303,7 +303,7 @@ listen1desktop.json,ScoopInstaller/Extras
 dartium.json,ScoopInstaller/Extras
 komokana.json,ScoopInstaller/Extras
 colorcontrol.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 notable.json,ScoopInstaller/Extras
 bulk-crap-uninstaller.json,ScoopInstaller/Extras
 beaker.json,ScoopInstaller/Extras
@@ -4600,7 +4600,7 @@ arend.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
-remnote.json,hoilc/scoop-lemon
+remnote_hoilc.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -7436,7 +7436,7 @@ apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
-googlechrome-beta_42wim.json,42wim/scoop-bucket
+googlechrome-beta.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
