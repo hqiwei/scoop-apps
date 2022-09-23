@@ -4600,7 +4600,7 @@ arend.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -5365,7 +5365,7 @@ redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-scummvm-nightly_borger.json,borger/scoop-emulators
+scummvm-nightly.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -5385,7 +5385,6 @@ win32yank_kiennq.json,kiennq/scoop-misc
 emacs-k.json,kiennq/scoop-misc
 cemuhook-webgyro.json,kiennq/scoop-misc
 sak.json,kiennq/scoop-misc
-emacs-snapshot.json,kiennq/scoop-misc
 cemuhook-x.json,kiennq/scoop-misc
 golang.json,kiennq/scoop-misc
 proton-launcher.json,kiennq/scoop-misc
@@ -8087,7 +8086,6 @@ figma_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
 lf_akirco.json,akirco/aki-apps
 innounp_akirco.json,akirco/aki-apps
-notion_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 OpenHashTab.json,akirco/aki-apps
 gsudo_akirco.json,akirco/aki-apps
@@ -8122,9 +8120,9 @@ warp_akirco.json,akirco/aki-apps
 zstd_akirco.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 qt-creator_akirco.json,akirco/aki-apps
+audacity_akirco.json,akirco/aki-apps
 android-sdk_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
-ftnn.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
 adb_akirco.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
