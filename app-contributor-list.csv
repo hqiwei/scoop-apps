@@ -2942,7 +2942,7 @@ rbxfpsunlocker.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
@@ -5135,7 +5135,7 @@ applewin.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
 ares_hermanjustnu.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
@@ -5368,7 +5368,7 @@ redream-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-scummvm-nightly_borger.json,borger/scoop-emulators
+scummvm-nightly.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -8218,7 +8218,7 @@ bcut.json,akirco/aki-apps
 screentogif_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
 rnr_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
