@@ -303,7 +303,7 @@ listen1desktop.json,ScoopInstaller/Extras
 dartium.json,ScoopInstaller/Extras
 komokana.json,ScoopInstaller/Extras
 colorcontrol.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 notable.json,ScoopInstaller/Extras
 bulk-crap-uninstaller.json,ScoopInstaller/Extras
 beaker.json,ScoopInstaller/Extras
@@ -3434,7 +3434,7 @@ tinymediamanager3.json,ScoopInstaller/Versions
 mingw-winlibs-ucrt.json,ScoopInstaller/Versions
 pdfbox-alpha.json,ScoopInstaller/Versions
 lamexp-qaac.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 openssl1.json,ScoopInstaller/Versions
 ubisoftconnect.json,ScoopInstaller/Versions
 lua51.json,ScoopInstaller/Versions
@@ -6346,7 +6346,7 @@ PartAssist_zhoujin7.json,zhoujin7/tomato
 Quicker_zhoujin7.json,zhoujin7/tomato
 HBuilderX-Alpha.json,zhoujin7/tomato
 DoubleKiller.json,zhoujin7/tomato
-Q-Dir_zhoujin7.json,zhoujin7/tomato
+Q-Dir.json,zhoujin7/tomato
 UltraCodingSwitch.json,zhoujin7/tomato
 HBuilder.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
@@ -7027,7 +7027,7 @@ lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
 pping.json,wzv5/ScoopBucket
-aliyundrive_wzv5.json,wzv5/ScoopBucket
+aliyundrive.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 doh.json,wzv5/ScoopBucket
 xnview_wzv5.json,wzv5/ScoopBucket
@@ -7443,7 +7443,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 vivetool_ChungZH.json,ChungZH/peach
 parsify.json,ChungZH/peach
 mongood.json,ChungZH/peach
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
@@ -8047,7 +8047,7 @@ Brook-GUI_Darkatse.json,Darkatse/Scoop-Darkatse
 YogaDNS.json,Darkatse/Scoop-Darkatse
 AV_Data_Capture_Darkatse.json,Darkatse/Scoop-Darkatse
 ShanaEncoderCN.json,Darkatse/Scoop-Darkatse
-Charles_Darkatse.json,Darkatse/Scoop-Darkatse
+Charles.json,Darkatse/Scoop-Darkatse
 Snap.Genshin.json,Darkatse/Scoop-Darkatse
 Netch-ForOwnUse.json,Darkatse/Scoop-Darkatse
 MaaAssistantArknights.json,Darkatse/Scoop-Darkatse
@@ -8174,7 +8174,7 @@ sdrcleaner.json,seumsc/scoop-seu
 hmcl_seumsc.json,seumsc/scoop-seu
 k2pdfopt.json,seumsc/scoop-seu
 usbeamhostseditor.json,seumsc/scoop-seu
-clash-verge.json,seumsc/scoop-seu
+clash-verge_seumsc.json,seumsc/scoop-seu
 clash-win.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
 officetoolplus_seumsc.json,seumsc/scoop-seu
