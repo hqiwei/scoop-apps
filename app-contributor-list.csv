@@ -630,7 +630,7 @@ shadowsocksr-csharp.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 code-minimap.json,ScoopInstaller/Extras
 awareness.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
@@ -2766,6 +2766,7 @@ nanoboyadvance.json,Calinou/scoop-games
 warzone2100.json,Calinou/scoop-games
 project64-dev.json,Calinou/scoop-games
 rbxfpsunlocker.json,Calinou/scoop-games
+tf2-hud-editor.json,Calinou/scoop-games
 openhv.json,Calinou/scoop-games
 dxwrapper.json,Calinou/scoop-games
 mednaffe.json,Calinou/scoop-games
@@ -2941,6 +2942,8 @@ spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
 spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
 spicetify-themes.json,TheRandomLabs/Scoop-Spotify
 package.json,ivaquero/scoopet
+qq_ivaquero.json,ivaquero/scoopet
+tim_ivaquero.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
 magnetw_ivaquero.json,ivaquero/scoopet
@@ -4384,7 +4387,7 @@ typeeasy.json,echoiron/echo-scoop
 centbrowser_echoiron.json,echoiron/echo-scoop
 claunch.json,echoiron/echo-scoop
 xiaowan.json,echoiron/echo-scoop
-eudic.json,echoiron/echo-scoop
+eudic_echoiron.json,echoiron/echo-scoop
 edge.json,echoiron/echo-scoop
 qq.json,echoiron/echo-scoop
 lightproxy.json,echoiron/echo-scoop
@@ -4441,7 +4444,7 @@ fscapture_echoiron.json,echoiron/echo-scoop
 potplayer_echoiron.json,echoiron/echo-scoop
 picgo_echoiron.json,echoiron/echo-scoop
 ksoftmgr.json,echoiron/echo-scoop
-v2rayn_echoiron.json,echoiron/echo-scoop
+v2rayn.json,echoiron/echo-scoop
 bandicam.json,echoiron/echo-scoop
 wisecare365_echoiron.json,echoiron/echo-scoop
 clash-for-windows_echoiron.json,echoiron/echo-scoop
@@ -4595,7 +4598,7 @@ logcli.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
 libportable-iceweasel-zh-cn.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 tl.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
@@ -5128,7 +5131,7 @@ pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
-mame_hermanjustnu.json,hermanjustnu/scoop-emulators
+mame.json,hermanjustnu/scoop-emulators
 fceux.json,hermanjustnu/scoop-emulators
 pcsx2-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
@@ -5172,7 +5175,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
-rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
+rpcs3.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -5296,7 +5299,6 @@ kwmusic.json,scoopcn/scoopcn
 cloudmusic_scoopcn.json,scoopcn/scoopcn
 baidudisk_scoopcn.json,scoopcn/scoopcn
 xt800.json,scoopcn/scoopcn
-wps.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 3dtile.json,scoopcn/scoopcn
@@ -5331,6 +5333,7 @@ v2ray-rules-dat_Qv2ray.json,Qv2ray/mochi
 dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
+mame_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
@@ -7797,7 +7800,7 @@ llvm_batkiz.json,batkiz/backit
 scoop-search_batkiz.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 dino-rss.json,batkiz/backit
-vivaldi-snapshot_batkiz.json,batkiz/backit
+vivaldi-snapshot.json,batkiz/backit
 forcebindip_batkiz.json,batkiz/backit
 nyan.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
