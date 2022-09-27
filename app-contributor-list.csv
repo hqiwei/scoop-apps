@@ -2947,7 +2947,6 @@ magnetw_ivaquero.json,ivaquero/scoopet
 rustdesk_ivaquero.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 eudic.json,ivaquero/scoopet
-rustup-init.json,ivaquero/scoopet
 julia-cn.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -2955,7 +2954,7 @@ downkyi_ivaquero.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
-autodarkmode.json,ivaquero/scoopet
+autodarkmode_ivaquero.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
@@ -7015,7 +7014,7 @@ nattypetester_wzv5.json,wzv5/ScoopBucket
 openark_wzv5.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
 sni.json,wzv5/ScoopBucket
-aliyundrive.json,wzv5/ScoopBucket
+aliyundrive_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 vnote_wzv5.json,wzv5/ScoopBucket
 inno-setup_wzv5.json,wzv5/ScoopBucket
@@ -7757,7 +7756,7 @@ fscan.json,batkiz/backit
 contour_batkiz.json,batkiz/backit
 arc_batkiz.json,batkiz/backit
 yarr.json,batkiz/backit
-es.json,batkiz/backit
+es_batkiz.json,batkiz/backit
 wiznotelite_batkiz.json,batkiz/backit
 newreleases.json,batkiz/backit
 redis-viewer.json,batkiz/backit
@@ -8060,7 +8059,7 @@ Clash-DotNET.json,Darkatse/Scoop-Darkatse
 Brook_Darkatse.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 memtest.json,Darkatse/Scoop-Darkatse
-Charles.json,Darkatse/Scoop-Darkatse
+Charles_Darkatse.json,Darkatse/Scoop-Darkatse
 ToastFish.json,Darkatse/Scoop-Darkatse
 AV_Data_Capture_GUI.json,Darkatse/Scoop-Darkatse
 Termius-Beta.json,Darkatse/Scoop-Darkatse
