@@ -630,7 +630,7 @@ shadowsocksr-csharp.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 code-minimap.json,ScoopInstaller/Extras
 awareness.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
@@ -5131,7 +5131,7 @@ pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
-mame.json,hermanjustnu/scoop-emulators
+mame_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux.json,hermanjustnu/scoop-emulators
 pcsx2-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
@@ -5175,7 +5175,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -5333,7 +5333,6 @@ v2ray-rules-dat_Qv2ray.json,Qv2ray/mochi
 dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
-mame_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
