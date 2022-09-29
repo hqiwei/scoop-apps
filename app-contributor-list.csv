@@ -1849,7 +1849,7 @@ twinkle-tray.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 keepass-plugin-keepassnatmsg.json,ScoopInstaller/Extras
 ios-webkit-debug-proxy.json,ScoopInstaller/Extras
-googlechrome.json,ScoopInstaller/Extras
+googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
 fiji.json,ScoopInstaller/Extras
 quassel.json,ScoopInstaller/Extras
 codetrack.json,ScoopInstaller/Extras
@@ -5127,7 +5127,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7458,7 +7458,6 @@ matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
-googlechrome_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 terraform-ls.json,iquiw/scoop-bucket
