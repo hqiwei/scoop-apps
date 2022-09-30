@@ -62,7 +62,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - TheCjw/scoop-retools
 - ScoopInstaller/Versions
 - kodybrown/scoop-nirsoft
-- L-Trump/scoop-raresoft
 - Ash258/Scoop-JetBrains
 - littleli/scoop-clojure
 - kidonng/sushi
@@ -89,7 +88,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - ScoopInstaller/Nonportable
 - wzv5/ScoopBucket
 - TheRandomLabs/Scoop-Python
-- anderlli0053/DEV-tools
 - naderi/scoop-bucket
 - ChungZH/peach
 - 42wim/scoop-bucket
