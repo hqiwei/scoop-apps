@@ -2977,12 +2977,13 @@ weasel.json,ivaquero/scoopet
 yuque_ivaquero.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
 regester.json,ivaquero/scoopet
+wechatwork_ivaquero.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 tencent-meeting.json,ivaquero/scoopet
 texlive_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 mpv.net-cm.json,ivaquero/scoopet
 n-m3u8dl-cli_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
@@ -3466,6 +3467,7 @@ zip-beta.json,ScoopInstaller/Versions
 fmedia16.json,ScoopInstaller/Versions
 gcc45.json,ScoopInstaller/Versions
 traefik1.json,ScoopInstaller/Versions
+protobuf312.json,ScoopInstaller/Versions
 hyper-beta.json,ScoopInstaller/Versions
 firefox-nightly.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
