@@ -1068,7 +1068,7 @@ cookiecutter.json,ScoopInstaller/Extras
 boostnote.json,ScoopInstaller/Extras
 inboxer.json,ScoopInstaller/Extras
 toggl.json,ScoopInstaller/Extras
-waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
+waifu2x-extension-gui.json,ScoopInstaller/Extras
 eclipse-cpp.json,ScoopInstaller/Extras
 painter.json,ScoopInstaller/Extras
 xdman.json,ScoopInstaller/Extras
@@ -2935,16 +2935,6 @@ weakauras-companion.json,Calinou/scoop-games
 uhexen2.json,Calinou/scoop-games
 minetest.json,Calinou/scoop-games
 tooniversal.json,Calinou/scoop-games
-google-spicetify.json,TheRandomLabs/Scoop-Spotify
-blockthespot.json,TheRandomLabs/Scoop-Spotify
-spicetify-jqbx.json,TheRandomLabs/Scoop-Spotify
-spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
-spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-spotify-latest.json,TheRandomLabs/Scoop-Spotify
-genius-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
-spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes.json,TheRandomLabs/Scoop-Spotify
 package.json,ivaquero/scoopet
 qq_ivaquero.json,ivaquero/scoopet
 tim_ivaquero.json,ivaquero/scoopet
@@ -3439,7 +3429,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation_ScoopInstaller.json,ScoopInstaller/Versions
+konversation.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -3470,7 +3460,6 @@ zip-beta.json,ScoopInstaller/Versions
 fmedia16.json,ScoopInstaller/Versions
 gcc45.json,ScoopInstaller/Versions
 traefik1.json,ScoopInstaller/Versions
-protobuf312.json,ScoopInstaller/Versions
 hyper-beta.json,ScoopInstaller/Versions
 firefox-nightly.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
@@ -3813,10 +3802,10 @@ PyCharm_Ash258.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Education-portable.json,Ash258/Scoop-JetBrains
 DotMemoryCLT-EAP.json,Ash258/Scoop-JetBrains
 RubyMine_Ash258.json,Ash258/Scoop-JetBrains
-PyCharm-Professional-RC.json,Ash258/Scoop-JetBrains
+PyCharm-Professional-RC_Ash258.json,Ash258/Scoop-JetBrains
 CLion-RC-portable.json,Ash258/Scoop-JetBrains
 JBHub.json,Ash258/Scoop-JetBrains
-PhpStorm-EAP.json,Ash258/Scoop-JetBrains
+PhpStorm-EAP_Ash258.json,Ash258/Scoop-JetBrains
 GoLand-EAP-portable.json,Ash258/Scoop-JetBrains
 DotPeek_Ash258.json,Ash258/Scoop-JetBrains
 DotTraceCLT-EAP.json,Ash258/Scoop-JetBrains
@@ -3849,11 +3838,11 @@ Upsource_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-Professional-EAP-portable.json,Ash258/Scoop-JetBrains
 MPS_Ash258.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-EAP-portable.json,Ash258/Scoop-JetBrains
-PyCharm-RC.json,Ash258/Scoop-JetBrains
+PyCharm-RC_Ash258.json,Ash258/Scoop-JetBrains
 DotCoverCLT-EAP.json,Ash258/Scoop-JetBrains
 WebStorm-EAP_Ash258.json,Ash258/Scoop-JetBrains
 CLion-EAP_Ash258.json,Ash258/Scoop-JetBrains
-Rider-EAP.json,Ash258/Scoop-JetBrains
+Rider-EAP_Ash258.json,Ash258/Scoop-JetBrains
 DataGrip-portable.json,Ash258/Scoop-JetBrains
 PyCharm-portable.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-RC.json,Ash258/Scoop-JetBrains
@@ -5041,7 +5030,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5073,7 +5062,7 @@ stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
+ryujinx.json,hermanjustnu/scoop-emulators
 winfellow.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7383,6 +7372,7 @@ cica.json,iquiw/scoop-bucket
 helmsman_iquiw.json,iquiw/scoop-bucket
 smtprelay.json,iquiw/scoop-bucket
 gopls.json,iquiw/scoop-bucket
+marksman.json,iquiw/scoop-bucket
 charm-gum.json,iquiw/scoop-bucket
 aspell_iquiw.json,iquiw/scoop-bucket
 hackgennerd.json,iquiw/scoop-bucket
@@ -7717,7 +7707,8 @@ llvm_batkiz.json,batkiz/backit
 scoop-search_batkiz.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 dino-rss.json,batkiz/backit
-vivaldi-snapshot.json,batkiz/backit
+vivaldi-snapshot_batkiz.json,batkiz/backit
+csvq.json,batkiz/backit
 forcebindip_batkiz.json,batkiz/backit
 nyan.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
@@ -7744,7 +7735,7 @@ hey.json,batkiz/backit
 datastation.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 jj_batkiz.json,batkiz/backit
-Iosevka_batkiz.json,batkiz/backit
+Iosevka.json,batkiz/backit
 plumber.json,batkiz/backit
 pixeval.json,batkiz/backit
 ran.json,batkiz/backit
@@ -7866,7 +7857,7 @@ glazewm.json,littleli/Scoop-littleli
 sioyek_littleli.json,littleli/Scoop-littleli
 qmmp.json,littleli/Scoop-littleli
 slu.json,littleli/Scoop-littleli
-csvq.json,littleli/Scoop-littleli
+csvq_littleli.json,littleli/Scoop-littleli
 otter-browser.json,littleli/Scoop-littleli
 exe-explorer_littleli.json,littleli/Scoop-littleli
 hercules.json,littleli/Scoop-littleli
