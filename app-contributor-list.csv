@@ -218,6 +218,7 @@ KugouMusic.json,Weidows-projects/scoop-3rd
 PCmaster.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
 XStudio.json,Weidows-projects/scoop-3rd
+yas.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 jianyingpro-with-ffmpeg.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
@@ -1185,7 +1186,7 @@ workspaceutilities.json,ScoopInstaller/Extras
 lighttpd.json,ScoopInstaller/Extras
 mousejiggler.json,ScoopInstaller/Extras
 trafficmonitor-lite.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
 grafana.json,ScoopInstaller/Extras
 quarto.json,ScoopInstaller/Extras
@@ -1851,7 +1852,7 @@ twinkle-tray.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 keepass-plugin-keepassnatmsg.json,ScoopInstaller/Extras
 ios-webkit-debug-proxy.json,ScoopInstaller/Extras
-googlechrome.json,ScoopInstaller/Extras
+googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
 fiji.json,ScoopInstaller/Extras
 quassel.json,ScoopInstaller/Extras
 codetrack.json,ScoopInstaller/Extras
@@ -4614,7 +4615,7 @@ voice.json,hoilc/scoop-lemon
 smuxi_hoilc.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 fluent-bit.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 wx3270.json,hoilc/scoop-lemon
 tiejili.json,hoilc/scoop-lemon
 securefs.json,hoilc/scoop-lemon
@@ -5040,7 +5041,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5090,7 +5091,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -5422,7 +5423,7 @@ Impressive.json,dodorz/scoop
 Iron.json,dodorz/scoop
 Nomad.NET.json,dodorz/scoop
 Q10.json,dodorz/scoop
-Tabby.json,dodorz/scoop
+Tabby_dodorz.json,dodorz/scoop
 win-bash.json,dodorz/scoop
 SoftMakerFreeOffice.json,dodorz/scoop
 StrokesPlus_dodorz.json,dodorz/scoop
@@ -7372,7 +7373,6 @@ matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
-googlechrome_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 terraform-ls.json,iquiw/scoop-bucket
@@ -7744,7 +7744,7 @@ hey.json,batkiz/backit
 datastation.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 jj_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 plumber.json,batkiz/backit
 pixeval.json,batkiz/backit
 ran.json,batkiz/backit
