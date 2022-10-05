@@ -2942,7 +2942,6 @@ tooniversal.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 qq_ivaquero.json,ivaquero/scoopet
 tim_ivaquero.json,ivaquero/scoopet
-copytranslator_ivaquero.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
 magnetw_ivaquero.json,ivaquero/scoopet
@@ -3434,7 +3433,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
