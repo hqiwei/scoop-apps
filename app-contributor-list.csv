@@ -2942,6 +2942,7 @@ tooniversal.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 qq_ivaquero.json,ivaquero/scoopet
 tim_ivaquero.json,ivaquero/scoopet
+copytranslator.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
 magnetw_ivaquero.json,ivaquero/scoopet
@@ -3433,7 +3434,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation_ScoopInstaller.json,ScoopInstaller/Versions
+konversation.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -3763,9 +3764,9 @@ IntelliJ-IDEA-Ultimate-EAP.json,Ash258/Scoop-JetBrains
 FloatingLicenseServer.json,Ash258/Scoop-JetBrains
 PhpStorm-RC-portable.json,Ash258/Scoop-JetBrains
 RubyMine-portable.json,Ash258/Scoop-JetBrains
-PyCharm-Professional-EAP_Ash258.json,Ash258/Scoop-JetBrains
+PyCharm-Professional-EAP.json,Ash258/Scoop-JetBrains
 PyCharm-RC-portable.json,Ash258/Scoop-JetBrains
-PyCharm-EAP_Ash258.json,Ash258/Scoop-JetBrains
+PyCharm-EAP.json,Ash258/Scoop-JetBrains
 MPS-EAP_Ash258.json,Ash258/Scoop-JetBrains
 DotTraceCLT.json,Ash258/Scoop-JetBrains
 RubyMine-RC-portable.json,Ash258/Scoop-JetBrains
@@ -4506,7 +4507,7 @@ logcli.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
 libportable-iceweasel-zh-cn.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 tl.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
@@ -5066,12 +5067,12 @@ stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
+ryujinx.json,hermanjustnu/scoop-emulators
 winfellow.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
-vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
+vita3k.json,hermanjustnu/scoop-emulators
 mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7359,7 +7360,7 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
@@ -7959,12 +7960,11 @@ wsl-terminal_ChinLong.json,ChinLong/scoop-customize
 wnmp.json,ChinLong/scoop-customize
 usbwriter.json,ChinLong/scoop-customize
 lingoes_ChinLong.json,ChinLong/scoop-customize
-GenShin-LauncherDIY.json,Darkatse/Scoop-Darkatse
 steamplusplus.json,Darkatse/Scoop-Darkatse
 ShanaEncoderCN.json,Darkatse/Scoop-Darkatse
 AV_Data_Capture_Darkatse.json,Darkatse/Scoop-Darkatse
+Genshin.Launcher.Plus.json,Darkatse/Scoop-Darkatse
 RevokeMsgPatcher_Darkatse.json,Darkatse/Scoop-Darkatse
-Netch-ForOwnUse.json,Darkatse/Scoop-Darkatse
 Genshin-Wish-Export.json,Darkatse/Scoop-Darkatse
 ZXPInstaller.json,Darkatse/Scoop-Darkatse
 Shanaencoder.json,Darkatse/Scoop-Darkatse
