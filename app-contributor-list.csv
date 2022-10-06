@@ -2942,7 +2942,6 @@ tooniversal.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 qq_ivaquero.json,ivaquero/scoopet
 tim_ivaquero.json,ivaquero/scoopet
-copytranslator.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
 magnetw_ivaquero.json,ivaquero/scoopet
@@ -3434,7 +3433,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -3764,9 +3763,9 @@ IntelliJ-IDEA-Ultimate-EAP.json,Ash258/Scoop-JetBrains
 FloatingLicenseServer.json,Ash258/Scoop-JetBrains
 PhpStorm-RC-portable.json,Ash258/Scoop-JetBrains
 RubyMine-portable.json,Ash258/Scoop-JetBrains
-PyCharm-Professional-EAP.json,Ash258/Scoop-JetBrains
+PyCharm-Professional-EAP_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-RC-portable.json,Ash258/Scoop-JetBrains
-PyCharm-EAP.json,Ash258/Scoop-JetBrains
+PyCharm-EAP_Ash258.json,Ash258/Scoop-JetBrains
 MPS-EAP_Ash258.json,Ash258/Scoop-JetBrains
 DotTraceCLT.json,Ash258/Scoop-JetBrains
 RubyMine-RC-portable.json,Ash258/Scoop-JetBrains
@@ -4507,7 +4506,7 @@ logcli.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
 libportable-iceweasel-zh-cn.json,hoilc/scoop-lemon
-remnote.json,hoilc/scoop-lemon
+remnote_hoilc.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 tl.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
@@ -5067,7 +5066,7 @@ stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx.json,hermanjustnu/scoop-emulators
+ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
 winfellow.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5097,7 +5096,7 @@ pegasus.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
+cxbx-reloaded.json,hermanjustnu/scoop-emulators
 melonds_hermanjustnu.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 scummvm-nightly.json,hermanjustnu/scoop-emulators
@@ -7203,7 +7202,7 @@ mp4muxer.json,naderi/scoop-bucket
 chromium-portable.json,naderi/scoop-bucket
 gitnote_naderi.json,naderi/scoop-bucket
 reicon_naderi.json,naderi/scoop-bucket
-java-editor_naderi.json,naderi/scoop-bucket
+java-editor.json,naderi/scoop-bucket
 logviewer.json,naderi/scoop-bucket
 uplay_naderi.json,naderi/scoop-bucket
 win-gpg.json,naderi/scoop-bucket
@@ -7360,7 +7359,7 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
@@ -7370,6 +7369,7 @@ matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
+googlechrome.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 terraform-ls.json,iquiw/scoop-bucket
