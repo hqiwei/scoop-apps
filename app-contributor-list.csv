@@ -536,6 +536,7 @@ eclipse-modeling.json,ScoopInstaller/Extras
 museeks.json,ScoopInstaller/Extras
 yacreader.json,ScoopInstaller/Extras
 mpc.json,ScoopInstaller/Extras
+jqp.json,ScoopInstaller/Extras
 pixelorama.json,ScoopInstaller/Extras
 console2.json,ScoopInstaller/Extras
 throttlestop.json,ScoopInstaller/Extras
@@ -634,7 +635,7 @@ shadowsocksr-csharp.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 code-minimap.json,ScoopInstaller/Extras
 awareness.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
@@ -1852,7 +1853,7 @@ twinkle-tray.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 keepass-plugin-keepassnatmsg.json,ScoopInstaller/Extras
 ios-webkit-debug-proxy.json,ScoopInstaller/Extras
-googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
+googlechrome.json,ScoopInstaller/Extras
 fiji.json,ScoopInstaller/Extras
 quassel.json,ScoopInstaller/Extras
 codetrack.json,ScoopInstaller/Extras
@@ -2966,12 +2967,12 @@ lx-music.json,ivaquero/scoopet
 reader.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
+qttabbar.json,ivaquero/scoopet
 virtualbox-with-extension-pack.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
-yuque_ivaquero.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
 regester.json,ivaquero/scoopet
 wechatwork_ivaquero.json,ivaquero/scoopet
@@ -3433,7 +3434,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation_ScoopInstaller.json,ScoopInstaller/Versions
+konversation.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -4762,7 +4763,7 @@ processdump.json,hoilc/scoop-lemon
 strings2.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
-wingetui_hoilc.json,hoilc/scoop-lemon
+wingetui.json,hoilc/scoop-lemon
 tuic.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 consul_exporter.json,hoilc/scoop-lemon
@@ -5034,7 +5035,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5071,8 +5072,8 @@ winfellow.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
-vita3k.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5243,7 +5244,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -5281,6 +5282,7 @@ desmume.json,borger/scoop-emulators
 m64p.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
+cxbx-reloaded.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
@@ -6259,7 +6261,7 @@ lockhunter-np.json,zhoujin7/tomato
 OracleJDK8_zhoujin7.json,zhoujin7/tomato
 zipkin.json,zhoujin7/tomato
 OracleJDK17.json,zhoujin7/tomato
-Quicker.json,zhoujin7/tomato
+Quicker_zhoujin7.json,zhoujin7/tomato
 jd-gui_zhoujin7.json,zhoujin7/tomato
 BeyondCompare_zhoujin7.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
@@ -6367,6 +6369,7 @@ SABnzbd-Portable.json,ACooper81/scoop-apps
 GIMP-Portable.json,ACooper81/scoop-apps
 DriverStoreExplorer-Portable.json,ACooper81/scoop-apps
 KDEConnect-Portable.json,ACooper81/scoop-apps
+KMS_VL_All_AiO-Portable.json,ACooper81/scoop-apps
 RZGetCLI-Portable.json,ACooper81/scoop-apps
 FlowLauncher-Portable.json,ACooper81/scoop-apps
 SordumRebuildShellIconCache-Portable.json,ACooper81/scoop-apps
@@ -6379,6 +6382,7 @@ BrowserTamer-Portable.json,ACooper81/scoop-apps
 AcrylicDNSProxy-Portable.json,ACooper81/scoop-apps
 VNCServer-Install.json,ACooper81/scoop-apps
 MuseScore-Portable.json,ACooper81/scoop-apps
+ONLYOFFICE-Portable.json,ACooper81/scoop-apps
 TeraCopy-Install.json,ACooper81/scoop-apps
 Waterfox-Portable.json,ACooper81/scoop-apps
 Speccy-Portable.json,ACooper81/scoop-apps
@@ -6459,6 +6463,7 @@ GoogleChromeBeta-Portable.json,ACooper81/scoop-apps
 LanguageTool-Portable.json,ACooper81/scoop-apps
 WinfetchNightlyCLI-Portable.json,ACooper81/scoop-apps
 Tidal-Portable.json,ACooper81/scoop-apps
+CompactGUI-Portable.json,ACooper81/scoop-apps
 OBSStudio-Portable.json,ACooper81/scoop-apps
 PersonalBackup-Portable.json,ACooper81/scoop-apps
 WhyNotWin11-Portable.json,ACooper81/scoop-apps
@@ -6475,6 +6480,7 @@ RDPWrapper-Portable.json,ACooper81/scoop-apps
 WingetUI-Portable.json,ACooper81/scoop-apps
 Capture2Text-Portable.json,ACooper81/scoop-apps
 NirsoftWirelessNetworkWatcher-Portable.json,ACooper81/scoop-apps
+apkeepCLI-Portable.json,ACooper81/scoop-apps
 StreamlabsDesktop-Portable.json,ACooper81/scoop-apps
 NirsoftRegFromApp-Portable.json,ACooper81/scoop-apps
 Discord-Portable.json,ACooper81/scoop-apps
@@ -6537,6 +6543,7 @@ FirefoxBeta-Portable.json,ACooper81/scoop-apps
 NoMansSkySaveEditor-Portable.json,ACooper81/scoop-apps
 Darker-Portable.json,ACooper81/scoop-apps
 SyncFolders-Portable.json,ACooper81/scoop-apps
+MucisBee-Portable.json,ACooper81/scoop-apps
 VirtualBox-Extension-Pack-Install.json,ACooper81/scoop-apps
 RSSGuard-Portable.json,ACooper81/scoop-apps
 Oasis-Portable.json,ACooper81/scoop-apps
@@ -6675,6 +6682,7 @@ SoftOrganizer-Portable.json,ACooper81/scoop-apps
 Upscayl-Portable.json,ACooper81/scoop-apps
 Zoom-Portable.json,ACooper81/scoop-apps
 PlexMediaPlayer-Portable.json,ACooper81/scoop-apps
+PicoTorrent-Portable.json,ACooper81/scoop-apps
 Defraggler-Portable.json,ACooper81/scoop-apps
 pacaptrCLI-Portable.json,ACooper81/scoop-apps
 CryengineLauncher-UserInstall.json,ACooper81/scoop-apps
@@ -6767,6 +6775,7 @@ OracleJRE8-Portable.json,ACooper81/scoop-apps
 ZMeter-Portable.json,ACooper81/scoop-apps
 BrickLinkStudio-Portable.json,ACooper81/scoop-apps
 StreamlabsChatbot-Portable.json,ACooper81/scoop-apps
+AutoUnlocker-Portable.json,ACooper81/scoop-apps
 SlimPDFReader-Portable.json,ACooper81/scoop-apps
 VirtualBoxWithExtensionPack-Install.json,ACooper81/scoop-apps
 AmazonGames-UserInstall.json,ACooper81/scoop-apps
@@ -6887,6 +6896,7 @@ ProperTree-Portable.json,ACooper81/scoop-apps
 RevoUninstaller-Portable.json,ACooper81/scoop-apps
 RoboIntern-Portable.json,ACooper81/scoop-apps
 PSScoop-PSModule.json,ACooper81/scoop-apps
+PhotoDemon-Portable.json,ACooper81/scoop-apps
 CloneAppUA-Portable.json,ACooper81/scoop-apps
 Audacious-Portable.json,ACooper81/scoop-apps
 Fido-PSScript.json,ACooper81/scoop-apps
@@ -7202,7 +7212,7 @@ mp4muxer.json,naderi/scoop-bucket
 chromium-portable.json,naderi/scoop-bucket
 gitnote_naderi.json,naderi/scoop-bucket
 reicon_naderi.json,naderi/scoop-bucket
-java-editor.json,naderi/scoop-bucket
+java-editor_naderi.json,naderi/scoop-bucket
 logviewer.json,naderi/scoop-bucket
 uplay_naderi.json,naderi/scoop-bucket
 win-gpg.json,naderi/scoop-bucket
@@ -7369,7 +7379,7 @@ matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
-googlechrome.json,42wim/scoop-bucket
+googlechrome_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 terraform-ls.json,iquiw/scoop-bucket
@@ -7627,7 +7637,7 @@ dotnet-sdk-preview_batkiz.json,batkiz/backit
 dnote_batkiz.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 chr.json,batkiz/backit
-jqp.json,batkiz/backit
+jqp_batkiz.json,batkiz/backit
 httpie-go.json,batkiz/backit
 delta_batkiz.json,batkiz/backit
 fnm_batkiz.json,batkiz/backit

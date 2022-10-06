@@ -1,18 +1,16 @@
 {
-    "version": "5.0-17547",
-    "description": "A Nintendo GameCube and Wii emulator",
+    "version": "5.0-17552",
+    "description": "A Nintendo GameCube and Wii emulator, with enhancements and Netplay. (development version)",
     "homepage": "https://dolphin-emu.org/",
     "license": {
-        "url": "https://github.com/dolphin-emu/dolphin/blob/master/COPYING",
-        "identifier": "GPL-2.0-or-later"
+        "identifier": "GPL-2.0-or-later",
+        "url": "https://github.com/dolphin-emu/dolphin/blob/master/COPYING"
     },
-    "architecture": {
-        "64bit": {
-            "url": "https://dl.dolphin-emu.org/builds/c2/72/dolphin-master-5.0-17547-x64.7z",
-            "hash": "660735116367bbdbc9454e4e7d903ed5392f271e8997f49140fdd6661bc90a03",
-            "extract_dir": "Dolphin-x64"
-        }
+    "suggest": {
+        "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
     },
+    "url": "https://dl.dolphin-emu.org/builds/cc/64/dolphin-master-5.0-17552-x64.7z",
+    "hash": "ac0c8938c090e851cf8f3c30fa94f45cdeba25eb26365e6325a1cb91f1537fe1",
     "extract_dir": "Dolphin-x64",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\")) {",
@@ -26,9 +24,6 @@
         "}"
     ],
     "post_install": "Set-Content -Value $null -Path \"$dir\\portable.txt\"",
-    "suggest": {
-        "Microsoft Visual C++ Runtime 2019": "extras/vcredist2019"
-    },
     "bin": [
         [
             "Dolphin.exe",
@@ -38,7 +33,7 @@
     "shortcuts": [
         [
             "Dolphin.exe",
-            "Dolphin (dev)"
+            "Dolphin (Development)"
         ]
     ],
     "persist": "User",
@@ -48,10 +43,6 @@
         "replace": "${major}-${build}"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$version-x64.7z"
-            }
-        }
+        "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$matchMajor-$matchBuild-x64.7z"
     }
 }
