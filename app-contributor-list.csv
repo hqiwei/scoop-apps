@@ -635,7 +635,7 @@ shadowsocksr-csharp.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 code-minimap.json,ScoopInstaller/Extras
 awareness.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 ussf.json,ScoopInstaller/Extras
 avidemux.json,ScoopInstaller/Extras
 mps.json,ScoopInstaller/Extras
@@ -1853,7 +1853,7 @@ twinkle-tray.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 keepass-plugin-keepassnatmsg.json,ScoopInstaller/Extras
 ios-webkit-debug-proxy.json,ScoopInstaller/Extras
-googlechrome.json,ScoopInstaller/Extras
+googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
 fiji.json,ScoopInstaller/Extras
 quassel.json,ScoopInstaller/Extras
 codetrack.json,ScoopInstaller/Extras
@@ -3434,7 +3434,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -4763,7 +4763,7 @@ processdump.json,hoilc/scoop-lemon
 strings2.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
-wingetui.json,hoilc/scoop-lemon
+wingetui_hoilc.json,hoilc/scoop-lemon
 tuic.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 consul_exporter.json,hoilc/scoop-lemon
@@ -5035,7 +5035,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5073,7 +5073,7 @@ mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev.json,hermanjustnu/scoop-emulators
+mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5097,7 +5097,7 @@ pegasus.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
-cxbx-reloaded.json,hermanjustnu/scoop-emulators
+cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 melonds_hermanjustnu.json,hermanjustnu/scoop-emulators
 sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 scummvm-nightly.json,hermanjustnu/scoop-emulators
@@ -5244,7 +5244,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -5282,7 +5282,6 @@ desmume.json,borger/scoop-emulators
 m64p.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
-cxbx-reloaded.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
@@ -7373,13 +7372,12 @@ googlechrome-canary.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
-googlechrome-beta_42wim.json,42wim/scoop-bucket
+googlechrome-beta.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
-googlechrome_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 terraform-ls.json,iquiw/scoop-bucket
