@@ -2753,6 +2753,7 @@ xenia-canary.json,Calinou/scoop-games
 nbtexplorer_Calinou.json,Calinou/scoop-games
 xenia.json,Calinou/scoop-games
 megaglest.json,Calinou/scoop-games
+opensupaplex.json,Calinou/scoop-games
 rbdoom-3-bfg.json,Calinou/scoop-games
 cataclysm-dda-tiles-experimental.json,Calinou/scoop-games
 slade.json,Calinou/scoop-games
@@ -3434,7 +3435,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation_ScoopInstaller.json,ScoopInstaller/Versions
+konversation.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -5244,7 +5245,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -7368,11 +7369,11 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
-googlechrome-beta.json,42wim/scoop-bucket
+googlechrome-beta_42wim.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
