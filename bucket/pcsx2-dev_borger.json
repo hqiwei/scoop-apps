@@ -1,6 +1,6 @@
 {
-    "version": "1.7.3385",
-    "description": "A feature rich FOSS PlayStation 2 emulator (development version)",
+    "version": "1.7.3391",
+    "description": "Sony PlayStation 2 emulator",
     "homepage": "https://pcsx2.net/",
     "license": {
         "identifier": "GPL-3.0",
@@ -14,11 +14,11 @@
     "suggest": {
         "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
     },
-    "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.3385/pcsx2-v1.7.3385-windows-64bit-AVX2-Qt.7z",
-    "hash": "adab7ccee56912edaeab9f4a2b5090720f37da22e89bcf5eeb03ed2076155325",
+    "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.3391/pcsx2-v1.7.3391-windows-64bit-AVX2-Qt.7z",
+    "hash": "b068d0d0cc3fc20f432b018234aefbb60ada47f8a03c8ea37df5e98a0d644776",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\")) {",
-        "   New-Item \"$persist_dir\" -ItemType Directory | Out-Null",
+        "   New-item \"$persist_dir\" -ItemType Directory | Out-Null",
         "   if (Test-Path \"$env:USERPROFILE\\Documents\\PCSX2\") {",
         "       Write-host \"Migrating AppData...\" -ForegroundColor yellow",
         "       Copy-Item -Path \"$env:USERPROFILE\\Documents\\PCSX2\\*\" -Destination \"$persist_dir\" -Recurse",
