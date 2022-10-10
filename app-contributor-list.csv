@@ -2991,7 +2991,7 @@ dingtalk_ivaquero.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
 regester.json,ivaquero/scoopet
-wechatwork.json,ivaquero/scoopet
+wechatwork_ivaquero.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 tencent-meeting.json,ivaquero/scoopet
@@ -3460,7 +3460,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -4390,6 +4390,7 @@ fsresizer_echoiron.json,echoiron/echo-scoop
 fastcopy_echoiron.json,echoiron/echo-scoop
 beyondcompare_echoiron.json,echoiron/echo-scoop
 wesing.json,echoiron/echo-scoop
+gost.json,echoiron/echo-scoop
 xyplorer.json,echoiron/echo-scoop
 neteasemusic_echoiron.json,echoiron/echo-scoop
 ultraiso_echoiron.json,echoiron/echo-scoop
@@ -5060,7 +5061,7 @@ xmind.json,everyx/scoop-bucket
 goose.json,everyx/scoop-bucket
 OperatorMono.json,everyx/scoop-bucket
 CascadiaMonoPL.json,everyx/scoop-bucket
-gost.json,everyx/scoop-bucket
+gost_everyx.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
 dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5101,7 +5102,7 @@ mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
 vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
-mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+mgba-dev.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7066,7 +7067,7 @@ phpmyadmin.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
-gost.json,wzv5/ScoopBucket
+gost_wzv5.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
 besttrace.json,wzv5/ScoopBucket
@@ -7777,7 +7778,7 @@ hey.json,batkiz/backit
 datastation.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 jj_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 plumber.json,batkiz/backit
 pixeval.json,batkiz/backit
 ran.json,batkiz/backit
