@@ -2924,6 +2924,7 @@ reggie-next.json,Calinou/scoop-games
 zokumbsp.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
 witchblast.json,Calinou/scoop-games
+pegasus.json,Calinou/scoop-games
 r2modman.json,Calinou/scoop-games
 game-backup-monitor.json,Calinou/scoop-games
 snes9x.json,Calinou/scoop-games
@@ -2984,8 +2985,6 @@ lx-music.json,ivaquero/scoopet
 reader.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
-qttabbar.json,ivaquero/scoopet
-virtualbox-with-extension-pack.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
@@ -3461,7 +3460,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -5119,7 +5118,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -5127,7 +5126,7 @@ mameui.json,hermanjustnu/scoop-emulators
 steam-rom-manager.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 m64p.json,hermanjustnu/scoop-emulators
-pegasus.json,hermanjustnu/scoop-emulators
+pegasus_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 b-em.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7408,7 +7407,7 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
