@@ -3463,7 +3463,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation.json,ScoopInstaller/Versions
+konversation_ScoopInstaller.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -5122,7 +5122,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -5219,7 +5219,6 @@ tb-Toolbox.json,Paxxs/Cluttered-bucket
 LightProxy_Paxxs.json,Paxxs/Cluttered-bucket
 UAC.QQ_Portable.json,Paxxs/Cluttered-bucket
 mclone.json,Paxxs/Cluttered-bucket
-dotnet-desktop-runtime.json,Paxxs/Cluttered-bucket
 UAC.EverythingToolbar.json,Paxxs/Cluttered-bucket
 logseq_Paxxs.json,Paxxs/Cluttered-bucket
 AliWangWang.json,Paxxs/Cluttered-bucket
@@ -7080,7 +7079,7 @@ regex-tool.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
 gost_wzv5.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
-neteasemusic_wzv5.json,wzv5/ScoopBucket
+neteasemusic.json,wzv5/ScoopBucket
 besttrace.json,wzv5/ScoopBucket
 yy-thunks.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
@@ -7157,7 +7156,6 @@ thunderbird-beta-fa.json,naderi/scoop-bucket
 xnview-classic-full.json,naderi/scoop-bucket
 ccenhancer_naderi.json,naderi/scoop-bucket
 xpdf-tools-all_naderi.json,naderi/scoop-bucket
-duck.json,naderi/scoop-bucket
 wox_naderi.json,naderi/scoop-bucket
 potplayer-portable_naderi.json,naderi/scoop-bucket
 blisk-portable.json,naderi/scoop-bucket
@@ -8156,7 +8154,7 @@ srmd-ncnn-vulkan.json,seumsc/scoop-seu
 hmcl-dev.json,seumsc/scoop-seu
 archisteamfarm_seumsc.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
-clash-verge.json,seumsc/scoop-seu
+clash-verge_seumsc.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 josm-generic.json,seumsc/scoop-seu
 anime4kcpp-cli_seumsc.json,seumsc/scoop-seu
