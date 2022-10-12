@@ -1866,7 +1866,7 @@ twinkle-tray.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 keepass-plugin-keepassnatmsg.json,ScoopInstaller/Extras
 ios-webkit-debug-proxy.json,ScoopInstaller/Extras
-googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
+googlechrome.json,ScoopInstaller/Extras
 spotify-qt.json,ScoopInstaller/Extras
 fiji.json,ScoopInstaller/Extras
 quassel.json,ScoopInstaller/Extras
@@ -3288,6 +3288,7 @@ haxe-dev.json,ScoopInstaller/Versions
 obs-studio-pre.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
 openssl1-light.json,ScoopInstaller/Versions
+syncplay-beta.json,ScoopInstaller/Versions
 everything-alpha.json,ScoopInstaller/Versions
 cmake-nightly.json,ScoopInstaller/Versions
 nodejs5.json,ScoopInstaller/Versions
@@ -3463,7 +3464,7 @@ postman-canary.json,ScoopInstaller/Versions
 rust-msvc-nightly.json,ScoopInstaller/Versions
 docker-nightly.json,ScoopInstaller/Versions
 gcc-msys.json,ScoopInstaller/Versions
-konversation_ScoopInstaller.json,ScoopInstaller/Versions
+konversation.json,ScoopInstaller/Versions
 lua-joedf.json,ScoopInstaller/Versions
 joplin-pre.json,ScoopInstaller/Versions
 cuda10.0.json,ScoopInstaller/Versions
@@ -4395,7 +4396,7 @@ beyondcompare_echoiron.json,echoiron/echo-scoop
 wesing.json,echoiron/echo-scoop
 gost.json,echoiron/echo-scoop
 xyplorer.json,echoiron/echo-scoop
-neteasemusic_echoiron.json,echoiron/echo-scoop
+neteasemusic.json,echoiron/echo-scoop
 ultraiso_echoiron.json,echoiron/echo-scoop
 coodesker.json,echoiron/echo-scoop
 mouseinc.json,echoiron/echo-scoop
@@ -5109,7 +5110,7 @@ winfellow.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
-vita3k_hermanjustnu.json,hermanjustnu/scoop-emulators
+vita3k.json,hermanjustnu/scoop-emulators
 mgba-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5122,7 +5123,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
-rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
+rpcs3.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -6298,7 +6299,7 @@ lockhunter-np.json,zhoujin7/tomato
 OracleJDK8_zhoujin7.json,zhoujin7/tomato
 zipkin.json,zhoujin7/tomato
 OracleJDK17.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 jd-gui_zhoujin7.json,zhoujin7/tomato
 BeyondCompare_zhoujin7.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
@@ -6559,6 +6560,7 @@ ZintBarcodeGenerator-Portable.json,ACooper81/scoop-apps
 Nuclear-Portable.json,ACooper81/scoop-apps
 SamsungSmartSwitch-ManualInstall.json,ACooper81/scoop-apps
 ThisIsWin11-Portable.json,ACooper81/scoop-apps
+LoveWindowsAgain-Portable.json,ACooper81/scoop-apps
 WinSWCLI-Portable.json,ACooper81/scoop-apps
 MusicBrainzPicard-Portable.json,ACooper81/scoop-apps
 WinAIOMakerProfessional-Portable.json,ACooper81/scoop-apps
@@ -6767,6 +6769,7 @@ TimeVertor-Portable.json,ACooper81/scoop-apps
 Kangaroo-Portable.json,ACooper81/scoop-apps
 CuteHttpFileServer-Portable.json,ACooper81/scoop-apps
 MicrosoftEdge-Portable.json,ACooper81/scoop-apps
+WindowsSpyBlocker-Portable.json,ACooper81/scoop-apps
 OandORegEditor-Portable.json,ACooper81/scoop-apps
 ScreenToGif-Portable.json,ACooper81/scoop-apps
 CloneApp-Portable.json,ACooper81/scoop-apps
@@ -6808,6 +6811,7 @@ MPC-BE-Portable.json,ACooper81/scoop-apps
 Textify-Portable.json,ACooper81/scoop-apps
 ArpsiftCLI-Portable.json,ACooper81/scoop-apps
 ScoopUpdates-Alias.json,ACooper81/scoop-apps
+Privatezilla-Portable.json,ACooper81/scoop-apps
 RundeckCLI-Portable.json,ACooper81/scoop-apps
 HDCleaner-Portable.json,ACooper81/scoop-apps
 WizTree-Portable.json,ACooper81/scoop-apps
@@ -6994,6 +6998,7 @@ spotx-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepadplusplus-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 winrar-np.json,ScoopInstaller/Nonportable
+nodejs-lts-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 ivpn-client-np.json,ScoopInstaller/Nonportable
 nsis-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -7055,7 +7060,7 @@ doh.json,wzv5/ScoopBucket
 yuanshen.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
 evernote_wzv5.json,wzv5/ScoopBucket
-qqlive_wzv5.json,wzv5/ScoopBucket
+qqlive.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 openark_wzv5.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
@@ -7079,7 +7084,7 @@ regex-tool.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
 gost_wzv5.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
-neteasemusic.json,wzv5/ScoopBucket
+neteasemusic_wzv5.json,wzv5/ScoopBucket
 besttrace.json,wzv5/ScoopBucket
 yy-thunks.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
@@ -7192,7 +7197,7 @@ bitmana.json,naderi/scoop-bucket
 focus-writer.json,naderi/scoop-bucket
 firefox-beta-portable.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
-gyroflow_naderi.json,naderi/scoop-bucket
+gyroflow.json,naderi/scoop-bucket
 launchy-qt.json,naderi/scoop-bucket
 explorerplusplus_naderi.json,naderi/scoop-bucket
 securefs_naderi.json,naderi/scoop-bucket
@@ -7412,7 +7417,7 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary.json,42wim/scoop-bucket
+googlechrome-canary_42wim.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
@@ -7422,6 +7427,7 @@ matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
+googlechrome_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 terraform-ls.json,iquiw/scoop-bucket
