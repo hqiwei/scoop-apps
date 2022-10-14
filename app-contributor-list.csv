@@ -1198,7 +1198,7 @@ workspaceutilities.json,ScoopInstaller/Extras
 lighttpd.json,ScoopInstaller/Extras
 mousejiggler.json,ScoopInstaller/Extras
 trafficmonitor-lite.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
 grafana.json,ScoopInstaller/Extras
 quarto.json,ScoopInstaller/Extras
@@ -1525,7 +1525,6 @@ carnac.json,ScoopInstaller/Extras
 mediacreationtool.json,ScoopInstaller/Extras
 7ztm.json,ScoopInstaller/Extras
 mcomix.json,ScoopInstaller/Extras
-xysubfilter.json,ScoopInstaller/Extras
 exe-explorer.json,ScoopInstaller/Extras
 kavita.json,ScoopInstaller/Extras
 green-tunnel.json,ScoopInstaller/Extras
@@ -2505,6 +2504,7 @@ liberica16-jre.json,ScoopInstaller/Java
 liberica11-jre.json,ScoopInstaller/Java
 sapmachine-lts-jre.json,ScoopInstaller/Java
 dragonwell11-jdk.json,ScoopInstaller/Java
+ojdkbuild15-full.json,ScoopInstaller/Java
 temurin8-jre.json,ScoopInstaller/Java
 zulu17-jre.json,ScoopInstaller/Java
 sapmachine11-jre.json,ScoopInstaller/Java
@@ -2525,6 +2525,7 @@ oraclejdk-lts.json,ScoopInstaller/Java
 zulu12-jdk.json,ScoopInstaller/Java
 semeru16-jre.json,ScoopInstaller/Java
 zulu-jre.json,ScoopInstaller/Java
+ojdkbuild13-jre.json,ScoopInstaller/Java
 liberica17-full-jre.json,ScoopInstaller/Java
 liberica15-full-jre.json,ScoopInstaller/Java
 microsoft-jdk.json,ScoopInstaller/Java
@@ -2570,6 +2571,7 @@ corretto15-jdk.json,ScoopInstaller/Java
 liberica14-jdk.json,ScoopInstaller/Java
 zulufx15-jre.json,ScoopInstaller/Java
 corretto11-jdk.json,ScoopInstaller/Java
+ojdkbuild11-jre.json,ScoopInstaller/Java
 liberica17-full-jdk.json,ScoopInstaller/Java
 zulu14-jre.json,ScoopInstaller/Java
 liberica16-jdk.json,ScoopInstaller/Java
@@ -2591,6 +2593,7 @@ liberica8-jre.json,ScoopInstaller/Java
 temurin18-nightly-jdk.json,ScoopInstaller/Java
 zulu15-jdk.json,ScoopInstaller/Java
 liberica-lite-jdk.json,ScoopInstaller/Java
+ojdkbuild15.json,ScoopInstaller/Java
 sapmachine15-jre.json,ScoopInstaller/Java
 zulufx17-jdk.json,ScoopInstaller/Java
 zulu10-jdk.json,ScoopInstaller/Java
@@ -2600,6 +2603,7 @@ graalvm22.json,ScoopInstaller/Java
 openjdk9.json,ScoopInstaller/Java
 icedtea-web.json,ScoopInstaller/Java
 semeru8-jre.json,ScoopInstaller/Java
+ojdkbuild8-jre.json,ScoopInstaller/Java
 temurin-lts-nightly-jdk.json,ScoopInstaller/Java
 openjdk.json,ScoopInstaller/Java
 semeru8-jdk.json,ScoopInstaller/Java
@@ -2625,6 +2629,7 @@ sapmachine14-jdk.json,ScoopInstaller/Java
 liberica17-jdk.json,ScoopInstaller/Java
 corretto-jmc.json,ScoopInstaller/Java
 zulu15-jre.json,ScoopInstaller/Java
+ojdkbuild-jre.json,ScoopInstaller/Java
 sapmachine18-jdk.json,ScoopInstaller/Java
 zulufx14-jdk.json,ScoopInstaller/Java
 corretto18-jdk.json,ScoopInstaller/Java
@@ -2640,6 +2645,7 @@ liberica11-jdk.json,ScoopInstaller/Java
 corretto16-jdk.json,ScoopInstaller/Java
 zulufx11-jre.json,ScoopInstaller/Java
 ojdkbuild17.json,ScoopInstaller/Java
+ojdkbuild14-jre.json,ScoopInstaller/Java
 sapmachine16-jre.json,ScoopInstaller/Java
 ojdkbuild9.json,ScoopInstaller/Java
 ojdkbuild-full.json,ScoopInstaller/Java
@@ -2667,6 +2673,7 @@ graalvm22-jdk11.json,ScoopInstaller/Java
 ojdkbuild17-full.json,ScoopInstaller/Java
 dragonwell8-jdk.json,ScoopInstaller/Java
 graalvm-nightly-jdk11.json,ScoopInstaller/Java
+ojdkbuild17-jre.json,ScoopInstaller/Java
 zulu13-jre.json,ScoopInstaller/Java
 liberica8-full-jre.json,ScoopInstaller/Java
 oraclejdk.json,ScoopInstaller/Java
@@ -2694,6 +2701,7 @@ semeru-lts-jdk.json,ScoopInstaller/Java
 microsoft16-jdk.json,ScoopInstaller/Java
 liberica-full-jdk.json,ScoopInstaller/Java
 temurin8-jdk.json,ScoopInstaller/Java
+ojdkbuild15-jre.json,ScoopInstaller/Java
 ojdkbuild13.json,ScoopInstaller/Java
 liberica8-full-jdk.json,ScoopInstaller/Java
 openjdk8-redhat-jre.json,ScoopInstaller/Java
@@ -5074,7 +5082,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost_everyx.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+dolphin-dev.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5252,7 +5260,7 @@ xt800agent.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 3dtile.json,scoopcn/scoopcn
 we-meet.json,scoopcn/scoopcn
-tim_scoopcn.json,scoopcn/scoopcn
+tim.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
 procmon.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
@@ -5283,10 +5291,10 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -7318,6 +7326,7 @@ ydl-ui-portable.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 autohotkey-portable.json,naderi/scoop-bucket
 consolez_naderi.json,naderi/scoop-bucket
+shutter_naderi.json,naderi/scoop-bucket
 firefox-nightly-fa.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
 paste-ex.json,naderi/scoop-bucket
@@ -7353,7 +7362,6 @@ ucalendar-portable.json,naderi/scoop-bucket
 cpdf_naderi.json,naderi/scoop-bucket
 thunderbird-fa.json,naderi/scoop-bucket
 thunderbird-beta-de.json,naderi/scoop-bucket
-exifpro.json,naderi/scoop-bucket
 mp3tag-portable.json,naderi/scoop-bucket
 adblink.json,naderi/scoop-bucket
 chrome-dev-portable.json,naderi/scoop-bucket
@@ -7420,7 +7428,7 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
@@ -7767,7 +7775,7 @@ llvm_batkiz.json,batkiz/backit
 scoop-search_batkiz.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 dino-rss.json,batkiz/backit
-vivaldi-snapshot_batkiz.json,batkiz/backit
+vivaldi-snapshot.json,batkiz/backit
 csvq.json,batkiz/backit
 forcebindip_batkiz.json,batkiz/backit
 nyan.json,batkiz/backit
