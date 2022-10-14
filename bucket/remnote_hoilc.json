@@ -1,9 +1,8 @@
 {
     "version": "1.8.42",
-    "description": "RemNote. The all-in-one tool for thinking and learning.",
+    "description": "The all-in-one tool for thinking and learning.",
     "homepage": "https://www.remnote.com/",
     "license": "Shareware",
-    "changelog": "https://feedback.remnote.com/changelog",
     "url": "https://download.remnote.io/RemNote%20Setup%201.8.42.exe#/dl.7z",
     "hash": "sha512:8f146ffd6beb321830f591d03c61a3d69aec2ba7af3b6067a03eb493feb4a006ca50333b6c043f00dd5a6332ffc1fc7853d4b499461320e5144a6ba36a233c9d",
     "architecture": {
