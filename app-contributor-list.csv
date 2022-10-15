@@ -1198,7 +1198,7 @@ workspaceutilities.json,ScoopInstaller/Extras
 lighttpd.json,ScoopInstaller/Extras
 mousejiggler.json,ScoopInstaller/Extras
 trafficmonitor-lite.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 smplayer.json,ScoopInstaller/Extras
 grafana.json,ScoopInstaller/Extras
 quarto.json,ScoopInstaller/Extras
@@ -4363,6 +4363,7 @@ neatreader.json,echoiron/echo-scoop
 iobituninstaller.json,echoiron/echo-scoop
 es.json,echoiron/echo-scoop
 xiuxiu.json,echoiron/echo-scoop
+pdf-xchange-editor-plus.json,echoiron/echo-scoop
 protoc.json,echoiron/echo-scoop
 dismpp.json,echoiron/echo-scoop
 qshell.json,echoiron/echo-scoop
@@ -4548,7 +4549,7 @@ logcli.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
 libportable-iceweasel-zh-cn.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 tl.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
@@ -5082,7 +5083,7 @@ CascadiaMonoPL.json,everyx/scoop-bucket
 gost_everyx.json,everyx/scoop-bucket
 clash-dashboard.json,everyx/scoop-bucket
 PingInfoView_everyx.json,everyx/scoop-bucket
-dolphin-dev.json,hermanjustnu/scoop-emulators
+dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5291,7 +5292,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 yuzu-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
@@ -5331,7 +5332,7 @@ snes9x_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-scummvm-nightly_borger.json,borger/scoop-emulators
+scummvm-nightly.json,borger/scoop-emulators
 emacs-x.json,kiennq/scoop-misc
 emax64.json,kiennq/scoop-misc
 dotnet-preview.json,kiennq/scoop-misc
