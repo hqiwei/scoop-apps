@@ -319,6 +319,7 @@ gitkraken.json,ScoopInstaller/Extras
 antidupl.net.json,ScoopInstaller/Extras
 i2pd.json,ScoopInstaller/Extras
 sysgauge.json,ScoopInstaller/Extras
+privacy.sexy.json,ScoopInstaller/Extras
 robo3t.json,ScoopInstaller/Extras
 pulseview.json,ScoopInstaller/Extras
 ipscan.json,ScoopInstaller/Extras
@@ -2977,13 +2978,12 @@ tim_ivaquero.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
 magnetw_ivaquero.json,ivaquero/scoopet
-rustdesk_ivaquero.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 eudic.json,ivaquero/scoopet
 julia-cn.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
-downkyi_ivaquero.json,ivaquero/scoopet
+downkyi.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
@@ -4678,7 +4678,7 @@ chfs_hoilc.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 cmix.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
-64gram_hoilc.json,hoilc/scoop-lemon
+64gram.json,hoilc/scoop-lemon
 xplorer.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
 cosbrowser_hoilc.json,hoilc/scoop-lemon
@@ -5306,7 +5306,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -7156,6 +7156,7 @@ youtube-local.json,naderi/scoop-bucket
 clcl_naderi.json,naderi/scoop-bucket
 mitec-windows-registry-recovery.json,naderi/scoop-bucket
 universal-viewer-free.json,naderi/scoop-bucket
+fixwin-11.json,naderi/scoop-bucket
 capture2text_naderi.json,naderi/scoop-bucket
 q10_naderi.json,naderi/scoop-bucket
 nanazip.json,naderi/scoop-bucket
@@ -7181,11 +7182,13 @@ easytag_naderi.json,naderi/scoop-bucket
 firefox-developer-portable.json,naderi/scoop-bucket
 falkon_naderi.json,naderi/scoop-bucket
 console2_naderi.json,naderi/scoop-bucket
+similarimagefinder.json,naderi/scoop-bucket
 radarr.json,naderi/scoop-bucket
 easy-context-menu_naderi.json,naderi/scoop-bucket
 win-bash_naderi.json,naderi/scoop-bucket
 thunderbird-beta-fa.json,naderi/scoop-bucket
 xnview-classic-full.json,naderi/scoop-bucket
+iconview.json,naderi/scoop-bucket
 ccenhancer_naderi.json,naderi/scoop-bucket
 xpdf-tools-all_naderi.json,naderi/scoop-bucket
 wox_naderi.json,naderi/scoop-bucket
@@ -7200,6 +7203,7 @@ aegisub_naderi.json,naderi/scoop-bucket
 texts_naderi.json,naderi/scoop-bucket
 screenshot-captor.json,naderi/scoop-bucket
 lf_naderi.json,naderi/scoop-bucket
+eventlogviewer.json,naderi/scoop-bucket
 teracopy_naderi.json,naderi/scoop-bucket
 chrome-beta-portable.json,naderi/scoop-bucket
 leomoon-jalalitray.json,naderi/scoop-bucket
@@ -7249,6 +7253,7 @@ copy-handler.json,naderi/scoop-bucket
 telegram_naderi.json,naderi/scoop-bucket
 7zip-lzma.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
+tweakpower_naderi.json,naderi/scoop-bucket
 tad.json,naderi/scoop-bucket
 texpen.json,naderi/scoop-bucket
 winrar-fa.json,naderi/scoop-bucket
@@ -7258,6 +7263,7 @@ birdfont.json,naderi/scoop-bucket
 firefox-nightly-portable.json,naderi/scoop-bucket
 capture2text-persian.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
+famistudio_naderi.json,naderi/scoop-bucket
 chrome-portable.json,naderi/scoop-bucket
 uniextract.json,naderi/scoop-bucket
 font-ganjnameh.json,naderi/scoop-bucket
@@ -7268,6 +7274,7 @@ mitec-icon-explorer.json,naderi/scoop-bucket
 texworks-portable.json,naderi/scoop-bucket
 appetizer_naderi.json,naderi/scoop-bucket
 wfc_naderi.json,naderi/scoop-bucket
+beautysearch.json,naderi/scoop-bucket
 xion-audio-player.json,naderi/scoop-bucket
 vlc-portable_naderi.json,naderi/scoop-bucket
 windows-repair-toolbox.json,naderi/scoop-bucket
@@ -7326,7 +7333,7 @@ mdict_naderi.json,naderi/scoop-bucket
 edge-portable-beta.json,naderi/scoop-bucket
 cryfs.json,naderi/scoop-bucket
 fmedia_naderi.json,naderi/scoop-bucket
-regcool_naderi.json,naderi/scoop-bucket
+regcool.json,naderi/scoop-bucket
 wox-portable_naderi.json,naderi/scoop-bucket
 stdu-viewer.json,naderi/scoop-bucket
 winauth-portable.json,naderi/scoop-bucket
@@ -7350,6 +7357,7 @@ winrar-de.json,naderi/scoop-bucket
 tabby-portable.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
 flashpad_naderi.json,naderi/scoop-bucket
+wigui.json,naderi/scoop-bucket
 xnview-classic-min.json,naderi/scoop-bucket
 vscode-insider.json,naderi/scoop-bucket
 mitec-task-manager-deluxe.json,naderi/scoop-bucket
@@ -7394,6 +7402,7 @@ boom_naderi.json,naderi/scoop-bucket
 texstudio-portable.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
 officetoolplus_naderi.json,naderi/scoop-bucket
+foxmail_naderi.json,naderi/scoop-bucket
 font-nahid.json,naderi/scoop-bucket
 colorcatcher.json,naderi/scoop-bucket
 awgg.json,naderi/scoop-bucket
@@ -7444,7 +7453,7 @@ caret_ChungZH.json,ChungZH/peach
 lemon_ChungZH.json,ChungZH/peach
 nomachine-enterprise.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
-googlechrome-canary_42wim.json,42wim/scoop-bucket
+googlechrome-canary.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
@@ -7820,7 +7829,7 @@ hey.json,batkiz/backit
 datastation.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
 jj_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 plumber.json,batkiz/backit
 pixeval.json,batkiz/backit
 ran.json,batkiz/backit
@@ -7836,7 +7845,7 @@ teal.json,batkiz/backit
 fstar.json,batkiz/backit
 glow_batkiz.json,batkiz/backit
 beekeeper-studio_batkiz.json,batkiz/backit
-fluent-reader_batkiz.json,batkiz/backit
+fluent-reader.json,batkiz/backit
 scoop-completion_batkiz.json,batkiz/backit
 notepad2e.json,batkiz/backit
 embarcadero-dev-cpp.json,batkiz/backit
