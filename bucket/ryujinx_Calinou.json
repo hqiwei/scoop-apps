@@ -1,15 +1,19 @@
 {
-    "version": "1.1.305",
-    "description": "Nintendo Switch emulator",
+    "version": "1.1.307",
+    "description": "A simple, experimental Nintendo Switch emulator",
     "homepage": "https://ryujinx.org/",
     "license": {
-        "url": "https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt",
-        "identifier": "MIT"
+        "identifier": "MIT",
+        "url": "https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt"
     },
+    "notes": [
+        "ATTENTION: Ryujinx requires Nintendo Switch firmware and a prod.keys file to function.",
+        "Learn more at https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide"
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Ryujinx/release-channel-master/releases/download/1.1.305/ryujinx-1.1.305-win_x64.zip",
-            "hash": "edd61ceec5c15d95273662f456bdee65df8af347c975029de77707e343e54968"
+            "url": "https://github.com/Ryujinx/release-channel-master/releases/download/1.1.307/ryujinx-1.1.307-win_x64.zip",
+            "hash": "bcdfcc165939adb5a421c543747cb073e60087210e1ad26c7435021251c45aea"
         }
     },
     "extract_dir": "publish",
@@ -40,9 +44,5 @@
                 "url": "https://github.com/Ryujinx/release-channel-master/releases/download/$version/ryujinx-$version-win_x64.zip"
             }
         }
-    },
-    "notes": [
-        "ATTENTION: Ryujinx requires Nintendo Switch firmware and a prod.keys file to function.",
-        "Learn more at https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide"
-    ]
+    }
 }
