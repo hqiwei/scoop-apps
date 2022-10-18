@@ -2027,7 +2027,7 @@ bee.json,chawyehsu/dorado
 cctv-ysyy.json,chawyehsu/dorado
 feishu.json,chawyehsu/dorado
 uncia.json,chawyehsu/dorado
-qtscrcpy.json,chawyehsu/dorado
+qtscrcpy_chawyehsu.json,chawyehsu/dorado
 clash-for-windows-np.json,chawyehsu/dorado
 ali-miniprogram-studio.json,chawyehsu/dorado
 binance.json,chawyehsu/dorado
@@ -2945,6 +2945,7 @@ freeorion-test.json,Calinou/scoop-games
 lf2.json,Calinou/scoop-games
 heroic-games-launcher.json,Calinou/scoop-games
 angband-dev.json,Calinou/scoop-games
+rimpy.json,Calinou/scoop-games
 taisei.json,Calinou/scoop-games
 srb2kart.json,Calinou/scoop-games
 osulazer.json,Calinou/scoop-games
@@ -3850,7 +3851,7 @@ RubyMine_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-Professional-RC_Ash258.json,Ash258/Scoop-JetBrains
 CLion-RC-portable.json,Ash258/Scoop-JetBrains
 JBHub.json,Ash258/Scoop-JetBrains
-PhpStorm-EAP_Ash258.json,Ash258/Scoop-JetBrains
+PhpStorm-EAP.json,Ash258/Scoop-JetBrains
 GoLand-EAP-portable.json,Ash258/Scoop-JetBrains
 DotPeek_Ash258.json,Ash258/Scoop-JetBrains
 DotTraceCLT-EAP.json,Ash258/Scoop-JetBrains
@@ -4676,7 +4677,7 @@ chfs_hoilc.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 cmix.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
-64gram.json,hoilc/scoop-lemon
+64gram_hoilc.json,hoilc/scoop-lemon
 xplorer.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
 cosbrowser_hoilc.json,hoilc/scoop-lemon
@@ -5055,6 +5056,7 @@ berglas.json,hoilc/scoop-lemon
 cue_hoilc.json,hoilc/scoop-lemon
 git-duet.json,hoilc/scoop-lemon
 maxlauncher.json,hoilc/scoop-lemon
+napptive-playground-cli.json,hoilc/scoop-lemon
 v2rayn-rules-dat.json,everyx/scoop-bucket
 SourceHanSansKR.json,everyx/scoop-bucket
 CascadiaMono.json,everyx/scoop-bucket
@@ -5146,6 +5148,7 @@ duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 model-b.json,hermanjustnu/scoop-emulators
 snes9x-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
+duckstation-preview.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5243,7 +5246,7 @@ LightProxy_Paxxs.json,Paxxs/Cluttered-bucket
 UAC.QQ_Portable.json,Paxxs/Cluttered-bucket
 mclone.json,Paxxs/Cluttered-bucket
 UAC.EverythingToolbar.json,Paxxs/Cluttered-bucket
-logseq_Paxxs.json,Paxxs/Cluttered-bucket
+logseq.json,Paxxs/Cluttered-bucket
 AliWangWang.json,Paxxs/Cluttered-bucket
 DirectX-Repair.json,Paxxs/Cluttered-bucket
 JJDown_Paxxs.json,Paxxs/Cluttered-bucket
@@ -5308,7 +5311,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -7226,7 +7229,7 @@ bitmana.json,naderi/scoop-bucket
 focus-writer.json,naderi/scoop-bucket
 firefox-beta-portable.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
-gyroflow.json,naderi/scoop-bucket
+gyroflow_naderi.json,naderi/scoop-bucket
 launchy-qt.json,naderi/scoop-bucket
 explorerplusplus_naderi.json,naderi/scoop-bucket
 securefs_naderi.json,naderi/scoop-bucket
@@ -7686,7 +7689,7 @@ apple-music-electron.json,batkiz/backit
 bitvise-ssh-client.json,batkiz/backit
 hopp-cli_batkiz.json,batkiz/backit
 ungoogled-chromium-portable.json,batkiz/backit
-buildkit_batkiz.json,batkiz/backit
+buildkit.json,batkiz/backit
 lychee_batkiz.json,batkiz/backit
 magpie.json,batkiz/backit
 wayback.json,batkiz/backit
@@ -7844,7 +7847,7 @@ teal.json,batkiz/backit
 fstar.json,batkiz/backit
 glow_batkiz.json,batkiz/backit
 beekeeper-studio_batkiz.json,batkiz/backit
-fluent-reader.json,batkiz/backit
+fluent-reader_batkiz.json,batkiz/backit
 scoop-completion_batkiz.json,batkiz/backit
 notepad2e.json,batkiz/backit
 embarcadero-dev-cpp.json,batkiz/backit
@@ -7926,7 +7929,7 @@ furnace.json,MCOfficer/scoop-bucket
 markright.json,MCOfficer/scoop-bucket
 fselect_MCOfficer.json,MCOfficer/scoop-bucket
 drone-jenkins.json,MCOfficer/scoop-bucket
-qalculate.json,MCOfficer/scoop-bucket
+qalculate_MCOfficer.json,MCOfficer/scoop-bucket
 wasmtime_MCOfficer.json,MCOfficer/scoop-bucket
 gcc4.8.5.json,MCOfficer/scoop-bucket
 feather.json,MCOfficer/scoop-bucket
