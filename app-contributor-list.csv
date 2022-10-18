@@ -2027,7 +2027,7 @@ bee.json,chawyehsu/dorado
 cctv-ysyy.json,chawyehsu/dorado
 feishu.json,chawyehsu/dorado
 uncia.json,chawyehsu/dorado
-qtscrcpy_chawyehsu.json,chawyehsu/dorado
+qtscrcpy.json,chawyehsu/dorado
 clash-for-windows-np.json,chawyehsu/dorado
 ali-miniprogram-studio.json,chawyehsu/dorado
 binance.json,chawyehsu/dorado
@@ -5125,7 +5125,7 @@ stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
 electrem.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
-ryujinx.json,hermanjustnu/scoop-emulators
+ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
 winfellow.json,hermanjustnu/scoop-emulators
 mesen-s_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7084,13 +7084,13 @@ rathole_wzv5.json,wzv5/ScoopBucket
 doh.json,wzv5/ScoopBucket
 yuanshen.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
-evernote.json,wzv5/ScoopBucket
+evernote_wzv5.json,wzv5/ScoopBucket
 qqlive.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 openark_wzv5.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
 sni.json,wzv5/ScoopBucket
-aliyundrive.json,wzv5/ScoopBucket
+aliyundrive_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 vnote.json,wzv5/ScoopBucket
 inno-setup_wzv5.json,wzv5/ScoopBucket
