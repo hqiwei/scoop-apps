@@ -3509,6 +3509,7 @@ zip-beta.json,ScoopInstaller/Versions
 fmedia16.json,ScoopInstaller/Versions
 gcc45.json,ScoopInstaller/Versions
 traefik1.json,ScoopInstaller/Versions
+protobuf312.json,ScoopInstaller/Versions
 spotdl-beta.json,ScoopInstaller/Versions
 hyper-beta.json,ScoopInstaller/Versions
 firefox-nightly.json,ScoopInstaller/Versions
@@ -5164,7 +5165,7 @@ snes9x-dev.json,hermanjustnu/scoop-emulators
 handy.json,hermanjustnu/scoop-emulators
 citra-nightly.json,hermanjustnu/scoop-emulators
 duckstation-preview.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 atariplusplus.json,hermanjustnu/scoop-emulators
@@ -5323,7 +5324,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
@@ -7479,7 +7480,7 @@ googlechrome-beta_42wim.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
-googlechrome-dev_42wim.json,42wim/scoop-bucket
+googlechrome-dev.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
