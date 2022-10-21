@@ -311,6 +311,7 @@ argyllcms.json,ScoopInstaller/Extras
 dottrace.json,ScoopInstaller/Extras
 sfk.json,ScoopInstaller/Extras
 imageglass.json,ScoopInstaller/Extras
+sidekick-browser.json,ScoopInstaller/Extras
 transmission.json,ScoopInstaller/Extras
 vuplayer.json,ScoopInstaller/Extras
 fmedia.json,ScoopInstaller/Extras
@@ -2995,7 +2996,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 mendeley-desktop.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -3236,6 +3237,7 @@ googlechrome-dev.json,ScoopInstaller/Versions
 glslang-nightly.json,ScoopInstaller/Versions
 de4dot-net45.json,ScoopInstaller/Versions
 winget-preview.json,ScoopInstaller/Versions
+handbrake-cli-snapshot.json,ScoopInstaller/Versions
 musescore3-nightly.json,ScoopInstaller/Versions
 openssl1-light.json,ScoopInstaller/Versions
 linqpad5.json,ScoopInstaller/Versions
@@ -3359,6 +3361,7 @@ discord-ptb.json,ScoopInstaller/Versions
 chromedriver-beta.json,ScoopInstaller/Versions
 nodejs14.json,ScoopInstaller/Versions
 github-beta.json,ScoopInstaller/Versions
+handbrake-snapshot.json,ScoopInstaller/Versions
 bandizip6.json,ScoopInstaller/Versions
 perl-pdl.json,ScoopInstaller/Versions
 openscad-dev.json,ScoopInstaller/Versions
@@ -5116,7 +5119,7 @@ sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation-preview.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-vxwidgets.json,hermanjustnu/scoop-emulators
 vice-sdl2.json,hermanjustnu/scoop-emulators
-ryujinx.json,hermanjustnu/scoop-emulators
+ryujinx_hermanjustnu.json,hermanjustnu/scoop-emulators
 mameui.json,hermanjustnu/scoop-emulators
 dosbox_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5328,7 +5331,7 @@ mesen-s_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -5354,7 +5357,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -7870,7 +7873,7 @@ tokei_batkiz.json,batkiz/backit
 fluent-reader_batkiz.json,batkiz/backit
 bloomrpc.json,batkiz/backit
 murphysec.json,batkiz/backit
-contour_batkiz.json,batkiz/backit
+contour.json,batkiz/backit
 newreleases.json,batkiz/backit
 bitvise-ssh-client.json,batkiz/backit
 fclone.json,NyaMisty/scoop_bucket_misty
