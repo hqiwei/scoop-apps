@@ -2996,7 +2996,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 mendeley-desktop.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -5357,7 +5357,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -7768,7 +7768,7 @@ dotnet-script_batkiz.json,batkiz/backit
 deta_batkiz.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
-onefetch_batkiz.json,batkiz/backit
+onefetch.json,batkiz/backit
 gojq.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
@@ -7811,7 +7811,7 @@ coreutils-rs.json,batkiz/backit
 pathman.json,batkiz/backit
 dog_batkiz.json,batkiz/backit
 notepad2e.json,batkiz/backit
-bitcomet.json,batkiz/backit
+bitcomet_batkiz.json,batkiz/backit
 pixeval.json,batkiz/backit
 termshark_batkiz.json,batkiz/backit
 racket-minimal_batkiz.json,batkiz/backit
