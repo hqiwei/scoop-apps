@@ -859,7 +859,7 @@ ryzen-controller.json,ScoopInstaller/Extras
 jami.json,ScoopInstaller/Extras
 dependencies.json,ScoopInstaller/Extras
 noty.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 mpc-hc-fork.json,ScoopInstaller/Extras
 pixitracker.json,ScoopInstaller/Extras
 notepadplusplus.json,ScoopInstaller/Extras
@@ -5163,7 +5163,7 @@ b-em.json,hermanjustnu/scoop-emulators
 flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-dev.json,hermanjustnu/scoop-emulators
 snes9x-dev.json,hermanjustnu/scoop-emulators
-rpcs3.json,hermanjustnu/scoop-emulators
+rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager.json,hermanjustnu/scoop-emulators
 fceux-qt.json,hermanjustnu/scoop-emulators
@@ -5332,7 +5332,7 @@ mesen-s_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
