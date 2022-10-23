@@ -3159,6 +3159,7 @@ cfr_TheCjw.json,TheCjw/scoop-retools
 die.json,TheCjw/scoop-retools
 emule-cv.json,ScoopInstaller/Versions
 chromium-dev-nosync.json,ScoopInstaller/Versions
+ipfilter-nightly.json,ScoopInstaller/Versions
 omnisharp-net6.json,ScoopInstaller/Versions
 dart-dev.json,ScoopInstaller/Versions
 neovide-dev.json,ScoopInstaller/Versions
@@ -4454,6 +4455,7 @@ tdengine-client-beta.json,hoilc/scoop-lemon
 brook-gui-lite.json,hoilc/scoop-lemon
 inlets.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
+zonenetclient.json,hoilc/scoop-lemon
 dockle.json,hoilc/scoop-lemon
 system-tray-menu.json,hoilc/scoop-lemon
 realm.json,hoilc/scoop-lemon
@@ -4600,6 +4602,7 @@ cryptoknife.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
 rathole.json,hoilc/scoop-lemon
 steam-cloud-file-manager.json,hoilc/scoop-lemon
+rssguard-nightly.json,hoilc/scoop-lemon
 git-duet.json,hoilc/scoop-lemon
 terrascan.json,hoilc/scoop-lemon
 ryzentuner.json,hoilc/scoop-lemon
@@ -4638,6 +4641,7 @@ sidekick.json,hoilc/scoop-lemon
 twolame.json,hoilc/scoop-lemon
 fupx.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
+gitlab-release-cli.json,hoilc/scoop-lemon
 treeline.json,hoilc/scoop-lemon
 autohidemousecursor.json,hoilc/scoop-lemon
 helio.json,hoilc/scoop-lemon
@@ -4807,6 +4811,7 @@ xdown.json,hoilc/scoop-lemon
 zookeeper-assistant.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
 lightnovel-crawler.json,hoilc/scoop-lemon
+drmemory-nightly.json,hoilc/scoop-lemon
 go-proxy-checker.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
 perfview_hoilc.json,hoilc/scoop-lemon
@@ -4837,7 +4842,7 @@ twexe.json,hoilc/scoop-lemon
 nebula-console.json,hoilc/scoop-lemon
 faad2.json,hoilc/scoop-lemon
 maye.json,hoilc/scoop-lemon
-rssguard_hoilc.json,hoilc/scoop-lemon
+rssguard.json,hoilc/scoop-lemon
 keepass-plugin-keepasswinhello.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 wininfo.json,hoilc/scoop-lemon
@@ -4859,7 +4864,6 @@ winmouse.json,hoilc/scoop-lemon
 thorn.json,hoilc/scoop-lemon
 amtool.json,hoilc/scoop-lemon
 neat-reader.json,hoilc/scoop-lemon
-zonenetclient.json,hoilc/scoop-lemon
 libportable-iceweasel.json,hoilc/scoop-lemon
 64gram_hoilc.json,hoilc/scoop-lemon
 copyplusplus_hoilc.json,hoilc/scoop-lemon
@@ -4938,7 +4942,6 @@ iplookup.json,hoilc/scoop-lemon
 airdcpp.json,hoilc/scoop-lemon
 pe-anatomist.json,hoilc/scoop-lemon
 burrow.json,hoilc/scoop-lemon
-drmemory-weekly.json,hoilc/scoop-lemon
 exeinfo-pe_hoilc.json,hoilc/scoop-lemon
 chfs_hoilc.json,hoilc/scoop-lemon
 phrase-cli.json,hoilc/scoop-lemon
@@ -5015,7 +5018,7 @@ edgedb-cli.json,hoilc/scoop-lemon
 biyi.json,hoilc/scoop-lemon
 cue_hoilc.json,hoilc/scoop-lemon
 smart-system-menu.json,hoilc/scoop-lemon
-bbdown_hoilc.json,hoilc/scoop-lemon
+bbdown.json,hoilc/scoop-lemon
 mongodb-compass-isolated.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
 kubemq.json,hoilc/scoop-lemon
@@ -5344,7 +5347,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -7769,7 +7772,7 @@ dotnet-script_batkiz.json,batkiz/backit
 deta_batkiz.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
-onefetch.json,batkiz/backit
+onefetch_batkiz.json,batkiz/backit
 gojq.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
