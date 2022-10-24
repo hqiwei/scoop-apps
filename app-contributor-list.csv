@@ -3499,7 +3499,6 @@ steam-mover.json,ScoopInstaller/Versions
 winpython38cod.json,ScoopInstaller/Versions
 googlechrome-beta.json,ScoopInstaller/Versions
 mysql56.json,ScoopInstaller/Versions
-protobuf312.json,ScoopInstaller/Versions
 dataspell-rc.json,ScoopInstaller/Versions
 spark-hadoop2.json,ScoopInstaller/Versions
 posh-git-nightly.json,ScoopInstaller/Versions
@@ -3822,7 +3821,7 @@ DotMemoryUnit_Ash258.json,Ash258/Scoop-JetBrains
 GoLand-portable.json,Ash258/Scoop-JetBrains
 RubyMine_Ash258.json,Ash258/Scoop-JetBrains
 FloatingLicenseServer.json,Ash258/Scoop-JetBrains
-Rider-EAP.json,Ash258/Scoop-JetBrains
+Rider-EAP_Ash258.json,Ash258/Scoop-JetBrains
 GoLand_Ash258.json,Ash258/Scoop-JetBrains
 Upsource_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-Professional-RC-portable.json,Ash258/Scoop-JetBrains
@@ -3834,7 +3833,7 @@ GoLand-EAP-portable.json,Ash258/Scoop-JetBrains
 RubyMine-portable.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-RC.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Ultimate-RC.json,Ash258/Scoop-JetBrains
-PhpStorm-EAP.json,Ash258/Scoop-JetBrains
+PhpStorm-EAP_Ash258.json,Ash258/Scoop-JetBrains
 PhpStorm-RC_Ash258.json,Ash258/Scoop-JetBrains
 PhpStorm_Ash258.json,Ash258/Scoop-JetBrains
 PhpStorm-portable.json,Ash258/Scoop-JetBrains
@@ -3855,7 +3854,7 @@ DotTraceSDK.json,Ash258/Scoop-JetBrains
 DataGrip-EAP_Ash258.json,Ash258/Scoop-JetBrains
 DotMemory_Ash258.json,Ash258/Scoop-JetBrains
 Rider-portable.json,Ash258/Scoop-JetBrains
-WebStorm-EAP.json,Ash258/Scoop-JetBrains
+WebStorm-EAP_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-EAP-portable.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-Education-portable.json,Ash258/Scoop-JetBrains
 DataGrip-RC_Ash258.json,Ash258/Scoop-JetBrains
@@ -3897,7 +3896,7 @@ CLion-RC_Ash258.json,Ash258/Scoop-JetBrains
 CLion-EAP-portable.json,Ash258/Scoop-JetBrains
 TeamCity-EAP_Ash258.json,Ash258/Scoop-JetBrains
 PhpStorm-RC-portable.json,Ash258/Scoop-JetBrains
-RubyMine-EAP.json,Ash258/Scoop-JetBrains
+RubyMine-EAP_Ash258.json,Ash258/Scoop-JetBrains
 DataGrip_Ash258.json,Ash258/Scoop-JetBrains
 DotMemoryCLT-EAP.json,Ash258/Scoop-JetBrains
 IntelliJ-IDEA-RC-portable.json,Ash258/Scoop-JetBrains
@@ -4490,6 +4489,7 @@ checkstyle.json,hoilc/scoop-lemon
 lazykube.json,hoilc/scoop-lemon
 viper.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
+ghostunnel.json,hoilc/scoop-lemon
 4dnat.json,hoilc/scoop-lemon
 ytt.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
@@ -4884,7 +4884,7 @@ azd.json,hoilc/scoop-lemon
 acrylic.json,hoilc/scoop-lemon
 audio-router.json,hoilc/scoop-lemon
 everedit2.json,hoilc/scoop-lemon
-remnote.json,hoilc/scoop-lemon
+remnote_hoilc.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
@@ -5347,7 +5347,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -7424,7 +7424,6 @@ sublime-text-4.json,naderi/scoop-bucket
 wezterm-portable.json,naderi/scoop-bucket
 telegram_naderi.json,naderi/scoop-bucket
 leomoon-subfix.json,naderi/scoop-bucket
-plexamp.json,naderi/scoop-bucket
 unicsved_naderi.json,naderi/scoop-bucket
 dev-cpp-no-compiler.json,naderi/scoop-bucket
 win-aio.json,naderi/scoop-bucket
@@ -7760,7 +7759,7 @@ mdcat_batkiz.json,batkiz/backit
 ghdl.json,batkiz/backit
 mdconv.json,batkiz/backit
 miktex_batkiz.json,batkiz/backit
-vivaldi-snapshot.json,batkiz/backit
+vivaldi-snapshot_batkiz.json,batkiz/backit
 python38_batkiz.json,batkiz/backit
 ran.json,batkiz/backit
 miflash.json,batkiz/backit
