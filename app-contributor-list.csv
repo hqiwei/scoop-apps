@@ -339,6 +339,7 @@ ethereum-wallet.json,ScoopInstaller/Extras
 filezilla-server.json,ScoopInstaller/Extras
 pathod.json,ScoopInstaller/Extras
 azuredatastudio.json,ScoopInstaller/Extras
+catalyst.json,ScoopInstaller/Extras
 7ztm.json,ScoopInstaller/Extras
 hashcheck.json,ScoopInstaller/Extras
 trafficmonitor-lite.json,ScoopInstaller/Extras
@@ -616,6 +617,7 @@ texstudio.json,ScoopInstaller/Extras
 git-aliases.json,ScoopInstaller/Extras
 devhub.json,ScoopInstaller/Extras
 calibre.json,ScoopInstaller/Extras
+logitech-omm.json,ScoopInstaller/Extras
 firefox.json,ScoopInstaller/Extras
 openhab.json,ScoopInstaller/Extras
 mqtt-explorer.json,ScoopInstaller/Extras
@@ -1010,6 +1012,7 @@ xmllint.json,ScoopInstaller/Extras
 find-java.json,ScoopInstaller/Extras
 testcentric.json,ScoopInstaller/Extras
 banana-cake-pop.json,ScoopInstaller/Extras
+slskd.json,ScoopInstaller/Extras
 stretchly.json,ScoopInstaller/Extras
 apache-tinkerpop-gremlin-console.json,ScoopInstaller/Extras
 cpu-z.json,ScoopInstaller/Extras
@@ -1117,6 +1120,7 @@ iographica.json,ScoopInstaller/Extras
 amazon-workspaces.json,ScoopInstaller/Extras
 inkscape-extension-sozi.json,ScoopInstaller/Extras
 dumo.json,ScoopInstaller/Extras
+horizon-eda.json,ScoopInstaller/Extras
 wexond.json,ScoopInstaller/Extras
 jpegview.json,ScoopInstaller/Extras
 microsoft-powerapps-cli.json,ScoopInstaller/Extras
@@ -1851,6 +1855,7 @@ coppeliasim.json,ScoopInstaller/Extras
 nvui.json,ScoopInstaller/Extras
 codeblocks-mingw.json,ScoopInstaller/Extras
 speedcrunch.json,ScoopInstaller/Extras
+famistudio.json,ScoopInstaller/Extras
 dbeaver.json,ScoopInstaller/Extras
 posh-docker.json,ScoopInstaller/Extras
 ilspy.json,ScoopInstaller/Extras
@@ -2208,7 +2213,7 @@ bbdown.json,chawyehsu/dorado
 yuque.json,chawyehsu/dorado
 jianyingpro.json,chawyehsu/dorado
 thunderbird-beta-zh-cn.json,chawyehsu/dorado
-famistudio.json,chawyehsu/dorado
+famistudio_chawyehsu.json,chawyehsu/dorado
 archisteamfarm_chawyehsu.json,chawyehsu/dorado
 jmc2obj.json,chawyehsu/dorado
 wechat_chawyehsu.json,chawyehsu/dorado
@@ -4410,7 +4415,7 @@ es.json,echoiron/echo-scoop
 lightproxy.json,echoiron/echo-scoop
 kcleaner.json,echoiron/echo-scoop
 ludashi_echoiron.json,echoiron/echo-scoop
-eudic_echoiron.json,echoiron/echo-scoop
+eudic.json,echoiron/echo-scoop
 neatreader.json,echoiron/echo-scoop
 bandicam.json,echoiron/echo-scoop
 dismpp.json,echoiron/echo-scoop
@@ -4976,7 +4981,7 @@ bililive-recorder.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
 wpd_hoilc.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
-pacaptr.json,hoilc/scoop-lemon
+pacaptr_hoilc.json,hoilc/scoop-lemon
 bililive-recorder-cli.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 pshash.json,hoilc/scoop-lemon
@@ -5352,7 +5357,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -6004,7 +6009,7 @@ GPAC_dodorz.json,dodorz/scoop
 Github-CLI.json,dodorz/scoop
 JBMail.json,dodorz/scoop
 Qute.json,dodorz/scoop
-CCleaner.json,dodorz/scoop
+CCleaner_dodorz.json,dodorz/scoop
 ExplorerXP.json,dodorz/scoop
 winpty-cygwin.json,dodorz/scoop
 ProcessCloser.json,dodorz/scoop
@@ -7025,6 +7030,7 @@ spotx-np.json,ScoopInstaller/Nonportable
 sandboxie-classic-np.json,ScoopInstaller/Nonportable
 voicemeeter-potato-np.json,ScoopInstaller/Nonportable
 innosetup-np_ScoopInstaller.json,ScoopInstaller/Nonportable
+nodejs-lts-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 logitech-gaming-software-np.json,ScoopInstaller/Nonportable
 wireguard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
