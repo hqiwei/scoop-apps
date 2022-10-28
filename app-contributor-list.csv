@@ -1186,7 +1186,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -2739,6 +2739,7 @@ openjdk9.json,ScoopInstaller/Java
 ojdkbuild15-full.json,ScoopInstaller/Java
 liberica15-full-jdk.json,ScoopInstaller/Java
 semeru11-jre.json,ScoopInstaller/Java
+graalvm.json,ScoopInstaller/Java
 zulu13-jre.json,ScoopInstaller/Java
 temurin19-jdk.json,ScoopInstaller/Java
 zulu16-jre.json,ScoopInstaller/Java
@@ -3013,7 +3014,7 @@ lyx-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
-baidunetdisk_ivaquero.json,ivaquero/scoopet
+baidunetdisk.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
@@ -3264,6 +3265,7 @@ musescore3-nightly.json,ScoopInstaller/Versions
 openssl1-light.json,ScoopInstaller/Versions
 linqpad5.json,ScoopInstaller/Versions
 gimp-dev.json,ScoopInstaller/Versions
+tachidesk-server-preview.json,ScoopInstaller/Versions
 ant19.json,ScoopInstaller/Versions
 nuget3.json,ScoopInstaller/Versions
 sts396.json,ScoopInstaller/Versions
@@ -3301,6 +3303,7 @@ postman9.json,ScoopInstaller/Versions
 scala212.json,ScoopInstaller/Versions
 omnisharp-http-net6.json,ScoopInstaller/Versions
 spotify-qt-nightly.json,ScoopInstaller/Versions
+python-pre.json,ScoopInstaller/Versions
 php73-xdebug.json,ScoopInstaller/Versions
 mingw-winlibs-llvm-ucrt.json,ScoopInstaller/Versions
 espanso-pre.json,ScoopInstaller/Versions
@@ -3434,7 +3437,6 @@ youtube-dlc.json,ScoopInstaller/Versions
 lightshot.json,ScoopInstaller/Versions
 msys2-20200517.json,ScoopInstaller/Versions
 nodejs010.json,ScoopInstaller/Versions
-python-beta.json,ScoopInstaller/Versions
 miniconda2_ScoopInstaller.json,ScoopInstaller/Versions
 ffmpeg-shared-nightly.json,ScoopInstaller/Versions
 premake5.json,ScoopInstaller/Versions
@@ -4411,6 +4413,7 @@ protoc.json,echoiron/echo-scoop
 contextmenumanager_echoiron.json,echoiron/echo-scoop
 wisecare365_echoiron.json,echoiron/echo-scoop
 clash-for-windows_echoiron.json,echoiron/echo-scoop
+tencentmeeting.json,echoiron/echo-scoop
 typeeasy.json,echoiron/echo-scoop
 qq.json,echoiron/echo-scoop
 shadowsocksrr.json,echoiron/echo-scoop
@@ -4418,7 +4421,7 @@ iqiyi.json,echoiron/echo-scoop
 proxifier_echoiron.json,echoiron/echo-scoop
 sandboxie-plus.json,echoiron/echo-scoop
 fastcopy_echoiron.json,echoiron/echo-scoop
-cosbrowser_echoiron.json,echoiron/echo-scoop
+cosbrowser.json,echoiron/echo-scoop
 coodesker.json,echoiron/echo-scoop
 adrive.json,echoiron/echo-scoop
 iobituninstaller.json,echoiron/echo-scoop
@@ -4514,6 +4517,7 @@ lazykube.json,hoilc/scoop-lemon
 viper.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
 ghostunnel.json,hoilc/scoop-lemon
+mixctl.json,hoilc/scoop-lemon
 4dnat.json,hoilc/scoop-lemon
 ytt.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
@@ -4625,6 +4629,7 @@ koyeb-cli.json,hoilc/scoop-lemon
 aya.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
+esheep.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
 rathole.json,hoilc/scoop-lemon
 steam-cloud-file-manager.json,hoilc/scoop-lemon
@@ -4780,7 +4785,7 @@ pdfarranger_hoilc.json,hoilc/scoop-lemon
 maxthon5.json,hoilc/scoop-lemon
 plow.json,hoilc/scoop-lemon
 tencent-transmart.json,hoilc/scoop-lemon
-cosbrowser.json,hoilc/scoop-lemon
+cosbrowser_hoilc.json,hoilc/scoop-lemon
 experienceindexok.json,hoilc/scoop-lemon
 setuna2.json,hoilc/scoop-lemon
 strings2.json,hoilc/scoop-lemon
@@ -4843,6 +4848,7 @@ zookeeper-assistant.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
 lightnovel-crawler.json,hoilc/scoop-lemon
 drmemory-nightly.json,hoilc/scoop-lemon
+evernote2onenote.json,hoilc/scoop-lemon
 go-proxy-checker.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
 perfview_hoilc.json,hoilc/scoop-lemon
@@ -4916,7 +4922,7 @@ acrylic.json,hoilc/scoop-lemon
 audio-router.json,hoilc/scoop-lemon
 everedit2.json,hoilc/scoop-lemon
 lossywav.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
@@ -5371,7 +5377,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
@@ -5441,7 +5447,7 @@ Pinta_dodorz.json,dodorz/scoop
 SendMessage.json,dodorz/scoop
 UVOutliner.json,dodorz/scoop
 wxHexEditor.json,dodorz/scoop
-Tabby.json,dodorz/scoop
+Tabby_dodorz.json,dodorz/scoop
 fmedia_dodorz.json,dodorz/scoop
 browsh.json,dodorz/scoop
 WebCatalog.json,dodorz/scoop
@@ -5727,7 +5733,7 @@ EverythingToolbar_dodorz.json,dodorz/scoop
 EmptyRecycleBin.json,dodorz/scoop
 MindMaster-zh-cn.json,dodorz/scoop
 ShowMyPC.json,dodorz/scoop
-TencentMeeting.json,dodorz/scoop
+TencentMeeting_dodorz.json,dodorz/scoop
 WinMount.json,dodorz/scoop
 NetAlias.json,dodorz/scoop
 OracleJDK11.json,dodorz/scoop
@@ -5986,7 +5992,7 @@ pip-Win.json,dodorz/scoop
 Eudic.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 QTranslate.json,dodorz/scoop
-Umi-OCR.json,dodorz/scoop
+Umi-OCR_dodorz.json,dodorz/scoop
 Duplicati.json,dodorz/scoop
 sK1.json,dodorz/scoop
 ExifPilot.json,dodorz/scoop
@@ -7513,6 +7519,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 swifty.json,ChungZH/peach
 drawio_ChungZH.json,ChungZH/peach
 msedge-stable.json,42wim/scoop-bucket
+googlechrome.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 googlechrome-dev.json,42wim/scoop-bucket
@@ -8193,7 +8200,7 @@ LinkEase.json,ygguorun/scoop-bucket
 RegexMatchTracer.json,ygguorun/scoop-bucket
 EmbyTheater.json,ygguorun/scoop-bucket
 Malware-Patch_ygguorun.json,ygguorun/scoop-bucket
-aDrive.json,ygguorun/scoop-bucket
+aDrive_ygguorun.json,ygguorun/scoop-bucket
 Effidit.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
 ShanaEncoder.json,ygguorun/scoop-bucket
