@@ -3481,6 +3481,7 @@ selenium3.json,ScoopInstaller/Versions
 ffmpeg-gyan-nightly.json,ScoopInstaller/Versions
 springboot15.json,ScoopInstaller/Versions
 traefik1.json,ScoopInstaller/Versions
+duplicati-canary.json,ScoopInstaller/Versions
 gn.json,ScoopInstaller/Versions
 7zip-beta.json,ScoopInstaller/Versions
 php56-xdebug.json,ScoopInstaller/Versions
@@ -3931,6 +3932,7 @@ DataSpell-EAP_Ash258.json,Ash258/Scoop-JetBrains
 PyCharm-EAP_Ash258.json,Ash258/Scoop-JetBrains
 WebStorm-EAP-portable.json,Ash258/Scoop-JetBrains
 deps.clj.json,littleli/scoop-clojure
+clj-msi.json,littleli/scoop-clojure
 bbin.json,littleli/scoop-clojure
 shh.json,littleli/scoop-clojure
 bb-http-server.json,littleli/scoop-clojure
@@ -4412,6 +4414,7 @@ baidunetdisk_echoiron.json,echoiron/echo-scoop
 q-dir_echoiron.json,echoiron/echo-scoop
 uninstalltool.json,echoiron/echo-scoop
 xiuxiu.json,echoiron/echo-scoop
+typora.json,echoiron/echo-scoop
 protoc.json,echoiron/echo-scoop
 contextmenumanager_echoiron.json,echoiron/echo-scoop
 wisecare365_echoiron.json,echoiron/echo-scoop
@@ -4574,6 +4577,7 @@ goss.json,hoilc/scoop-lemon
 duf_hoilc.json,hoilc/scoop-lemon
 bilibili-live-record-downloader.json,hoilc/scoop-lemon
 1history.json,hoilc/scoop-lemon
+zhconv-rs.json,hoilc/scoop-lemon
 memcached_exporter.json,hoilc/scoop-lemon
 nomeiryoui_hoilc.json,hoilc/scoop-lemon
 mstream.json,hoilc/scoop-lemon
@@ -4925,8 +4929,9 @@ acrylic.json,hoilc/scoop-lemon
 audio-router.json,hoilc/scoop-lemon
 everedit2.json,hoilc/scoop-lemon
 lossywav.json,hoilc/scoop-lemon
-remnote.json,hoilc/scoop-lemon
+remnote_hoilc.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
+noisy-shuttle.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 rav1e.json,hoilc/scoop-lemon
@@ -5050,6 +5055,7 @@ bosh-cli.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 kyverno-cli.json,hoilc/scoop-lemon
 amass_hoilc.json,hoilc/scoop-lemon
+zally.json,hoilc/scoop-lemon
 arthas_hoilc.json,hoilc/scoop-lemon
 obs-browser-plus.json,hoilc/scoop-lemon
 us3fs.json,hoilc/scoop-lemon
@@ -5390,7 +5396,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -5404,7 +5410,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -7816,7 +7822,7 @@ dotnet-script_batkiz.json,batkiz/backit
 deta_batkiz.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
-onefetch_batkiz.json,batkiz/backit
+onefetch.json,batkiz/backit
 gojq.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
