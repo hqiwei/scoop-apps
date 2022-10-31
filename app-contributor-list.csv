@@ -231,7 +231,6 @@ PCmaster.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
 Pixeval.json,Weidows-projects/scoop-3rd
-gmm.json,Weidows-projects/scoop-3rd
 AutumnBox.json,Weidows-projects/scoop-3rd
 vscode-portable-association.json,Weidows-projects/scoop-3rd
 bongocat-osu.json,Weidows-projects/scoop-3rd
@@ -1187,7 +1186,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -5013,6 +5012,7 @@ remoteapptool_hoilc.json,hoilc/scoop-lemon
 cppcryptfsctl.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
+serialtest.json,hoilc/scoop-lemon
 adpcm-xq.json,hoilc/scoop-lemon
 ipinfo.json,hoilc/scoop-lemon
 bililive-recorder.json,hoilc/scoop-lemon
@@ -5384,8 +5384,8 @@ mesen-s_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
-sameboy_borger.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
+sameboy.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -5416,7 +5416,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -5978,7 +5978,7 @@ FAAD2_dodorz.json,dodorz/scoop
 WinSW.Net2.json,dodorz/scoop
 manpages-zh.json,dodorz/scoop
 VSubst.json,dodorz/scoop
-CopyTranslator_dodorz.json,dodorz/scoop
+CopyTranslator.json,dodorz/scoop
 rare_dodorz.json,dodorz/scoop
 AntRenamer.json,dodorz/scoop
 cheat_dodorz.json,dodorz/scoop
@@ -7822,7 +7822,7 @@ dotnet-script_batkiz.json,batkiz/backit
 deta_batkiz.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
-onefetch.json,batkiz/backit
+onefetch_batkiz.json,batkiz/backit
 gojq.json,batkiz/backit
 tree-sitter_batkiz.json,batkiz/backit
 fselect_batkiz.json,batkiz/backit
@@ -7885,7 +7885,7 @@ csvq.json,batkiz/backit
 miniserve_batkiz.json,batkiz/backit
 less-windows.json,batkiz/backit
 dasel_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 miniconda3_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
 racket-minimal-cs.json,batkiz/backit
