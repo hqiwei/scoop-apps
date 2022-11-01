@@ -1186,7 +1186,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -3323,6 +3323,7 @@ xmplay-stuff.json,ScoopInstaller/Versions
 python38.json,ScoopInstaller/Versions
 qview-nightly.json,ScoopInstaller/Versions
 openrgb-nightly.json,ScoopInstaller/Versions
+xdman-beta.json,ScoopInstaller/Versions
 php72.json,ScoopInstaller/Versions
 nodejs7.json,ScoopInstaller/Versions
 multipar-beta.json,ScoopInstaller/Versions
@@ -4928,7 +4929,7 @@ acrylic.json,hoilc/scoop-lemon
 audio-router.json,hoilc/scoop-lemon
 everedit2.json,hoilc/scoop-lemon
 lossywav.json,hoilc/scoop-lemon
-remnote_hoilc.json,hoilc/scoop-lemon
+remnote.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
@@ -5385,7 +5386,7 @@ snes9x_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
-sameboy.json,borger/scoop-emulators
+sameboy_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -5396,7 +5397,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -5404,12 +5405,12 @@ visualboyadvance-m_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -5824,7 +5825,6 @@ HE.json,dodorz/scoop
 FotoSketcher.json,dodorz/scoop
 ClipText.json,dodorz/scoop
 miniflux.json,dodorz/scoop
-Listary-beta.json,dodorz/scoop
 AquaSnapPersonal.json,dodorz/scoop
 tkdiff_dodorz.json,dodorz/scoop
 OORegEditor.json,dodorz/scoop
@@ -5978,7 +5978,7 @@ FAAD2_dodorz.json,dodorz/scoop
 WinSW.Net2.json,dodorz/scoop
 manpages-zh.json,dodorz/scoop
 VSubst.json,dodorz/scoop
-CopyTranslator.json,dodorz/scoop
+CopyTranslator_dodorz.json,dodorz/scoop
 rare_dodorz.json,dodorz/scoop
 AntRenamer.json,dodorz/scoop
 cheat_dodorz.json,dodorz/scoop
@@ -7145,6 +7145,7 @@ winrar-np.json,ScoopInstaller/Nonportable
 pgadmin4-np.json,ScoopInstaller/Nonportable
 lantern-np.json,ScoopInstaller/Nonportable
 oha_wzv5.json,wzv5/ScoopBucket
+doh.json,wzv5/ScoopBucket
 networkmanager_wzv5.json,wzv5/ScoopBucket
 lua_wzv5.json,wzv5/ScoopBucket
 screentogif_wzv5.json,wzv5/ScoopBucket
@@ -7161,7 +7162,6 @@ neteasemusic_wzv5.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 rathole_wzv5.json,wzv5/ScoopBucket
-doh.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
 pspad_wzv5.json,wzv5/ScoopBucket
 yy-thunks.json,wzv5/ScoopBucket
@@ -7330,6 +7330,7 @@ winrar-de.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
 nanarun.json,naderi/scoop-bucket
 edge-portable-canary.json,naderi/scoop-bucket
+sqlite-gui.json,naderi/scoop-bucket
 winrar-fa.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 stdu-xml-editor.json,naderi/scoop-bucket
@@ -7442,6 +7443,7 @@ alwaysmousewheel.json,naderi/scoop-bucket
 dnsbench_naderi.json,naderi/scoop-bucket
 json-edit.json,naderi/scoop-bucket
 awgg.json,naderi/scoop-bucket
+duck.json,naderi/scoop-bucket
 eventlogviewer.json,naderi/scoop-bucket
 ganjoor.json,naderi/scoop-bucket
 directory-compare.json,naderi/scoop-bucket
@@ -7882,6 +7884,7 @@ bilibili-toolkit.json,batkiz/backit
 plumber.json,batkiz/backit
 lean-cli_batkiz.json,batkiz/backit
 csvq.json,batkiz/backit
+goimports-reviser.json,batkiz/backit
 miniserve_batkiz.json,batkiz/backit
 less-windows.json,batkiz/backit
 dasel_batkiz.json,batkiz/backit
@@ -8264,7 +8267,7 @@ shellexview-zhs.json,seumsc/scoop-seu
 7ztm_seumsc.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
 anime4kcpp-cli_seumsc.json,seumsc/scoop-seu
-clash-verge_seumsc.json,seumsc/scoop-seu
+clash-verge.json,seumsc/scoop-seu
 dpeaklim.json,seumsc/scoop-seu
 officetoolplus_seumsc.json,seumsc/scoop-seu
 waifu2x-ncnn-vulkan_seumsc.json,seumsc/scoop-seu
