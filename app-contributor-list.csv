@@ -2221,6 +2221,7 @@ firefox-zh-cn.json,chawyehsu/dorado
 melonds.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
 dogecoincore.json,chawyehsu/dorado
+zap.json,chawyehsu/dorado
 bbdown.json,chawyehsu/dorado
 yuque.json,chawyehsu/dorado
 jianyingpro.json,chawyehsu/dorado
@@ -2818,6 +2819,7 @@ amulet-map-editor.json,Calinou/scoop-games
 sixcells.json,Calinou/scoop-games
 yquake2.json,Calinou/scoop-games
 freeciv.json,Calinou/scoop-games
+epic-games-launcher.json,Calinou/scoop-games
 corporateclash.json,Calinou/scoop-games
 freeorion.json,Calinou/scoop-games
 bsnes.json,Calinou/scoop-games
@@ -3004,12 +3006,13 @@ regester.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 magnetw_ivaquero.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
+clash-verge_ivaquero.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
-autodarkmode_ivaquero.json,ivaquero/scoopet
+autodarkmode.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
@@ -4559,6 +4562,7 @@ tl.json,hoilc/scoop-lemon
 biliup-rs.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
 downkyi_hoilc.json,hoilc/scoop-lemon
+sylpheed.json,hoilc/scoop-lemon
 chinesesubfinder.json,hoilc/scoop-lemon
 n3dr.json,hoilc/scoop-lemon
 meepo.json,hoilc/scoop-lemon
@@ -4867,6 +4871,7 @@ nagstamon.json,hoilc/scoop-lemon
 data-assistant.json,hoilc/scoop-lemon
 cassowary.json,hoilc/scoop-lemon
 glider.json,hoilc/scoop-lemon
+cpolar.json,hoilc/scoop-lemon
 metabase.json,hoilc/scoop-lemon
 nordpass.json,hoilc/scoop-lemon
 httpdownloader.json,hoilc/scoop-lemon
@@ -4896,6 +4901,7 @@ zeno.json,hoilc/scoop-lemon
 winexit.json,hoilc/scoop-lemon
 tabula-cli.json,hoilc/scoop-lemon
 start-reader.json,hoilc/scoop-lemon
+imonitor.json,hoilc/scoop-lemon
 privazer.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 amber.json,hoilc/scoop-lemon
@@ -4929,7 +4935,7 @@ acrylic.json,hoilc/scoop-lemon
 audio-router.json,hoilc/scoop-lemon
 everedit2.json,hoilc/scoop-lemon
 lossywav.json,hoilc/scoop-lemon
-remnote.json,hoilc/scoop-lemon
+remnote_hoilc.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
@@ -4964,6 +4970,7 @@ asfenhance.json,hoilc/scoop-lemon
 stegify.json,hoilc/scoop-lemon
 ikago.json,hoilc/scoop-lemon
 zinc.json,hoilc/scoop-lemon
+becky.json,hoilc/scoop-lemon
 brook.json,hoilc/scoop-lemon
 redisfish.json,hoilc/scoop-lemon
 bleconsole.json,hoilc/scoop-lemon
@@ -5085,7 +5092,7 @@ elasticsearch_exporter.json,hoilc/scoop-lemon
 chirp.json,hoilc/scoop-lemon
 clashn.json,hoilc/scoop-lemon
 hysteria_hoilc.json,hoilc/scoop-lemon
-archisteamfarm_hoilc.json,hoilc/scoop-lemon
+archisteamfarm.json,hoilc/scoop-lemon
 maple-mono-nerd.json,hoilc/scoop-lemon
 brook-gui.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
@@ -5353,6 +5360,7 @@ neo4jbrowser.json,scoopcn/scoopcn
 xt800.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
 cloudmusic_scoopcn.json,scoopcn/scoopcn
+todesk.json,scoopcn/scoopcn
 sunlogin.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
@@ -5387,7 +5395,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
@@ -5405,12 +5413,12 @@ visualboyadvance-m_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -5459,6 +5467,7 @@ UVOutliner.json,dodorz/scoop
 wxHexEditor.json,dodorz/scoop
 Tabby_dodorz.json,dodorz/scoop
 fmedia_dodorz.json,dodorz/scoop
+Listary_dodorz.json,dodorz/scoop
 browsh.json,dodorz/scoop
 WebCatalog.json,dodorz/scoop
 QuickHash.json,dodorz/scoop
@@ -5708,7 +5717,6 @@ USBCopyer.json,dodorz/scoop
 dgPDFCombiner.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
 SlimPDF.json,dodorz/scoop
-Listary_dodorz.json,dodorz/scoop
 CAJViewer_dodorz.json,dodorz/scoop
 tim_dodorz.json,dodorz/scoop
 ooRexx.json,dodorz/scoop
@@ -7174,7 +7182,7 @@ volumelock.json,wzv5/ScoopBucket
 vnote.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
-evernote_wzv5.json,wzv5/ScoopBucket
+evernote.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 openjdk-doc.json,wzv5/ScoopBucket
@@ -7443,7 +7451,6 @@ alwaysmousewheel.json,naderi/scoop-bucket
 dnsbench_naderi.json,naderi/scoop-bucket
 json-edit.json,naderi/scoop-bucket
 awgg.json,naderi/scoop-bucket
-duck.json,naderi/scoop-bucket
 eventlogviewer.json,naderi/scoop-bucket
 ganjoor.json,naderi/scoop-bucket
 directory-compare.json,naderi/scoop-bucket
@@ -7750,7 +7757,7 @@ bunbackup.json,jfut/scoop-jfut
 explzh.json,jfut/scoop-jfut
 cubepdf.json,jfut/scoop-jfut
 imgburn.ja.json,jfut/scoop-jfut
-becky.json,jfut/scoop-jfut
+becky_jfut.json,jfut/scoop-jfut
 autopsy.json,jfut/scoop-jfut
 ffftp.json,jfut/scoop-jfut
 kokomite.json,jfut/scoop-jfut
@@ -7834,7 +7841,7 @@ ungoogled-chromium-portable.json,batkiz/backit
 dev-toys-cli.json,batkiz/backit
 filebrowser_batkiz.json,batkiz/backit
 buildkit_batkiz.json,batkiz/backit
-wayback_batkiz.json,batkiz/backit
+wayback.json,batkiz/backit
 obs-cli.json,batkiz/backit
 fnm_batkiz.json,batkiz/backit
 gping_batkiz.json,batkiz/backit
@@ -8267,7 +8274,6 @@ shellexview-zhs.json,seumsc/scoop-seu
 7ztm_seumsc.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
 anime4kcpp-cli_seumsc.json,seumsc/scoop-seu
-clash-verge.json,seumsc/scoop-seu
 dpeaklim.json,seumsc/scoop-seu
 officetoolplus_seumsc.json,seumsc/scoop-seu
 waifu2x-ncnn-vulkan_seumsc.json,seumsc/scoop-seu
