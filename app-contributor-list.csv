@@ -2227,7 +2227,7 @@ yuque.json,chawyehsu/dorado
 jianyingpro.json,chawyehsu/dorado
 thunderbird-beta-zh-cn.json,chawyehsu/dorado
 famistudio_chawyehsu.json,chawyehsu/dorado
-archisteamfarm_chawyehsu.json,chawyehsu/dorado
+archisteamfarm.json,chawyehsu/dorado
 jmc2obj.json,chawyehsu/dorado
 wechat_chawyehsu.json,chawyehsu/dorado
 pxcook.json,chawyehsu/dorado
@@ -3012,7 +3012,7 @@ weasel.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
-autodarkmode.json,ivaquero/scoopet
+autodarkmode_ivaquero.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
@@ -4430,7 +4430,7 @@ iqiyi.json,echoiron/echo-scoop
 proxifier_echoiron.json,echoiron/echo-scoop
 sandboxie-plus.json,echoiron/echo-scoop
 fastcopy_echoiron.json,echoiron/echo-scoop
-cosbrowser.json,echoiron/echo-scoop
+cosbrowser_echoiron.json,echoiron/echo-scoop
 coodesker.json,echoiron/echo-scoop
 adrive.json,echoiron/echo-scoop
 iobituninstaller.json,echoiron/echo-scoop
@@ -4639,6 +4639,7 @@ multi-gitter.json,hoilc/scoop-lemon
 koyeb-cli.json,hoilc/scoop-lemon
 aya.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
+sing-box.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
 esheep.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -4813,6 +4814,7 @@ nip2.json,hoilc/scoop-lemon
 skywalking-cli_hoilc.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
+mdsilo.json,hoilc/scoop-lemon
 jellycli.json,hoilc/scoop-lemon
 lamedropxpd.json,hoilc/scoop-lemon
 pscale.json,hoilc/scoop-lemon
@@ -5092,7 +5094,7 @@ elasticsearch_exporter.json,hoilc/scoop-lemon
 chirp.json,hoilc/scoop-lemon
 clashn.json,hoilc/scoop-lemon
 hysteria_hoilc.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 maple-mono-nerd.json,hoilc/scoop-lemon
 brook-gui.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
@@ -5395,7 +5397,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
@@ -5413,7 +5415,7 @@ visualboyadvance-m_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
@@ -7182,7 +7184,7 @@ volumelock.json,wzv5/ScoopBucket
 vnote.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
-evernote.json,wzv5/ScoopBucket
+evernote_wzv5.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 openjdk-doc.json,wzv5/ScoopBucket
@@ -7841,7 +7843,7 @@ ungoogled-chromium-portable.json,batkiz/backit
 dev-toys-cli.json,batkiz/backit
 filebrowser_batkiz.json,batkiz/backit
 buildkit_batkiz.json,batkiz/backit
-wayback.json,batkiz/backit
+wayback_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
 fnm_batkiz.json,batkiz/backit
 gping_batkiz.json,batkiz/backit
