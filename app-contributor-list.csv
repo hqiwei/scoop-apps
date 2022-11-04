@@ -436,6 +436,7 @@ whynotwin11.json,ScoopInstaller/Extras
 sdl2.json,ScoopInstaller/Extras
 3d-fix-manager.json,ScoopInstaller/Extras
 notepadnext.json,ScoopInstaller/Extras
+nexttrace.json,ScoopInstaller/Extras
 traymond.json,ScoopInstaller/Extras
 skype.json,ScoopInstaller/Extras
 responsively.json,ScoopInstaller/Extras
@@ -3022,7 +3023,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 mendeley-desktop.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -4516,6 +4517,7 @@ manyverse.json,hoilc/scoop-lemon
 aliyundrive-webdav.json,hoilc/scoop-lemon
 staxrip_hoilc.json,hoilc/scoop-lemon
 integer-scaler.json,hoilc/scoop-lemon
+gopeed.json,hoilc/scoop-lemon
 baidupcs-go.json,hoilc/scoop-lemon
 shoutrrr.json,hoilc/scoop-lemon
 rekor-cli.json,hoilc/scoop-lemon
@@ -5407,7 +5409,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -5425,7 +5427,7 @@ rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
-yuzu_borger.json,borger/scoop-emulators
+yuzu.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -6011,7 +6013,7 @@ pip-Win.json,dodorz/scoop
 Eudic_dodorz.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 QTranslate.json,dodorz/scoop
-Umi-OCR_dodorz.json,dodorz/scoop
+Umi-OCR.json,dodorz/scoop
 Duplicati.json,dodorz/scoop
 sK1.json,dodorz/scoop
 ExifPilot.json,dodorz/scoop
@@ -7365,6 +7367,7 @@ smart-svg-viewer.json,naderi/scoop-bucket
 capture2text-persian.json,naderi/scoop-bucket
 uget-portable.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
+fan-control.json,naderi/scoop-bucket
 wfc_naderi.json,naderi/scoop-bucket
 teracopy_naderi.json,naderi/scoop-bucket
 copy-handler.json,naderi/scoop-bucket
@@ -8210,6 +8213,7 @@ hash.json,ygguorun/scoop-bucket
 git-repo-clean.json,ygguorun/scoop-bucket
 jy-srt-tools.json,ygguorun/scoop-bucket
 officebox_ygguorun.json,ygguorun/scoop-bucket
+dragon.json,ygguorun/scoop-bucket
 ShadowExplorer_ygguorun.json,ygguorun/scoop-bucket
 MusicTag_ygguorun.json,ygguorun/scoop-bucket
 sonixd_ygguorun.json,ygguorun/scoop-bucket
