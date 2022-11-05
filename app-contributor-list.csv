@@ -1187,7 +1187,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -2228,7 +2228,7 @@ yuque.json,chawyehsu/dorado
 jianyingpro.json,chawyehsu/dorado
 thunderbird-beta-zh-cn.json,chawyehsu/dorado
 famistudio_chawyehsu.json,chawyehsu/dorado
-archisteamfarm.json,chawyehsu/dorado
+archisteamfarm_chawyehsu.json,chawyehsu/dorado
 jmc2obj.json,chawyehsu/dorado
 wechat_chawyehsu.json,chawyehsu/dorado
 pxcook.json,chawyehsu/dorado
@@ -3012,10 +3012,12 @@ subversion.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
+git-cn.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
+texstudio-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
@@ -3023,7 +3025,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 mendeley-desktop.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -4640,6 +4642,7 @@ terminus-player.json,hoilc/scoop-lemon
 multi-gitter.json,hoilc/scoop-lemon
 koyeb-cli.json,hoilc/scoop-lemon
 aya.json,hoilc/scoop-lemon
+categraf.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
 sing-box.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
@@ -5364,7 +5367,7 @@ neo4jbrowser.json,scoopcn/scoopcn
 xt800.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
 cloudmusic_scoopcn.json,scoopcn/scoopcn
-todesk.json,scoopcn/scoopcn
+todesk_scoopcn.json,scoopcn/scoopcn
 sunlogin.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
@@ -5409,7 +5412,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -5417,7 +5420,7 @@ visualboyadvance-m_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
@@ -5427,9 +5430,9 @@ rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
-yuzu.json,borger/scoop-emulators
+yuzu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -6013,7 +6016,7 @@ pip-Win.json,dodorz/scoop
 Eudic_dodorz.json,dodorz/scoop
 yWriter.json,dodorz/scoop
 QTranslate.json,dodorz/scoop
-Umi-OCR.json,dodorz/scoop
+Umi-OCR_dodorz.json,dodorz/scoop
 Duplicati.json,dodorz/scoop
 sK1.json,dodorz/scoop
 ExifPilot.json,dodorz/scoop
@@ -7565,7 +7568,7 @@ hunspell.json,iquiw/scoop-bucket
 zigmod.json,iquiw/scoop-bucket
 talosctl.json,iquiw/scoop-bucket
 browserpass.json,iquiw/scoop-bucket
-doggo.json,iquiw/scoop-bucket
+doggo_iquiw.json,iquiw/scoop-bucket
 cinc-auditor.json,iquiw/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 hackgennerd.json,iquiw/scoop-bucket
@@ -7844,7 +7847,7 @@ raven-reader.json,batkiz/backit
 sq.json,batkiz/backit
 ungoogled-chromium-portable.json,batkiz/backit
 dev-toys-cli.json,batkiz/backit
-filebrowser_batkiz.json,batkiz/backit
+filebrowser.json,batkiz/backit
 buildkit_batkiz.json,batkiz/backit
 wayback_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
