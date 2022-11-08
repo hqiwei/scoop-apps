@@ -215,6 +215,7 @@ audius.json,Weidows-projects/scoop-3rd
 MyDockFinder.json,Weidows-projects/scoop-3rd
 animation-garden-desktop.json,Weidows-projects/scoop-3rd
 cudnn.json,Weidows-projects/scoop-3rd
+PartAssist.json,Weidows-projects/scoop-3rd
 bw_add_sshkeys.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
 anaconda3.json,Weidows-projects/scoop-3rd
@@ -3018,6 +3019,7 @@ git-cn.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
+vscodium-cn.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 texstudio-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
@@ -3052,9 +3054,9 @@ lx-music.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
 winrar-cn.json,ivaquero/scoopet
-yuque.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
+vlc-cn.json,ivaquero/scoopet
 galaxy-n64.json,borger/scoop-galaxy-integrations
 galaxy-3ds-citra.json,borger/scoop-galaxy-integrations
 galaxy-gw2.json,borger/scoop-galaxy-integrations
@@ -5045,7 +5047,7 @@ bililive-recorder-cli.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 pshash.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
-pestudio.json,hoilc/scoop-lemon
+pestudio_hoilc.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
 projclean.json,hoilc/scoop-lemon
 jjdown_hoilc.json,hoilc/scoop-lemon
@@ -5340,6 +5342,7 @@ TileIconifier_Paxxs.json,Paxxs/Cluttered-bucket
 sdr-Cleaner.json,Paxxs/Cluttered-bucket
 360DrvMgr.json,Paxxs/Cluttered-bucket
 logseq_Paxxs.json,Paxxs/Cluttered-bucket
+dotnet-desktop-runtime.json,Paxxs/Cluttered-bucket
 SmartTaskbar_Paxxs.json,Paxxs/Cluttered-bucket
 deprecated.LDPlayer.clear.json,Paxxs/Cluttered-bucket
 UWP.Fluent-Terminal.json,Paxxs/Cluttered-bucket
@@ -5419,7 +5422,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -5433,7 +5436,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -5655,7 +5658,7 @@ ArcThemALL.json,dodorz/scoop
 Clash-for-Windows_dodorz.json,dodorz/scoop
 nb.json,dodorz/scoop
 XPShutdown.json,dodorz/scoop
-PartAssist.json,dodorz/scoop
+PartAssist_dodorz.json,dodorz/scoop
 BareGrep.json,dodorz/scoop
 RavenReader.json,dodorz/scoop
 Keybase.json,dodorz/scoop
@@ -7213,7 +7216,7 @@ lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 openark_wzv5.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
 wechat_wzv5.json,wzv5/ScoopBucket
-qqmusic.json,wzv5/ScoopBucket
+qqmusic_wzv5.json,wzv5/ScoopBucket
 inno-setup_wzv5.json,wzv5/ScoopBucket
 pytest-py.json,TheRandomLabs/Scoop-Python
 virtualenv-py.json,TheRandomLabs/Scoop-Python
@@ -8337,7 +8340,7 @@ transmission-portable_nickbudi.json,nickbudi/scoop-bucket
 gimp-portable_nickbudi.json,nickbudi/scoop-bucket
 sqlitebrowser_nickbudi.json,nickbudi/scoop-bucket
 vapoursynth_nickbudi.json,nickbudi/scoop-bucket
-lunacy_nickbudi.json,nickbudi/scoop-bucket
+lunacy.json,nickbudi/scoop-bucket
 megatools_nickbudi.json,nickbudi/scoop-bucket
 prime95.json,nickbudi/scoop-bucket
 halo2pc.json,nickbudi/scoop-bucket
