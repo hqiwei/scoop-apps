@@ -532,6 +532,7 @@ darteditor.json,ScoopInstaller/Extras
 netlifyctl.json,ScoopInstaller/Extras
 notion.json,ScoopInstaller/Extras
 scratch.json,ScoopInstaller/Extras
+fix-print-spooler.json,ScoopInstaller/Extras
 ridnacs.json,ScoopInstaller/Extras
 easyrsa.json,ScoopInstaller/Extras
 filelight.json,ScoopInstaller/Extras
@@ -1454,6 +1455,7 @@ visual-arm-emulator.json,ScoopInstaller/Extras
 64gram.json,ScoopInstaller/Extras
 roundedtb.json,ScoopInstaller/Extras
 viddy.json,ScoopInstaller/Extras
+restart-explorer.json,ScoopInstaller/Extras
 opera.json,ScoopInstaller/Extras
 redshift-tray.json,ScoopInstaller/Extras
 madvr.json,ScoopInstaller/Extras
@@ -1537,6 +1539,7 @@ abricotine.json,ScoopInstaller/Extras
 chatterino.json,ScoopInstaller/Extras
 free-manga-downloader2.json,ScoopInstaller/Extras
 blisk.json,ScoopInstaller/Extras
+registry-key-jumper.json,ScoopInstaller/Extras
 diffpdf.json,ScoopInstaller/Extras
 bugn.json,ScoopInstaller/Extras
 ndm.json,ScoopInstaller/Extras
@@ -3327,6 +3330,7 @@ docker-nightly.json,ScoopInstaller/Versions
 git19.json,ScoopInstaller/Versions
 winpython37.json,ScoopInstaller/Versions
 vim-tux.json,ScoopInstaller/Versions
+oracle-instant-client-sdk19.json,ScoopInstaller/Versions
 archi44.json,ScoopInstaller/Versions
 nodejs12.json,ScoopInstaller/Versions
 r36.json,ScoopInstaller/Versions
@@ -3421,6 +3425,7 @@ tesseract4.json,ScoopInstaller/Versions
 nodejs9.json,ScoopInstaller/Versions
 cuda11.4.json,ScoopInstaller/Versions
 godot-beta.json,ScoopInstaller/Versions
+oracle-instant-client-odbc19.json,ScoopInstaller/Versions
 rstudio11.json,ScoopInstaller/Versions
 arduino-ide-rc.json,ScoopInstaller/Versions
 camunda-operate1.3.json,ScoopInstaller/Versions
@@ -3520,6 +3525,7 @@ odin-dev.json,ScoopInstaller/Versions
 clion-eap.json,ScoopInstaller/Versions
 everything-alpha.json,ScoopInstaller/Versions
 greenshot-unstable.json,ScoopInstaller/Versions
+oracle-instant-client19.json,ScoopInstaller/Versions
 idea-ultimate-rc.json,ScoopInstaller/Versions
 brave-nightly.json,ScoopInstaller/Versions
 v-weekly.json,ScoopInstaller/Versions
@@ -4930,7 +4936,7 @@ thorn.json,hoilc/scoop-lemon
 amtool.json,hoilc/scoop-lemon
 neat-reader.json,hoilc/scoop-lemon
 libportable-iceweasel.json,hoilc/scoop-lemon
-64gram.json,hoilc/scoop-lemon
+64gram_hoilc.json,hoilc/scoop-lemon
 copyplusplus_hoilc.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
 zhudou-sans.json,hoilc/scoop-lemon
@@ -5342,7 +5348,6 @@ TileIconifier_Paxxs.json,Paxxs/Cluttered-bucket
 sdr-Cleaner.json,Paxxs/Cluttered-bucket
 360DrvMgr.json,Paxxs/Cluttered-bucket
 logseq_Paxxs.json,Paxxs/Cluttered-bucket
-dotnet-desktop-runtime.json,Paxxs/Cluttered-bucket
 SmartTaskbar_Paxxs.json,Paxxs/Cluttered-bucket
 deprecated.LDPlayer.clear.json,Paxxs/Cluttered-bucket
 UWP.Fluent-Terminal.json,Paxxs/Cluttered-bucket
@@ -7556,6 +7561,7 @@ tencent-edu_ChungZH.json,ChungZH/peach
 swifty.json,ChungZH/peach
 drawio_ChungZH.json,ChungZH/peach
 msedge-stable.json,42wim/scoop-bucket
+googlechrome.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 googlechrome-dev.json,42wim/scoop-bucket
@@ -8340,7 +8346,7 @@ transmission-portable_nickbudi.json,nickbudi/scoop-bucket
 gimp-portable_nickbudi.json,nickbudi/scoop-bucket
 sqlitebrowser_nickbudi.json,nickbudi/scoop-bucket
 vapoursynth_nickbudi.json,nickbudi/scoop-bucket
-lunacy.json,nickbudi/scoop-bucket
+lunacy_nickbudi.json,nickbudi/scoop-bucket
 megatools_nickbudi.json,nickbudi/scoop-bucket
 prime95.json,nickbudi/scoop-bucket
 halo2pc.json,nickbudi/scoop-bucket
