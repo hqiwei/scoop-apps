@@ -1190,7 +1190,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -3033,7 +3033,7 @@ texstudio-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
-baidunetdisk_ivaquero.json,ivaquero/scoopet
+baidunetdisk.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
@@ -3406,6 +3406,7 @@ mps-eap.json,ScoopInstaller/Versions
 filelight-nightly.json,ScoopInstaller/Versions
 php55-xdebug.json,ScoopInstaller/Versions
 discord-ptb.json,ScoopInstaller/Versions
+godot-mono-beta.json,ScoopInstaller/Versions
 chromedriver-beta.json,ScoopInstaller/Versions
 nodejs14.json,ScoopInstaller/Versions
 github-beta.json,ScoopInstaller/Versions
@@ -4710,6 +4711,7 @@ pulsarctl.json,hoilc/scoop-lemon
 gitlab-release-cli.json,hoilc/scoop-lemon
 treeline.json,hoilc/scoop-lemon
 autohidemousecursor.json,hoilc/scoop-lemon
+lal.json,hoilc/scoop-lemon
 helio.json,hoilc/scoop-lemon
 popeye.json,hoilc/scoop-lemon
 zotero-beta.json,hoilc/scoop-lemon
@@ -7209,7 +7211,7 @@ volumelock.json,wzv5/ScoopBucket
 vnote.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
-evernote.json,wzv5/ScoopBucket
+evernote_wzv5.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 openjdk-doc.json,wzv5/ScoopBucket
