@@ -1190,7 +1190,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -1274,6 +1274,7 @@ notepad2-zufuliu.json,ScoopInstaller/Extras
 freac.json,ScoopInstaller/Extras
 deskreen.json,ScoopInstaller/Extras
 pdfsam.json,ScoopInstaller/Extras
+reduce-memory.json,ScoopInstaller/Extras
 keepass-plugin-keeanywhere.json,ScoopInstaller/Extras
 nswagstudio.json,ScoopInstaller/Extras
 netbeans.json,ScoopInstaller/Extras
@@ -3033,7 +3034,7 @@ texstudio-cn.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
-baidunetdisk.json,ivaquero/scoopet
+baidunetdisk_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
@@ -6438,7 +6439,7 @@ lockhunter-np.json,zhoujin7/tomato
 soar_zhoujin7.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
 notepadplusplus_zhoujin7.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 maven36.json,zhoujin7/tomato
 HBuilderX-Full-Alpha.json,zhoujin7/tomato
 HBuilderX_zhoujin7.json,zhoujin7/tomato
@@ -6531,6 +6532,7 @@ screenoff_ACooper81.json,ACooper81/scoop-apps
 phraseexpress_ACooper81.json,ACooper81/scoop-apps
 nuclear_ACooper81.json,ACooper81/scoop-apps
 fluent-reader_ACooper81.json,ACooper81/scoop-apps
+SophiApp-Portable.json,ACooper81/scoop-apps
 iMazingHEICConverter-Portable.json,ACooper81/scoop-apps
 Coodesker-Portable.json,ACooper81/scoop-apps
 AdobeAcrobatReader-Install.json,ACooper81/scoop-apps
@@ -6542,6 +6544,7 @@ NotCPUCores-Portable.json,ACooper81/scoop-apps
 BootRacer-Install.json,ACooper81/scoop-apps
 IniModCLI-Portable.json,ACooper81/scoop-apps
 Windhawk-Portable.json,ACooper81/scoop-apps
+PyDebloatX-Portable.json,ACooper81/scoop-apps
 SteelSeriesEngine-Install.json,ACooper81/scoop-apps
 Zotero-Install.json,ACooper81/scoop-apps
 StreamDeck-Portable.json,ACooper81/scoop-apps
@@ -6852,7 +6855,7 @@ WindowsPCHealthCheck-Portable.json,ACooper81/scoop-apps
 Teamviewer-Portable.json,ACooper81/scoop-apps
 tcpingCLI-Portable.json,ACooper81/scoop-apps
 NirsoftAdvancedRun-Portable.json,ACooper81/scoop-apps
-SophiApp-Portable.json,ACooper81/scoop-apps
+SophiApp-Portable_ACooper81.json,ACooper81/scoop-apps
 Windows10UpdateAssistant-Portable.json,ACooper81/scoop-apps
 EnvyUpdate-Portable.json,ACooper81/scoop-apps
 Bitwarden-Portable.json,ACooper81/scoop-apps
@@ -6915,6 +6918,7 @@ NirsoftInstalledAppView-Portable.json,ACooper81/scoop-apps
 PSGen-Portable.json,ACooper81/scoop-apps
 WinSWCLI-Portable.json,ACooper81/scoop-apps
 Caffeine-Portable.json,ACooper81/scoop-apps
+Windows10Debloater-Portable.json,ACooper81/scoop-apps
 RmEDirCLI-Portable.json,ACooper81/scoop-apps
 NirsoftNetworkOpenedFiles-Portable.json,ACooper81/scoop-apps
 WinMerge-Portable.json,ACooper81/scoop-apps
@@ -7084,6 +7088,7 @@ StreamlinkTwitchGUI-Portable.json,ACooper81/scoop-apps
 pacaptrCLI-Portable.json,ACooper81/scoop-apps
 AccentApplicator-UserInstall.json,ACooper81/scoop-apps
 BulkCrapUninstaller-Portable.json,ACooper81/scoop-apps
+CTTWindowsUtility-Script.json,ACooper81/scoop-apps
 PicoTorrent-Portable.json,ACooper81/scoop-apps
 PSWindowsUpdate-PSModule.json,ACooper81/scoop-apps
 TeamViewer-Install.json,ACooper81/scoop-apps
@@ -7450,7 +7455,7 @@ babelpad_naderi.json,naderi/scoop-bucket
 bitcomet_naderi.json,naderi/scoop-bucket
 yt-spammer-purge.json,naderi/scoop-bucket
 hash-explorer_naderi.json,naderi/scoop-bucket
-teamviewer-portable_naderi.json,naderi/scoop-bucket
+teamviewer-portable.json,naderi/scoop-bucket
 wise-program-uninstaller.json,naderi/scoop-bucket
 7zip-lzma.json,naderi/scoop-bucket
 lgpo_naderi.json,naderi/scoop-bucket
@@ -7512,6 +7517,7 @@ sublime-text-4.json,naderi/scoop-bucket
 wezterm-portable.json,naderi/scoop-bucket
 telegram_naderi.json,naderi/scoop-bucket
 leomoon-subfix.json,naderi/scoop-bucket
+plexamp.json,naderi/scoop-bucket
 unicsved_naderi.json,naderi/scoop-bucket
 dev-cpp-no-compiler.json,naderi/scoop-bucket
 win-aio.json,naderi/scoop-bucket
