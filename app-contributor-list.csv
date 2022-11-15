@@ -866,7 +866,7 @@ ryzen-controller.json,ScoopInstaller/Extras
 jami.json,ScoopInstaller/Extras
 dependencies.json,ScoopInstaller/Extras
 noty.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 mpc-hc-fork.json,ScoopInstaller/Extras
 pixitracker.json,ScoopInstaller/Extras
 notepadplusplus.json,ScoopInstaller/Extras
@@ -1189,7 +1189,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -3507,7 +3507,7 @@ cuda10.1.json,ScoopInstaller/Versions
 flow031.json,ScoopInstaller/Versions
 freac-continuous.json,ScoopInstaller/Versions
 putty-cac.json,ScoopInstaller/Versions
-snipaste-beta_ScoopInstaller.json,ScoopInstaller/Versions
+snipaste-beta.json,ScoopInstaller/Versions
 teamcity-rc.json,ScoopInstaller/Versions
 arduino18.json,ScoopInstaller/Versions
 nodejs012.json,ScoopInstaller/Versions
@@ -5408,7 +5408,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
@@ -5438,7 +5438,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -8243,6 +8243,7 @@ ysyy.json,akirco/aki-apps
 windows10manager_akirco.json,akirco/aki-apps
 officetoolplus_akirco.json,akirco/aki-apps
 wttop_akirco.json,akirco/aki-apps
+snipaste.json,akirco/aki-apps
 ncspot_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
@@ -8440,7 +8441,7 @@ memo.json,akirco/aki-apps
 python39_akirco.json,akirco/aki-apps
 7zip_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 hwmonitor_akirco.json,akirco/aki-apps
 lx-music-desktop_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
@@ -8886,6 +8887,7 @@ gcc@8.1.0-multilib.json,rivy/scoop-bucket
 vagrant@1.8.0.json,rivy/scoop-bucket
 grep_rivy.json,rivy/scoop-bucket
 conan@1.52.0.json,rivy/scoop-bucket
+sapling.json,rivy/scoop-bucket
 gcc@10.3.0-multilib+x32.json,rivy/scoop-bucket
 premake_rivy.json,rivy/scoop-bucket
 cmake_rivy.json,rivy/scoop-bucket
@@ -9051,9 +9053,11 @@ gcc@8.1.0-multilib+x32.json,rivy/scoop-bucket
 perl@5.28.json,rivy/scoop-bucket
 ant@1.9.7.json,rivy/scoop-bucket
 gh@1.1.0.json,rivy/scoop-bucket
+blat@3.2.24.json,rivy/scoop-bucket
 cmake@3.16.0.json,rivy/scoop-bucket
 makeme@1.0.3.json,rivy/scoop-bucket
 v_rivy.json,rivy/scoop-bucket
+blat_rivy.json,rivy/scoop-bucket
 file_rivy.json,rivy/scoop-bucket
 codecov.json,rivy/scoop-bucket
 perl@5.28.1.1.json,rivy/scoop-bucket
@@ -9219,7 +9223,7 @@ kubectx_brave-simpletons.json,brave-simpletons/scoop-the-business
 python_brave-simpletons.json,brave-simpletons/scoop-the-business
 openssl-lts.json,brave-simpletons/scoop-the-business
 xmind8_brave-simpletons.json,brave-simpletons/scoop-the-business
-gcloud_brave-simpletons.json,brave-simpletons/scoop-the-business
+gcloud.json,brave-simpletons/scoop-the-business
 vcredist2019_brave-simpletons.json,brave-simpletons/scoop-the-business
 helm_brave-simpletons.json,brave-simpletons/scoop-the-business
 kubefwd_brave-simpletons.json,brave-simpletons/scoop-the-business
