@@ -1,0 +1,35 @@
+{
+    "version": "10.49.4",
+    "homepage": "https://evernote.com/",
+    "license": "Freeware",
+    "url": "https://cdn1.evernote.com/boron/win/builds/Evernote-10.49.4-win-ddl-ga-3782-127ce42593-setup.exe#/dl.7z",
+    "hash": "sha512:21597d5cd4776f22241f5b9833eba03c4303f4df748bbf57007284c871d8130baa7b7f257ed661bb46ed90f134f5ac67c5a1ef06174dae0f5db5ce8e2cb7afa3",
+    "installer": {
+        "script": [
+            "Remove-Item \"$dir\\Unins*\", \"$dir\\resources\" -Force -Recurse",
+            "if ($architecture -eq '64bit') {",
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "} elseif ($architecture -eq '32bit') {",
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
+            "}",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
+        ]
+    },
+    "shortcuts": [
+        [
+            "Evernote.exe",
+            "Evernote"
+        ]
+    ],
+    "checkver": {
+        "url": "https://evernote.s3.amazonaws.com/boron/win/public/latest.yml",
+        "regex": "Evernote-([\\d.]+)-(?<tail>.+).exe"
+    },
+    "autoupdate": {
+        "url": "https://cdn1.evernote.com/boron/win/builds/Evernote-$version-$matchTail.exe#/dl.7z",
+        "hash": {
+            "url": "https://evernote.s3.amazonaws.com/boron/win/public/latest.yml",
+            "regex": "sha512: $base64"
+        }
+    }
+}
