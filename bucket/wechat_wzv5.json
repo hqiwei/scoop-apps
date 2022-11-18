@@ -1,0 +1,22 @@
+{
+    "version": "3.8.0.41",
+    "homepage": "https://weixin.qq.com/",
+    "license": "Freeware",
+    "url": "https://webcdn.m.qq.com/spcmgr/download/WeChatSetup_3.8.0.41.exe#/dl.7z",
+    "hash": "a2e7a8c91ccbd564430f3e83fe5ee05af4ec2ab9266c5ef3a7318741d96eaded",
+    "extract_dir": "[3.8.0.41]",
+    "shortcuts": [
+        [
+            "wechat.exe",
+            "WeChat"
+        ]
+    ],
+    "checkver": {
+        "url": "https://s.pc.qq.com/softdetail_v3/114/88/detail_11488.html",
+        "regex": "<li>版本：([\\d.]+)</li>"
+    },
+    "autoupdate": {
+        "url": "https://webcdn.m.qq.com/spcmgr/download/WeChatSetup_$version.exe#/dl.7z",
+        "extract_dir": "[$version]"
+    }
+}
