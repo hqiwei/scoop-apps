@@ -79,8 +79,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - Paxxs/Cluttered-bucket
 - TheRandomLabs/Scoop-Bucket
 - Qv2ray/mochi
-- dodorz/scoop
 - ScoopInstaller/Nonportable
+- dodorz/scoop
 - ACooper81/scoop-apps
 - ZvonimirSun/scoop-iszy
 - kiennq/scoop-misc
@@ -109,6 +109,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - MCOfficer/scoop-bucket
 - Apocalypsor/My-Scoop-Bucket
 - Velgus/Scoop-Portapps
+- duzyn/scoop-cn
 - Deide/deide-bucket
 - KnotUntied/scoop-fonts
 - rivy/scoop-bucket
