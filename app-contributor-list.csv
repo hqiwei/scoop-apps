@@ -1190,7 +1190,7 @@ session.json,ScoopInstaller/Extras
 xb1cbi.json,ScoopInstaller/Extras
 crystaldiskinfo.json,ScoopInstaller/Extras
 ncftpclient.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 hourglass.json,ScoopInstaller/Extras
 registry-explorer.json,ScoopInstaller/Extras
 vscodium.json,ScoopInstaller/Extras
@@ -3053,7 +3053,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 file-converter.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 mendeley-desktop.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -3080,16 +3080,6 @@ vmware-workstation-pro.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 vlc-cn.json,ivaquero/scoopet
-spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
-spicetify-jqbx.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes.json,TheRandomLabs/Scoop-Spotify
-spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
-spotify-latest.json,TheRandomLabs/Scoop-Spotify
-genius-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-blockthespot.json,TheRandomLabs/Scoop-Spotify
-spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-google-spicetify.json,TheRandomLabs/Scoop-Spotify
 galaxy-n64.json,borger/scoop-galaxy-integrations
 galaxy-3ds-citra.json,borger/scoop-galaxy-integrations
 galaxy-gw2.json,borger/scoop-galaxy-integrations
@@ -5436,7 +5426,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -7187,7 +7177,7 @@ notepadplusplus_zhoujin7.json,zhoujin7/tomato
 Quicker_zhoujin7.json,zhoujin7/tomato
 maven36.json,zhoujin7/tomato
 HBuilderX-Full-Alpha.json,zhoujin7/tomato
-HBuilderX_zhoujin7.json,zhoujin7/tomato
+HBuilderX.json,zhoujin7/tomato
 OracleJDK8_zhoujin7.json,zhoujin7/tomato
 OracleJDK11.json,zhoujin7/tomato
 HBuilder.json,zhoujin7/tomato
@@ -7246,7 +7236,7 @@ besttrace.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
-aliyundrive_wzv5.json,wzv5/ScoopBucket
+aliyundrive.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 douyu.json,wzv5/ScoopBucket
@@ -7348,6 +7338,7 @@ gpac_naderi.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
 cinta-notes.json,naderi/scoop-bucket
 autodarkmode_naderi.json,naderi/scoop-bucket
+audacity-lame-plugin_naderi.json,naderi/scoop-bucket
 firefox-developer-de.json,naderi/scoop-bucket
 doublecmd-portable.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
@@ -7360,7 +7351,7 @@ similarimagefinder.json,naderi/scoop-bucket
 chrome-dev-portable.json,naderi/scoop-bucket
 idea-portable.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
-securefs_naderi.json,naderi/scoop-bucket
+securefs.json,naderi/scoop-bucket
 texpen.json,naderi/scoop-bucket
 shutter_naderi.json,naderi/scoop-bucket
 cmder-powerline-prompt.json,naderi/scoop-bucket
@@ -7400,6 +7391,7 @@ icofx.json,naderi/scoop-bucket
 stdu-xml-editor.json,naderi/scoop-bucket
 ydl-ui-portable.json,naderi/scoop-bucket
 multidoge.json,naderi/scoop-bucket
+audacity-ffmpeg-plugin_naderi.json,naderi/scoop-bucket
 xpdf-tools-all_naderi.json,naderi/scoop-bucket
 flashpad_naderi.json,naderi/scoop-bucket
 qilin.json,naderi/scoop-bucket
@@ -7758,7 +7750,7 @@ difftastic_littleli.json,littleli/Scoop-littleli
 netmet.json,littleli/Scoop-littleli
 wait-for-it.json,littleli/Scoop-littleli
 tokio-console.json,littleli/Scoop-littleli
-clib_littleli.json,littleli/Scoop-littleli
+clib.json,littleli/Scoop-littleli
 tdu.json,littleli/Scoop-littleli
 zecwallet-lite.json,littleli/Scoop-littleli
 mpg123_littleli.json,littleli/Scoop-littleli
@@ -7914,7 +7906,7 @@ goimports-reviser.json,batkiz/backit
 miniserve_batkiz.json,batkiz/backit
 less-windows.json,batkiz/backit
 dasel_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 miniconda3_batkiz.json,batkiz/backit
 fscan.json,batkiz/backit
 racket-minimal-cs.json,batkiz/backit
@@ -8017,7 +8009,7 @@ LinkEase.json,ygguorun/scoop-bucket
 RegexMatchTracer.json,ygguorun/scoop-bucket
 EmbyTheater.json,ygguorun/scoop-bucket
 Malware-Patch_ygguorun.json,ygguorun/scoop-bucket
-aDrive_ygguorun.json,ygguorun/scoop-bucket
+aDrive.json,ygguorun/scoop-bucket
 Effidit.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
 ShanaEncoder.json,ygguorun/scoop-bucket
@@ -8439,7 +8431,7 @@ oh-my-posh_akirco.json,akirco/aki-apps
 ContextMenuManager_akirco.json,akirco/aki-apps
 n-m3u8dl-cli_akirco.json,akirco/aki-apps
 mdbook_akirco.json,akirco/aki-apps
-hellofont_akirco.json,akirco/aki-apps
+hellofont.json,akirco/aki-apps
 far_akirco.json,akirco/aki-apps
 scrcpy-gui_akirco.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
@@ -9537,7 +9529,6 @@ putty_brave-simpletons.json,brave-simpletons/scoop-the-business
 dotnet-sdk_brave-simpletons.json,brave-simpletons/scoop-the-business
 googlechrome_brave-simpletons.json,brave-simpletons/scoop-the-business
 helm-docs_brave-simpletons.json,brave-simpletons/scoop-the-business
-sysinternals_brave-simpletons.json,brave-simpletons/scoop-the-business
 mongodb_brave-simpletons.json,brave-simpletons/scoop-the-business
 kubectl_brave-simpletons.json,brave-simpletons/scoop-the-business
 opera-gx_brave-simpletons.json,brave-simpletons/scoop-the-business
@@ -9714,7 +9705,7 @@ tianruoocr_hu3rror.json,hu3rror/scoop-muggle
 ACNH-design-pattern-editor.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
 lito-music.json,hu3rror/scoop-muggle
-pdfpatcher.json,hu3rror/scoop-muggle
+pdfpatcher_hu3rror.json,hu3rror/scoop-muggle
 newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
 desktopnaotu_hu3rror.json,hu3rror/scoop-muggle
 smartzip.json,hu3rror/scoop-muggle
