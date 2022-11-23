@@ -1,6 +1,6 @@
 {
-    "version": "5.0-17893",
-    "description": "A Nintendo GameCube and Wii emulator, with enhancements and Netplay. (development version)",
+    "version": "5.0-17926",
+    "description": "A Nintendo GameCube and Wii emulator",
     "homepage": "https://dolphin-emu.org/",
     "license": {
         "identifier": "GPL-2.0-or-later",
@@ -9,8 +9,8 @@
     "suggest": {
         "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
     },
-    "url": "https://dl.dolphin-emu.org/builds/4f/69/dolphin-master-5.0-17893-x64.7z",
-    "hash": "9bf1a50892e42ebfbb6abdcb5a36b65f1defe5ccbc56883f611b64781c32de7b",
+    "url": "https://dl.dolphin-emu.org/builds/8d/e5/dolphin-master-5.0-17926-x64.7z",
+    "hash": "f6093b617d7f2953cc37889cae27d507e32b7998972bf6c0f02b8814835aa9a0",
     "extract_dir": "Dolphin-x64",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\")) {",
@@ -33,7 +33,7 @@
     "shortcuts": [
         [
             "Dolphin.exe",
-            "Dolphin (Development)"
+            "Dolphin (dev)"
         ]
     ],
     "persist": "User",
