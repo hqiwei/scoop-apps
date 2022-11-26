@@ -232,6 +232,7 @@ YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
 audius.json,Weidows-projects/scoop-3rd
 MyDockFinder.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
+pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 PartAssist.json,Weidows-projects/scoop-3rd
 GitHub520.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
@@ -1967,7 +1968,7 @@ nimbletext.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 digital.json,ScoopInstaller/Extras
 keeweb.json,ScoopInstaller/Extras
-tinymediamanager_ScoopInstaller.json,ScoopInstaller/Extras
+tinymediamanager.json,ScoopInstaller/Extras
 color-cop.json,ScoopInstaller/Extras
 lapce.json,ScoopInstaller/Extras
 portable-virtualbox.json,ScoopInstaller/Extras
@@ -4442,6 +4443,7 @@ newfiletime.json,echoiron/echo-scoop
 ocam.json,echoiron/echo-scoop
 qq.json,echoiron/echo-scoop
 gost.json,echoiron/echo-scoop
+mobaxterm_echoiron.json,echoiron/echo-scoop
 dingtalk_echoiron.json,echoiron/echo-scoop
 notepad2-mod_echoiron.json,echoiron/echo-scoop
 hbuilderx.json,echoiron/echo-scoop
@@ -4522,6 +4524,7 @@ tencentmeeting.json,echoiron/echo-scoop
 emeditor_echoiron.json,echoiron/echo-scoop
 oss-browser_echoiron.json,echoiron/echo-scoop
 clash-for-windows_echoiron.json,echoiron/echo-scoop
+xshellplus.json,echoiron/echo-scoop
 iqiyi.json,echoiron/echo-scoop
 kbootopt.json,echoiron/echo-scoop
 stellarplayer.json,echoiron/echo-scoop
@@ -5443,10 +5446,10 @@ sameboy_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 melonds.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -5460,7 +5463,7 @@ ryujinx_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 ppsspp-dev.json,borger/scoop-emulators
@@ -6961,6 +6964,7 @@ cascadiacode-pl.json,kiennq/scoop-misc
 golang.json,kiennq/scoop-misc
 llvm-x.json,kiennq/scoop-misc
 ryusak.json,kiennq/scoop-misc
+uwphook.json,kiennq/scoop-misc
 emacs-x.json,kiennq/scoop-misc
 proton-launcher.json,kiennq/scoop-misc
 cemuhook-x.json,kiennq/scoop-misc
@@ -7640,7 +7644,6 @@ apimonitor.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 googlechrome-portable_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
-googlechrome.json,42wim/scoop-bucket
 googlechrome-canary_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
@@ -7841,7 +7844,7 @@ ugrep_batkiz.json,batkiz/backit
 fstar.json,batkiz/backit
 csvq_batkiz.json,batkiz/backit
 wayback_batkiz.json,batkiz/backit
-Iosevka_batkiz.json,batkiz/backit
+Iosevka.json,batkiz/backit
 duf_batkiz.json,batkiz/backit
 golangci-lint_batkiz.json,batkiz/backit
 scc_batkiz.json,batkiz/backit
@@ -8188,6 +8191,7 @@ emeditor_jfut.json,jfut/scoop-jfut
 brynhildr.json,jfut/scoop-jfut
 thunderbird.ja.json,jfut/scoop-jfut
 putty-gdi.json,jfut/scoop-jfut
+pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 utools.json,ChinLong/scoop-customize
 wsl-terminal_ChinLong.json,ChinLong/scoop-customize
 tortoisegit.json,ChinLong/scoop-customize
@@ -8416,6 +8420,7 @@ dart_akirco.json,akirco/aki-apps
 uwd.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
 gitui_akirco.json,akirco/aki-apps
+runjs.json,akirco/aki-apps
 anaconda3_akirco.json,akirco/aki-apps
 scrcpy-gui_akirco.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
@@ -9698,7 +9703,7 @@ owasp-threatdragon.json,brave-simpletons/scoop-the-business
 windows-terminal_brave-simpletons.json,brave-simpletons/scoop-the-business
 grype_brave-simpletons.json,brave-simpletons/scoop-the-business
 winmerge_brave-simpletons.json,brave-simpletons/scoop-the-business
-chromium.json,brave-simpletons/scoop-the-business
+chromium_brave-simpletons.json,brave-simpletons/scoop-the-business
 vcredist2013_brave-simpletons.json,brave-simpletons/scoop-the-business
 xmind8_brave-simpletons.json,brave-simpletons/scoop-the-business
 mongodb_brave-simpletons.json,brave-simpletons/scoop-the-business
