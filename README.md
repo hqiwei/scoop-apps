@@ -94,6 +94,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - 42wim/scoop-bucket
 - mogeko/scoop-sysinternals
 - krproject/qi-windows
+- ChinLong/scoop-customize
 - Darkatse/Scoop-Darkatse
 - littleli/Scoop-littleli
 - batkiz/backit
@@ -103,7 +104,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - jfut/scoop-jfut
 - duzyn/scoop-cn
 - Weidows-projects/scoop-3rd
-- ChinLong/scoop-customize
 - seumsc/scoop-seu
 - akirco/aki-apps
 - alextwothousand/scoop-bucket
