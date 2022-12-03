@@ -1,14 +1,17 @@
 {
-    "version": "2.15.0.830",
-    "description": "Text-To-Speech software based on SAPI",
-    "homepage": "http://balabolka.site/balabolka.htm",
+    "version": "2.15.0.831",
+    "description": "A Text-To-Speech (TTS) program uses various versions of Microsoft Speech API (SAPI).",
+    "homepage": "http://www.cross-plus-a.com/bportable.htm",
     "license": "Freeware",
     "url": "http://balabolka.site/balabolka_portable.zip",
-    "hash": "cb76175b94629e8b5da88c1f95635414042130fcc2758b5204814ecd29a62e41",
+    "hash": "b8377cd4a77edb7e64499f20b477ce12bf299f31edc2cbc15f3553835e931b79",
     "extract_dir": "Balabolka",
-    "post_install": "Get-ChildItem \"$persist_dir\\*\" -Include 'balabolka.dat', 'balabolka.pcfg', 'balabolka.echo' -Force | Copy-Item -Destination \"$dir\" -ErrorAction SilentlyContinue",
+    "pre_install": "if(Test-Path \"$persist_dir\\balabolka.pcfg\") { Copy-Item \"$persist_dir\\balabolka.pcfg\" \"$dir\\balabolka.pcfg\" | Out-Null }",
     "uninstaller": {
-        "script": "Get-ChildItem \"$dir\\*\" -Include 'balabolka.dat', 'balabolka.pcfg', 'balabolka.echo' -Force | Copy-Item -Destination \"$persist_dir\" -ErrorAction SilentlyContinue -Force"
+        "script": [
+            "if(!(Test-Path \"$persist_dir\\\")) { New-Item -Path \"$persist_dir\\\" -ItemType Directory | Out-Null }",
+            "if(Test-Path \"$dir\\balabolka.pcfg\") { Copy-Item \"$dir\\balabolka.pcfg\" \"$persist_dir\\balabolka.pcfg\" | Out-Null }"
+        ]
     },
     "shortcuts": [
         [
@@ -16,14 +19,9 @@
             "Balabolka"
         ]
     ],
-    "persist": [
-        "dictionaries",
-        "hunspell",
-        "skins"
-    ],
     "checkver": {
-        "url": "http://balabolka.site/changelog.txt",
-        "regex": "[\\d-]+\\s+v([\\d.]+)"
+        "url": "http://www.cross-plus-a.com/changelog.txt",
+        "regex": "\\d+-\\d+\\d+\\s*v([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://balabolka.site/balabolka_portable.zip"
