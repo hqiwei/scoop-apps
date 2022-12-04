@@ -3239,7 +3239,7 @@ reko.json,TheCjw/scoop-retools
 boomerang.json,TheCjw/scoop-retools
 emule-cv.json,ScoopInstaller/Versions
 chromium-dev-nosync.json,ScoopInstaller/Versions
-snipaste-beta.json,ScoopInstaller/Versions
+snipaste-beta_ScoopInstaller.json,ScoopInstaller/Versions
 qt-creator-beta.json,ScoopInstaller/Versions
 v-weekly.json,ScoopInstaller/Versions
 cuda7.0.json,ScoopInstaller/Versions
@@ -5028,7 +5028,7 @@ soar.json,hoilc/scoop-lemon
 oggenc2-libvorbis-aotuv.json,hoilc/scoop-lemon
 worsttrace.json,hoilc/scoop-lemon
 haproxy_exporter.json,hoilc/scoop-lemon
-balabolka.json,hoilc/scoop-lemon
+balabolka_hoilc.json,hoilc/scoop-lemon
 sarasa-mono-sc-nerd.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
 gtk-sharp-libs.json,hoilc/scoop-lemon
@@ -5070,7 +5070,7 @@ slimpdfreader.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 pcap2socks.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 lukestackwalker.json,hoilc/scoop-lemon
 uptoc.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
@@ -5089,7 +5089,7 @@ firefox-history-merger.json,hoilc/scoop-lemon
 ytdlp.json,hoilc/scoop-lemon
 ytt_hoilc.json,hoilc/scoop-lemon
 gchecksum.json,hoilc/scoop-lemon
-skylark.json,hoilc/scoop-lemon
+skylark_hoilc.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
 experienceindexok.json,hoilc/scoop-lemon
 edgedb-cli-nightly.json,hoilc/scoop-lemon
@@ -5460,7 +5460,7 @@ sameboy_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 pcsx2-dev.json,borger/scoop-emulators
@@ -7318,7 +7318,7 @@ uncolored.json,naderi/scoop-bucket
 dev-cpp.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
 multidoge.json,naderi/scoop-bucket
-java-editor_naderi.json,naderi/scoop-bucket
+java-editor.json,naderi/scoop-bucket
 fixwin-10.json,naderi/scoop-bucket
 wxmedit_naderi.json,naderi/scoop-bucket
 mitec-exe-explorer.json,naderi/scoop-bucket
@@ -7659,7 +7659,6 @@ apimonitor.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 googlechrome-portable.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
-googlechrome.json,42wim/scoop-bucket
 googlechrome-canary_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
@@ -7699,6 +7698,7 @@ gitoxide.json,batkiz/backit
 go-unstable.json,batkiz/backit
 dolt_batkiz.json,batkiz/backit
 yu-writer_batkiz.json,batkiz/backit
+Icalingua-plus-plus.json,batkiz/backit
 embarcadero-dev-cpp-no-compiler.json,batkiz/backit
 motrix_batkiz.json,batkiz/backit
 git-stack.json,batkiz/backit
@@ -8205,12 +8205,11 @@ sayit_akirco.json,akirco/aki-apps
 homedale_akirco.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 lepton_akirco.json,akirco/aki-apps
-chromium.json,akirco/aki-apps
+chromium_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 gallery-dl_akirco.json,akirco/aki-apps
 ntop_akirco.json,akirco/aki-apps
 github_akirco.json,akirco/aki-apps
-snipaste.json,akirco/aki-apps
 OracleJDK8_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
