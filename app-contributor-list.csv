@@ -351,7 +351,7 @@ convert.net.json,ScoopInstaller/Extras
 hakuneko.json,ScoopInstaller/Extras
 shiba.json,ScoopInstaller/Extras
 cudatext.json,ScoopInstaller/Extras
-autohotkey.json,ScoopInstaller/Extras
+autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
 obs-studio-small.json,ScoopInstaller/Extras
 xournalpp.json,ScoopInstaller/Extras
 easyserviceoptimizer.json,ScoopInstaller/Extras
@@ -929,6 +929,7 @@ secureuxtheme.json,ScoopInstaller/Extras
 prusaslicer.json,ScoopInstaller/Extras
 twine.json,ScoopInstaller/Extras
 microsoft-teams.json,ScoopInstaller/Extras
+telegram-downloader.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
 kotatogram.json,ScoopInstaller/Extras
 plex-player.json,ScoopInstaller/Extras
@@ -1895,6 +1896,7 @@ emeditor.json,ScoopInstaller/Extras
 moar.json,ScoopInstaller/Extras
 wox.json,ScoopInstaller/Extras
 foto-mosaik-edda.json,ScoopInstaller/Extras
+duplicati.json,ScoopInstaller/Extras
 shotcut.json,ScoopInstaller/Extras
 dual-monitor-tools.json,ScoopInstaller/Extras
 win-portacle.json,ScoopInstaller/Extras
@@ -2899,6 +2901,7 @@ prboom-plus.json,Calinou/scoop-games
 pcsx2.json,Calinou/scoop-games
 minetest.json,Calinou/scoop-games
 redream.json,Calinou/scoop-games
+duckstation-preview.json,Calinou/scoop-games
 dolphin-dev.json,Calinou/scoop-games
 blockbench.json,Calinou/scoop-games
 bsnes-hd-beta.json,Calinou/scoop-games
@@ -3041,6 +3044,7 @@ ecwolf.json,Calinou/scoop-games
 package.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
+yuque.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
@@ -4781,7 +4785,7 @@ exeinfo-pe_hoilc.json,hoilc/scoop-lemon
 sonixd_hoilc.json,hoilc/scoop-lemon
 categraf.json,hoilc/scoop-lemon
 trdl.json,hoilc/scoop-lemon
-64gram.json,hoilc/scoop-lemon
+64gram_hoilc.json,hoilc/scoop-lemon
 qsftpd.json,hoilc/scoop-lemon
 graphite_exporter.json,hoilc/scoop-lemon
 maxthon6.json,hoilc/scoop-lemon
@@ -5245,7 +5249,7 @@ vice-sdl2.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 pcsx2_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
-duckstation-preview.json,hermanjustnu/scoop-emulators
+duckstation-preview_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-vxwidgets.json,hermanjustnu/scoop-emulators
 betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5445,7 +5449,7 @@ xenia_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
@@ -5465,7 +5469,7 @@ redream_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -5475,7 +5479,7 @@ simple64_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -6690,7 +6694,7 @@ ToothTray.json,dodorz/scoop
 Sc1_dodorz.json,dodorz/scoop
 Gapminder.json,dodorz/scoop
 DocFetcher.json,dodorz/scoop
-Duplicati.json,dodorz/scoop
+Duplicati_dodorz.json,dodorz/scoop
 GOMPlayer.json,dodorz/scoop
 Iridium.json,dodorz/scoop
 Inpaint.json,dodorz/scoop
@@ -7468,7 +7472,6 @@ nanaget.json,naderi/scoop-bucket
 gpac_naderi.json,naderi/scoop-bucket
 csved_naderi.json,naderi/scoop-bucket
 capture2text_naderi.json,naderi/scoop-bucket
-duck.json,naderi/scoop-bucket
 miktex_naderi.json,naderi/scoop-bucket
 thunderbird-de.json,naderi/scoop-bucket
 idea-portable.json,naderi/scoop-bucket
@@ -7660,16 +7663,6 @@ drawio_ChungZH.json,ChungZH/peach
 swifty.json,ChungZH/peach
 notepanda.json,ChungZH/peach
 parsify.json,ChungZH/peach
-ghidra-nightly.json,NyaMisty/scoop_bucket_misty
-rizin_NyaMisty.json,NyaMisty/scoop_bucket_misty
-fclone.json,NyaMisty/scoop_bucket_misty
-metasploit-framework.json,NyaMisty/scoop_bucket_misty
-dnSpyEx_NyaMisty.json,NyaMisty/scoop_bucket_misty
-dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
-ghidra-beta.json,NyaMisty/scoop_bucket_misty
-libimobiledevice-nightly.json,NyaMisty/scoop_bucket_misty
-gostv3.json,NyaMisty/scoop_bucket_misty
-wireshark-nightly.json,NyaMisty/scoop_bucket_misty
 googlechrome-dev.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
@@ -7683,6 +7676,16 @@ spystudio.json,42wim/scoop-bucket
 googlechrome-beta.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
+ghidra-nightly.json,NyaMisty/scoop_bucket_misty
+rizin_NyaMisty.json,NyaMisty/scoop_bucket_misty
+fclone.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
+dnSpyEx_NyaMisty.json,NyaMisty/scoop_bucket_misty
+dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
+ghidra-beta.json,NyaMisty/scoop_bucket_misty
+libimobiledevice-nightly.json,NyaMisty/scoop_bucket_misty
+gostv3.json,NyaMisty/scoop_bucket_misty
+wireshark-nightly.json,NyaMisty/scoop_bucket_misty
 memtest.json,Darkatse/Scoop-Darkatse
 vesta_Darkatse.json,Darkatse/Scoop-Darkatse
 KeqingNiuza.json,Darkatse/Scoop-Darkatse
@@ -7862,7 +7865,7 @@ lean-cli_batkiz.json,batkiz/backit
 yarr.json,batkiz/backit
 kreya.json,batkiz/backit
 deta_batkiz.json,batkiz/backit
-vivaldi-snapshot_batkiz.json,batkiz/backit
+vivaldi-snapshot.json,batkiz/backit
 bflat.json,batkiz/backit
 hgrep.json,batkiz/backit
 ghdl.json,batkiz/backit
@@ -7983,7 +7986,7 @@ deep-explorer.json,amorphobia/siku
 cargo-binstall.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 bilimini.json,amorphobia/siku
-todesk.json,amorphobia/siku
+todesk_amorphobia.json,amorphobia/siku
 cleanmywechat_amorphobia.json,amorphobia/siku
 setacl.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
@@ -8269,7 +8272,7 @@ pngcrush_akirco.json,akirco/aki-apps
 docker-cli_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 Thunder.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 bandicam_akirco.json,akirco/aki-apps
 trash_akirco.json,akirco/aki-apps
 macchina_akirco.json,akirco/aki-apps
@@ -8485,7 +8488,7 @@ gluttonyFLIF.json,ygguorun/scoop-bucket
 TerminusPlayer.json,ygguorun/scoop-bucket
 upgit_ygguorun.json,ygguorun/scoop-bucket
 FileMonitor.json,ygguorun/scoop-bucket
-apifox_ygguorun.json,ygguorun/scoop-bucket
+apifox.json,ygguorun/scoop-bucket
 excel-regex-tool.json,ygguorun/scoop-bucket
 CloudflareSpeedTest_ygguorun.json,ygguorun/scoop-bucket
 LinkEase.json,ygguorun/scoop-bucket
@@ -8985,7 +8988,7 @@ owasp-threatdragon.json,brave-simpletons/scoop-the-business
 windows-terminal_brave-simpletons.json,brave-simpletons/scoop-the-business
 grype_brave-simpletons.json,brave-simpletons/scoop-the-business
 winmerge_brave-simpletons.json,brave-simpletons/scoop-the-business
-chromium_brave-simpletons.json,brave-simpletons/scoop-the-business
+chromium.json,brave-simpletons/scoop-the-business
 vcredist2013_brave-simpletons.json,brave-simpletons/scoop-the-business
 xmind8_brave-simpletons.json,brave-simpletons/scoop-the-business
 mongodb_brave-simpletons.json,brave-simpletons/scoop-the-business
@@ -9396,6 +9399,7 @@ cascadiacode-pl_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 python_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 ganttproject.json,ShuguangSun/sgs-scoop-bucket
 MicrosoftYaHeiMono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+d2_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 graphviz_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 diff-pdf_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 nodejs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
