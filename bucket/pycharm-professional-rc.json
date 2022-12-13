@@ -1,13 +1,13 @@
 {
-    "version": "2022.3-223.7571.140",
-    "description": "Cross-Platform IDE for Ruby on Rails by JetBrains. (Early Access Program)",
-    "homepage": "https://www.jetbrains.com/ruby/",
+    "version": "2022.3.1-223.8214.17",
+    "description": "Cross-Platform IDE for Python by JetBrains. (Release Candidate)",
+    "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/ruby/RubyMine-223.7571.140.exe#/dl.7z",
-    "hash": "938b6183625034f319eeb7c5e190e241d043360fbd3ed6da8edd69beedd4ea74",
+    "url": "https://download.jetbrains.com/python/pycharm-professional-223.8214.17.exe#/dl.7z",
+    "hash": "aa555c7b04e62dd41368bfd039b46031397d47be1b2f5cb438d600a8d84f6ccd",
     "extract_to": "IDE",
     "installer": {
         "script": [
@@ -19,23 +19,23 @@
         "64bit": {
             "bin": [
                 [
-                    "IDE\\bin\\rubymine64.exe",
-                    "rubymine"
+                    "IDE\\bin\\pycharm64.exe",
+                    "pycharm"
                 ]
             ],
             "shortcuts": [
                 [
-                    "IDE\\bin\\rubymine64.exe",
-                    "JetBrains\\RubyMine (Early Access Program)"
+                    "IDE\\bin\\pycharm64.exe",
+                    "JetBrains\\PyCharm Professional (Release Candidate)"
                 ]
             ]
         },
         "32bit": {
-            "bin": "IDE\\bin\\rubymine.exe",
+            "bin": "IDE\\bin\\pycharm.exe",
             "shortcuts": [
                 [
-                    "IDE\\bin\\rubymine.exe",
-                    "JetBrains\\RubyMine (Early Access Program)"
+                    "IDE\\bin\\pycharm.exe",
+                    "JetBrains\\PyCharm Professional (Release Candidate)"
                 ]
             ]
         }
@@ -45,12 +45,12 @@
         "profile"
     ],
     "checkver": {
-        "url": "https://data.services.jetbrains.com/products/releases?code=RM&latest=true&platform=zip&type=eap",
+        "url": "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&platform=zip&type=rc",
         "regex": "version\":\"(?<ver>[\\d.]+)\".*\"build\":\"(?<build>[\\d.]+)\"",
         "replace": "${ver}-${build}"
     },
     "autoupdate": {
-        "url": "https://download.jetbrains.com/ruby/RubyMine-$preReleaseVersion.exe#/dl.7z",
+        "url": "https://download.jetbrains.com/python/pycharm-professional-$preReleaseVersion.exe#/dl.7z",
         "hash": {
             "url": "$url.sha256"
         }
