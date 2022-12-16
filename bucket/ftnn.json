@@ -1,8 +1,8 @@
 {
-    "version": "12.25.11258",
-    "description": "Powerful tool facilitating trading and providing market information and data for Hong Kong, US and China A-Share Stocks",
     "homepage": "https://www.futunn.com/",
+    "description": "Powerful tool facilitating trading and providing market information and data for Hong Kong, US and China A-Share Stocks",
     "license": "Unknown",
+    "version": "12.25.11258",
     "url": "https://softwarefile.futunn.com/FTNN_12.25.11258.exe#/ftnn_12.25.11258.7z",
     "hash": "480e7c2fedf560afe33282b2a642a961a880610095856a061e7165a61f76c412",
     "post_install": [
