@@ -1468,7 +1468,7 @@ avrdudess.json,ScoopInstaller/Extras
 yumi-exfat.json,ScoopInstaller/Extras
 jkrypto.json,ScoopInstaller/Extras
 hexo-client.json,ScoopInstaller/Extras
-smartsystemmenu.json,ScoopInstaller/Extras
+smartsystemmenu_ScoopInstaller.json,ScoopInstaller/Extras
 texteditorpro.json,ScoopInstaller/Extras
 gpxsee.json,ScoopInstaller/Extras
 viddy.json,ScoopInstaller/Extras
@@ -3080,6 +3080,7 @@ miniconda-cn.json,ivaquero/scoopet
 reader.json,ivaquero/scoopet
 m3u8-downloader.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
+octave-cn.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
@@ -3097,7 +3098,6 @@ vscodium-cn.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
-pdfarranger_ivaquero.json,ivaquero/scoopet
 eudic.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 lx-music.json,ivaquero/scoopet
@@ -5468,14 +5468,14 @@ vita3k.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -5485,7 +5485,7 @@ sameboy_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-mgba-dev.json,borger/scoop-emulators
+mgba-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
@@ -6541,6 +6541,7 @@ PermissionsReporter-Portable.json,ACooper81/scoop-apps
 MSEdgeRedirect-Portable.json,ACooper81/scoop-apps
 IrfanView-Portable.json,ACooper81/scoop-apps
 Opera-Portable.json,ACooper81/scoop-apps
+OpenHAB-Portable.json,ACooper81/scoop-apps
 AutoDarkMode-Portable.json,ACooper81/scoop-apps
 TeraCopy-Install.json,ACooper81/scoop-apps
 AllwaySync-Install.json,ACooper81/scoop-apps
@@ -7283,7 +7284,7 @@ openjdk-doc.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
 applicationinspector.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
-qqmusic_wzv5.json,wzv5/ScoopBucket
+qqmusic.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
@@ -7627,7 +7628,7 @@ font-samim.json,naderi/scoop-bucket
 safeincloud.json,naderi/scoop-bucket
 cwtch.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 coolplayer_naderi.json,naderi/scoop-bucket
 wise-registry-cleaner.json,naderi/scoop-bucket
 wezterm-portable.json,naderi/scoop-bucket
@@ -7686,7 +7687,6 @@ gpgpdump.json,iquiw/scoop-bucket
 buildkit.json,iquiw/scoop-bucket
 iosevka.json,iquiw/scoop-bucket
 hunspell.json,iquiw/scoop-bucket
-charm-gum_iquiw.json,iquiw/scoop-bucket
 logcli_iquiw.json,iquiw/scoop-bucket
 googlechrome-dev.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
@@ -7817,7 +7817,7 @@ gosec_batkiz.json,batkiz/backit
 xq.json,batkiz/backit
 racket-minimal-cs.json,batkiz/backit
 tinytex_batkiz.json,batkiz/backit
-contour.json,batkiz/backit
+contour_batkiz.json,batkiz/backit
 llvm_batkiz.json,batkiz/backit
 pixiv-omina.json,batkiz/backit
 racket-cs.json,batkiz/backit
@@ -7880,7 +7880,7 @@ notepad2e.json,batkiz/backit
 pbgopy.json,batkiz/backit
 git-stack.json,batkiz/backit
 fluent-reader_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 imgcat.json,batkiz/backit
 plumber.json,batkiz/backit
 scoop-completion_batkiz.json,batkiz/backit
