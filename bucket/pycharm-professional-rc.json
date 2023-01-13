@@ -1,13 +1,13 @@
 {
-    "version": "2022.3.1-223.8214.17",
-    "description": "Cross-Platform IDE for Python by JetBrains. (Community Edition, Release Candidate)",
+    "version": "2022.3.2-223.8617.8",
+    "description": "Cross-Platform IDE for Python by JetBrains. (Release Candidate)",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
-        "identifier": "Apache-2.0",
-        "url": "https://sales.jetbrains.com/hc/en-gb/articles/115001015290-Where-can-I-find-the-EULA-End-User-License-Agreement-"
+        "identifier": "Proprietary",
+        "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/python/pycharm-community-223.8214.17.exe#/dl.7z",
-    "hash": "57d27de911d864b4ba323594f9f3de2142064f1c9494ecbdf3648a44660afbdb",
+    "url": "https://download.jetbrains.com/python/pycharm-professional-223.8617.8.exe#/dl.7z",
+    "hash": "be1edd921c2df7e238f3975c6fa66788704f3609f1f10d30332dbf4d54a674c7",
     "extract_to": "IDE",
     "installer": {
         "script": [
@@ -26,7 +26,7 @@
             "shortcuts": [
                 [
                     "IDE\\bin\\pycharm64.exe",
-                    "JetBrains\\PyCharm (Release Candidate)"
+                    "JetBrains\\PyCharm Professional (Release Candidate)"
                 ]
             ]
         },
@@ -35,7 +35,7 @@
             "shortcuts": [
                 [
                     "IDE\\bin\\pycharm.exe",
-                    "JetBrains\\PyCharm (Release Candidate)"
+                    "JetBrains\\PyCharm Professional (Release Candidate)"
                 ]
             ]
         }
@@ -45,12 +45,12 @@
         "profile"
     ],
     "checkver": {
-        "url": "https://data.services.jetbrains.com/products/releases?code=PCC&latest=true&platform=zip&type=rc",
+        "url": "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&platform=zip&type=rc",
         "regex": "version\":\"(?<ver>[\\d.]+)\".*\"build\":\"(?<build>[\\d.]+)\"",
         "replace": "${ver}-${build}"
     },
     "autoupdate": {
-        "url": "https://download.jetbrains.com/python/pycharm-community-$preReleaseVersion.exe#/dl.7z",
+        "url": "https://download.jetbrains.com/python/pycharm-professional-$preReleaseVersion.exe#/dl.7z",
         "hash": {
             "url": "$url.sha256"
         }
