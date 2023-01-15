@@ -87,8 +87,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - wangzq/scoop-bucket
 - zhoujin7/tomato
 - wzv5/ScoopBucket
-- TheRandomLabs/Scoop-Python
 - duzyn/scoop-cn
+- TheRandomLabs/Scoop-Python
 - naderi/scoop-bucket
 - ChungZH/peach
 - NyaMisty/scoop_bucket_misty
@@ -106,6 +106,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - littleli/Scoop-littleli
 - ygguorun/scoop-bucket
 - excitoon/scoop-user
+- Darkatse/Scoop-KanColle
 - ddavness/scoop-roblox
 - akirco/aki-apps
 - Apocalypsor/My-Scoop-Bucket
@@ -128,4 +129,3 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - Deide/deide-bucket
 - KnotUntied/scoop-fonts
 - nickbudi/scoop-bucket
-- Darkatse/Scoop-KanColle

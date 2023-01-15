@@ -237,6 +237,7 @@ SmartSystemMenu.json,Weidows-projects/scoop-3rd
 AIO-Boot.json,Weidows-projects/scoop-3rd
 winxray.json,Weidows-projects/scoop-3rd
 vscode-portable-association.json,Weidows-projects/scoop-3rd
+poetry_Weidows-projects.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
@@ -1399,7 +1400,7 @@ cookiecutter.json,ScoopInstaller/Extras
 rtlutility.json,ScoopInstaller/Extras
 ignoreit.json,ScoopInstaller/Extras
 ds4windows.json,ScoopInstaller/Extras
-tinymediamanager_ScoopInstaller.json,ScoopInstaller/Extras
+tinymediamanager.json,ScoopInstaller/Extras
 tagspaces.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
 openhardwaremonitor.json,ScoopInstaller/Extras
@@ -3097,7 +3098,7 @@ file-converter.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 mendeley-desktop.json,ivaquero/scoopet
 vlc-cn.json,ivaquero/scoopet
-clash-verge.json,ivaquero/scoopet
+clash-verge_ivaquero.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 winrar_ivaquero.json,ivaquero/scoopet
@@ -3110,7 +3111,6 @@ mpv.net-cm.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
 inkscape-cn.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
-yuque.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
@@ -5361,7 +5361,7 @@ locaspace.json,scoopcn/scoopcn
 s3-browser.json,scoopcn/scoopcn
 wechat-beta.json,scoopcn/scoopcn
 dingtalk_scoopcn.json,scoopcn/scoopcn
-lx-music-desktop_scoopcn.json,scoopcn/scoopcn
+lx-music-desktop.json,scoopcn/scoopcn
 we-meet.json,scoopcn/scoopcn
 apifox.json,scoopcn/scoopcn
 procmon.json,scoopcn/scoopcn
@@ -5506,7 +5506,7 @@ yuzu-dev.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 vita3k.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -5526,7 +5526,7 @@ xenia_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
@@ -6718,6 +6718,7 @@ AmazonMusic-UserInstall.json,ACooper81/scoop-apps
 MicrosoftVisualStudioCommunity2022-Install.json,ACooper81/scoop-apps
 qBittorrent-Install.json,ACooper81/scoop-apps
 Microsoft.NETDesktopRuntime-Install.json,ACooper81/scoop-apps
+AutoHotkey2-Install.json,ACooper81/scoop-apps
 EPUBCheck-Portable.json,ACooper81/scoop-apps
 LockHunter-Portable.json,ACooper81/scoop-apps
 FluentSearch-Portable.json,ACooper81/scoop-apps
@@ -8173,6 +8174,7 @@ rust-sl.json,amorphobia/siku
 vfilename.json,amorphobia/siku
 rains_amorphobia.json,amorphobia/siku
 bdinfo.json,amorphobia/siku
+dgmpgdec.json,amorphobia/siku
 winrar-zh-cn.json,amorphobia/siku
 yahei-fira-icon-hybrid.json,amorphobia/siku
 double-finder.json,amorphobia/siku
@@ -8189,7 +8191,6 @@ minesweeper-arbiter.json,amorphobia/siku
 setacl.json,amorphobia/siku
 bbdown_amorphobia.json,amorphobia/siku
 yourav.json,amorphobia/siku
-clash-verge_amorphobia.json,amorphobia/siku
 huorong-popblock.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 mdict_amorphobia.json,amorphobia/siku
@@ -8536,6 +8537,19 @@ bazel-custom.json,excitoon/scoop-user
 apimonitor_excitoon.json,excitoon/scoop-user
 spacesniffer_excitoon.json,excitoon/scoop-user
 far_excitoon.json,excitoon/scoop-user
+KCCacheProxy.json,Darkatse/Scoop-KanColle
+logbookex-red.json,Darkatse/Scoop-KanColle
+ShimakazeGO-Legacy.json,Darkatse/Scoop-KanColle
+poi.json,Darkatse/Scoop-KanColle
+IntelligentNavalGun.json,Darkatse/Scoop-KanColle
+poi-nightly.json,Darkatse/Scoop-KanColle
+ElectronicObserver.json,Darkatse/Scoop-KanColle
+logbook-ex.json,Darkatse/Scoop-KanColle
+ACG-Power.json,Darkatse/Scoop-KanColle
+WhoCallsTheFleet.json,Darkatse/Scoop-KanColle
+ShimakazeGO.json,Darkatse/Scoop-KanColle
+KanColleViewer.json,Darkatse/Scoop-KanColle
+poi-np.json,Darkatse/Scoop-KanColle
 foreman.json,ddavness/scoop-roblox
 spacescape-roblox-converter.json,ddavness/scoop-roblox
 luau.json,ddavness/scoop-roblox
@@ -9330,6 +9344,7 @@ gh@1.0.0.json,rivy/scoop-bucket
 coreutils@0.6.0.json,rivy/scoop-bucket
 concfg_rivy.json,rivy/scoop-bucket
 erlang_rivy.json,rivy/scoop-bucket
+poetry_Weidows-projects.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 dpeaklim.json,seumsc/scoop-seu
 autowikibrowser.json,seumsc/scoop-seu
@@ -9896,7 +9911,7 @@ icns.json,hu3rror/scoop-muggle
 systeminformer-nightly_hu3rror.json,hu3rror/scoop-muggle
 dopamine-legacy.json,hu3rror/scoop-muggle
 mosdns-cn_hu3rror.json,hu3rror/scoop-muggle
-mosdns.json,hu3rror/scoop-muggle
+mosdns_hu3rror.json,hu3rror/scoop-muggle
 foobar2000-asion-cn-plus.json,hu3rror/scoop-muggle
 tuya_hu3rror.json,hu3rror/scoop-muggle
 context-menu-manager_hu3rror.json,hu3rror/scoop-muggle
@@ -10529,16 +10544,3 @@ bleachbit_nickbudi.json,nickbudi/scoop-bucket
 simplewall_nickbudi.json,nickbudi/scoop-bucket
 audacity_nickbudi.json,nickbudi/scoop-bucket
 veracrypt-portable_nickbudi.json,nickbudi/scoop-bucket
-KCCacheProxy.json,Darkatse/Scoop-KanColle
-logbookex-red.json,Darkatse/Scoop-KanColle
-ShimakazeGO-Legacy.json,Darkatse/Scoop-KanColle
-poi.json,Darkatse/Scoop-KanColle
-IntelligentNavalGun.json,Darkatse/Scoop-KanColle
-poi-nightly.json,Darkatse/Scoop-KanColle
-ElectronicObserver.json,Darkatse/Scoop-KanColle
-logbook-ex.json,Darkatse/Scoop-KanColle
-ACG-Power.json,Darkatse/Scoop-KanColle
-WhoCallsTheFleet.json,Darkatse/Scoop-KanColle
-ShimakazeGO.json,Darkatse/Scoop-KanColle
-KanColleViewer.json,Darkatse/Scoop-KanColle
-poi-np.json,Darkatse/Scoop-KanColle
