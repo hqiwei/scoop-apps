@@ -17,7 +17,7 @@
     "pre_install": "Write-Host 'Installing AutoHotKey with their installer and its own options' -ForegroundColor Magenta",
 	"installer": {
         "script": [
-            "$ahk = @('/script', \"`\"$dir\\installer\\UX\\install.ahk`\"\", '/silent')",
+            "$ahk = @('/script', \"`\"$dir\\installer\\UX\\install.ahk`\"\", '/user', '/silent')",
             "Start-Process \"$dir\\installer\\AutoHotkey32.exe\" -ArgumentList $ahk -Wait"
         ]
     },
