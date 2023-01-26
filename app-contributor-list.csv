@@ -630,7 +630,7 @@ natural-docs.json,ScoopInstaller/Extras
 dreamset.json,ScoopInstaller/Extras
 iographica.json,ScoopInstaller/Extras
 ec2-api-tools.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 recuva.json,ScoopInstaller/Extras
 texteditoranywhere.json,ScoopInstaller/Extras
 claws-mail.json,ScoopInstaller/Extras
@@ -1017,7 +1017,7 @@ termius.json,ScoopInstaller/Extras
 altdrag.json,ScoopInstaller/Extras
 idea.json,ScoopInstaller/Extras
 clustalw.json,ScoopInstaller/Extras
-googlechrome.json,ScoopInstaller/Extras
+googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
 privatezilla.json,ScoopInstaller/Extras
 driverstoreexplorer.json,ScoopInstaller/Extras
 thisiswin11.json,ScoopInstaller/Extras
@@ -4223,7 +4223,7 @@ usbdeview-ids.json,rasa/scoops
 id3mtag.json,rasa/scoops
 wizmo.json,rasa/scoops
 rehash.json,rasa/scoops
-brave.json,rasa/scoops
+brave_rasa.json,rasa/scoops
 simple-dnscrypt_rasa.json,rasa/scoops
 ffb.json,rasa/scoops
 inirw.json,rasa/scoops
@@ -6897,7 +6897,7 @@ transmission_ACooper81.json,ACooper81/scoop-apps
 nuclear_ACooper81.json,ACooper81/scoop-apps
 vlc_ACooper81.json,ACooper81/scoop-apps
 ipscan_ACooper81.json,ACooper81/scoop-apps
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
@@ -6909,7 +6909,7 @@ citra-canary_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -6922,7 +6922,7 @@ sameboy_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -6933,7 +6933,7 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -6941,7 +6941,7 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 trojan-go_Qv2ray.json,Qv2ray/mochi
 v2ray-domain-list-community_Qv2ray.json,Qv2ray/mochi
@@ -7016,6 +7016,7 @@ glasswire-lite-np.json,ScoopInstaller/Nonportable
 file-converter-np.json,ScoopInstaller/Nonportable
 voicemeeter-np.json,ScoopInstaller/Nonportable
 stevedore-np.json,ScoopInstaller/Nonportable
+textpad8-np.json,ScoopInstaller/Nonportable
 office-365-apps-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 parsec-np.json,ScoopInstaller/Nonportable
 lightscribe-system-software-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -7048,6 +7049,7 @@ sandboxie-plus-np.json,ScoopInstaller/Nonportable
 bluestacks4-hyperv-np.json,ScoopInstaller/Nonportable
 fluent-terminal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 encodegui-np.json,ScoopInstaller/Nonportable
+textpad-np.json,ScoopInstaller/Nonportable
 office-365-apps-minimal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 spotx-np.json,ScoopInstaller/Nonportable
 auto-dark-mode-np.json,ScoopInstaller/Nonportable
@@ -7791,7 +7793,6 @@ googlechrome-beta_42wim.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
-googlechrome_42wim.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
@@ -8679,7 +8680,7 @@ AssetStudio_cc713.json,cc713/ownscoop
 libreoffice_cc713.json,cc713/ownscoop
 diskgeniusCN.json,cc713/ownscoop
 PicView-noRT.json,cc713/ownscoop
-officetoolplus_cc713.json,cc713/ownscoop
+officetoolplus.json,cc713/ownscoop
 dnSpyEx_cc713.json,cc713/ownscoop
 foobox-cn.json,cc713/ownscoop
 TsubakiTranslator.json,cc713/ownscoop
@@ -9209,7 +9210,7 @@ tokei_akirco.json,akirco/aki-apps
 gsudo_akirco.json,akirco/aki-apps
 QQ_akirco.json,akirco/aki-apps
 mysql57_akirco.json,akirco/aki-apps
-flutter-cn_akirco.json,akirco/aki-apps
+flutter-cn.json,akirco/aki-apps
 vim_akirco.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
@@ -9921,7 +9922,7 @@ innounp_brave-simpletons.json,brave-simpletons/scoop-the-business
 kubectx_brave-simpletons.json,brave-simpletons/scoop-the-business
 zoom_brave-simpletons.json,brave-simpletons/scoop-the-business
 terraform_brave-simpletons.json,brave-simpletons/scoop-the-business
-chromium.json,brave-simpletons/scoop-the-business
+chromium_brave-simpletons.json,brave-simpletons/scoop-the-business
 nodejs-lts_brave-simpletons.json,brave-simpletons/scoop-the-business
 graphviz_brave-simpletons.json,brave-simpletons/scoop-the-business
 aztfy_brave-simpletons.json,brave-simpletons/scoop-the-business
