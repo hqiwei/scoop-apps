@@ -1,10 +1,10 @@
 {
-    "version": "2023-02-04-16-31-12",
+    "version": "2023-02-06-16-43-05",
     "description": "Scoop apps and buckets database crawled from https://rasa.github.io/scoop-directory/by-score .",
     "homepage": "https://github.com/zhoujin7/crawl-scoop-directory",
     "license": "MIT",
     "url": "https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db",
-    "hash": "5ddd0882218c29d478a2cd83ed9bbff9e36105cc718aa8f5e4a2b947065132ef",
+    "hash": "c6b9be909ea15762743bc576f4e2c63e0f8bfbc67831ababc52312cd22d3d792",
     "shortcuts": [
         [
             "scoop_directory.db",
