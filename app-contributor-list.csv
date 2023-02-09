@@ -3127,6 +3127,7 @@ mendeley-desktop.json,ivaquero/scoopet
 inkscape-cn.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
+adrive.json,ivaquero/scoopet
 misakatranslator_ivaquero.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
@@ -3144,7 +3145,7 @@ reader.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
 ting-en.json,ivaquero/scoopet
 texlive_ivaquero.json,ivaquero/scoopet
-baidunetdisk.json,ivaquero/scoopet
+baidunetdisk_ivaquero.json,ivaquero/scoopet
 texstudio-cn.json,ivaquero/scoopet
 wechatwork_ivaquero.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
@@ -5179,7 +5180,7 @@ steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 pegasus-nightly.json,hermanjustnu/scoop-emulators
-ppsspp-dev.json,hermanjustnu/scoop-emulators
+ppsspp-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 desmume.json,hermanjustnu/scoop-emulators
 pcsx2-sse4-qt.json,hermanjustnu/scoop-emulators
 scummvm_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -6062,15 +6063,15 @@ Notable_dodorz.json,dodorz/scoop
 WildRename.json,dodorz/scoop
 elevate.json,dodorz/scoop
 NexusImage.json,dodorz/scoop
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
-yuzu_borger.json,borger/scoop-emulators
+yuzu.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
-citra-canary_borger.json,borger/scoop-emulators
+citra-canary.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -6098,8 +6099,8 @@ steam-rom-manager_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
-desmume.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
+desmume_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -7201,7 +7202,7 @@ overture_wzv5.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 vc-ltl.json,wzv5/ScoopBucket
 winobjex64.json,wzv5/ScoopBucket
-evernote.json,wzv5/ScoopBucket
+evernote_wzv5.json,wzv5/ScoopBucket
 vnote.json,wzv5/ScoopBucket
 zabbix-agent.json,wzv5/ScoopBucket
 yuanshen.json,wzv5/ScoopBucket
@@ -7588,6 +7589,7 @@ subfinder.json,ViCrack/scoop-bucket
 jar-analyzer.json,ViCrack/scoop-bucket
 wub.json,ViCrack/scoop-bucket
 cpuz-cn.json,ViCrack/scoop-bucket
+sliver.json,ViCrack/scoop-bucket
 curl-impersonate.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
 ksubdomain.json,ViCrack/scoop-bucket
@@ -7777,6 +7779,7 @@ devsidecar_akirco.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
 fishingfunds.json,akirco/aki-apps
+pikpak.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 pyflow_akirco.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
@@ -8005,7 +8008,7 @@ MusicTag_ygguorun.json,ygguorun/scoop-bucket
 Legendary_ygguorun.json,ygguorun/scoop-bucket
 upgit_ygguorun.json,ygguorun/scoop-bucket
 BetterNCM.json,ygguorun/scoop-bucket
-aDrive.json,ygguorun/scoop-bucket
+aDrive_ygguorun.json,ygguorun/scoop-bucket
 bililive-go_ygguorun.json,ygguorun/scoop-bucket
 Reso.json,ygguorun/scoop-bucket
 lx-music-desktop_ygguorun.json,ygguorun/scoop-bucket
@@ -8899,14 +8902,14 @@ aemulus.json,Deide/deide-bucket
 opensoldat.json,Deide/deide-bucket
 mgba_Deide.json,Deide/deide-bucket
 bethesdaLauncher.json,Deide/deide-bucket
-openttd_Deide.json,Deide/deide-bucket
+openttd.json,Deide/deide-bucket
 nester_Deide.json,Deide/deide-bucket
 athenas-ass-mhFU.json,Deide/deide-bucket
 SwitchArmyKnife.json,Deide/deide-bucket
 borderlessgaming.json,Deide/deide-bucket
 kaxaml_Deide.json,Deide/deide-bucket
 glfw.json,Deide/deide-bucket
-cemu_Deide.json,Deide/deide-bucket
+cemu.json,Deide/deide-bucket
 playnite_Deide.json,Deide/deide-bucket
 legendary_Deide.json,Deide/deide-bucket
 pkg2zip.json,Deide/deide-bucket
