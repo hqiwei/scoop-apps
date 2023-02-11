@@ -203,6 +203,7 @@ Synergy-Binaries.json,Weidows-projects/scoop-3rd
 360zip.json,Weidows-projects/scoop-3rd
 wps-photoplus.json,Weidows-projects/scoop-3rd
 CAJViewer.json,Weidows-projects/scoop-3rd
+anaconda3.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
 wps-office.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
@@ -234,7 +235,6 @@ ModOrganizer.json,Weidows-projects/scoop-3rd
 dev-sidecar.json,Weidows-projects/scoop-3rd
 jianyingpro-with-ffmpeg.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
-anaconda3.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 obs-plugin-backgroundremoval.json,Weidows-projects/scoop-3rd
 QuickCut.json,Weidows-projects/scoop-3rd
@@ -263,6 +263,7 @@ MyJoy.json,Weidows-projects/scoop-3rd
 Snap.Hutao.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
 XStudio.json,Weidows-projects/scoop-3rd
+gptcommit.json,Weidows-projects/scoop-3rd
 animation-garden-desktop.json,Weidows-projects/scoop-3rd
 Air.json,Weidows-projects/scoop-3rd
 winxray.json,Weidows-projects/scoop-3rd
@@ -3117,7 +3118,7 @@ libreoffice-cn.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
 n-m3u8dl-cli_ivaquero.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 kingdraw.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 git-cn.json,ivaquero/scoopet
@@ -4475,6 +4476,7 @@ soundswitch.json,hoilc/scoop-lemon
 tabula-cli.json,hoilc/scoop-lemon
 rekor-cli.json,hoilc/scoop-lemon
 premotem.json,hoilc/scoop-lemon
+maxthon.json,hoilc/scoop-lemon
 kcptun_hoilc.json,hoilc/scoop-lemon
 chinesesubfinder.json,hoilc/scoop-lemon
 yuzu-ea.json,hoilc/scoop-lemon
@@ -4504,6 +4506,7 @@ cow.json,hoilc/scoop-lemon
 meepo.json,hoilc/scoop-lemon
 airpodsdesktop.json,hoilc/scoop-lemon
 tickeys.json,hoilc/scoop-lemon
+vesta_hoilc.json,hoilc/scoop-lemon
 glow_hoilc.json,hoilc/scoop-lemon
 vcluster.json,hoilc/scoop-lemon
 arpsift.json,hoilc/scoop-lemon
@@ -4745,6 +4748,7 @@ snova-asio.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 wc3270.json,hoilc/scoop-lemon
 wingetui_hoilc.json,hoilc/scoop-lemon
+flydav.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
 spline.json,hoilc/scoop-lemon
 splayer-legacy.json,hoilc/scoop-lemon
@@ -4801,7 +4805,7 @@ zookeeper-assistant.json,hoilc/scoop-lemon
 lightnovel-crawler.json,hoilc/scoop-lemon
 asfenhance-cn.json,hoilc/scoop-lemon
 waifu2x-snowshell_hoilc.json,hoilc/scoop-lemon
-64gram.json,hoilc/scoop-lemon
+64gram_hoilc.json,hoilc/scoop-lemon
 redis-shake.json,hoilc/scoop-lemon
 imonitor.json,hoilc/scoop-lemon
 drmemory_hoilc.json,hoilc/scoop-lemon
@@ -4871,6 +4875,7 @@ snctl.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
 fenrirfs.json,hoilc/scoop-lemon
 balabolka_hoilc.json,hoilc/scoop-lemon
+opscan.json,hoilc/scoop-lemon
 terraformer_hoilc.json,hoilc/scoop-lemon
 rssguard_hoilc.json,hoilc/scoop-lemon
 ossutil_hoilc.json,hoilc/scoop-lemon
@@ -5057,7 +5062,7 @@ cozo.json,hoilc/scoop-lemon
 crypto-notepad.json,hoilc/scoop-lemon
 abstreet.json,hoilc/scoop-lemon
 exhale.json,hoilc/scoop-lemon
-leaf_hoilc.json,hoilc/scoop-lemon
+leaf.json,hoilc/scoop-lemon
 bililive-recorder.json,hoilc/scoop-lemon
 keepass-plugin-hibpofflinecheck.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
@@ -6078,7 +6083,7 @@ yuzu-dev.json,borger/scoop-emulators
 pcsx2-dev.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
@@ -6100,7 +6105,7 @@ fceux_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-desmume_borger.json,borger/scoop-emulators
+desmume.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -6109,11 +6114,25 @@ bsnes_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
+ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
+luyten_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
+visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
+corsair-icue.json,TheRandomLabs/Scoop-Bucket
+raylib_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
+rfxgen.json,TheRandomLabs/Scoop-Bucket
+custom-resolution-utility.json,TheRandomLabs/Scoop-Bucket
+aomei-partition-assistant-standard.json,TheRandomLabs/Scoop-Bucket
+neovim-dev.json,TheRandomLabs/Scoop-Bucket
+win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
+shellexview_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
+windows-sdk-signing-tools.json,TheRandomLabs/Scoop-Bucket
+musescore-nightly-with-file-associations.json,TheRandomLabs/Scoop-Bucket
 SophiApp-Portable.json,ACooper81/scoop-apps
 TerminusPlayer-Portable.json,ACooper81/scoop-apps
 CloneAppUA-Portable.json,ACooper81/scoop-apps
 eXdupeCLI-Portable.json,ACooper81/scoop-apps
 iMazingHEICConverter-Portable.json,ACooper81/scoop-apps
+TinyGUI-Portable.json,ACooper81/scoop-apps
 installexe.json,ACooper81/scoop-apps
 portable.json,ACooper81/scoop-apps
 PSModule.json,ACooper81/scoop-apps
@@ -6366,6 +6385,7 @@ WPSOffice-Portable.json,ACooper81/scoop-apps
 NetSetMan-Portable.json,ACooper81/scoop-apps
 ViVeToolGUI-Portable.json,ACooper81/scoop-apps
 FixWin10-Portable.json,ACooper81/scoop-apps
+GuiCompletion-PSModule.json,ACooper81/scoop-apps
 WingetUI-Portable.json,ACooper81/scoop-apps
 FilesInspector-Portable.json,ACooper81/scoop-apps
 RadarrDevelop-Portable.json,ACooper81/scoop-apps
@@ -6634,7 +6654,6 @@ JSONStreamEditorCLI-Portable.json,ACooper81/scoop-apps
 Microsoft.NETDesktopRuntimeLTS-Install.json,ACooper81/scoop-apps
 Ventoy-Portable.json,ACooper81/scoop-apps
 UniversalMediaCreationTool-Portable.json,ACooper81/scoop-apps
-TinyGUI-Portable.json,ACooper81/scoop-apps
 BrowserTamer-Portable.json,ACooper81/scoop-apps
 HiBitUninstaller-Portable.json,ACooper81/scoop-apps
 Avidemux-Portable.json,ACooper81/scoop-apps
@@ -7853,7 +7872,6 @@ optipng_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 handbrake-cli_akirco.json,akirco/aki-apps
-nvm-windows_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
 xsv_akirco.json,akirco/aki-apps
@@ -8086,7 +8104,7 @@ qimgv_cc713.json,cc713/ownscoop
 ehentai-qt.json,cc713/ownscoop
 jepgview-fork.json,cc713/ownscoop
 universal-android-debloater.json,cc713/ownscoop
-KikoPlay_cc713.json,cc713/ownscoop
+KikoPlay.json,cc713/ownscoop
 nalgaeset.json,cc713/ownscoop
 ArctimePro_cc713.json,cc713/ownscoop
 wget2.json,cc713/ownscoop
@@ -8200,7 +8218,6 @@ setacl.json,amorphobia/siku
 rust-sl.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
-clash-for-windows_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 deep-explorer.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
@@ -8912,7 +8929,7 @@ pswinutil.json,yuusakuri/scoop-bucket
 kms-vl-sll-aio.json,yuusakuri/scoop-bucket
 free-countdown-timer.json,yuusakuri/scoop-bucket
 carbon.json,yuusakuri/scoop-bucket
-win10-initial-setup-script.json,yuusakuri/scoop-bucket
+win10-initial-setup-script_yuusakuri.json,yuusakuri/scoop-bucket
 video2x_yuusakuri.json,yuusakuri/scoop-bucket
 bitthief.json,yuusakuri/scoop-bucket
 alt-ime-ahk.json,yuusakuri/scoop-bucket
