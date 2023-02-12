@@ -329,6 +329,7 @@ tern-subtitle-file-translator.json,ScoopInstaller/Extras
 amazon-workspaces.json,ScoopInstaller/Extras
 ccextractor.json,ScoopInstaller/Extras
 mucommander.json,ScoopInstaller/Extras
+activate-linux.json,ScoopInstaller/Extras
 winpty.json,ScoopInstaller/Extras
 paraview.json,ScoopInstaller/Extras
 notion-enhanced.json,ScoopInstaller/Extras
@@ -521,6 +522,7 @@ easyrsa.json,ScoopInstaller/Extras
 pixitracker-1bit.json,ScoopInstaller/Extras
 serial-cloner.json,ScoopInstaller/Extras
 terminals.json,ScoopInstaller/Extras
+whkd.json,ScoopInstaller/Extras
 windowtextextractor.json,ScoopInstaller/Extras
 biblioteq.json,ScoopInstaller/Extras
 deepgit.json,ScoopInstaller/Extras
@@ -573,7 +575,6 @@ v2rayn.json,ScoopInstaller/Extras
 apache-tinkerpop-gremlin-server.json,ScoopInstaller/Extras
 deadlock.json,ScoopInstaller/Extras
 chk.json,ScoopInstaller/Extras
-upx-easy-gui.json,ScoopInstaller/Extras
 impregnate.json,ScoopInstaller/Extras
 rstudio.json,ScoopInstaller/Extras
 masvis.json,ScoopInstaller/Extras
@@ -1423,7 +1424,9 @@ mpc.json,ScoopInstaller/Extras
 brackets.json,ScoopInstaller/Extras
 raspberry-pi-imager.json,ScoopInstaller/Extras
 thunderbird.json,ScoopInstaller/Extras
+komac.json,ScoopInstaller/Extras
 nheko.json,ScoopInstaller/Extras
+discrakt.json,ScoopInstaller/Extras
 qnapi.json,ScoopInstaller/Extras
 ffmpeg-batch.json,ScoopInstaller/Extras
 prusaslicer.json,ScoopInstaller/Extras
@@ -5062,7 +5065,7 @@ cozo.json,hoilc/scoop-lemon
 crypto-notepad.json,hoilc/scoop-lemon
 abstreet.json,hoilc/scoop-lemon
 exhale.json,hoilc/scoop-lemon
-leaf.json,hoilc/scoop-lemon
+leaf_hoilc.json,hoilc/scoop-lemon
 bililive-recorder.json,hoilc/scoop-lemon
 keepass-plugin-hibpofflinecheck.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
@@ -6072,7 +6075,7 @@ rpcs3_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
@@ -6111,7 +6114,7 @@ mednafen-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-mgba-dev_borger.json,borger/scoop-emulators
+mgba-dev.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 ffmpeg-for-audacity.json,TheRandomLabs/Scoop-Bucket
@@ -6232,6 +6235,7 @@ MSEdgeRedirect-Portable.json,ACooper81/scoop-apps
 LDPlayer-Portable.json,ACooper81/scoop-apps
 OfflineInsiderEnroll-Portable.json,ACooper81/scoop-apps
 LogitechOptions-ManualInstall.json,ACooper81/scoop-apps
+PSScriptTools-PSModule.json,ACooper81/scoop-apps
 WizFile-Portable.json,ACooper81/scoop-apps
 IniModCLI-Portable.json,ACooper81/scoop-apps
 NirsoftInstalledAppView-Portable.json,ACooper81/scoop-apps
@@ -6392,6 +6396,7 @@ RadarrDevelop-Portable.json,ACooper81/scoop-apps
 RegCool-Portable.json,ACooper81/scoop-apps
 JellyfinMpvShim-Portable.json,ACooper81/scoop-apps
 Yumi-Portable.json,ACooper81/scoop-apps
+ModernFlyouts-Portable.json,ACooper81/scoop-apps
 NirsoftRegistryChangesView-Portable.json,ACooper81/scoop-apps
 AdobeCreativeCloudPreW10-ManualInstall.json,ACooper81/scoop-apps
 lnCLI-Portable.json,ACooper81/scoop-apps
@@ -6470,6 +6475,7 @@ RemNote-Portable.json,ACooper81/scoop-apps
 Blender-Portable.json,ACooper81/scoop-apps
 EnigmaVirtualBox-Portable.json,ACooper81/scoop-apps
 qBittorrent-Portable.json,ACooper81/scoop-apps
+FluentReader-Portable.json,ACooper81/scoop-apps
 Steam-Portable.json,ACooper81/scoop-apps
 gallery-dlCLI-Portable.json,ACooper81/scoop-apps
 StardockFences-Install.json,ACooper81/scoop-apps
@@ -7367,7 +7373,7 @@ winshell.json,naderi/scoop-bucket
 caret_naderi.json,naderi/scoop-bucket
 font-estedad.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 appget_naderi.json,naderi/scoop-bucket
 sublime-text-4.json,naderi/scoop-bucket
 kmplayer.json,naderi/scoop-bucket
@@ -7701,6 +7707,7 @@ filezilla_akirco.json,akirco/aki-apps
 oh-my-posh_akirco.json,akirco/aki-apps
 marktext_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
+directoryPredictor.json,akirco/aki-apps
 hwmonitor_akirco.json,akirco/aki-apps
 kate.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
@@ -8104,7 +8111,7 @@ qimgv_cc713.json,cc713/ownscoop
 ehentai-qt.json,cc713/ownscoop
 jepgview-fork.json,cc713/ownscoop
 universal-android-debloater.json,cc713/ownscoop
-KikoPlay.json,cc713/ownscoop
+KikoPlay_cc713.json,cc713/ownscoop
 nalgaeset.json,cc713/ownscoop
 ArctimePro_cc713.json,cc713/ownscoop
 wget2.json,cc713/ownscoop
