@@ -96,6 +96,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - iquiw/scoop-bucket
 - NyaMisty/scoop_bucket_misty
 - ygguorun/scoop-bucket
+- niheaven/scoop-sysinternals
 - Velgus/Scoop-Portapps
 - cc713/ownscoop
 - amorphobia/siku
