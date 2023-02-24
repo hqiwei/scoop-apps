@@ -2238,6 +2238,7 @@ imewlconverter.json,chawyehsu/dorado
 reicon_chawyehsu.json,chawyehsu/dorado
 tor-browser-zh-cn.json,chawyehsu/dorado
 nuwen-mingw-gcc.json,chawyehsu/dorado
+dotnet-uninstall-tool.json,chawyehsu/dorado
 qtscrcpy_chawyehsu.json,chawyehsu/dorado
 gmsh.json,chawyehsu/dorado
 wechat-np.json,chawyehsu/dorado
@@ -3160,7 +3161,7 @@ tencent-meeting.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 texstudio-cn.json,ivaquero/scoopet
 julia-cn.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
@@ -6082,7 +6083,7 @@ MdCharm.json,dodorz/scoop
 Noto-Serif-Font_dodorz.json,dodorz/scoop
 XDown_dodorz.json,dodorz/scoop
 KillCopy.json,dodorz/scoop
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -6126,7 +6127,7 @@ melonds_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 visualvm_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
@@ -7263,7 +7264,7 @@ winobjex64.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 pping.json,wzv5/ScoopBucket
-aliyundrive_wzv5.json,wzv5/ScoopBucket
+aliyundrive.json,wzv5/ScoopBucket
 besttrace.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
@@ -7490,6 +7491,7 @@ chrome-portable.json,naderi/scoop-bucket
 vmware-autounlocker.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
 openwebstart.json,naderi/scoop-bucket
+webcatalog.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
 mitec-xml-viewer.json,naderi/scoop-bucket
 awgg.json,naderi/scoop-bucket
@@ -7613,6 +7615,7 @@ msedge-stable.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 msedge-dev.json,42wim/scoop-bucket
+googlechrome.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
@@ -7687,7 +7690,7 @@ qpdf_akirco.json,akirco/aki-apps
 uwd.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
 WXQQ_RevokeMsgPatcher_akirco.json,akirco/aki-apps
-ftnn.json,akirco/aki-apps
+ftnn_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 scoops.json,akirco/aki-apps
 pngcrush_akirco.json,akirco/aki-apps
@@ -7733,12 +7736,12 @@ tim_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 dim2clear.json,akirco/aki-apps
 runjs.json,akirco/aki-apps
-tomcat8_akirco.json,akirco/aki-apps
+tomcat8.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
 termscp_akirco.json,akirco/aki-apps
-youtube-dl-gui_akirco.json,akirco/aki-apps
+youtube-dl-gui.json,akirco/aki-apps
 unbound_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 dark_akirco.json,akirco/aki-apps
@@ -7921,7 +7924,7 @@ coreutils-rs.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 go-unstable.json,batkiz/backit
 RevokeMsgPatcher.json,batkiz/backit
-onefetch_batkiz.json,batkiz/backit
+onefetch.json,batkiz/backit
 miniserve_batkiz.json,batkiz/backit
 kotatogram.json,batkiz/backit
 es.json,batkiz/backit
@@ -8336,7 +8339,7 @@ bingdian.json,ygguorun/scoop-bucket
 CefDetectorX_ygguorun.json,ygguorun/scoop-bucket
 RustDesk_ygguorun.json,ygguorun/scoop-bucket
 PingFang.json,ygguorun/scoop-bucket
-apifox.json,ygguorun/scoop-bucket
+apifox_ygguorun.json,ygguorun/scoop-bucket
 lx-music-desktop_ygguorun.json,ygguorun/scoop-bucket
 163MusicLyrics.json,ygguorun/scoop-bucket
 jy-srt-tools.json,ygguorun/scoop-bucket
@@ -8621,6 +8624,7 @@ dvm_amorphobia.json,amorphobia/siku
 setacl-studio.json,amorphobia/siku
 posh-cargo_amorphobia.json,amorphobia/siku
 smartzip.json,amorphobia/siku
+clash-for-windows_amorphobia.json,amorphobia/siku
 qqplayer_amorphobia.json,amorphobia/siku
 vmping.json,amorphobia/siku
 todesk_amorphobia.json,amorphobia/siku
@@ -9223,7 +9227,7 @@ newrain-duplicate-photo-finder.json,hu3rror/scoop-muggle
 b23downloader_hu3rror.json,hu3rror/scoop-muggle
 tiddlydesktop-prerelease.json,hu3rror/scoop-muggle
 cyberchef.json,hu3rror/scoop-muggle
-systeminformer-nightly.json,hu3rror/scoop-muggle
+systeminformer-nightly_hu3rror.json,hu3rror/scoop-muggle
 ImTip_hu3rror.json,hu3rror/scoop-muggle
 acttools.json,hu3rror/scoop-muggle
 usbeam-hosts-editor_hu3rror.json,hu3rror/scoop-muggle
