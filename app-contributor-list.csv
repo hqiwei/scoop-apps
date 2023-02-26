@@ -1826,7 +1826,7 @@ lightscreen.json,ScoopInstaller/Extras
 electron-cash.json,ScoopInstaller/Extras
 sts.json,ScoopInstaller/Extras
 vott.json,ScoopInstaller/Extras
-googlechrome_ScoopInstaller.json,ScoopInstaller/Extras
+googlechrome.json,ScoopInstaller/Extras
 upsource.json,ScoopInstaller/Extras
 xnviewmp.json,ScoopInstaller/Extras
 driverstoreexplorer.json,ScoopInstaller/Extras
@@ -2957,6 +2957,7 @@ bombermaaan.json,Calinou/scoop-games
 wiiscrubber.json,Calinou/scoop-games
 bsnes-mt.json,Calinou/scoop-games
 wfinfo.json,Calinou/scoop-games
+runelite.json,Calinou/scoop-games
 sauerbraten.json,Calinou/scoop-games
 ufoai.json,Calinou/scoop-games
 iortcw.json,Calinou/scoop-games
@@ -3010,6 +3011,7 @@ gdidrop.json,Calinou/scoop-games
 vkquake2.json,Calinou/scoop-games
 openrct2.json,Calinou/scoop-games
 adom.json,Calinou/scoop-games
+crewchief.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 openmsx.json,Calinou/scoop-games
 endless-sky.json,Calinou/scoop-games
@@ -3314,7 +3316,6 @@ bytecode-viewer.json,TheCjw/scoop-retools
 il2cppdumper.json,TheCjw/scoop-retools
 protodec.json,TheCjw/scoop-retools
 axmlprinter.json,TheCjw/scoop-retools
-jadx_TheCjw.json,TheCjw/scoop-retools
 jd-cmd_TheCjw.json,TheCjw/scoop-retools
 dex2jar.json,TheCjw/scoop-retools
 classyshark_TheCjw.json,TheCjw/scoop-retools
@@ -6084,7 +6085,7 @@ MdCharm.json,dodorz/scoop
 Noto-Serif-Font_dodorz.json,dodorz/scoop
 XDown_dodorz.json,dodorz/scoop
 KillCopy.json,dodorz/scoop
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -6101,7 +6102,7 @@ yuzu-dev.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -6116,6 +6117,7 @@ flycast.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
+scummvm.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
@@ -6126,7 +6128,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
@@ -6431,6 +6433,7 @@ EpicGamesLauncher-Portable.json,ACooper81/scoop-apps
 IrfanViewPlugins-Install.json,ACooper81/scoop-apps
 DeezerDesktop-Portable.json,ACooper81/scoop-apps
 MeshCommander-Portable.json,ACooper81/scoop-apps
+QuickCPU-Portable.json,ACooper81/scoop-apps
 CuteHttpFileServer-Portable.json,ACooper81/scoop-apps
 SordumBackupStartMenuLayout-Portable.json,ACooper81/scoop-apps
 RidNacs-Portable.json,ACooper81/scoop-apps
@@ -7612,7 +7615,7 @@ gcc_42wim.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
 googlechrome-canary_42wim.json,42wim/scoop-bucket
 msedge-beta.json,42wim/scoop-bucket
-googlechrome-beta.json,42wim/scoop-bucket
+googlechrome-beta_42wim.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
@@ -8800,6 +8803,7 @@ gcc@8.1.0-x32.json,rivy/scoop-bucket
 go@1.10.5.json,rivy/scoop-bucket
 ghcup.json,rivy/scoop-bucket
 yarn@1.17.3.json,rivy/scoop-bucket
+gpg@2.3.8.json,rivy/scoop-bucket
 gsudo@1.0.2.json,rivy/scoop-bucket
 v@0.3.2.json,rivy/scoop-bucket
 tcc@0.9.26.json,rivy/scoop-bucket
@@ -8872,6 +8876,7 @@ gcc@5.1.0-multilib+tdm32.json,rivy/scoop-bucket
 dmd_rivy.json,rivy/scoop-bucket
 lsd@0.21.0.json,rivy/scoop-bucket
 vim@9.0.json,rivy/scoop-bucket
+gpg@2.4.0.json,rivy/scoop-bucket
 okular_rivy.json,rivy/scoop-bucket
 python@2.json,rivy/scoop-bucket
 go@1.17.1.json,rivy/scoop-bucket
@@ -8985,6 +8990,7 @@ dosbox_rivy.json,rivy/scoop-bucket
 git@2.39.0.2.json,rivy/scoop-bucket
 go@1.7.3.json,rivy/scoop-bucket
 perl@5.30.3.1.json,rivy/scoop-bucket
+gpg@2.3.4.json,rivy/scoop-bucket
 zig_rivy.json,rivy/scoop-bucket
 deno@1.4.0.json,rivy/scoop-bucket
 cmake@3.21.3.json,rivy/scoop-bucket
@@ -9486,7 +9492,7 @@ athenas-ass-mhFU.json,Deide/deide-bucket
 rpcs3_Deide.json,Deide/deide-bucket
 visualboyadvance-m_Deide.json,Deide/deide-bucket
 nester_Deide.json,Deide/deide-bucket
-openttd.json,Deide/deide-bucket
+openttd_Deide.json,Deide/deide-bucket
 nekomata.json,Deide/deide-bucket
 uplay_Deide.json,Deide/deide-bucket
 hunterpie2.json,Deide/deide-bucket
