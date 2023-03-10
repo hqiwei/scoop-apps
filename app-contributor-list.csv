@@ -207,6 +207,7 @@ Pixeval.json,Weidows-projects/scoop-3rd
 bongocat-osu.json,Weidows-projects/scoop-3rd
 AutumnBox.json,Weidows-projects/scoop-3rd
 RM-ATKtools.json,Weidows-projects/scoop-3rd
+TinyHand.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 OBSStudio-Portable.json,Weidows-projects/scoop-3rd
@@ -219,6 +220,7 @@ dev-sidecar.json,Weidows-projects/scoop-3rd
 pcstory.json,Weidows-projects/scoop-3rd
 YoudaoDict-portable.json,Weidows-projects/scoop-3rd
 PartAssist.json,Weidows-projects/scoop-3rd
+Nyushu-font.json,Weidows-projects/scoop-3rd
 PCmaster.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
 AIO-Boot.json,Weidows-projects/scoop-3rd
@@ -2089,6 +2091,7 @@ microsoftedge-dev.json,chawyehsu/dorado
 hellofont.json,chawyehsu/dorado
 esbuild.json,chawyehsu/dorado
 konversation.json,chawyehsu/dorado
+openai-translator.json,chawyehsu/dorado
 clashweb.json,chawyehsu/dorado
 dvm.json,chawyehsu/dorado
 nomeiryoui.json,chawyehsu/dorado
@@ -3145,7 +3148,7 @@ lx-music.json,ivaquero/scoopet
 eudic.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
@@ -4470,18 +4473,6 @@ volumouse.json,ScoopInstaller/Nirsoft
 muicacheview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 driveletterview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 mmcsnapinsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-wsl-ubuntu1604.json,KNOXDEV/wsl
-wsl-centos9.json,KNOXDEV/wsl
-wsl-sles.json,KNOXDEV/wsl
-wsl-ubuntu1804.json,KNOXDEV/wsl
-wsl-fedora.json,KNOXDEV/wsl
-wsl-opensuse.json,KNOXDEV/wsl
-wsl-ubuntu2004.json,KNOXDEV/wsl
-wsl-ubuntu2204.json,KNOXDEV/wsl
-wsl-debian.json,KNOXDEV/wsl
-wsl-fedora-arm.json,KNOXDEV/wsl
-wsl-kali.json,KNOXDEV/wsl
-wsl-ubuntu1804-arm.json,KNOXDEV/wsl
 ccleaner.json,echoiron/echo-scoop
 xtools.json,echoiron/echo-scoop
 contextmenumanager_echoiron.json,echoiron/echo-scoop
@@ -4550,7 +4541,7 @@ zhumu.json,echoiron/echo-scoop
 ossutil_echoiron.json,echoiron/echo-scoop
 xshellplus.json,echoiron/echo-scoop
 bypass_echoiron.json,echoiron/echo-scoop
-wisecare365_echoiron.json,echoiron/echo-scoop
+wisecare365.json,echoiron/echo-scoop
 chfs_echoiron.json,echoiron/echo-scoop
 baidunetdisk_echoiron.json,echoiron/echo-scoop
 hbuilderx.json,echoiron/echo-scoop
@@ -4581,6 +4572,18 @@ totalcommander_echoiron.json,echoiron/echo-scoop
 swoff.json,echoiron/echo-scoop
 q-dir_echoiron.json,echoiron/echo-scoop
 MouseInc.json,echoiron/echo-scoop
+wsl-ubuntu1604.json,KNOXDEV/wsl
+wsl-centos9.json,KNOXDEV/wsl
+wsl-sles.json,KNOXDEV/wsl
+wsl-ubuntu1804.json,KNOXDEV/wsl
+wsl-fedora.json,KNOXDEV/wsl
+wsl-opensuse.json,KNOXDEV/wsl
+wsl-ubuntu2004.json,KNOXDEV/wsl
+wsl-ubuntu2204.json,KNOXDEV/wsl
+wsl-debian.json,KNOXDEV/wsl
+wsl-fedora-arm.json,KNOXDEV/wsl
+wsl-kali.json,KNOXDEV/wsl
+wsl-ubuntu1804-arm.json,KNOXDEV/wsl
 windows_exporter.json,hoilc/scoop-lemon
 electronmail_hoilc.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
@@ -6884,8 +6887,8 @@ jstar-static.json,dodorz/scoop
 xenia_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
@@ -6900,7 +6903,7 @@ snes9x_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
@@ -6913,7 +6916,7 @@ fceux_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -6922,7 +6925,7 @@ bsnes_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
@@ -7572,7 +7575,7 @@ clipx_naderi.json,naderi/scoop-bucket
 mitec-photoview.json,naderi/scoop-bucket
 bitcomet_naderi.json,naderi/scoop-bucket
 mitec-icon-explorer.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 firefox-developer-fa.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 edge-portable-canary.json,naderi/scoop-bucket
@@ -7812,7 +7815,7 @@ msedge-canary.json,42wim/scoop-bucket
 spystudio.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 gcc_42wim.json,42wim/scoop-bucket
-matterircd_42wim.json,42wim/scoop-bucket
+matterircd.json,42wim/scoop-bucket
 googlechrome-beta_42wim.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
 googlechrome-dev_42wim.json,42wim/scoop-bucket
@@ -7962,7 +7965,7 @@ windows10manager_akirco.json,akirco/aki-apps
 qpdf_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
@@ -8748,6 +8751,7 @@ powercolorls.json,amorphobia/siku
 scoop-find.json,amorphobia/siku
 bcdown.json,amorphobia/siku
 bilimini.json,amorphobia/siku
+clash-for-windows_amorphobia.json,amorphobia/siku
 bind-lean.json,amorphobia/siku
 yahei-fira-icon-hybrid.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
