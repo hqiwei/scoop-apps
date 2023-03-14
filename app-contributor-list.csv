@@ -400,7 +400,7 @@ msbuild-structured-log-viewer.json,ScoopInstaller/Extras
 cura.json,ScoopInstaller/Extras
 bgpkiller.json,ScoopInstaller/Extras
 spytify.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 kdenlive.json,ScoopInstaller/Extras
 dropit.json,ScoopInstaller/Extras
 meinplatz.json,ScoopInstaller/Extras
@@ -1205,7 +1205,7 @@ lazygit.json,ScoopInstaller/Extras
 paperwork.json,ScoopInstaller/Extras
 puttytel.json,ScoopInstaller/Extras
 logisim-evolution.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 f3d.json,ScoopInstaller/Extras
 mpc-hc.json,ScoopInstaller/Extras
 maple.json,ScoopInstaller/Extras
@@ -1484,7 +1484,7 @@ displaycal.json,ScoopInstaller/Extras
 posh-docker.json,ScoopInstaller/Extras
 xmllint.json,ScoopInstaller/Extras
 shareaza.json,ScoopInstaller/Extras
-wingetui_ScoopInstaller.json,ScoopInstaller/Extras
+wingetui.json,ScoopInstaller/Extras
 easy-context-menu.json,ScoopInstaller/Extras
 reshade.json,ScoopInstaller/Extras
 m4a-to-mp3-converter.json,ScoopInstaller/Extras
@@ -3140,6 +3140,7 @@ adoptopenjdk-hotspot.json,ScoopInstaller/Java
 adoptopenjdk14-openj9.json,ScoopInstaller/Java
 adoptopenjdk11-openj9-xl-jre-nightly.json,ScoopInstaller/Java
 adoptopenjdk-jmc.json,ScoopInstaller/Java
+openai-translator.json,ivaquero/scoopet
 m3u8-downloader.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
 you-get.json,ivaquero/scoopet
@@ -3179,7 +3180,7 @@ downkyi_ivaquero.json,ivaquero/scoopet
 misakatranslator_ivaquero.json,ivaquero/scoopet
 julia-cn.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
-baidunetdisk_ivaquero.json,ivaquero/scoopet
+baidunetdisk.json,ivaquero/scoopet
 adrive.json,ivaquero/scoopet
 texlive_ivaquero.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
@@ -4555,7 +4556,7 @@ zhumu.json,echoiron/echo-scoop
 ossutil_echoiron.json,echoiron/echo-scoop
 xshellplus.json,echoiron/echo-scoop
 bypass_echoiron.json,echoiron/echo-scoop
-wisecare365.json,echoiron/echo-scoop
+wisecare365_echoiron.json,echoiron/echo-scoop
 chfs_echoiron.json,echoiron/echo-scoop
 baidunetdisk_echoiron.json,echoiron/echo-scoop
 hbuilderx.json,echoiron/echo-scoop
@@ -4685,7 +4686,7 @@ geekdesk.json,hoilc/scoop-lemon
 logcli.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 tidgi.json,hoilc/scoop-lemon
-mongodb-compass_hoilc.json,hoilc/scoop-lemon
+mongodb-compass.json,hoilc/scoop-lemon
 exescope-ha.json,hoilc/scoop-lemon
 rssguard_hoilc.json,hoilc/scoop-lemon
 inimod.json,hoilc/scoop-lemon
@@ -6911,7 +6912,7 @@ citra_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
@@ -6919,7 +6920,7 @@ fceux_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -6928,10 +6929,10 @@ bsnes_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 raylib_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 shellexview_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
@@ -7837,7 +7838,7 @@ prs_akirco.json,akirco/aki-apps
 mubu_akirco.json,akirco/aki-apps
 monolith_akirco.json,akirco/aki-apps
 powertoys_akirco.json,akirco/aki-apps
-flutter-cn.json,akirco/aki-apps
+flutter-cn_akirco.json,akirco/aki-apps
 fleet.json,akirco/aki-apps
 tuya.json,akirco/aki-apps
 hellofont_akirco.json,akirco/aki-apps
@@ -7908,6 +7909,7 @@ obs-studio_akirco.json,akirco/aki-apps
 koodo-reader_akirco.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
+cpu-z_akirco.json,akirco/aki-apps
 fishingfunds.json,akirco/aki-apps
 windows11manager.json,akirco/aki-apps
 xming_akirco.json,akirco/aki-apps
@@ -7975,7 +7977,7 @@ dim2clear.json,akirco/aki-apps
 tokei_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 wp-cli_akirco.json,akirco/aki-apps
