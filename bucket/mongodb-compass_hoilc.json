@@ -1,0 +1,34 @@
+{
+    "version": "1.36.0",
+    "description": "The GUI for MongoDB, which allows you to make smarter decisions about document structure, querying, indexing, document validation, and more.",
+    "homepage": "https://www.mongodb.com/products/compass",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.mongodb.com/compass-community-license-agreement"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://downloads.mongodb.com/compass/mongodb-compass-1.36.0-win32-x64.zip",
+            "hash": "b185c5a9325f6bbf37a179b1b1b073689c35cd5b21cae484c26228c52d867aa9"
+        }
+    },
+    "shortcuts": [
+        [
+            "MongoDBCompass.exe",
+            "MongoDB Compass",
+            "--user-data-dir=\"$dir\\User Data\""
+        ]
+    ],
+    "persist": "User Data",
+    "checkver": {
+        "url": "https://www.mongodb.com/try/download/compass",
+        "regex": "mongodb-compass-([\\d.]+)-win32-x64.zip"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://downloads.mongodb.com/compass/mongodb-compass-$version-win32-x64.zip"
+            }
+        }
+    }
+}
