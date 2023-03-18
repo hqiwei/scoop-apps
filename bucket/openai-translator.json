@@ -1,12 +1,12 @@
 {
-    "version": "0.0.26",
+    "version": "0.0.28",
     "description": "Browser extension and cross-platform desktop application for translation based on ChatGPT API",
     "homepage": "https://github.com/yetone/openai-translator",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yetone/openai-translator/releases/download/v0.0.26/OpenAI.Translator_0.0.26_x64_en-US.msi",
-            "hash": "e62ed53d6724c3e398af8286828764897bbae805029f3793fea4889e57d934f2"
+            "url": "https://github.com/yetone/openai-translator/releases/download/v0.0.28/OpenAI.Translator_0.0.28_x64_en-US.msi",
+            "hash": "db9b1eacb1b6885858798f14f55ceac29591ea09c281f226fd5953c649f8ab78"
         }
     },
     "extract_dir": "PFiles\\OpenAI Translator",
