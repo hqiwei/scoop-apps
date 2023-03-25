@@ -4501,7 +4501,7 @@ wsl-centos9.json,KNOXDEV/wsl
 ksoftmgr.json,echoiron/echo-scoop
 sandboxie-plus.json,echoiron/echo-scoop
 winrar_echoiron.json,echoiron/echo-scoop
-wechat_echoiron.json,echoiron/echo-scoop
+wechat.json,echoiron/echo-scoop
 emeditor_echoiron.json,echoiron/echo-scoop
 mouseinc.json,echoiron/echo-scoop
 picgo_echoiron.json,echoiron/echo-scoop
@@ -4574,7 +4574,7 @@ pdfshaper.json,echoiron/echo-scoop
 ocam.json,echoiron/echo-scoop
 ossutil_echoiron.json,echoiron/echo-scoop
 4kvideodownloader.json,echoiron/echo-scoop
-clash-for-windows.json,echoiron/echo-scoop
+clash-for-windows_echoiron.json,echoiron/echo-scoop
 stellarplayer.json,echoiron/echo-scoop
 tencentmeeting.json,echoiron/echo-scoop
 fscapture_echoiron.json,echoiron/echo-scoop
@@ -4912,7 +4912,7 @@ balcon.json,hoilc/scoop-lemon
 libportable.json,hoilc/scoop-lemon
 arend.json,hoilc/scoop-lemon
 kubectl-argo-rollouts.json,hoilc/scoop-lemon
-ediary.json,hoilc/scoop-lemon
+ediary_hoilc.json,hoilc/scoop-lemon
 wing-101_hoilc.json,hoilc/scoop-lemon
 burrow.json,hoilc/scoop-lemon
 projector-client.json,hoilc/scoop-lemon
@@ -6250,7 +6250,7 @@ Listary_dodorz.json,dodorz/scoop
 RevoUninstallerFree.json,dodorz/scoop
 sK1.json,dodorz/scoop
 eMule-community_dodorz.json,dodorz/scoop
-WeChat.json,dodorz/scoop
+WeChat_dodorz.json,dodorz/scoop
 GeoGebra_dodorz.json,dodorz/scoop
 TextFilter.json,dodorz/scoop
 FARR.json,dodorz/scoop
@@ -6912,7 +6912,7 @@ citra_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
@@ -6929,13 +6929,13 @@ citra-canary_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-yuzu_borger.json,borger/scoop-emulators
+yuzu.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 snes9x-dev.json,borger/scoop-emulators
-snes9x_borger.json,borger/scoop-emulators
+snes9x.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
@@ -6946,10 +6946,10 @@ redream-dev_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 custom-resolution-utility.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
 musescore-nightly-with-file-associations.json,TheRandomLabs/Scoop-Bucket
@@ -7129,7 +7129,7 @@ apifox.json,zhoujin7/tomato
 smartsvn11.json,zhoujin7/tomato
 FSCapture_zhoujin7.json,zhoujin7/tomato
 PixBuilder.json,zhoujin7/tomato
-HBuilderX.json,zhoujin7/tomato
+HBuilderX_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 Nacos.json,zhoujin7/tomato
 CCleaner540.json,zhoujin7/tomato
@@ -7184,6 +7184,7 @@ iedriver.json,wangzq/scoop-bucket
 ssllabs-scan.json,wangzq/scoop-bucket
 protogen.json,wangzq/scoop-bucket
 perfview_wangzq.json,wangzq/scoop-bucket
+heapdump.json,wangzq/scoop-bucket
 jpad.json,wangzq/scoop-bucket
 refasmer.json,wangzq/scoop-bucket
 codesearch.json,wangzq/scoop-bucket
@@ -7273,6 +7274,7 @@ keyhh.json,wangzq/scoop-bucket
 sqlformatter.json,wangzq/scoop-bucket
 debugview.json,wangzq/scoop-bucket
 bootcamp-driver-downloader.json,wangzq/scoop-bucket
+ironpython.json,wangzq/scoop-bucket
 cs-script3.json,wangzq/scoop-bucket
 gitext4.json,wangzq/scoop-bucket
 nvidia.ConfigureMosaic.json,wangzq/scoop-bucket
@@ -8579,7 +8581,7 @@ kiwix-tools.json,cc713/ownscoop
 winmerge_cc713.json,cc713/ownscoop
 tor-browser-zh-cn_cc713.json,cc713/ownscoop
 anime4k-glsl.json,cc713/ownscoop
-clashn.json,cc713/ownscoop
+clashn_cc713.json,cc713/ownscoop
 keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 Weasel_cc713.json,cc713/ownscoop
 picacg-qt.json,cc713/ownscoop
@@ -8674,7 +8676,6 @@ iwck.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
 dgmpgdec.json,amorphobia/siku
-clash-for-windows_amorphobia.json,amorphobia/siku
 ddns-go.json,amorphobia/siku
 86box-manager.json,amorphobia/siku
 parsify-desktop.json,amorphobia/siku
@@ -9608,7 +9609,6 @@ simpletransfer.json,Zliced13/MyScoop
 attribute-changer.json,Zliced13/MyScoop
 zsharp.json,Zliced13/MyScoop
 virtualdub2.json,Zliced13/MyScoop
-imhex_fixed.json,Zliced13/MyScoop
 fastflix.json,Zliced13/MyScoop
 icopy.json,Zliced13/MyScoop
 seo-spider.json,Zliced13/MyScoop
@@ -9640,6 +9640,7 @@ komf.json,Zliced13/MyScoop
 vb-cable.json,Zliced13/MyScoop
 naps2-beta.json,Zliced13/MyScoop
 burp-suite-pro-java.json,Zliced13/MyScoop
+cloudflare-warp-np.json,Zliced13/MyScoop
 hibit-startup-manager_fixed.json,Zliced13/MyScoop
 prospect.json,Zliced13/MyScoop
 blobsaver.json,Zliced13/MyScoop
@@ -9741,6 +9742,7 @@ odin-dev_fixed.json,Zliced13/MyScoop
 cinny_Zliced13.json,Zliced13/MyScoop
 grammarly-np_Zliced13.json,Zliced13/MyScoop
 emeditor-fixed.json,Zliced13/MyScoop
+renamer_fixed.json,Zliced13/MyScoop
 electronmail_Zliced13.json,Zliced13/MyScoop
 zandronum-fixed.json,Zliced13/MyScoop
 godot-mono-beta_fixed.json,Zliced13/MyScoop
