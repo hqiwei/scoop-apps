@@ -1,11 +1,17 @@
 {
-    "version": "0.2023.02.25",
+    "version": "1.11.7",
     "description": "No Man's Sky Save Editor. ",
     "homepage": "https://github.com/goatfungus/NMSSaveEditor",
     "license": "Unknown",
     "changelog": "https://github.com/goatfungus/NMSSaveEditor/blob/master/CHANGELOG.md",
-    "url": "https://github.com/goatfungus/NMSSaveEditor/raw/fd9aed14e4958a1798d831b85081dcceb5079def/NMSSaveEditor.jar",
-    "hash": "c863ab0c976611b8727273d32e2e7cfde5ec24949ff1d562bf89903740e94e2d",
+    "url": [
+        "https://github.com/goatfungus/NMSSaveEditor/raw/b394c4e17432630e6f54d9184c40bc28fadd3d37/NMSSaveEditor.jar",
+        "https://raw.githubusercontent.com/ACooper81/scoop-apps/master/icons/nms-save-editor.ico"
+    ],
+    "hash": [
+        "d40ee0ac89a04aabd9d122db8f47b29c65a79a20cca7f2502fbb9a00f9f79919",
+        "203e99e1a2adca0680561d2de371f4dd1ebad6cb2c6fc5a616622cd1e16c520f"
+    ],
     "pre_install": [
         "Set-Content -Path \"$dir\\NMSSaveEditor.bat\" -Value \"@echo off`njava -jar `\"$dir\\NMSSaveEditor.jar`\" %*\"",
         "if (-not (Test-Path \"$dir\\NMSSaveEditor.conf\")) { New-Item \"$dir\\NMSSaveEditor.conf\" -ItemType File | Out-Null }"
@@ -13,17 +19,19 @@
     "shortcuts": [
         [
             "NMSSaveEditor.bat",
-            "NMS Save Editor"
+            "NMS Save Editor",
+            "",
+            "nms-save-editor.ico"
         ]
     ],
     "persist": [
         "backups",
+        "exported",
         "NMSSaveEditor.conf"
     ],
     "checkver": {
-        "url": "https://github.com/goatfungus/NMSSaveEditor/commits/master.atom",
-        "regex": "(?s)>(\\d+)-(\\d+)-(\\d+)T.*?/(?<sha>[0-9a-f]{40})",
-        "replace": "0.${1}.${2}.${3}"
+        "url": "https://github.com/goatfungus/NMSSaveEditor/blob/master/VERSION.txt",
+        "regex": "/(?<sha>[0-9a-f]{40})/VERSION\\.txt[\\w\\W]+>(?<version>\\d+\\.[\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/goatfungus/NMSSaveEditor/raw/$matchSha/NMSSaveEditor.jar"
