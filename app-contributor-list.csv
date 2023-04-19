@@ -1030,7 +1030,6 @@ dosbox-x.json,ScoopInstaller/Extras
 tumblthree.json,ScoopInstaller/Extras
 typioca.json,ScoopInstaller/Extras
 dotnet-generic-unpacker.json,ScoopInstaller/Extras
-kde-dolphin.json,ScoopInstaller/Extras
 pet.json,ScoopInstaller/Extras
 jellyfin-mpv-shim.json,ScoopInstaller/Extras
 ytmdesktop.json,ScoopInstaller/Extras
@@ -1528,6 +1527,7 @@ sfk.json,ScoopInstaller/Extras
 chef-workstation.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 strawberry.json,ScoopInstaller/Extras
+dolphin.json,ScoopInstaller/Extras
 scoop-completion.json,ScoopInstaller/Extras
 playnite.json,ScoopInstaller/Extras
 divoom-cli.json,ScoopInstaller/Extras
@@ -2895,7 +2895,7 @@ wfinfo.json,Calinou/scoop-games
 fbneo-nightly.json,Calinou/scoop-games
 demul.json,Calinou/scoop-games
 romsorter.json,Calinou/scoop-games
-dolphin.json,Calinou/scoop-games
+dolphin_Calinou.json,Calinou/scoop-games
 tic-80.json,Calinou/scoop-games
 mednafen-dev.json,Calinou/scoop-games
 freeorion.json,Calinou/scoop-games
@@ -4586,7 +4586,7 @@ todesk_scoopcn.json,scoopcn/scoopcn
 s3-browser.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 tim.json,scoopcn/scoopcn
-feishu.json,scoopcn/scoopcn
+feishu_scoopcn.json,scoopcn/scoopcn
 sunlogin.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
 kugou.json,scoopcn/scoopcn
@@ -4668,6 +4668,7 @@ hitomi-downloader.json,hoilc/scoop-lemon
 kubeseal_hoilc.json,hoilc/scoop-lemon
 av_data_capture.json,hoilc/scoop-lemon
 ytt_hoilc.json,hoilc/scoop-lemon
+whisper-desktop.json,hoilc/scoop-lemon
 oggenc2-libvorbis-aotuv.json,hoilc/scoop-lemon
 openra_hoilc.json,hoilc/scoop-lemon
 baidupcs-go.json,hoilc/scoop-lemon
@@ -4683,6 +4684,7 @@ cosbrowser.json,hoilc/scoop-lemon
 nico.json,hoilc/scoop-lemon
 abstreet.json,hoilc/scoop-lemon
 emby-pinyin.json,hoilc/scoop-lemon
+whisper-model-ggml-tiny.json,hoilc/scoop-lemon
 brook.json,hoilc/scoop-lemon
 trdl.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
@@ -4791,6 +4793,7 @@ kubectl-debug.json,hoilc/scoop-lemon
 treeline.json,hoilc/scoop-lemon
 fanctrl.json,hoilc/scoop-lemon
 docker-ls.json,hoilc/scoop-lemon
+whisper-cli.json,hoilc/scoop-lemon
 pshash.json,hoilc/scoop-lemon
 tickeys.json,hoilc/scoop-lemon
 tinyimageprocessor.json,hoilc/scoop-lemon
@@ -4866,6 +4869,7 @@ riemann.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
 setuna2.json,hoilc/scoop-lemon
 notcpucores.json,hoilc/scoop-lemon
+whisper-model-ggml-medium.json,hoilc/scoop-lemon
 twexe.json,hoilc/scoop-lemon
 maple-mono_hoilc.json,hoilc/scoop-lemon
 rabbit-tcp.json,hoilc/scoop-lemon
@@ -4902,6 +4906,7 @@ wininfo.json,hoilc/scoop-lemon
 duga-player.json,hoilc/scoop-lemon
 stickies_hoilc.json,hoilc/scoop-lemon
 obs-browser-plus.json,hoilc/scoop-lemon
+whisper-model-ggml-large.json,hoilc/scoop-lemon
 dufs_hoilc.json,hoilc/scoop-lemon
 oggenc2-libvorbis.json,hoilc/scoop-lemon
 readysunvalley.json,hoilc/scoop-lemon
@@ -4999,6 +5004,7 @@ asfenhance-cn.json,hoilc/scoop-lemon
 snova-asio.json,hoilc/scoop-lemon
 chart-testing.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
+whisper-model-ggml-small.json,hoilc/scoop-lemon
 cue_hoilc.json,hoilc/scoop-lemon
 esheep.json,hoilc/scoop-lemon
 vultr-cli.json,hoilc/scoop-lemon
@@ -5047,6 +5053,7 @@ tsmuxer.json,hoilc/scoop-lemon
 kindle-comic-creator.json,hoilc/scoop-lemon
 rssguard-nightly.json,hoilc/scoop-lemon
 adobe-creative-cloud-cleaner-tool.json,hoilc/scoop-lemon
+whisper-model-ggml-large-v1.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
 airdcpp.json,hoilc/scoop-lemon
 hysteria_hoilc.json,hoilc/scoop-lemon
@@ -5080,7 +5087,7 @@ oggdropxpd-libvorbis.json,hoilc/scoop-lemon
 hostess.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 zeta-resource-editor.json,hoilc/scoop-lemon
-kusion.json,hoilc/scoop-lemon
+kusion_hoilc.json,hoilc/scoop-lemon
 gogdl.json,hoilc/scoop-lemon
 remetrics.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
@@ -5199,6 +5206,7 @@ mysqld_exporter.json,hoilc/scoop-lemon
 copyplusplus_hoilc.json,hoilc/scoop-lemon
 amass_hoilc.json,hoilc/scoop-lemon
 tanoshi_hoilc.json,hoilc/scoop-lemon
+whisper-model-ggml-small-en.json,hoilc/scoop-lemon
 helio.json,hoilc/scoop-lemon
 wpinternals.json,hoilc/scoop-lemon
 antidupl.net_hoilc.json,hoilc/scoop-lemon
@@ -5211,6 +5219,9 @@ gsutil.json,hoilc/scoop-lemon
 arthas_hoilc.json,hoilc/scoop-lemon
 cppcryptfsctl.json,hoilc/scoop-lemon
 filegogo.json,hoilc/scoop-lemon
+whisper-model-ggml-base-en.json,hoilc/scoop-lemon
+whisper-model-ggml-medium-en.json,hoilc/scoop-lemon
+whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
 windowtop.json,hoilc/scoop-lemon
 i4tools.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
@@ -5250,6 +5261,7 @@ textify.json,hoilc/scoop-lemon
 a5m2.json,hoilc/scoop-lemon
 start-reader.json,hoilc/scoop-lemon
 jj.json,hoilc/scoop-lemon
+whisper-ps.json,hoilc/scoop-lemon
 nvenc.json,hoilc/scoop-lemon
 benthos.json,hoilc/scoop-lemon
 foobox-en.json,hoilc/scoop-lemon
@@ -5265,6 +5277,7 @@ meepo.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
 duf_hoilc.json,hoilc/scoop-lemon
 microsoft-error-lookup-tool.json,hoilc/scoop-lemon
+whisper-model-ggml-base.json,hoilc/scoop-lemon
 keepass-plugin-keetheme_hoilc.json,hoilc/scoop-lemon
 maxthon5.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
@@ -7690,7 +7703,6 @@ directory-compare.json,naderi/scoop-bucket
 coolplayer_naderi.json,naderi/scoop-bucket
 nanarun.json,naderi/scoop-bucket
 gimp-portable_naderi.json,naderi/scoop-bucket
-json-edit.json,naderi/scoop-bucket
 stdu-xml-editor.json,naderi/scoop-bucket
 capture2text-persian.json,naderi/scoop-bucket
 tad.json,naderi/scoop-bucket
@@ -7736,6 +7748,7 @@ firefox-developer-fa.json,naderi/scoop-bucket
 pycharm-portable.json,naderi/scoop-bucket
 edge-portable.json,naderi/scoop-bucket
 firefox-beta-fa.json,naderi/scoop-bucket
+jsonedit_naderi.json,naderi/scoop-bucket
 mediathekview.json,naderi/scoop-bucket
 miktex_naderi.json,naderi/scoop-bucket
 beekeeper-studio-portable.json,naderi/scoop-bucket
@@ -7937,6 +7950,7 @@ python39_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 runjs.json,akirco/aki-apps
 lwc_akirco.json,akirco/aki-apps
+windows-terminal-quake.json,akirco/aki-apps
 xzvoice.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 ffmpeg_akirco.json,akirco/aki-apps
@@ -7988,7 +8002,7 @@ vcredist2013_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 scoops.json,akirco/aki-apps
 xming_akirco.json,akirco/aki-apps
-okular.json,akirco/aki-apps
+okular_akirco.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 tim_akirco.json,akirco/aki-apps
 dog_akirco.json,akirco/aki-apps
@@ -8014,7 +8028,7 @@ prs_akirco.json,akirco/aki-apps
 wegame.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 trash_akirco.json,akirco/aki-apps
-kate.json,akirco/aki-apps
+kate_akirco.json,akirco/aki-apps
 composer_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 OracleJDK8_akirco.json,akirco/aki-apps
@@ -8381,6 +8395,7 @@ fab.json,ViCrack/scoop-bucket
 another-redis-desktop-manager_ViCrack.json,ViCrack/scoop-bucket
 dev-sidecar_ViCrack.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
+rakshasa.json,ViCrack/scoop-bucket
 quake_rs.json,ViCrack/scoop-bucket
 subfinder.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
@@ -8488,6 +8503,7 @@ dnSpyEx_NyaMisty.json,NyaMisty/scoop_bucket_misty
 metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 trays.json,NyaMisty/scoop_bucket_misty
+fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 fclone.json,NyaMisty/scoop_bucket_misty
 wireshark-nightly.json,NyaMisty/scoop_bucket_misty
@@ -9447,6 +9463,7 @@ perl@5.26+gcc+PDL-LD.json,rivy/scoop-bucket
 fnm@1.22.5.json,rivy/scoop-bucket
 lingoes_ChinLong.json,ChinLong/scoop-customize
 wsl-terminal_ChinLong.json,ChinLong/scoop-customize
+s3browser.json,ChinLong/scoop-customize
 wnmp.json,ChinLong/scoop-customize
 robomongo.json,ChinLong/scoop-customize
 tortoisegit.json,ChinLong/scoop-customize
