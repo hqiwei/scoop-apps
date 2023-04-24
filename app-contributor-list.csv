@@ -3339,6 +3339,7 @@ emule-cv.json,ScoopInstaller/Versions
 chromium-dev-nosync.json,ScoopInstaller/Versions
 openssl1.json,ScoopInstaller/Versions
 postgresql10.json,ScoopInstaller/Versions
+dolphin-nightly.json,ScoopInstaller/Versions
 php54.json,ScoopInstaller/Versions
 dotnet6-sdk.json,ScoopInstaller/Versions
 winget1.4.json,ScoopInstaller/Versions
@@ -3368,7 +3369,6 @@ idea-ultimate-eap.json,ScoopInstaller/Versions
 openssl-light.json,ScoopInstaller/Versions
 linqpad5.json,ScoopInstaller/Versions
 neovide-dev.json,ScoopInstaller/Versions
-kde-dolphin-nightly.json,ScoopInstaller/Versions
 miniconda3-4.12.0.json,ScoopInstaller/Versions
 kicad-lite-nightly.json,ScoopInstaller/Versions
 gpac-nightly.json,ScoopInstaller/Versions
@@ -3551,6 +3551,7 @@ v2rayn-pre.json,ScoopInstaller/Versions
 goland-eap.json,ScoopInstaller/Versions
 ngrok2.json,ScoopInstaller/Versions
 sql-workbench-dev.json,ScoopInstaller/Versions
+r42.json,ScoopInstaller/Versions
 oneget.json,ScoopInstaller/Versions
 php72-xdebug.json,ScoopInstaller/Versions
 php74-xdebug.json,ScoopInstaller/Versions
@@ -3691,6 +3692,7 @@ googlechrome-beta.json,ScoopInstaller/Versions
 sbt013.json,ScoopInstaller/Versions
 perl-pdl.json,ScoopInstaller/Versions
 autohotkey1.1.json,ScoopInstaller/Versions
+rtools42.json,ScoopInstaller/Versions
 cloudcompare-alpha.json,ScoopInstaller/Versions
 php71.json,ScoopInstaller/Versions
 fmedia16.json,ScoopInstaller/Versions
@@ -5763,6 +5765,7 @@ EpicGamesLauncher-Portable.json,ACooper81/scoop-apps
 MicrosoftEdgeCanary-Portable.json,ACooper81/scoop-apps
 DismPlusPlus-Portable.json,ACooper81/scoop-apps
 SteelSeriesGG-Install.json,ACooper81/scoop-apps
+ScoopSearchCLI-Portable.json,ACooper81/scoop-apps
 Patchfluent-Portable.json,ACooper81/scoop-apps
 LuxCLI-Portable.json,ACooper81/scoop-apps
 EarTrumpet-Portable.json,ACooper81/scoop-apps
@@ -6225,6 +6228,7 @@ ProperTree-Portable.json,ACooper81/scoop-apps
 Microsoft.NETDesktopRuntime-Install.json,ACooper81/scoop-apps
 RDPWrapper-Portable.json,ACooper81/scoop-apps
 trdlCLI-Portable.json,ACooper81/scoop-apps
+ScoopFindCLI-Portable.json,ACooper81/scoop-apps
 MPC-BE-Install.json,ACooper81/scoop-apps
 DNSControlCLI-Portable.json,ACooper81/scoop-apps
 MusicBrainzPicard-Portable.json,ACooper81/scoop-apps
@@ -6673,7 +6677,7 @@ mimeTeX.json,dodorz/scoop
 HotkeyP.json,dodorz/scoop
 CPod.json,dodorz/scoop
 KaTrain.json,dodorz/scoop
-CCleaner_dodorz.json,dodorz/scoop
+CCleaner.json,dodorz/scoop
 Syncany-GUI.json,dodorz/scoop
 Jed.json,dodorz/scoop
 MiKTeX_dodorz.json,dodorz/scoop
@@ -7531,7 +7535,7 @@ vc-ltl.json,wzv5/ScoopBucket
 oleviewdotnet.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
 xnview_wzv5.json,wzv5/ScoopBucket
-aliyundrive.json,wzv5/ScoopBucket
+aliyundrive_wzv5.json,wzv5/ScoopBucket
 applicationinspector.json,wzv5/ScoopBucket
 wechat_wzv5.json,wzv5/ScoopBucket
 yuanshen.json,wzv5/ScoopBucket
@@ -7577,7 +7581,7 @@ chord.json,naderi/scoop-bucket
 dm2_naderi.json,naderi/scoop-bucket
 kmplayer.json,naderi/scoop-bucket
 xdm_naderi.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 idea-portable.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 mitec-exe-explorer.json,naderi/scoop-bucket
@@ -7918,7 +7922,7 @@ gradle_akirco.json,akirco/aki-apps
 charles_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
 termscp_akirco.json,akirco/aki-apps
-BaiduNetdisk_akirco.json,akirco/aki-apps
+BaiduNetdisk.json,akirco/aki-apps
 memo.json,akirco/aki-apps
 yuque_akirco.json,akirco/aki-apps
 dim.json,akirco/aki-apps
@@ -8108,7 +8112,7 @@ GitNote_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 regexp_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 nginx_akirco.json,akirco/aki-apps
 quarkpan.json,akirco/aki-apps
 pyflow_akirco.json,akirco/aki-apps
@@ -8429,7 +8433,7 @@ hash.json,ygguorun/scoop-bucket
 silk2mp3.json,ygguorun/scoop-bucket
 LyricTools.json,ygguorun/scoop-bucket
 PotPlayer-old.json,ygguorun/scoop-bucket
-aDrive.json,ygguorun/scoop-bucket
+aDrive_ygguorun.json,ygguorun/scoop-bucket
 git-repo-clean_ygguorun.json,ygguorun/scoop-bucket
 Legendary_ygguorun.json,ygguorun/scoop-bucket
 Macast_ygguorun.json,ygguorun/scoop-bucket
@@ -9950,7 +9954,7 @@ mod-organizer-2.json,jingyu9575/scoop-jingyu9575
 jpdfbookmarks.json,jingyu9575/scoop-jingyu9575
 network-monitor-np.json,jingyu9575/scoop-jingyu9575
 wxformbuilder.json,jingyu9575/scoop-jingyu9575
-thunderbird-zh-cn_jingyu9575.json,jingyu9575/scoop-jingyu9575
+thunderbird-zh-cn.json,jingyu9575/scoop-jingyu9575
 clamav.json,jingyu9575/scoop-jingyu9575
 link-shell-extension-np.json,jingyu9575/scoop-jingyu9575
 inotifywait.json,jingyu9575/scoop-jingyu9575
