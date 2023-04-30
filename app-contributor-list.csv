@@ -244,6 +244,7 @@ nvm_Weidows-projects.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
 Snap.Hutao.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
+Edge-Webdriver.json,Weidows-projects/scoop-3rd
 WondershareUniconverter.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 He3.json,Weidows-projects/scoop-3rd
@@ -691,6 +692,7 @@ simplewall.json,ScoopInstaller/Extras
 yumi.json,ScoopInstaller/Extras
 microsoft-teams.json,ScoopInstaller/Extras
 rife-ncnn-vulkan.json,ScoopInstaller/Extras
+deew.json,ScoopInstaller/Extras
 pseps.json,ScoopInstaller/Extras
 opentoonz.json,ScoopInstaller/Extras
 windowtextextractor.json,ScoopInstaller/Extras
@@ -5234,7 +5236,7 @@ maxthon.json,hoilc/scoop-lemon
 logcli.json,hoilc/scoop-lemon
 piping-server-rust.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
-downkyi_hoilc.json,hoilc/scoop-lemon
+downkyi.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
 clashn_hoilc.json,hoilc/scoop-lemon
 brook.json,hoilc/scoop-lemon
@@ -5519,7 +5521,7 @@ pegasus_hermanjustnu.json,hermanjustnu/scoop-emulators
 redream_hermanjustnu.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 z26.json,hermanjustnu/scoop-emulators
-ppsspp-dev.json,hermanjustnu/scoop-emulators
+ppsspp-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 beebem.json,hermanjustnu/scoop-emulators
 fceux-qt-interim.json,hermanjustnu/scoop-emulators
@@ -7038,18 +7040,18 @@ xenia_borger.json,borger/scoop-emulators
 fceux_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
-ppsspp_borger.json,borger/scoop-emulators
+ppsspp.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
@@ -8153,6 +8155,7 @@ pngcrush_akirco.json,akirco/aki-apps
 aofv.json,akirco/aki-apps
 poppler_akirco.json,akirco/aki-apps
 scoops.json,akirco/aki-apps
+pure-live.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 speedtest-cli_akirco.json,akirco/aki-apps
 bilibili.json,akirco/aki-apps
@@ -8917,6 +8920,7 @@ goldendict-xapian.json,cc713/ownscoop
 FreeFileSync.json,cc713/ownscoop
 PandaOCR-Pro.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
+sdio.json,cc713/ownscoop
 wget2.json,cc713/ownscoop
 Irfanview-plugins.json,cc713/ownscoop
 magpie_cc713.json,cc713/ownscoop
@@ -9732,6 +9736,7 @@ feroxbuster.json,HUMORCE/nuke
 ttfautohint.json,HUMORCE/nuke
 qbittorrent_HUMORCE.json,HUMORCE/nuke
 sdcc-snapshot-i586.json,HUMORCE/nuke
+jadx_HUMORCE.json,HUMORCE/nuke
 gdu_HUMORCE.json,HUMORCE/nuke
 dogehouse.json,HUMORCE/nuke
 hysteria_HUMORCE.json,HUMORCE/nuke
