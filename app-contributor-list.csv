@@ -335,7 +335,7 @@ displaycal.json,ScoopInstaller/Extras
 wincompose.json,ScoopInstaller/Extras
 dbxcli.json,ScoopInstaller/Extras
 gedit.json,ScoopInstaller/Extras
-wingetui_ScoopInstaller.json,ScoopInstaller/Extras
+wingetui.json,ScoopInstaller/Extras
 aurora.json,ScoopInstaller/Extras
 leet.json,ScoopInstaller/Extras
 eclipse-android.json,ScoopInstaller/Extras
@@ -1536,7 +1536,7 @@ pcmeter.json,ScoopInstaller/Extras
 sourcetrail.json,ScoopInstaller/Extras
 7tt.json,ScoopInstaller/Extras
 magicavoxel.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 winpty.json,ScoopInstaller/Extras
 googlechrome.json,ScoopInstaller/Extras
 dottrace.json,ScoopInstaller/Extras
@@ -4608,7 +4608,7 @@ procmon.json,scoopcn/scoopcn
 s3-browser.json,scoopcn/scoopcn
 procexp.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
-lx-music-desktop_scoopcn.json,scoopcn/scoopcn
+lx-music-desktop.json,scoopcn/scoopcn
 locaspace.json,scoopcn/scoopcn
 cloudmusic_scoopcn.json,scoopcn/scoopcn
 wechat_scoopcn.json,scoopcn/scoopcn
@@ -4852,7 +4852,7 @@ nexttrace-enhanced.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
 spleeter-gui.json,hoilc/scoop-lemon
-another-redis-desktop-manager.json,hoilc/scoop-lemon
+another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 vultr-cli.json,hoilc/scoop-lemon
 kodo-browser.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
@@ -5236,7 +5236,7 @@ maxthon.json,hoilc/scoop-lemon
 logcli.json,hoilc/scoop-lemon
 piping-server-rust.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
-downkyi.json,hoilc/scoop-lemon
+downkyi_hoilc.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
 clashn_hoilc.json,hoilc/scoop-lemon
 brook.json,hoilc/scoop-lemon
@@ -7025,7 +7025,7 @@ ProcessCloser.json,dodorz/scoop
 expressPython.json,dodorz/scoop
 ZYPlayer.json,dodorz/scoop
 mgba_borger.json,borger/scoop-emulators
-citra-canary_borger.json,borger/scoop-emulators
+citra-canary.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 visualboyadvance-m.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
@@ -7058,13 +7058,13 @@ dolphin-beta_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-xemu_borger.json,borger/scoop-emulators
+xemu.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
@@ -8854,7 +8854,7 @@ Irfanview_cc713.json,cc713/ownscoop
 ldplayer9.json,cc713/ownscoop
 xdm-dev.json,cc713/ownscoop
 jpegview-fork.json,cc713/ownscoop
-lx-music_cc713.json,cc713/ownscoop
+lx-music.json,cc713/ownscoop
 bbdown_cc713.json,cc713/ownscoop
 triliumCN.json,cc713/ownscoop
 PicView.json,cc713/ownscoop
@@ -9834,7 +9834,7 @@ motrix_HUMORCE.json,HUMORCE/nuke
 gost_HUMORCE.json,HUMORCE/nuke
 lavfilters_HUMORCE.json,HUMORCE/nuke
 autohotkey_HUMORCE.json,HUMORCE/nuke
-lively-wallpaper_HUMORCE.json,HUMORCE/nuke
+lively-wallpaper.json,HUMORCE/nuke
 zoxide_HUMORCE.json,HUMORCE/nuke
 fq_HUMORCE.json,HUMORCE/nuke
 librewolf_HUMORCE.json,HUMORCE/nuke
