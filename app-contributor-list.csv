@@ -1173,7 +1173,7 @@ komac.json,ScoopInstaller/Extras
 upscayl.json,ScoopInstaller/Extras
 meshlab.json,ScoopInstaller/Extras
 streamlabs-chatbot.json,ScoopInstaller/Extras
-registry-finder_ScoopInstaller.json,ScoopInstaller/Extras
+registry-finder.json,ScoopInstaller/Extras
 graphql-playground.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
 trafficmonitor-lite.json,ScoopInstaller/Extras
@@ -1190,7 +1190,7 @@ processhacker.json,ScoopInstaller/Extras
 yumi-exfat.json,ScoopInstaller/Extras
 bulk-crap-uninstaller.json,ScoopInstaller/Extras
 pure-data.json,ScoopInstaller/Extras
-tinymediamanager.json,ScoopInstaller/Extras
+tinymediamanager_ScoopInstaller.json,ScoopInstaller/Extras
 marble.json,ScoopInstaller/Extras
 4gb-patch.json,ScoopInstaller/Extras
 windowtextextractor.json,ScoopInstaller/Extras
@@ -2411,7 +2411,7 @@ processthreadsview.json,chawyehsu/dorado
 firefox-developer-zh-cn.json,chawyehsu/dorado
 setuna.json,chawyehsu/dorado
 capcut.json,chawyehsu/dorado
-clash-verge.json,chawyehsu/dorado
+clash-verge_chawyehsu.json,chawyehsu/dorado
 mcloud.json,chawyehsu/dorado
 electron-cash_chawyehsu.json,chawyehsu/dorado
 wasmedge.json,chawyehsu/dorado
@@ -2438,6 +2438,7 @@ origin.json,chawyehsu/dorado
 powershell.json,chawyehsu/dorado
 moonlight_chawyehsu.json,chawyehsu/dorado
 minify.json,chawyehsu/dorado
+frpmgr.json,chawyehsu/dorado
 hmcl_chawyehsu.json,chawyehsu/dorado
 mixin-messenger.json,chawyehsu/dorado
 sunvox.json,chawyehsu/dorado
@@ -2788,7 +2789,7 @@ veracrypt.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
-wechatwork.json,ivaquero/scoopet
+wechatwork_ivaquero.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
 infraarcana.json,Calinou/scoop-games
 opensupaplex.json,Calinou/scoop-games
@@ -4869,7 +4870,7 @@ wininfo.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 gcping.json,hoilc/scoop-lemon
 downkyi.json,hoilc/scoop-lemon
-ediary_hoilc.json,hoilc/scoop-lemon
+ediary.json,hoilc/scoop-lemon
 swagger-codegen-cli@2.json,hoilc/scoop-lemon
 dbmigration.net.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
@@ -5328,7 +5329,7 @@ drmemory_hoilc.json,hoilc/scoop-lemon
 asfenhance-cn.json,hoilc/scoop-lemon
 clash-speedtest.json,hoilc/scoop-lemon
 rekor-cli.json,hoilc/scoop-lemon
-azd.json,hoilc/scoop-lemon
+azd_hoilc.json,hoilc/scoop-lemon
 sonobuoy.json,hoilc/scoop-lemon
 chkssl.json,hoilc/scoop-lemon
 skywalking-cli_hoilc.json,hoilc/scoop-lemon
@@ -7302,6 +7303,7 @@ xenia-canary.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
+ryujinx-ava.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -7413,7 +7415,7 @@ subconverter_zhoujin7.json,zhoujin7/tomato
 zipkin.json,zhoujin7/tomato
 wnr_zhoujin7.json,zhoujin7/tomato
 HBuilderX-Full-Alpha.json,zhoujin7/tomato
-ILSpy_zhoujin7.json,zhoujin7/tomato
+ILSpy.json,zhoujin7/tomato
 AdiIRC_zhoujin7.json,zhoujin7/tomato
 hsqldb.json,zhoujin7/tomato
 ContextMenuMgr.json,zhoujin7/tomato
@@ -7432,7 +7434,7 @@ UltraCodingSwitch.json,zhoujin7/tomato
 MDict_zhoujin7.json,zhoujin7/tomato
 zipkin-dependencies.json,zhoujin7/tomato
 ActiveMQ-Classic.json,zhoujin7/tomato
-Quicker.json,zhoujin7/tomato
+Quicker_zhoujin7.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 OracleJDK17.json,zhoujin7/tomato
 redis5.json,zhoujin7/tomato
@@ -7790,7 +7792,6 @@ docker-desktop.json,akirco/aki-apps
 gof_akirco.json,akirco/aki-apps
 fx_akirco.json,akirco/aki-apps
 dismplusplus_akirco.json,akirco/aki-apps
-crow-translate.json,akirco/aki-apps
 wavpack_akirco.json,akirco/aki-apps
 nero-aac_akirco.json,akirco/aki-apps
 dog_akirco.json,akirco/aki-apps
@@ -7871,7 +7872,7 @@ highlight_akirco.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 sayit_akirco.json,akirco/aki-apps
-officetoolplus.json,akirco/aki-apps
+officetoolplus_akirco.json,akirco/aki-apps
 tup_akirco.json,akirco/aki-apps
 anaconda3_akirco.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
@@ -8601,6 +8602,7 @@ CopyTranslator_ygguorun.json,ygguorun/scoop-bucket
 WinFontPlus.json,ygguorun/scoop-bucket
 ClashXW.json,ygguorun/scoop-bucket
 officebox_ygguorun.json,ygguorun/scoop-bucket
+scoop-search-multisource.json,ygguorun/scoop-bucket
 RustDesk_ygguorun.json,ygguorun/scoop-bucket
 CJK-character-count_ygguorun.json,ygguorun/scoop-bucket
 winscppwd.json,ygguorun/scoop-bucket
@@ -9992,6 +9994,7 @@ zer0.json,brian6932/dank-scoop
 powercolorls.json,brian6932/dank-scoop
 gimagereader.json,brian6932/dank-scoop
 mtpmount.json,brian6932/dank-scoop
+ast-grep-sg.json,brian6932/dank-scoop
 gif2apng-cli.json,brian6932/dank-scoop
 eisa01-mpv-scripts.json,brian6932/dank-scoop
 console-rsvg-convert.json,brian6932/dank-scoop
