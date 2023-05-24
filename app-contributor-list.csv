@@ -259,6 +259,7 @@ MyDockFinder.json,Weidows-projects/scoop-3rd
 ModOrganizer.json,Weidows-projects/scoop-3rd
 TinyHand.json,Weidows-projects/scoop-3rd
 PanJi-GreenTools.json,Weidows-projects/scoop-3rd
+7zip-zstd-4scoop.json,Weidows-projects/scoop-3rd
 PostImages-client-portable.json,Weidows-projects/scoop-3rd
 winxray.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
@@ -1128,6 +1129,7 @@ touchcursor.json,ScoopInstaller/Extras
 orca.json,ScoopInstaller/Extras
 npiperelay.json,ScoopInstaller/Extras
 joplin.json,ScoopInstaller/Extras
+activitywatch.json,ScoopInstaller/Extras
 windowsdesktop-runtime-lts.json,ScoopInstaller/Extras
 masscode.json,ScoopInstaller/Extras
 svcat.json,ScoopInstaller/Extras
@@ -2292,7 +2294,7 @@ diskgenius-zh.json,chawyehsu/dorado
 nomeiryoui.json,chawyehsu/dorado
 pasteex.json,chawyehsu/dorado
 dogecoincore.json,chawyehsu/dorado
-activitywatch.json,chawyehsu/dorado
+activitywatch_chawyehsu.json,chawyehsu/dorado
 baulk.json,chawyehsu/dorado
 qtscrcpy_chawyehsu.json,chawyehsu/dorado
 wayback.json,chawyehsu/dorado
@@ -2746,6 +2748,7 @@ tim.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
 cursor.json,ivaquero/scoopet
 vtm.json,ivaquero/scoopet
+feishu.json,ivaquero/scoopet
 baidunetdisk.json,ivaquero/scoopet
 octave-cn.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
@@ -6198,6 +6201,7 @@ DismPlusPlus-Portable.json,ACooper81/scoop-apps
 ArpsiftCLI-Portable.json,ACooper81/scoop-apps
 VLC-Portable.json,ACooper81/scoop-apps
 LDPlayer-Portable.json,ACooper81/scoop-apps
+Anki-Portable.json,ACooper81/scoop-apps
 4KSlideshowMaker-Install.json,ACooper81/scoop-apps
 BloatyNosy-Portable.json,ACooper81/scoop-apps
 OandOAppBuster-Portable.json,ACooper81/scoop-apps
@@ -7305,9 +7309,9 @@ vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 mgba_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -7694,6 +7698,8 @@ spotdl-py.json,TheRandomLabs/Scoop-Python
 youtube-dl-py.json,TheRandomLabs/Scoop-Python
 http-prompt-py.json,TheRandomLabs/Scoop-Python
 ytmdl-py.json,TheRandomLabs/Scoop-Python
+yuanshen.json,wzv5/ScoopBucket
+bh3.json,wzv5/ScoopBucket
 aliyundrive_wzv5.json,wzv5/ScoopBucket
 inno-setup_wzv5.json,wzv5/ScoopBucket
 xnview_wzv5.json,wzv5/ScoopBucket
@@ -7710,8 +7716,7 @@ python_wzv5.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
-yuanshen.json,wzv5/ScoopBucket
-evernote_wzv5.json,wzv5/ScoopBucket
+evernote.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
@@ -7719,7 +7724,6 @@ pspad_wzv5.json,wzv5/ScoopBucket
 douyu.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 php_wzv5.json,wzv5/ScoopBucket
-bh3.json,wzv5/ScoopBucket
 utools_wzv5.json,wzv5/ScoopBucket
 vnote_wzv5.json,wzv5/ScoopBucket
 applicationinspector.json,wzv5/ScoopBucket
@@ -7948,7 +7952,7 @@ ClashDotNET.json,akirco/aki-apps
 wp-cli_akirco.json,akirco/aki-apps
 shimo.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
@@ -8202,6 +8206,7 @@ thunderbird-beta.json,naderi/scoop-bucket
 opera-developer.json,naderi/scoop-bucket
 font-gandom.json,naderi/scoop-bucket
 lgpo_naderi.json,naderi/scoop-bucket
+pulsar.json,naderi/scoop-bucket
 fopnu.json,naderi/scoop-bucket
 dev-cpp.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
@@ -8371,6 +8376,7 @@ proguard.json,ViCrack/scoop-bucket
 newfiletime_ViCrack.json,ViCrack/scoop-bucket
 ffuf.json,ViCrack/scoop-bucket
 verycapture_ViCrack.json,ViCrack/scoop-bucket
+xpoc.json,ViCrack/scoop-bucket
 edx.json,ViCrack/scoop-bucket
 dev-sidecar_ViCrack.json,ViCrack/scoop-bucket
 observerward.json,ViCrack/scoop-bucket
@@ -10324,7 +10330,7 @@ enableloopback.json,jingyu9575/scoop-jingyu9575
 units_jingyu9575.json,jingyu9575/scoop-jingyu9575
 bytecode-viewer_jingyu9575.json,jingyu9575/scoop-jingyu9575
 cff-explorer_jingyu9575.json,jingyu9575/scoop-jingyu9575
-stripe-cli.json,jingyu9575/scoop-jingyu9575
+stripe-cli_jingyu9575.json,jingyu9575/scoop-jingyu9575
 inotifywait.json,jingyu9575/scoop-jingyu9575
 ttfautohint_jingyu9575.json,jingyu9575/scoop-jingyu9575
 winscp-full.json,jingyu9575/scoop-jingyu9575
