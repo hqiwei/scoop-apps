@@ -4638,7 +4638,7 @@ searchmyfiles_ScoopInstaller.json,ScoopInstaller/Nirsoft
 awatch.json,ScoopInstaller/Nirsoft
 cprocess.json,ScoopInstaller/Nirsoft
 openwithview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-livetcpudpwatch_ScoopInstaller.json,ScoopInstaller/Nirsoft
+livetcpudpwatch.json,ScoopInstaller/Nirsoft
 offlineregistryfinder_ScoopInstaller.json,ScoopInstaller/Nirsoft
 edgecookiesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 serviwin_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5205,7 +5205,7 @@ inimod.json,hoilc/scoop-lemon
 metabase.json,hoilc/scoop-lemon
 snova-asio.json,hoilc/scoop-lemon
 remnote.json,hoilc/scoop-lemon
-bbdown.json,hoilc/scoop-lemon
+bbdown_hoilc.json,hoilc/scoop-lemon
 duga-player.json,hoilc/scoop-lemon
 logcli.json,hoilc/scoop-lemon
 arend.json,hoilc/scoop-lemon
@@ -7314,7 +7314,7 @@ office-365-apps-minimal-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vmware-workstation-player-np.json,ScoopInstaller/Nonportable
 mgba_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 vita3k.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -7324,12 +7324,13 @@ visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
+ryujinx-ava.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -7436,7 +7437,7 @@ PasteEx_zhoujin7.json,zhoujin7/tomato
 WinSCP_zhoujin7.json,zhoujin7/tomato
 OracleJDK11.json,zhoujin7/tomato
 DoubleKiller.json,zhoujin7/tomato
-HBuilderX_zhoujin7.json,zhoujin7/tomato
+HBuilderX.json,zhoujin7/tomato
 HBuilderX-Alpha.json,zhoujin7/tomato
 maven36.json,zhoujin7/tomato
 fastgithub.json,zhoujin7/tomato
@@ -7722,7 +7723,7 @@ python_wzv5.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 python-doc.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
-evernote_wzv5.json,wzv5/ScoopBucket
+evernote.json,wzv5/ScoopBucket
 lx-music-desktop_wzv5.json,wzv5/ScoopBucket
 winscp_wzv5.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
@@ -8028,7 +8029,7 @@ php74_akirco.json,akirco/aki-apps
 qqmusic_akirco.json,akirco/aki-apps
 wechatdevtools_akirco.json,akirco/aki-apps
 pandoc_akirco.json,akirco/aki-apps
-rufus_akirco.json,akirco/aki-apps
+rufus.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 uwd.json,akirco/aki-apps
 ShadowsocksR_akirco.json,akirco/aki-apps
@@ -8076,7 +8077,7 @@ texstudio-portable.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 ccenhancer_naderi.json,naderi/scoop-bucket
 blisk-portable.json,naderi/scoop-bucket
-hdcleaner_naderi.json,naderi/scoop-bucket
+hdcleaner.json,naderi/scoop-bucket
 chrome-portable.json,naderi/scoop-bucket
 thunderbird-portable_naderi.json,naderi/scoop-bucket
 font-sahel.json,naderi/scoop-bucket
@@ -8090,7 +8091,7 @@ encfs.json,naderi/scoop-bucket
 autodarkmode_naderi.json,naderi/scoop-bucket
 smart-svg-viewer.json,naderi/scoop-bucket
 win-bash_naderi.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 texpen.json,naderi/scoop-bucket
 cpuz.json,naderi/scoop-bucket
 programmers-notepad.json,naderi/scoop-bucket
@@ -8232,7 +8233,7 @@ ydl-ui-portable.json,naderi/scoop-bucket
 edge-portable-dev.json,naderi/scoop-bucket
 universal-viewer-pro.json,naderi/scoop-bucket
 mitec-xml-viewer.json,naderi/scoop-bucket
-tweakpower_naderi.json,naderi/scoop-bucket
+tweakpower.json,naderi/scoop-bucket
 texworks-portable.json,naderi/scoop-bucket
 vscode-insider.json,naderi/scoop-bucket
 extraterm_naderi.json,naderi/scoop-bucket
@@ -8327,7 +8328,7 @@ font-shabnam.json,naderi/scoop-bucket
 texts_naderi.json,naderi/scoop-bucket
 font-mikhak.json,naderi/scoop-bucket
 markdown-edit.json,naderi/scoop-bucket
-processko_naderi.json,naderi/scoop-bucket
+processko.json,naderi/scoop-bucket
 aegisub_naderi.json,naderi/scoop-bucket
 tenacity.json,naderi/scoop-bucket
 gvim-portable.json,naderi/scoop-bucket
@@ -8891,7 +8892,7 @@ datastation.json,batkiz/backit
 coreutils-rs.json,batkiz/backit
 embarcadero-dev-cpp-no-compiler.json,batkiz/backit
 buildkit.json,batkiz/backit
-contour.json,batkiz/backit
+contour_batkiz.json,batkiz/backit
 cranko.json,batkiz/backit
 listen1-desktop-fluent.json,batkiz/backit
 muffet.json,batkiz/backit
@@ -8927,7 +8928,7 @@ racket_batkiz.json,batkiz/backit
 cowyo.json,batkiz/backit
 aegisubdc.json,batkiz/backit
 racket-minimal-cs.json,batkiz/backit
-dasel_batkiz.json,batkiz/backit
+dasel.json,batkiz/backit
 miniserve_batkiz.json,batkiz/backit
 gitoxide.json,batkiz/backit
 nyan.json,batkiz/backit
@@ -9112,7 +9113,6 @@ Weasel_cc713.json,cc713/ownscoop
 ImDiskToolkit.json,cc713/ownscoop
 dnSpyEx_cc713.json,cc713/ownscoop
 DanmakuFactory.json,cc713/ownscoop
-bbdown_cc713.json,cc713/ownscoop
 rpcs3-dev.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 Irfanview-plugins.json,cc713/ownscoop
@@ -10143,7 +10143,7 @@ proxifier-pe.json,HUMORCE/nuke
 qbittorrent_HUMORCE.json,HUMORCE/nuke
 insomnia_HUMORCE.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
-appflowy_HUMORCE.json,HUMORCE/nuke
+appflowy.json,HUMORCE/nuke
 rpcs3_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-freehttp.json,HUMORCE/nuke
 sandboxie-plus_HUMORCE.json,HUMORCE/nuke
@@ -10186,6 +10186,7 @@ gotop_HUMORCE.json,HUMORCE/nuke
 otfcc_HUMORCE.json,HUMORCE/nuke
 simple-obfs.json,AkinoKaede/maple
 sarasagothic-term-sc-nf.json,AkinoKaede/maple
+v2ray-beta.json,AkinoKaede/maple
 vmessconv.json,AkinoKaede/maple
 v2ray-plugin.json,AkinoKaede/maple
 paperang.json,AkinoKaede/maple
