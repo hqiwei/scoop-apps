@@ -5299,7 +5299,7 @@ biyi.json,hoilc/scoop-lemon
 lal.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
 popeye.json,hoilc/scoop-lemon
-64gram_hoilc.json,hoilc/scoop-lemon
+64gram.json,hoilc/scoop-lemon
 whisper-desktop.json,hoilc/scoop-lemon
 xsnip.json,hoilc/scoop-lemon
 redis_exporter.json,hoilc/scoop-lemon
@@ -5957,7 +5957,7 @@ SpotiFlyer-Portable.json,ACooper81/scoop-apps
 NanaZip-Portable.json,ACooper81/scoop-apps
 Scratch-Install.json,ACooper81/scoop-apps
 Tockler-Portable.json,ACooper81/scoop-apps
-AdvancedWgetGUI-Portable_ACooper81.json,ACooper81/scoop-apps
+AdvancedWgetGUI-Portable.json,ACooper81/scoop-apps
 VeraCrypt-Portable.json,ACooper81/scoop-apps
 HWiNFO-Portable.json,ACooper81/scoop-apps
 WSL2DistroManager-Portable.json,ACooper81/scoop-apps
@@ -6046,6 +6046,7 @@ WinfetchCLI-Portable.json,ACooper81/scoop-apps
 SoftwareOKGetWindowText-Portable.json,ACooper81/scoop-apps
 MouseWithoutBorders-ManualInstall.json,ACooper81/scoop-apps
 RoboIntern-Portable.json,ACooper81/scoop-apps
+JunkCtrl-Portable.json,ACooper81/scoop-apps
 ArpsiftCLI-Portable.json,ACooper81/scoop-apps
 SPlayerLegacy-Portable.json,ACooper81/scoop-apps
 Mixxx-Portable.json,ACooper81/scoop-apps
@@ -6063,6 +6064,7 @@ Multrin-Portable.json,ACooper81/scoop-apps
 UniversalExtractor2-Portable.json,ACooper81/scoop-apps
 Win11RCT-Portable.json,ACooper81/scoop-apps
 FreeMove-Portable.json,ACooper81/scoop-apps
+StaticWebServer-Portable.json,ACooper81/scoop-apps
 SoftwareOKAutoPowerOptionsOK-Portable.json,ACooper81/scoop-apps
 WiseDataRecovery-Portable.json,ACooper81/scoop-apps
 MicrosoftEdgeCanary-Portable.json,ACooper81/scoop-apps
@@ -7326,7 +7328,7 @@ fceux.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
@@ -7337,7 +7339,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-project64-dev.json,borger/scoop-emulators
+project64-dev_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -7868,7 +7870,7 @@ restic_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
 dismplusplus_akirco.json,akirco/aki-apps
 hwmonitor_akirco.json,akirco/aki-apps
-homedale_akirco.json,akirco/aki-apps
+homedale.json,akirco/aki-apps
 chromium_akirco.json,akirco/aki-apps
 clash-for-windows_akirco.json,akirco/aki-apps
 redis-desktop-manager_akirco.json,akirco/aki-apps
@@ -7890,7 +7892,7 @@ contextmenu-manager.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
-wechatdevtools.json,akirco/aki-apps
+wechatdevtools_akirco.json,akirco/aki-apps
 unxutils_akirco.json,akirco/aki-apps
 gsudo_akirco.json,akirco/aki-apps
 gitui_akirco.json,akirco/aki-apps
@@ -7917,7 +7919,7 @@ qqmusic_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
 nu_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
-BaiduNetdisk.json,akirco/aki-apps
+BaiduNetdisk_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 hellofont_akirco.json,akirco/aki-apps
 yuque_akirco.json,akirco/aki-apps
@@ -7982,7 +7984,7 @@ fx_akirco.json,akirco/aki-apps
 cowsay_akirco.json,akirco/aki-apps
 opus-tools_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
-flutter-cn.json,akirco/aki-apps
+flutter-cn_akirco.json,akirco/aki-apps
 grex_akirco.json,akirco/aki-apps
 nero-aac_akirco.json,akirco/aki-apps
 devsidecar_akirco.json,akirco/aki-apps
@@ -8004,7 +8006,7 @@ vcredist2012_akirco.json,akirco/aki-apps
 format-factory_akirco.json,akirco/aki-apps
 dp.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
-figma.json,akirco/aki-apps
+figma_akirco.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 lsd_akirco.json,akirco/aki-apps
@@ -8058,7 +8060,7 @@ cleanmgrplus-de.json,naderi/scoop-bucket
 shutter_naderi.json,naderi/scoop-bucket
 mitec-json-viewer.json,naderi/scoop-bucket
 wlx2explorer.json,naderi/scoop-bucket
-tweakpower.json,naderi/scoop-bucket
+tweakpower_naderi.json,naderi/scoop-bucket
 scoop-completion_naderi.json,naderi/scoop-bucket
 eudic_naderi.json,naderi/scoop-bucket
 uget-portable.json,naderi/scoop-bucket
@@ -8073,7 +8075,7 @@ pycharm-portable.json,naderi/scoop-bucket
 bloatynosy.json,naderi/scoop-bucket
 boom_naderi.json,naderi/scoop-bucket
 sonarr.json,naderi/scoop-bucket
-processko.json,naderi/scoop-bucket
+processko_naderi.json,naderi/scoop-bucket
 cleanmgrplus.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 vivetool-gui.json,naderi/scoop-bucket
@@ -8090,7 +8092,7 @@ tweak-uix.json,naderi/scoop-bucket
 locate_naderi.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
 iconview.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 bitcomet_naderi.json,naderi/scoop-bucket
 hash-explorer_naderi.json,naderi/scoop-bucket
 win-bash_naderi.json,naderi/scoop-bucket
@@ -8104,7 +8106,7 @@ bat-to-exe-converter.json,naderi/scoop-bucket
 tracy.json,naderi/scoop-bucket
 firefox-nightly-portable.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
-hdcleaner.json,naderi/scoop-bucket
+hdcleaner_naderi.json,naderi/scoop-bucket
 screenshot-captor.json,naderi/scoop-bucket
 subtitle-edit.json,naderi/scoop-bucket
 auryo.json,naderi/scoop-bucket
@@ -8311,6 +8313,7 @@ copy-handler.json,naderi/scoop-bucket
 font-tanha.json,naderi/scoop-bucket
 gitnote_naderi.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
+local-wp.json,naderi/scoop-bucket
 awgg.json,naderi/scoop-bucket
 scoop-search-multisource.json,naderi/scoop-bucket
 autodarkmode_naderi.json,naderi/scoop-bucket
@@ -8330,7 +8333,7 @@ xnview-classic.json,naderi/scoop-bucket
 audacity-ffmpeg-plugin.json,naderi/scoop-bucket
 uplay_naderi.json,naderi/scoop-bucket
 handbrake-portable_naderi.json,naderi/scoop-bucket
-1by1_naderi.json,naderi/scoop-bucket
+1by1.json,naderi/scoop-bucket
 stickies_naderi.json,naderi/scoop-bucket
 qbittorrent-enhanced_naderi.json,naderi/scoop-bucket
 consolez_naderi.json,naderi/scoop-bucket
@@ -8552,6 +8555,7 @@ LinkEase.json,ygguorun/scoop-bucket
 otfcc.json,ygguorun/scoop-bucket
 ArctimePro.json,ygguorun/scoop-bucket
 hash.json,ygguorun/scoop-bucket
+rustclock.json,ygguorun/scoop-bucket
 worsttrace_ygguorun.json,ygguorun/scoop-bucket
 DDMonitor.json,ygguorun/scoop-bucket
 Reso.json,ygguorun/scoop-bucket
@@ -8655,7 +8659,7 @@ fermion.json,NyaMisty/scoop_bucket_misty
 ghidramod.json,NyaMisty/scoop_bucket_misty
 wireshark-nightly.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
-metasploit-framework.json,NyaMisty/scoop_bucket_misty
+metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
 rizin_NyaMisty.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 trays.json,NyaMisty/scoop_bucket_misty
@@ -9717,7 +9721,7 @@ amfora_littleli.json,littleli/Scoop-littleli
 netsurf.json,littleli/Scoop-littleli
 slu.json,littleli/Scoop-littleli
 csvq_littleli.json,littleli/Scoop-littleli
-llvm-mingw_littleli.json,littleli/Scoop-littleli
+llvm-mingw.json,littleli/Scoop-littleli
 exe-explorer_littleli.json,littleli/Scoop-littleli
 7800basic.json,littleli/Scoop-littleli
 netmet.json,littleli/Scoop-littleli
@@ -10022,6 +10026,7 @@ revoker.json,brian6932/dank-scoop
 get-mediainfo.json,brian6932/dank-scoop
 svg_to_ico.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
+tgpt.json,brian6932/dank-scoop
 sysdvr-client.json,brian6932/dank-scoop
 auto-mode.json,brian6932/dank-scoop
 xxd-rs.json,brian6932/dank-scoop
@@ -10167,7 +10172,7 @@ dogehouse.json,HUMORCE/nuke
 firefox_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP_HUMORCE.json,HUMORCE/nuke
 testmem5.json,HUMORCE/nuke
-flutter.json,HUMORCE/nuke
+flutter_HUMORCE.json,HUMORCE/nuke
 multipass_HUMORCE.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 winmute.json,HUMORCE/nuke
