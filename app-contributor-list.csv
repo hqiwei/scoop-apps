@@ -418,7 +418,7 @@ jabref.json,ScoopInstaller/Extras
 dxirc.json,ScoopInstaller/Extras
 dadroitjsonviewer.json,ScoopInstaller/Extras
 ani-cli.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 toggl.json,ScoopInstaller/Extras
 qtemu.json,ScoopInstaller/Extras
 sidebar-diagnostics.json,ScoopInstaller/Extras
@@ -2765,6 +2765,7 @@ gimp-cn.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 wechatwork_ivaquero.json,ivaquero/scoopet
+feishu.json,ivaquero/scoopet
 libreoffice-cn.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
@@ -2919,6 +2920,7 @@ fteqw.json,Calinou/scoop-games
 ferium.json,Calinou/scoop-games
 duckstation.json,Calinou/scoop-games
 sw-exporter.json,Calinou/scoop-games
+eve-iph.json,Calinou/scoop-games
 multimc_Calinou.json,Calinou/scoop-games
 project64-dev.json,Calinou/scoop-games
 adom.json,Calinou/scoop-games
@@ -2931,6 +2933,7 @@ freeciv.json,Calinou/scoop-games
 mednaffe.json,Calinou/scoop-games
 wiiscrubber.json,Calinou/scoop-games
 mesen.json,Calinou/scoop-games
+pso2-tweaker.json,Calinou/scoop-games
 racelab.json,Calinou/scoop-games
 ivan.json,Calinou/scoop-games
 goggalaxy.json,Calinou/scoop-games
@@ -3016,6 +3019,7 @@ jim.json,Calinou/scoop-games
 redream-dev.json,Calinou/scoop-games
 openmw-nightly.json,Calinou/scoop-games
 yquake2.json,Calinou/scoop-games
+jeveassets.json,Calinou/scoop-games
 darkplaces.json,Calinou/scoop-games
 xivlauncher.json,Calinou/scoop-games
 blade-of-agony.json,Calinou/scoop-games
@@ -5465,7 +5469,7 @@ adrive_echoiron.json,echoiron/echo-scoop
 qq_echoiron.json,echoiron/echo-scoop
 bitcomet.json,echoiron/echo-scoop
 fastcopy_echoiron.json,echoiron/echo-scoop
-bypass_echoiron.json,echoiron/echo-scoop
+bypass.json,echoiron/echo-scoop
 xyplorer.json,echoiron/echo-scoop
 hbuilderx.json,echoiron/echo-scoop
 tencentmeeting.json,echoiron/echo-scoop
@@ -7330,7 +7334,7 @@ cemuhook_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
@@ -7832,9 +7836,8 @@ yarn_akirco.json,akirco/aki-apps
 ClashDotNET.json,akirco/aki-apps
 pngquant_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
 xmind.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 nc.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
@@ -7845,7 +7848,6 @@ tup_akirco.json,akirco/aki-apps
 tldr_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 winxray_akirco.json,akirco/aki-apps
-electron-fiddle.json,akirco/aki-apps
 potplayer_akirco.json,akirco/aki-apps
 chromedriver_akirco.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
@@ -7950,7 +7952,7 @@ xming_akirco.json,akirco/aki-apps
 dark_akirco.json,akirco/aki-apps
 upx_akirco.json,akirco/aki-apps
 gitomatic_akirco.json,akirco/aki-apps
-jianyingpro.json,akirco/aki-apps
+jianyingpro_akirco.json,akirco/aki-apps
 filezilla_akirco.json,akirco/aki-apps
 bilibili-livehime.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -7994,7 +7996,7 @@ fx_akirco.json,akirco/aki-apps
 cowsay_akirco.json,akirco/aki-apps
 opus-tools_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
-flutter-cn_akirco.json,akirco/aki-apps
+flutter-cn.json,akirco/aki-apps
 grex_akirco.json,akirco/aki-apps
 nero-aac_akirco.json,akirco/aki-apps
 devsidecar_akirco.json,akirco/aki-apps
@@ -9097,7 +9099,7 @@ libreoffice_cc713.json,cc713/ownscoop
 manuskript_cc713.json,cc713/ownscoop
 LunaTranslator.json,cc713/ownscoop
 NeeView_cc713.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 qemu_cc713.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
@@ -10110,7 +10112,7 @@ fiddler-classic-addon-galleryview.json,HUMORCE/nuke
 snipaste_HUMORCE.json,HUMORCE/nuke
 video2x_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-anywhere.json,HUMORCE/nuke
-ungoogled-chromium.json,HUMORCE/nuke
+ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-greek.json,HUMORCE/nuke
 inso.json,HUMORCE/nuke
 deskreen_HUMORCE.json,HUMORCE/nuke
