@@ -1,17 +1,20 @@
 {
-    "version": "a5ab965",
-    "description": "Sony PlayStation Vita emulator",
+    "version": "3207-8c94e31",
+    "description": "Experimental PlayStation Vita emulator",
     "homepage": "https://vita3k.org",
-    "license": {
-        "identifier": "GPL-2.0",
-        "url": "https://github.com/Vita3K/Vita3K/blob/master/COPYING.txt"
+    "license": "GPL-2.0-only",
+    "suggest": {
+        "vcredist": "extras/vcredist2022"
     },
-    "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
-    "hash": "d3c7567b119f27859d0fd04c15952e73486655f7608f4b482fd4626e7b6d09a9",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
+            "hash": "d930c4ecd968549fc42d4a6d32ca0d62ce7784ee48a3ec0eb81810f3a5cdaa0b"
+        }
+    },
     "pre_install": [
-        "if (!(Test-Path \"$persist_dir\")) {",
-        "   New-item \"$persist_dir\" -ItemType Directory | Out-Null",
-        "   New-Item \"$persist_dir\\config.yml\" -Type File | Out-Null",
+        "if (!(Test-Path \"$persist_dir\\config.yml\")) {",
+        "   New-Item \"$dir\\config.yml\" | Out-Null",
         "}"
     ],
     "bin": "Vita3K.exe",
@@ -26,10 +29,28 @@
         "config.yml"
     ],
     "checkver": {
-        "github": "https://github.com/Vita3K/Vita3K",
-        "regex": "commit[/:]\\s?([a-f0-9]{7})"
+        "script": [
+            "$url = 'https://github.com/Vita3K/Vita3K/releases/tag/continuous'",
+            "$build_regex = 'Vita3K Build: (\\d+)'",
+            "$commit_regex = 'Corresponding commit: ([a-f0-9]{7})'",
+            "",
+            "$cont = (Invoke-WebRequest $url -UseBasicParsing).Content",
+            "",
+            "if(!($cont -match $build_regex)) { error \"Could match '$build_regex' on '$url'\"; break }",
+            "$build_number = $matches[1]",
+            "if(!($cont -match $commit_regex)) { error \"Could match '$commit_regex' on '$url'\"; break }",
+            "$commit_sha = $matches[1]",
+            "",
+            "$script_ver = \"$build_number-$commit_sha\"",
+            "Write-Output $script_ver"
+        ],
+        "regex": "(\\d+-[a-f0-9]{7})"
     },
     "autoupdate": {
-        "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
+            }
+        }
     }
 }
