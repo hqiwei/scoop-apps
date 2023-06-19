@@ -200,6 +200,7 @@ video-srt-gui.json,HCLonely/my-scoop-bucket
 steamtools.json,HCLonely/my-scoop-bucket
 premotem.json,HCLonely/my-scoop-bucket
 wps-photoplus.json,Weidows-projects/scoop-3rd
+UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 anaconda3.json,Weidows-projects/scoop-3rd
 wps-office.json,Weidows-projects/scoop-3rd
 CAJViewer.json,Weidows-projects/scoop-3rd
@@ -240,6 +241,7 @@ PostImages-client-portable.json,Weidows-projects/scoop-3rd
 AutumnBox.json,Weidows-projects/scoop-3rd
 pipx-poetry.json,Weidows-projects/scoop-3rd
 obs-plugin-auto-subtitle.json,Weidows-projects/scoop-3rd
+intel-one-mono.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
 Pixeval.json,Weidows-projects/scoop-3rd
 gptcommit.json,Weidows-projects/scoop-3rd
@@ -255,9 +257,9 @@ audius.json,Weidows-projects/scoop-3rd
 Clash-for-Windows_Chinese.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
 Snap.Hutao.json,Weidows-projects/scoop-3rd
+tickeys.json,Weidows-projects/scoop-3rd
 KikoPlay.json,Weidows-projects/scoop-3rd
 yas.json,Weidows-projects/scoop-3rd
-UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 PartAssist.json,Weidows-projects/scoop-3rd
 YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
@@ -513,6 +515,7 @@ speedcrunch.json,ScoopInstaller/Extras
 teamviewer.json,ScoopInstaller/Extras
 visual-arm-emulator.json,ScoopInstaller/Extras
 raspberry-pi-imager.json,ScoopInstaller/Extras
+wiliwili.json,ScoopInstaller/Extras
 uget-integrator.json,ScoopInstaller/Extras
 musikcube.json,ScoopInstaller/Extras
 ultravnc.json,ScoopInstaller/Extras
@@ -1524,7 +1527,7 @@ winpty.json,ScoopInstaller/Extras
 wing-101.json,ScoopInstaller/Extras
 discord-rpc-extension.json,ScoopInstaller/Extras
 battery-care.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 staxrip.json,ScoopInstaller/Extras
 dnspy.json,ScoopInstaller/Extras
 beeftext.json,ScoopInstaller/Extras
@@ -2900,6 +2903,7 @@ melonds_Calinou.json,Calinou/scoop-games
 enigma.json,Calinou/scoop-games
 game-backup-monitor.json,Calinou/scoop-games
 cdogs-sdl.json,Calinou/scoop-games
+idlemaster-extended.json,Calinou/scoop-games
 umod.json,Calinou/scoop-games
 tooniversal.json,Calinou/scoop-games
 gzdoom.json,Calinou/scoop-games
@@ -2956,6 +2960,7 @@ supertux.json,Calinou/scoop-games
 citra-canary.json,Calinou/scoop-games
 jim.json,Calinou/scoop-games
 crewchief.json,Calinou/scoop-games
+advanced-combat-tracker.json,Calinou/scoop-games
 warsow.json,Calinou/scoop-games
 itch_Calinou.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
@@ -3087,6 +3092,7 @@ yuzu.json,Calinou/scoop-games
 raze.json,Calinou/scoop-games
 mgba.json,Calinou/scoop-games
 rpcs3.json,Calinou/scoop-games
+applewin.json,Calinou/scoop-games
 toontownfellowship.json,Calinou/scoop-games
 xivlauncher.json,Calinou/scoop-games
 assetstudio.json,Calinou/scoop-games
@@ -4756,7 +4762,7 @@ library.net-standard.json,hoilc/scoop-lemon
 winfrgui.json,hoilc/scoop-lemon
 droppoint.json,hoilc/scoop-lemon
 resource.net.json,hoilc/scoop-lemon
-qbittorrent-enhanced_hoilc.json,hoilc/scoop-lemon
+qbittorrent-enhanced.json,hoilc/scoop-lemon
 dug.json,hoilc/scoop-lemon
 maple-mono_hoilc.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
@@ -5150,7 +5156,7 @@ kubeseal_hoilc.json,hoilc/scoop-lemon
 belautils.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 duf_hoilc.json,hoilc/scoop-lemon
-tickeys.json,hoilc/scoop-lemon
+tickeys_hoilc.json,hoilc/scoop-lemon
 tencent-transmart.json,hoilc/scoop-lemon
 zhudou-sans.json,hoilc/scoop-lemon
 checkstyle.json,hoilc/scoop-lemon
@@ -5557,7 +5563,7 @@ swoff.json,echoiron/echo-scoop
 foobar2000_echoiron.json,echoiron/echo-scoop
 bandicam.json,echoiron/echo-scoop
 ditto_echoiron.json,echoiron/echo-scoop
-bypass.json,echoiron/echo-scoop
+bypass_echoiron.json,echoiron/echo-scoop
 typeeasy.json,echoiron/echo-scoop
 proxifier_echoiron.json,echoiron/echo-scoop
 coodesker_echoiron.json,echoiron/echo-scoop
@@ -5751,7 +5757,6 @@ hoxs64.json,hermanjustnu/scoop-emulators
 yuzu_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
-applewin.json,hermanjustnu/scoop-emulators
 fceux-qt.json,hermanjustnu/scoop-emulators
 snes9x-dev.json,hermanjustnu/scoop-emulators
 fceux.json,hermanjustnu/scoop-emulators
@@ -7389,7 +7394,7 @@ ppsspp_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
-steam-rom-manager.json,borger/scoop-emulators
+steam-rom-manager_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -7818,7 +7823,7 @@ linear-desktop.json,akirco/aki-apps
 github_akirco.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-homedale_akirco.json,akirco/aki-apps
+homedale.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 pup_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
@@ -8815,7 +8820,7 @@ bdinfo.json,amorphobia/siku
 parallels-client.json,amorphobia/siku
 shakemousetolocate.json,amorphobia/siku
 xmcl.json,amorphobia/siku
-wiliwili.json,amorphobia/siku
+wiliwili_amorphobia.json,amorphobia/siku
 dvm_amorphobia.json,amorphobia/siku
 idm-trial-reset.json,amorphobia/siku
 aget-rs.json,amorphobia/siku
@@ -9102,6 +9107,7 @@ av_evasion_tool.json,arch3rPro/scoop-bucket
 afrog_arch3rPro.json,arch3rPro/scoop-bucket
 rport.json,arch3rPro/scoop-bucket
 dnsx.json,arch3rPro/scoop-bucket
+feroxbuster.json,arch3rPro/scoop-bucket
 shellcodeloader.json,arch3rPro/scoop-bucket
 quake_rs_arch3rPro.json,arch3rPro/scoop-bucket
 webpathbrute.json,arch3rPro/scoop-bucket
@@ -9245,7 +9251,6 @@ PureCodec.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
 keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 ImDiskToolkit.json,cc713/ownscoop
-bililiverecorder.json,cc713/ownscoop
 squalr_cc713.json,cc713/ownscoop
 LyX_cc713.json,cc713/ownscoop
 PhotoQt.json,cc713/ownscoop
@@ -9883,7 +9888,7 @@ lx-music_ChinLong.json,ChinLong/scoop-customize
 nvidia-geforce-experience.json,starise/Scoop-Gaming
 nvidia-physx-legacy.json,starise/Scoop-Gaming
 sam.json,starise/Scoop-Gaming
-idlemaster-extended.json,starise/Scoop-Gaming
+idlemaster-extended_starise.json,starise/Scoop-Gaming
 flawless-widescreen.json,starise/Scoop-Gaming
 borderless-gaming.json,starise/Scoop-Gaming
 uniws-patcher.json,starise/Scoop-Gaming
@@ -10283,7 +10288,6 @@ anime4kcpp-vapoursynth-plugin.json,HUMORCE/nuke
 authpass_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-tchinese.json,HUMORCE/nuke
 sdcc-snapshot-x86_64.json,HUMORCE/nuke
-feroxbuster.json,HUMORCE/nuke
 xpdf-tools-LSP-thai.json,HUMORCE/nuke
 vale_HUMORCE.json,HUMORCE/nuke
 ttfautohint.json,HUMORCE/nuke
