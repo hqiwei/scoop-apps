@@ -1527,7 +1527,7 @@ winpty.json,ScoopInstaller/Extras
 wing-101.json,ScoopInstaller/Extras
 discord-rpc-extension.json,ScoopInstaller/Extras
 battery-care.json,ScoopInstaller/Extras
-autohotkey.json,ScoopInstaller/Extras
+autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
 staxrip.json,ScoopInstaller/Extras
 dnspy.json,ScoopInstaller/Extras
 beeftext.json,ScoopInstaller/Extras
@@ -4726,18 +4726,6 @@ sunlogin.json,scoopcn/scoopcn
 kwmusic.json,scoopcn/scoopcn
 wechat-devtools.json,scoopcn/scoopcn
 ade.json,scoopcn/scoopcn
-wsl-sles.json,KNOXDEV/wsl
-wsl-ubuntu1804.json,KNOXDEV/wsl
-wsl-ubuntu2004.json,KNOXDEV/wsl
-wsl-fedora.json,KNOXDEV/wsl
-wsl-centos9.json,KNOXDEV/wsl
-wsl-debian.json,KNOXDEV/wsl
-wsl-fedora-arm.json,KNOXDEV/wsl
-wsl-ubuntu1804-arm.json,KNOXDEV/wsl
-wsl-ubuntu1604.json,KNOXDEV/wsl
-wsl-opensuse.json,KNOXDEV/wsl
-wsl-kali.json,KNOXDEV/wsl
-wsl-ubuntu2204.json,KNOXDEV/wsl
 edgedb-cli-nightly.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
 snips.json,hoilc/scoop-lemon
@@ -4762,7 +4750,7 @@ library.net-standard.json,hoilc/scoop-lemon
 winfrgui.json,hoilc/scoop-lemon
 droppoint.json,hoilc/scoop-lemon
 resource.net.json,hoilc/scoop-lemon
-qbittorrent-enhanced.json,hoilc/scoop-lemon
+qbittorrent-enhanced_hoilc.json,hoilc/scoop-lemon
 dug.json,hoilc/scoop-lemon
 maple-mono_hoilc.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
@@ -4982,6 +4970,7 @@ jp_hoilc.json,hoilc/scoop-lemon
 niconvert.json,hoilc/scoop-lemon
 chfs_hoilc.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
+kcl.json,hoilc/scoop-lemon
 lukestackwalker.json,hoilc/scoop-lemon
 splayer-legacy.json,hoilc/scoop-lemon
 best-trace.json,hoilc/scoop-lemon
@@ -5140,7 +5129,6 @@ ediary_hoilc.json,hoilc/scoop-lemon
 avdc.json,hoilc/scoop-lemon
 juju.json,hoilc/scoop-lemon
 zpaq.json,hoilc/scoop-lemon
-kclvm.json,hoilc/scoop-lemon
 bililive-recorder.json,hoilc/scoop-lemon
 thorn.json,hoilc/scoop-lemon
 step.json,hoilc/scoop-lemon
@@ -5482,6 +5470,18 @@ statsd_exporter.json,hoilc/scoop-lemon
 jardiff.json,hoilc/scoop-lemon
 enigma-virtual-box.json,hoilc/scoop-lemon
 emby.json,hoilc/scoop-lemon
+wsl-sles.json,KNOXDEV/wsl
+wsl-ubuntu1804.json,KNOXDEV/wsl
+wsl-ubuntu2004.json,KNOXDEV/wsl
+wsl-fedora.json,KNOXDEV/wsl
+wsl-centos9.json,KNOXDEV/wsl
+wsl-debian.json,KNOXDEV/wsl
+wsl-fedora-arm.json,KNOXDEV/wsl
+wsl-ubuntu1804-arm.json,KNOXDEV/wsl
+wsl-ubuntu1604.json,KNOXDEV/wsl
+wsl-opensuse.json,KNOXDEV/wsl
+wsl-kali.json,KNOXDEV/wsl
+wsl-ubuntu2204.json,KNOXDEV/wsl
 MouseInc.json,echoiron/echo-scoop
 bitcomet.json,echoiron/echo-scoop
 xyplorer.json,echoiron/echo-scoop
@@ -6276,6 +6276,7 @@ ForceBindIPCLI-Portable.json,ACooper81/scoop-apps
 Ventoy-Portable.json,ACooper81/scoop-apps
 WindowsErrorLookupTool-Portable.json,ACooper81/scoop-apps
 BloatyNosy-Portable.json,ACooper81/scoop-apps
+OperaBeta-Portable.json,ACooper81/scoop-apps
 SpleeterGUI-Portable.json,ACooper81/scoop-apps
 OpenHAB-Portable.json,ACooper81/scoop-apps
 TeamViewer-Install.json,ACooper81/scoop-apps
@@ -7361,7 +7362,7 @@ win10-initial-setup-script.json,TheRandomLabs/Scoop-Bucket
 ares_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 ps3-system-software_borger.json,borger/scoop-emulators
-desmume_borger.json,borger/scoop-emulators
+desmume.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
@@ -7371,7 +7372,7 @@ mame_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
@@ -7384,7 +7385,7 @@ cemu_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
@@ -7395,7 +7396,7 @@ flycast_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -7823,7 +7824,7 @@ linear-desktop.json,akirco/aki-apps
 github_akirco.json,akirco/aki-apps
 biyi_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
-homedale.json,akirco/aki-apps
+homedale_akirco.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
 pup_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
@@ -7838,7 +7839,7 @@ wrangler_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 vcredist2015_akirco.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 alipan.json,akirco/aki-apps
@@ -8135,7 +8136,7 @@ regcool.json,naderi/scoop-bucket
 xnview-classic.json,naderi/scoop-bucket
 wfc_naderi.json,naderi/scoop-bucket
 win-bash_naderi.json,naderi/scoop-bucket
-bluej_naderi.json,naderi/scoop-bucket
+bluej.json,naderi/scoop-bucket
 autorun-organizer.json,naderi/scoop-bucket
 adblink.json,naderi/scoop-bucket
 font-samim.json,naderi/scoop-bucket
@@ -8213,7 +8214,7 @@ wise-disk-cleaner.json,naderi/scoop-bucket
 font-behdad.json,naderi/scoop-bucket
 anti-twin.json,naderi/scoop-bucket
 logviewer.json,naderi/scoop-bucket
-securefs.json,naderi/scoop-bucket
+securefs_naderi.json,naderi/scoop-bucket
 pushbullet.json,naderi/scoop-bucket
 pdf-xchange-viewer.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
@@ -8427,7 +8428,7 @@ kscan.json,ViCrack/scoop-bucket
 ksubdomain.json,ViCrack/scoop-bucket
 verycapture_ViCrack.json,ViCrack/scoop-bucket
 RegConverter.json,ViCrack/scoop-bucket
-windynamicdesktop_ViCrack.json,ViCrack/scoop-bucket
+windynamicdesktop.json,ViCrack/scoop-bucket
 vscan.json,ViCrack/scoop-bucket
 jar-analyzer.json,ViCrack/scoop-bucket
 curl-impersonate.json,ViCrack/scoop-bucket
@@ -8995,7 +8996,7 @@ got.json,batkiz/backit
 httpie-go.json,batkiz/backit
 nyan.json,batkiz/backit
 FLiNGTrainer.json,batkiz/backit
-onefetch_batkiz.json,batkiz/backit
+onefetch.json,batkiz/backit
 gotip.json,batkiz/backit
 antsword.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
