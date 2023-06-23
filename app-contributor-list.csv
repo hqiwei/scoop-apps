@@ -518,7 +518,7 @@ vagrant-manager.json,ScoopInstaller/Extras
 activemq.json,ScoopInstaller/Extras
 t-clock.json,ScoopInstaller/Extras
 pdfsam-visual.json,ScoopInstaller/Extras
-nuclear.json,ScoopInstaller/Extras
+nuclear_ScoopInstaller.json,ScoopInstaller/Extras
 museeks.json,ScoopInstaller/Extras
 duplicati.json,ScoopInstaller/Extras
 ldap-admin.json,ScoopInstaller/Extras
@@ -2870,10 +2870,12 @@ redeclipse.json,Calinou/scoop-games
 rayman-control-panel.json,Calinou/scoop-games
 ryujinx-ava.json,Calinou/scoop-games
 rbxfpsunlocker.json,Calinou/scoop-games
+naev.json,Calinou/scoop-games
 opendungeons.json,Calinou/scoop-games
 rimpy.json,Calinou/scoop-games
 snes9x.json,Calinou/scoop-games
 cdogs-sdl.json,Calinou/scoop-games
+beebem.json,Calinou/scoop-games
 bsnes.json,Calinou/scoop-games
 duckstation.json,Calinou/scoop-games
 bsnes-hd-beta.json,Calinou/scoop-games
@@ -4999,7 +5001,7 @@ gam.json,hoilc/scoop-lemon
 pacaptr_hoilc.json,hoilc/scoop-lemon
 viper.json,hoilc/scoop-lemon
 vsts-sync-migrator.json,hoilc/scoop-lemon
-bbdown.json,hoilc/scoop-lemon
+bbdown_hoilc.json,hoilc/scoop-lemon
 jellyfin-media-player.json,hoilc/scoop-lemon
 flydav.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
@@ -5447,7 +5449,7 @@ soar.json,hoilc/scoop-lemon
 makesfx.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 maye-lite.json,hoilc/scoop-lemon
-pestudio_hoilc.json,hoilc/scoop-lemon
+pestudio.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
 enable-loopback.json,hoilc/scoop-lemon
 yanhuo.json,hoilc/scoop-lemon
@@ -5697,7 +5699,6 @@ scummvm_hermanjustnu.json,hermanjustnu/scoop-emulators
 steam-rom-manager_hermanjustnu.json,hermanjustnu/scoop-emulators
 snes9x_hermanjustnu.json,hermanjustnu/scoop-emulators
 retroarch_hermanjustnu.json,hermanjustnu/scoop-emulators
-beebem.json,hermanjustnu/scoop-emulators
 bsnes_hermanjustnu.json,hermanjustnu/scoop-emulators
 duckstation_hermanjustnu.json,hermanjustnu/scoop-emulators
 melonds_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -5747,7 +5748,7 @@ flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 mednafen_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux.json,hermanjustnu/scoop-emulators
-ppsspp-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
+ppsspp-dev.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 dolphin-dev_hermanjustnu.json,hermanjustnu/scoop-emulators
 project64_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -7366,7 +7367,7 @@ redream-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -7391,7 +7392,7 @@ ps3-system-software_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
@@ -9206,7 +9207,6 @@ mpv-lazy.json,cc713/ownscoop
 ghostscript_cc713.json,cc713/ownscoop
 HentaiDownloader.json,cc713/ownscoop
 TsubakiTranslator-noRT.json,cc713/ownscoop
-bbdown_cc713.json,cc713/ownscoop
 PureCodec.json,cc713/ownscoop
 scribus-dev_cc713.json,cc713/ownscoop
 wget2.json,cc713/ownscoop
