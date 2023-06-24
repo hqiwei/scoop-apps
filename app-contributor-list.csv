@@ -518,7 +518,7 @@ vagrant-manager.json,ScoopInstaller/Extras
 activemq.json,ScoopInstaller/Extras
 t-clock.json,ScoopInstaller/Extras
 pdfsam-visual.json,ScoopInstaller/Extras
-nuclear_ScoopInstaller.json,ScoopInstaller/Extras
+nuclear.json,ScoopInstaller/Extras
 museeks.json,ScoopInstaller/Extras
 duplicati.json,ScoopInstaller/Extras
 ldap-admin.json,ScoopInstaller/Extras
@@ -6053,6 +6053,7 @@ WSL2DistroManager-Portable.json,ACooper81/scoop-apps
 LanguageTool-Portable.json,ACooper81/scoop-apps
 CloneApp-Portable.json,ACooper81/scoop-apps
 Darker-Portable.json,ACooper81/scoop-apps
+LDWin-Portable.json,ACooper81/scoop-apps
 GoogleChromeBeta-Portable.json,ACooper81/scoop-apps
 Scratch-Portable.json,ACooper81/scoop-apps
 DeezerDesktop-UserInstall.json,ACooper81/scoop-apps
@@ -7367,7 +7368,7 @@ redream-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -7392,7 +7393,7 @@ ps3-system-software_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
@@ -7402,7 +7403,7 @@ xenia_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
@@ -7484,7 +7485,7 @@ QtDesigner.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 WinSCP_zhoujin7.json,zhoujin7/tomato
 UltraCodingSwitch.json,zhoujin7/tomato
-ILSpy.json,zhoujin7/tomato
+ILSpy_zhoujin7.json,zhoujin7/tomato
 mysql8.json,zhoujin7/tomato
 apifox_zhoujin7.json,zhoujin7/tomato
 fastgithub.json,zhoujin7/tomato
@@ -8225,7 +8226,7 @@ blisk-portable.json,naderi/scoop-bucket
 processko_naderi.json,naderi/scoop-bucket
 winrar-de.json,naderi/scoop-bucket
 gyroflow_naderi.json,naderi/scoop-bucket
-bluej.json,naderi/scoop-bucket
+bluej_naderi.json,naderi/scoop-bucket
 paste-ex.json,naderi/scoop-bucket
 autorun-organizer.json,naderi/scoop-bucket
 zazu.json,naderi/scoop-bucket
@@ -8926,7 +8927,7 @@ duckdb_batkiz.json,batkiz/backit
 raven-reader_batkiz.json,batkiz/backit
 wayback_batkiz.json,batkiz/backit
 ghdl.json,batkiz/backit
-Iosevka_batkiz.json,batkiz/backit
+Iosevka.json,batkiz/backit
 chr.json,batkiz/backit
 sq.json,batkiz/backit
 delta_batkiz.json,batkiz/backit
@@ -9300,7 +9301,7 @@ videosubfinder.json,seumsc/scoop-seu
 waifu2x-converter-cpp_seumsc.json,seumsc/scoop-seu
 cloudflare-speedtest.json,seumsc/scoop-seu
 officetoolplus_seumsc.json,seumsc/scoop-seu
-hmcl_seumsc.json,seumsc/scoop-seu
+hmcl.json,seumsc/scoop-seu
 josm-generic.json,seumsc/scoop-seu
 fiddler-everywhere.json,seumsc/scoop-seu
 usbeamhostseditor.json,seumsc/scoop-seu
