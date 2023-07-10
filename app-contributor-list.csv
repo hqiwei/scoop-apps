@@ -207,6 +207,7 @@ AIO-Boot.json,Weidows-projects/scoop-3rd
 RM-ATKtools.json,Weidows-projects/scoop-3rd
 KikoPlay.json,Weidows-projects/scoop-3rd
 EasySpider.json,Weidows-projects/scoop-3rd
+SourceTree.json,Weidows-projects/scoop-3rd
 WondershareUniconverter.json,Weidows-projects/scoop-3rd
 dev-sidecar.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
@@ -1152,7 +1153,7 @@ wabt.json,ScoopInstaller/Extras
 redshift-tray.json,ScoopInstaller/Extras
 nvda.json,ScoopInstaller/Extras
 peazip.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 nordpass.json,ScoopInstaller/Extras
 hack-font.json,ScoopInstaller/Extras
 shadowsocks-v2ray-plugin.json,ScoopInstaller/Extras
@@ -1748,7 +1749,7 @@ apkeep.json,ScoopInstaller/Extras
 mellowplayer.json,ScoopInstaller/Extras
 umlet.json,ScoopInstaller/Extras
 wsl-terminal.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 azure-iot-explorer.json,ScoopInstaller/Extras
 umbrello.json,ScoopInstaller/Extras
 jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
@@ -2810,7 +2811,7 @@ autodarkmode_ivaquero.json,ivaquero/scoopet
 edgeless.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 vmware-workstation-pro.json,ivaquero/scoopet
-baidunetdisk_ivaquero.json,ivaquero/scoopet
+baidunetdisk.json,ivaquero/scoopet
 activitiywatch.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 oraclejdk-lts.json,ScoopInstaller/Java
@@ -6683,7 +6684,7 @@ mesen_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -6697,7 +6698,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 Exiv2.json,dodorz/scoop
 CCEnhancer.json,dodorz/scoop
@@ -8230,7 +8231,6 @@ clcl_naderi.json,naderi/scoop-bucket
 fixwin-10.json,naderi/scoop-bucket
 copy-handler.json,naderi/scoop-bucket
 dm2_naderi.json,naderi/scoop-bucket
-cpuz.json,naderi/scoop-bucket
 xnview-classic-min.json,naderi/scoop-bucket
 auryo.json,naderi/scoop-bucket
 windows-10-update-assistant.json,naderi/scoop-bucket
@@ -8408,7 +8408,7 @@ xpdf-tools_naderi.json,naderi/scoop-bucket
 bitcomet_naderi.json,naderi/scoop-bucket
 codeblocks-portable.json,naderi/scoop-bucket
 eudic_naderi.json,naderi/scoop-bucket
-justcolorpicker_naderi.json,naderi/scoop-bucket
+justcolorpicker.json,naderi/scoop-bucket
 extraterm_naderi.json,naderi/scoop-bucket
 netsetman.json,naderi/scoop-bucket
 xpdf-reader.json,naderi/scoop-bucket
@@ -8827,6 +8827,7 @@ shellcodeloader.json,arch3rPro/scoop-bucket
 dnsx.json,arch3rPro/scoop-bucket
 antsword.json,arch3rPro/scoop-bucket
 john-the-ripper.json,arch3rPro/scoop-bucket
+dirmap.json,arch3rPro/scoop-bucket
 svnExploit.json,arch3rPro/scoop-bucket
 oneforall.json,arch3rPro/scoop-bucket
 DeimosC2.json,arch3rPro/scoop-bucket
@@ -8844,6 +8845,7 @@ layerdomainfinder.json,arch3rPro/scoop-bucket
 yakit.json,arch3rPro/scoop-bucket
 girsh.json,arch3rPro/scoop-bucket
 tidefinger.json,arch3rPro/scoop-bucket
+psudohash.json,arch3rPro/scoop-bucket
 sqlmap.json,arch3rPro/scoop-bucket
 phpenv.json,arch3rPro/scoop-bucket
 rad_arch3rPro.json,arch3rPro/scoop-bucket
@@ -8867,8 +8869,10 @@ dirbuster.json,arch3rPro/scoop-bucket
 nimscan.json,arch3rPro/scoop-bucket
 windterm.json,arch3rPro/scoop-bucket
 webpathbrute.json,arch3rPro/scoop-bucket
+getsploit.json,arch3rPro/scoop-bucket
 goby.json,arch3rPro/scoop-bucket
 hydra.json,arch3rPro/scoop-bucket
+dirsearch.json,arch3rPro/scoop-bucket
 myexploit.json,arch3rPro/scoop-bucket
 SiteScan.json,arch3rPro/scoop-bucket
 httpx_arch3rPro.json,arch3rPro/scoop-bucket
@@ -9032,7 +9036,7 @@ fluent-reader_batkiz.json,batkiz/backit
 dasel_batkiz.json,batkiz/backit
 tinytex-extra_batkiz.json,batkiz/backit
 sonic-pi_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 listen1-desktop-fluent.json,batkiz/backit
 goimports-reviser.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
