@@ -248,6 +248,7 @@ obs-plugin-auto-subtitle.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
 PCmaster.json,Weidows-projects/scoop-3rd
+aws-portable.json,Weidows-projects/scoop-3rd
 YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
 clash.net.json,Weidows-projects/scoop-3rd
 bongocat-osu.json,Weidows-projects/scoop-3rd
@@ -1154,7 +1155,7 @@ wabt.json,ScoopInstaller/Extras
 redshift-tray.json,ScoopInstaller/Extras
 nvda.json,ScoopInstaller/Extras
 peazip.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 nordpass.json,ScoopInstaller/Extras
 hack-font.json,ScoopInstaller/Extras
 shadowsocks-v2ray-plugin.json,ScoopInstaller/Extras
@@ -4479,7 +4480,7 @@ webbrowserbookmarksview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 shexview.json,ScoopInstaller/Nirsoft
 wirelesskeyview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 fbcacheview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-appnetworkcounter.json,ScoopInstaller/Nirsoft
+appnetworkcounter_ScoopInstaller.json,ScoopInstaller/Nirsoft
 mmview.json,ScoopInstaller/Nirsoft
 recentfilesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 networktrafficview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -6680,7 +6681,7 @@ cemu-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
@@ -6699,7 +6700,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 Exiv2.json,dodorz/scoop
 CCEnhancer.json,dodorz/scoop
@@ -7871,7 +7872,7 @@ OpenHashTab.json,akirco/aki-apps
 telegram_akirco.json,akirco/aki-apps
 aliyundrive_akirco.json,akirco/aki-apps
 xming_akirco.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
@@ -7894,7 +7895,6 @@ nmap-portable.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 nyagos_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
 pypy2_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 dog_akirco.json,akirco/aki-apps
@@ -8030,7 +8030,7 @@ marktext_akirco.json,akirco/aki-apps
 psutils_akirco.json,akirco/aki-apps
 fastbootEnhance.json,akirco/aki-apps
 redis5_akirco.json,akirco/aki-apps
-electerm.json,akirco/aki-apps
+electerm_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -8063,7 +8063,7 @@ dim.json,akirco/aki-apps
 neovim_akirco.json,akirco/aki-apps
 maven_akirco.json,akirco/aki-apps
 rnr_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 oh-my-posh_akirco.json,akirco/aki-apps
 prince_akirco.json,akirco/aki-apps
 alipan.json,akirco/aki-apps
@@ -8176,7 +8176,7 @@ pstools_niheaven.json,niheaven/scoop-sysinternals
 bginfo.json,niheaven/scoop-sysinternals
 rammap.json,niheaven/scoop-sysinternals
 veracrypt-portable_naderi.json,naderi/scoop-bucket
-java-editor.json,naderi/scoop-bucket
+java-editor_naderi.json,naderi/scoop-bucket
 vlc-portable_naderi.json,naderi/scoop-bucket
 fixwin-11.json,naderi/scoop-bucket
 coinomi.json,naderi/scoop-bucket
@@ -8433,7 +8433,7 @@ sqlite-gui.json,naderi/scoop-bucket
 winshell.json,naderi/scoop-bucket
 cleanmgrplus.json,naderi/scoop-bucket
 font-mikhak.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 falkon_naderi.json,naderi/scoop-bucket
 launchy-qt.json,naderi/scoop-bucket
 api-monitor_naderi.json,naderi/scoop-bucket
@@ -10334,7 +10334,7 @@ dinorss.json,HUMORCE/nuke
 ungoogled-chromium_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-pdfview.json,HUMORCE/nuke
 xpdf-tools-LSP-thai.json,HUMORCE/nuke
-jc.json,HUMORCE/nuke
+jc_HUMORCE.json,HUMORCE/nuke
 qbittorrent-enhanced_HUMORCE.json,HUMORCE/nuke
 autohotkey_HUMORCE.json,HUMORCE/nuke
 msys2_HUMORCE.json,HUMORCE/nuke
@@ -10365,7 +10365,7 @@ rohitab-api-monitor.json,HUMORCE/nuke
 spotify-tui_HUMORCE.json,HUMORCE/nuke
 zoxide_HUMORCE.json,HUMORCE/nuke
 vmaf_HUMORCE.json,HUMORCE/nuke
-appflowy.json,HUMORCE/nuke
+appflowy_HUMORCE.json,HUMORCE/nuke
 risoheditor_HUMORCE.json,HUMORCE/nuke
 bandizip-classic.json,HUMORCE/nuke
 lavfilters_HUMORCE.json,HUMORCE/nuke
@@ -10587,7 +10587,7 @@ tilt_hulucc.json,hulucc/bucket
 vim90.json,hulucc/bucket
 vim81.json,hulucc/bucket
 wsl2host.json,hulucc/bucket
-gn.json,hulucc/bucket
+gn_hulucc.json,hulucc/bucket
 zookeeper_hulucc.json,hulucc/bucket
 dapr_hulucc.json,hulucc/bucket
 android-sdk.json,hulucc/bucket

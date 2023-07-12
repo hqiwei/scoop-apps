@@ -18,7 +18,10 @@
         "qalc.exe",
         "qalculate-gtk.exe",
         "qalculate-qt.exe",
-        "gnuplot.exe"
+        "gnuplot.exe",
+				["qalculate-gtk.exe", "qalc-gui"],
+				["qalculate-gtk.exe", "qalculate-gui"],
+				["qalculate-gtk.exe", "qalculate"]
     ],
     "shortcuts": [
         [
