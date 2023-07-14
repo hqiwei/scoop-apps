@@ -1157,7 +1157,7 @@ wabt.json,ScoopInstaller/Extras
 redshift-tray.json,ScoopInstaller/Extras
 nvda.json,ScoopInstaller/Extras
 peazip.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 nordpass.json,ScoopInstaller/Extras
 hack-font.json,ScoopInstaller/Extras
 shadowsocks-v2ray-plugin.json,ScoopInstaller/Extras
@@ -4845,7 +4845,7 @@ tts-vue.json,hoilc/scoop-lemon
 3proxy.json,hoilc/scoop-lemon
 libportable-iceweasel.json,hoilc/scoop-lemon
 k3sup_hoilc.json,hoilc/scoop-lemon
-bbdown_hoilc.json,hoilc/scoop-lemon
+bbdown.json,hoilc/scoop-lemon
 wininfo.json,hoilc/scoop-lemon
 feishin.json,hoilc/scoop-lemon
 cppcryptfs.json,hoilc/scoop-lemon
@@ -7486,7 +7486,7 @@ zipkin.json,zhoujin7/tomato
 arthas_zhoujin7.json,zhoujin7/tomato
 VisualVM_zhoujin7.json,zhoujin7/tomato
 zipkin-dependencies.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 ContextMenuMgr.json,zhoujin7/tomato
 CapsLockIndicator.json,zhoujin7/tomato
 PixBuilder.json,zhoujin7/tomato
@@ -7848,6 +7848,7 @@ msys2_akirco.json,akirco/aki-apps
 kate_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 dark_akirco.json,akirco/aki-apps
+youtubedownloader.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 innounp_akirco.json,akirco/aki-apps
 vcredist2015_akirco.json,akirco/aki-apps
@@ -9321,6 +9322,7 @@ JMComic-qt.json,cc713/ownscoop
 KikoPlay_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
 pixivutil2.json,cc713/ownscoop
+bbdown_cc713.json,cc713/ownscoop
 aqt.json,cc713/ownscoop
 goldendict.json,cc713/ownscoop
 HentaiDownloader.json,cc713/ownscoop
@@ -10430,6 +10432,7 @@ lavfilters_HUMORCE.json,HUMORCE/nuke
 feroxbuster.json,HUMORCE/nuke
 jenkins_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-jsformat.json,HUMORCE/nuke
+anime4k-glsl_HUMORCE.json,HUMORCE/nuke
 authpass_HUMORCE.json,HUMORCE/nuke
 wasmer_HUMORCE.json,HUMORCE/nuke
 twinkle-tray_HUMORCE.json,HUMORCE/nuke
@@ -10452,6 +10455,7 @@ miniserve_HUMORCE.json,HUMORCE/nuke
 mediamtx.json,HUMORCE/nuke
 localsend_HUMORCE.json,HUMORCE/nuke
 testmem5.json,HUMORCE/nuke
+eget_HUMORCE.json,HUMORCE/nuke
 firefox_HUMORCE.json,HUMORCE/nuke
 video2x_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-imageflipper.json,HUMORCE/nuke
