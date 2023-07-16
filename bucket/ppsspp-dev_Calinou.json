@@ -1,41 +1,26 @@
 {
-    "version": "1.15.4-549-6b574e497",
-    "description": "Sony PlayStation Portable (PSP) emulator",
+    "version": "1.15.4-549-g6b574e497",
+    "description": "Sony PlayStation Portable (PSP) emulator. Development build",
     "homepage": "https://www.ppsspp.org",
-    "license": {
-        "url": "https://github.com/hrydgard/ppsspp/blob/master/LICENSE.TXT",
-        "identifier": "GPL 2.0 or later"
-    },
+    "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
             "url": "https://buildbot.orphis.net/ppsspp/index.php?m=dl&rev=v1.15.4-549-g6b574e497&platform=windows-amd64#/dl.zip",
             "hash": "2df7823eaa65b1e26fe3b20c31e8c388f631919e9a39f4453d7bdc061a60e014",
-            "bin": [
-                [
-                    "PPSSPPWindows64.exe",
-                    "ppsspp-dev"
-                ]
-            ],
             "shortcuts": [
                 [
                     "PPSSPPWindows64.exe",
-                    "PPSSPP (dev)"
+                    "PPSSPP (Development)"
                 ]
             ]
         },
         "32bit": {
             "url": "https://buildbot.orphis.net/ppsspp/index.php?m=dl&rev=v1.15.4-549-g6b574e497&platform=windows-x86#/dl.zip",
             "hash": "3ce7488217b65bd403d40352229338c0c4e3b3a27d37e0a13e8361b3dac64a18",
-            "bin": [
-                [
-                    "PPSSPPWindows.exe",
-                    "ppsspp-dev"
-                ]
-            ],
             "shortcuts": [
                 [
                     "PPSSPPWindows.exe",
-                    "PPSSPP (dev)"
+                    "PPSSPP (Development)"
                 ]
             ]
         }
@@ -55,7 +40,7 @@
     "checkver": {
         "url": "https://buildbot.orphis.net/ppsspp/index.php",
         "regex": "rev=v(?<version>[\\d.]+)-(?<build>[\\d]+)-g(?<commit>[\\da-fA-F]+)&(?:amp;)platform=windows-amd64",
-        "replace": "${version}-${build}-${commit}"
+        "replace": "${version}-${build}-g${commit}"
     },
     "autoupdate": {
         "architecture": {
