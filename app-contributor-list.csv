@@ -4470,7 +4470,7 @@ htmldocedit_ScoopInstaller.json,ScoopInstaller/Nirsoft
 cleanafterme_ScoopInstaller.json,ScoopInstaller/Nirsoft
 wul.json,ScoopInstaller/Nirsoft
 wirelessnetview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-networkopenedfiles.json,ScoopInstaller/Nirsoft
+networkopenedfiles_ScoopInstaller.json,ScoopInstaller/Nirsoft
 nirext_ScoopInstaller.json,ScoopInstaller/Nirsoft
 mylastsearch_ScoopInstaller.json,ScoopInstaller/Nirsoft
 deviceioview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -6273,7 +6273,6 @@ Tockler-Portable.json,ACooper81/scoop-apps
 Transmission-Portable.json,ACooper81/scoop-apps
 RundeckCLI-Portable.json,ACooper81/scoop-apps
 ScoopFindCLI-Portable.json,ACooper81/scoop-apps
-4KVideoDownloader+-Portable_ACooper81.json,ACooper81/scoop-apps
 MusicBrainzPicard-Portable.json,ACooper81/scoop-apps
 NirsoftRegistryChangesView-Portable.json,ACooper81/scoop-apps
 qBittorrentEnhanced-Install.json,ACooper81/scoop-apps
@@ -6294,6 +6293,7 @@ PEAnatomist-Portable.json,ACooper81/scoop-apps
 Kangaroo-Portable.json,ACooper81/scoop-apps
 dsqCLI-Portable.json,ACooper81/scoop-apps
 VNCViewer-Install.json,ACooper81/scoop-apps
+4KVideoDownloaderPlus-Portable.json,ACooper81/scoop-apps
 BloatyNosy-Portable.json,ACooper81/scoop-apps
 BulkCrapUninstaller-Portable.json,ACooper81/scoop-apps
 PowerShell-Portable.json,ACooper81/scoop-apps
@@ -6653,14 +6653,14 @@ flycast_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
-xemu.json,borger/scoop-emulators
+xemu_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
@@ -6675,14 +6675,15 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
+ryujinx-ava.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 mgba-dev.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -7830,7 +7831,7 @@ macchina_akirco.json,akirco/aki-apps
 pyenv_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
-jianyingpro.json,akirco/aki-apps
+jianyingpro_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 dotnet-sdk_akirco.json,akirco/aki-apps
 hellofont_akirco.json,akirco/aki-apps
@@ -8593,6 +8594,7 @@ awgg.json,naderi/scoop-bucket
 colorcatcher.json,naderi/scoop-bucket
 totalcommander-beta-portable.json,naderi/scoop-bucket
 cobaltstrike.json,arch3rPro/scoop-bucket
+AsyncRAT.json,arch3rPro/scoop-bucket
 nps.json,arch3rPro/scoop-bucket
 burpsuite.json,arch3rPro/scoop-bucket
 dig_arch3rPro.json,arch3rPro/scoop-bucket
@@ -8643,6 +8645,7 @@ PwnXSS.json,arch3rPro/scoop-bucket
 layerdomainfinder.json,arch3rPro/scoop-bucket
 yakit_arch3rPro.json,arch3rPro/scoop-bucket
 girsh.json,arch3rPro/scoop-bucket
+SharpStrike.json,arch3rPro/scoop-bucket
 tidefinger.json,arch3rPro/scoop-bucket
 psudohash.json,arch3rPro/scoop-bucket
 sqlmap.json,arch3rPro/scoop-bucket
@@ -8652,6 +8655,8 @@ afrog_arch3rPro.json,arch3rPro/scoop-bucket
 termite.json,arch3rPro/scoop-bucket
 scaninfo.json,arch3rPro/scoop-bucket
 super-xray_arch3rPro.json,arch3rPro/scoop-bucket
+merlin.json,arch3rPro/scoop-bucket
+meterpeter.json,arch3rPro/scoop-bucket
 POC-T.json,arch3rPro/scoop-bucket
 githacker.json,arch3rPro/scoop-bucket
 peass-ng.json,arch3rPro/scoop-bucket
@@ -8676,6 +8681,7 @@ behinder_arch3rPro.json,arch3rPro/scoop-bucket
 webpathbrute.json,arch3rPro/scoop-bucket
 getsploit.json,arch3rPro/scoop-bucket
 pocsuite3.json,arch3rPro/scoop-bucket
+goDoH.json,arch3rPro/scoop-bucket
 goby.json,arch3rPro/scoop-bucket
 LFISuite.json,arch3rPro/scoop-bucket
 hydra.json,arch3rPro/scoop-bucket
@@ -8687,6 +8693,7 @@ XSStrike.json,arch3rPro/scoop-bucket
 httpx_arch3rPro.json,arch3rPro/scoop-bucket
 xray_arch3rPro.json,arch3rPro/scoop-bucket
 PrintNotifyPotato.json,arch3rPro/scoop-bucket
+revshell.json,arch3rPro/scoop-bucket
 socat_arch3rPro.json,arch3rPro/scoop-bucket
 fuxploider.json,arch3rPro/scoop-bucket
 PowerRun_arch3rPro.json,arch3rPro/scoop-bucket
@@ -8701,6 +8708,7 @@ searchdiggity.json,arch3rPro/scoop-bucket
 pyshell.json,arch3rPro/scoop-bucket
 ksubdomain_arch3rPro.json,arch3rPro/scoop-bucket
 beroot.json,arch3rPro/scoop-bucket
+HashCalculator.json,arch3rPro/scoop-bucket
 quake_rs_arch3rPro.json,arch3rPro/scoop-bucket
 fscan.json,arch3rPro/scoop-bucket
 Print-My-Shell.json,arch3rPro/scoop-bucket
@@ -8993,7 +9001,7 @@ racket-minimal-cs.json,batkiz/backit
 capslock-plus.json,batkiz/backit
 golangci-lint_batkiz.json,batkiz/backit
 bitcomet_batkiz.json,batkiz/backit
-filebrowser_batkiz.json,batkiz/backit
+filebrowser.json,batkiz/backit
 lychee_batkiz.json,batkiz/backit
 contour_batkiz.json,batkiz/backit
 irust.json,batkiz/backit
@@ -10300,7 +10308,6 @@ crystaldiskinfo-kureikei_DoveBoy.json,DoveBoy/Apps
 sunloginclientsos.json,DoveBoy/Apps
 curl_DoveBoy.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 cleanmywechat_DoveBoy.json,DoveBoy/Apps
 text-generation-webui.json,DoveBoy/Apps
@@ -10479,6 +10486,7 @@ reduce-memory_DoveBoy.json,DoveBoy/Apps
 termscp_DoveBoy.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 optimizer.json,DoveBoy/Apps
+waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
