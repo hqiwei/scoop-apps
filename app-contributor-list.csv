@@ -338,6 +338,7 @@ wechat.json,ScoopInstaller/Extras
 vapoursyntheditor.json,ScoopInstaller/Extras
 harmony.json,ScoopInstaller/Extras
 wincdemu.json,ScoopInstaller/Extras
+archi.json,ScoopInstaller/Extras
 qtranslate.json,ScoopInstaller/Extras
 traymond.json,ScoopInstaller/Extras
 activitywatch.json,ScoopInstaller/Extras
@@ -478,7 +479,6 @@ igdm.json,ScoopInstaller/Extras
 musikcube.json,ScoopInstaller/Extras
 gittyup.json,ScoopInstaller/Extras
 flashplayer-sa.json,ScoopInstaller/Extras
-tssh.json,ScoopInstaller/Extras
 zlocation.json,ScoopInstaller/Extras
 pipp.json,ScoopInstaller/Extras
 dbvis.json,ScoopInstaller/Extras
@@ -1350,7 +1350,6 @@ jabref.json,ScoopInstaller/Extras
 firefox.json,ScoopInstaller/Extras
 aimp.json,ScoopInstaller/Extras
 etcher-cli.json,ScoopInstaller/Extras
-trzsz.json,ScoopInstaller/Extras
 lightbulb.json,ScoopInstaller/Extras
 jellyfin-mpv-shim.json,ScoopInstaller/Extras
 firefoxpwa.json,ScoopInstaller/Extras
@@ -2174,7 +2173,6 @@ smartsvn.json,ScoopInstaller/Extras
 emax64-pdumper.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 lockhunter_ScoopInstaller.json,ScoopInstaller/Extras
-archi.json,ScoopInstaller/Extras
 ibmcloud-cli_ScoopInstaller.json,ScoopInstaller/Extras
 veonim.json,ScoopInstaller/Extras
 haskellx.json,ScoopInstaller/Extras
@@ -2543,6 +2541,7 @@ Meslo-NF-Propo.json,matthewjberger/scoop-nerd-fonts
 JetBrainsMono-NF.json,matthewjberger/scoop-nerd-fonts
 FiraCode-Script.json,matthewjberger/scoop-nerd-fonts
 Agave-NF.json,matthewjberger/scoop-nerd-fonts
+Maple-Mono-autohint.json,matthewjberger/scoop-nerd-fonts
 Terminus-NF-Mono.json,matthewjberger/scoop-nerd-fonts
 BigBlueTerminal-NF-Propo.json,matthewjberger/scoop-nerd-fonts
 Delugia-Mono-Nerd-Font.json,matthewjberger/scoop-nerd-fonts
@@ -6675,17 +6674,16 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 scummvm-nightly.json,borger/scoop-emulators
-ryujinx-ava.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-mgba-dev.json,borger/scoop-emulators
+mgba-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
@@ -6693,7 +6691,7 @@ xenia_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 Exiv2.json,dodorz/scoop
 CCEnhancer.json,dodorz/scoop
@@ -8634,7 +8632,9 @@ DeimosC2.json,arch3rPro/scoop-bucket
 stowaway.json,arch3rPro/scoop-bucket
 ehole.json,arch3rPro/scoop-bucket
 ffuf_arch3rPro.json,arch3rPro/scoop-bucket
+Covenant.json,arch3rPro/scoop-bucket
 burpsuite-np.json,arch3rPro/scoop-bucket
+C3.json,arch3rPro/scoop-bucket
 rport.json,arch3rPro/scoop-bucket
 gitrob.json,arch3rPro/scoop-bucket
 johnny.json,arch3rPro/scoop-bucket
@@ -9001,7 +9001,7 @@ racket-minimal-cs.json,batkiz/backit
 capslock-plus.json,batkiz/backit
 golangci-lint_batkiz.json,batkiz/backit
 bitcomet_batkiz.json,batkiz/backit
-filebrowser.json,batkiz/backit
+filebrowser_batkiz.json,batkiz/backit
 lychee_batkiz.json,batkiz/backit
 contour_batkiz.json,batkiz/backit
 irust.json,batkiz/backit
@@ -10047,6 +10047,7 @@ mangadex-dl.json,hu3rror/scoop-muggle
 gluttonyPNG.json,hu3rror/scoop-muggle
 pot-desktop.json,hu3rror/scoop-muggle
 tianruoocr-cl.json,hu3rror/scoop-muggle
+smartsystemmenu.json,hu3rror/scoop-muggle
 chk-hashtool.json,hu3rror/scoop-muggle
 mosdns_hu3rror.json,hu3rror/scoop-muggle
 vysor.json,hu3rror/scoop-muggle
@@ -10514,6 +10515,7 @@ npm-completion_DoveBoy.json,DoveBoy/Apps
 sandboxie-classic.json,DoveBoy/Apps
 wingetui_DoveBoy.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
+windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
 psgithub_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
@@ -10629,6 +10631,7 @@ slidershim.json,beerpiss/scoop-bucket
 cider_beerpiss.json,beerpiss/scoop-bucket
 unxwb.json,beerpiss/scoop-bucket
 itunes-np.json,beerpiss/scoop-bucket
+microsoftedge.json,beerpiss/scoop-bucket
 sl.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 windowstoolbox-head.json,beerpiss/scoop-bucket
