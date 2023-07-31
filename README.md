@@ -83,7 +83,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - TheRandomLabs/Scoop-Bucket
 - ZvonimirSun/scoop-iszy
 - Qv2ray/mochi
-- kiennq/scoop-misc
 - zhoujin7/tomato
 - wangzq/scoop-bucket
 - TheRandomLabs/Scoop-Python
@@ -109,7 +108,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - rivy/scoop-bucket
 - hu3rror/scoop-muggle
 - littleli/Scoop-littleli
-- ChinLong/scoop-customize
 - starise/Scoop-Gaming
 - yuusakuri/scoop-bucket
 - Darkatse/Scoop-KanColle
