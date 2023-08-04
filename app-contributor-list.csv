@@ -233,6 +233,7 @@ gptcommit.json,Weidows-projects/scoop-3rd
 test.json,Weidows-projects/scoop-3rd
 animation-garden-desktop.json,Weidows-projects/scoop-3rd
 obs-plugin-auto-subtitle.json,Weidows-projects/scoop-3rd
+Starward.json,Weidows-projects/scoop-3rd
 SteamOK.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
 KugouMusic.json,Weidows-projects/scoop-3rd
@@ -273,6 +274,7 @@ Nyushu-font.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 Fluent-for-Steam.json,Weidows-projects/scoop-3rd
 bw_add_sshkeys.json,Weidows-projects/scoop-3rd
+KeySound.json,Weidows-projects/scoop-3rd
 aws-portable.json,Weidows-projects/scoop-3rd
 winxray.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
@@ -579,6 +581,7 @@ uget.json,ScoopInstaller/Extras
 mqtt-spy.json,ScoopInstaller/Extras
 advancedrenamer.json,ScoopInstaller/Extras
 foxit-pdf-reader.json,ScoopInstaller/Extras
+pulsar.json,ScoopInstaller/Extras
 chromas.json,ScoopInstaller/Extras
 avspmod.json,ScoopInstaller/Extras
 marble.json,ScoopInstaller/Extras
@@ -2111,7 +2114,7 @@ blisk.json,ScoopInstaller/Extras
 q-dir.json,ScoopInstaller/Extras
 pov-ray.json,ScoopInstaller/Extras
 hydrus-network.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 markdown-monster.json,ScoopInstaller/Extras
 cacher.json,ScoopInstaller/Extras
 git-aliases.json,ScoopInstaller/Extras
@@ -2367,6 +2370,7 @@ downkyi.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
+openai-translator_chawyehsu.json,chawyehsu/dorado
 duck.json,chawyehsu/dorado
 microsoftedge-beta.json,chawyehsu/dorado
 melonds.json,chawyehsu/dorado
@@ -2822,7 +2826,7 @@ n-m3u8dl-re.json,ivaquero/scoopet
 music-dl.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 misakatranslator_ivaquero.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
@@ -4496,7 +4500,7 @@ cleanafterme_ScoopInstaller.json,ScoopInstaller/Nirsoft
 installedpackagesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 safarihistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 svcl.json,ScoopInstaller/Nirsoft
-processtcpsummary_ScoopInstaller.json,ScoopInstaller/Nirsoft
+processtcpsummary.json,ScoopInstaller/Nirsoft
 driverview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 tabletextcompare_ScoopInstaller.json,ScoopInstaller/Nirsoft
 whoiscl_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -6654,9 +6658,8 @@ VideoPanoramasPlayer.json,everyx/scoop-bucket
 retroarch_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
-ryujinx-ava.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -6680,6 +6683,7 @@ cemu-dev_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
+scummvm_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -6687,10 +6691,10 @@ fceux.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 ps3-system-software_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -7814,7 +7818,6 @@ notion_akirco.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
-crow-translate.json,akirco/aki-apps
 vcredist2015_akirco.json,akirco/aki-apps
 gsudo_akirco.json,akirco/aki-apps
 ftnn_akirco.json,akirco/aki-apps
@@ -7828,7 +7831,7 @@ handbrake-cli_akirco.json,akirco/aki-apps
 vscode_akirco.json,akirco/aki-apps
 PowerSession_akirco.json,akirco/aki-apps
 qpdf_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 powertoys_akirco.json,akirco/aki-apps
 hosts.json,akirco/aki-apps
 hellofont_akirco.json,akirco/aki-apps
@@ -8030,7 +8033,7 @@ quarkpan.json,akirco/aki-apps
 git-town_akirco.json,akirco/aki-apps
 winxray_akirco.json,akirco/aki-apps
 trash_akirco.json,akirco/aki-apps
-mubu_akirco.json,akirco/aki-apps
+mubu.json,akirco/aki-apps
 scoop-search_akirco.json,akirco/aki-apps
 clash-for-windows_akirco.json,akirco/aki-apps
 ysyy.json,akirco/aki-apps
@@ -8074,7 +8077,6 @@ WechatWork_akirco.json,akirco/aki-apps
 lf_akirco.json,akirco/aki-apps
 png2jpeg_akirco.json,akirco/aki-apps
 Thunder.json,akirco/aki-apps
-electron-fiddle.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 postman_akirco.json,akirco/aki-apps
@@ -8141,7 +8143,7 @@ godzilla.json,ViCrack/scoop-bucket
 vscan.json,ViCrack/scoop-bucket
 nuclei.json,ViCrack/scoop-bucket
 ksubdomain.json,ViCrack/scoop-bucket
-newfiletime.json,ViCrack/scoop-bucket
+newfiletime_ViCrack.json,ViCrack/scoop-bucket
 jndinjector.json,ViCrack/scoop-bucket
 reqstress.json,ViCrack/scoop-bucket
 confuserex-cli.json,ViCrack/scoop-bucket
@@ -8239,6 +8241,7 @@ vscan_arch3rPro.json,arch3rPro/scoop-bucket
 masscan.json,arch3rPro/scoop-bucket
 FluentSearch_arch3rPro.json,arch3rPro/scoop-bucket
 emeditor_arch3rPro.json,arch3rPro/scoop-bucket
+mobaxterm_arch3rPro.json,arch3rPro/scoop-bucket
 notepad--_arch3rPro.json,arch3rPro/scoop-bucket
 gda_arch3rPro.json,arch3rPro/scoop-bucket
 wub_arch3rPro.json,arch3rPro/scoop-bucket
@@ -8268,6 +8271,7 @@ shellfire.json,arch3rPro/scoop-bucket
 burpsuite-np.json,arch3rPro/scoop-bucket
 postman-cn_arch3rPro.json,arch3rPro/scoop-bucket
 xray_arch3rPro.json,arch3rPro/scoop-bucket
+easysrv.json,arch3rPro/scoop-bucket
 BrowserGhost.json,arch3rPro/scoop-bucket
 httpx_arch3rPro.json,arch3rPro/scoop-bucket
 cobaltstrike.json,arch3rPro/scoop-bucket
@@ -8328,6 +8332,7 @@ getsploit.json,arch3rPro/scoop-bucket
 scaninfo.json,arch3rPro/scoop-bucket
 sqlmap.json,arch3rPro/scoop-bucket
 LadonGo.json,arch3rPro/scoop-bucket
+goproxy.json,arch3rPro/scoop-bucket
 npcap.json,arch3rPro/scoop-bucket
 hydra.json,arch3rPro/scoop-bucket
 naabu_arch3rPro.json,arch3rPro/scoop-bucket
@@ -8491,7 +8496,7 @@ alwaysmousewheel.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 bloatynosy.json,naderi/scoop-bucket
 edge-portable-dev.json,naderi/scoop-bucket
-pulsar.json,naderi/scoop-bucket
+pulsar_naderi.json,naderi/scoop-bucket
 firefox-esr-portable.json,naderi/scoop-bucket
 clink-portable.json,naderi/scoop-bucket
 firefox-portable-fa.json,naderi/scoop-bucket
@@ -9283,6 +9288,7 @@ parallels-client.json,amorphobia/siku
 todesk_amorphobia.json,amorphobia/siku
 cargo-binstall.json,amorphobia/siku
 posh-cd.json,amorphobia/siku
+clash-for-windows_amorphobia.json,amorphobia/siku
 fido.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
 xmcl.json,amorphobia/siku
@@ -10507,7 +10513,6 @@ sox_DoveBoy.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
 naiveproxy_DoveBoy.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
-chatgpt.json,DoveBoy/Apps
 neteaseuu_DoveBoy.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
 grep_DoveBoy.json,DoveBoy/Apps
@@ -10887,6 +10892,7 @@ powercolorls.json,brian6932/dank-scoop
 gif2apng-cli.json,brian6932/dank-scoop
 catbox.json,brian6932/dank-scoop
 chatterino-portable.json,brian6932/dank-scoop
+pineflash.json,brian6932/dank-scoop
 OpenHardwareMonitorReport.json,brian6932/dank-scoop
 dankerino-portable-qt6.json,brian6932/dank-scoop
 nvidia-inspector.json,brian6932/dank-scoop
@@ -11056,7 +11062,7 @@ fiddler-classic-addon-imageflipper.json,HUMORCE/nuke
 twinkle-tray_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-turkish.json,HUMORCE/nuke
 otfcc_HUMORCE.json,HUMORCE/nuke
-appflowy.json,HUMORCE/nuke
+appflowy_HUMORCE.json,HUMORCE/nuke
 gotop_HUMORCE.json,HUMORCE/nuke
 anime4kcpp-cli_HUMORCE.json,HUMORCE/nuke
 ttfautohint.json,HUMORCE/nuke
