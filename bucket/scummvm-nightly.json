@@ -1,5 +1,5 @@
 {
-    "version": "9367487a",
+    "version": "871d7dc7",
     "homepage": "https://www.scummvm.org/",
     "license": {
         "identifier": "GPL-3.0",
@@ -7,14 +7,14 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-master-9367487a.zip",
-            "hash": "dbdda0a0504cf7a530d84f541612a468725f48406b52caf06c5e393019f9e9c2",
-            "extract_dir": "windows-x86-master-9367487a"
+            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-master-871d7dc7.zip",
+            "hash": "c67e42477623a82e517b4821f045b84c7c0a7516282f2bd3659c89787d3ac2d8",
+            "extract_dir": "windows-x86-master-871d7dc7"
         },
         "64bit": {
-            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-64-master-9367487a.zip",
-            "hash": "bfb58d098c7502d7e6c9c1092c04c3cd55b0cc2c266c24cdbaa492d4fb18a4f7",
-            "extract_dir": "windows-x86-64-master-9367487a"
+            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-64-master-871d7dc7.zip",
+            "hash": "af1cdf96bf58709816932f113ee315d2265829670a1ec271f0567ecb3539b25e",
+            "extract_dir": "windows-x86-64-master-871d7dc7"
         }
     },
     "bin": "win32dist-mingw/scummvm.exe",

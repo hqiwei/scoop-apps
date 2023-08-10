@@ -1,5 +1,5 @@
 {
-    "version": "114.50.1.35093-2fdab33",
+    "version": "114.50.1.35148-de1bfb7",
     "homepage": "https://www.meetsidekick.com/",
     "description": "A work browser that is focused on productivity, speed, and security.",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://cdn.meetsidekick.com/browser-builds/sidekick-win-release-x64-114.50.1.35093-2fdab33-df.exe#/dl.7z",
-            "hash": "32674f91cd46f3cf1ceb8b49fd58ca6e1b6e1207c1e7a7578155be7cb3580c5b"
+            "url": "https://cdn.meetsidekick.com/browser-builds/sidekick-win-release-x64-114.50.1.35148-de1bfb7-df.exe#/dl.7z",
+            "hash": "809efff1f3d617a2345e91afdf7deabdfe0fd84abd412bc7935cbf2f84c8fec9"
         }
     },
     "pre_install": "Expand-7zipArchive \"$dir\\sidekick.7z\" -ExtractDir 'Sidekick-bin' -Removal",
