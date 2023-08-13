@@ -4723,7 +4723,7 @@ videoaudiotools.json,ScoopInstaller/Nirsoft
 uninstallview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 injecteddll_ScoopInstaller.json,ScoopInstaller/Nirsoft
 wnetwatcher.json,ScoopInstaller/Nirsoft
-esedatabaseview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+esedatabaseview.json,ScoopInstaller/Nirsoft
 3dtile.json,scoopcn/scoopcn
 kugou.json,scoopcn/scoopcn
 lx-music-desktop_scoopcn.json,scoopcn/scoopcn
@@ -6304,6 +6304,7 @@ PrivateWin10-Portable.json,ACooper81/scoop-apps
 Capture2Text-Portable.json,ACooper81/scoop-apps
 ShareX-Portable.json,ACooper81/scoop-apps
 Privatezilla-Portable.json,ACooper81/scoop-apps
+1Remote-Portable.json,ACooper81/scoop-apps
 Recuva-Portable.json,ACooper81/scoop-apps
 Chocolatey-Portable.json,ACooper81/scoop-apps
 MPC-BE-Portable.json,ACooper81/scoop-apps
@@ -6703,11 +6704,11 @@ ps3-system-software_borger.json,borger/scoop-emulators
 ryujinx.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -7819,7 +7820,7 @@ neteasemusic_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 openjdk-doc.json,wzv5/ScoopBucket
-aliyundrive.json,wzv5/ScoopBucket
+aliyundrive_wzv5.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
@@ -9190,7 +9191,7 @@ filebrowser_batkiz.json,batkiz/backit
 pwsh_batkiz.json,batkiz/backit
 ghdl.json,batkiz/backit
 curlie_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 vivaldi-snapshot_batkiz.json,batkiz/backit
 git-branch-stash.json,batkiz/backit
 yu-writer_batkiz.json,batkiz/backit
@@ -10272,7 +10273,7 @@ webcam-on-off_DoveBoy.json,DoveBoy/Apps
 experimental-clash.json,DoveBoy/Apps
 bililive-go_DoveBoy.json,DoveBoy/Apps
 yank-note_DoveBoy.json,DoveBoy/Apps
-sandboxie-classic-np.json,DoveBoy/Apps
+sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
 hgrep_DoveBoy.json,DoveBoy/Apps
 opensearcher-win7.json,DoveBoy/Apps
 compactgui_DoveBoy.json,DoveBoy/Apps
@@ -10509,6 +10510,7 @@ act_DoveBoy.json,DoveBoy/Apps
 gnupg1_DoveBoy.json,DoveBoy/Apps
 sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 nali_DoveBoy.json,DoveBoy/Apps
+mpv-git_DoveBoy.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
 q-dns_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
@@ -10586,7 +10588,7 @@ lanzouyun-disk.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
 idm.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus-np.json,DoveBoy/Apps
+sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
@@ -10840,7 +10842,7 @@ peupdate.json,beerpiss/scoop-bucket
 punzip.json,beerpiss/scoop-bucket
 rawcap-old.json,beerpiss/scoop-bucket
 miru_beerpiss.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 xprop.json,beerpiss/scoop-bucket
 libretta.json,beerpiss/scoop-bucket
 libimobiledevice_beerpiss.json,beerpiss/scoop-bucket
