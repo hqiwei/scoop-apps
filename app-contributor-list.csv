@@ -349,7 +349,7 @@ tinynvidiaupdatechecker.json,ScoopInstaller/Extras
 listen1desktop.json,ScoopInstaller/Extras
 notepad2-mod.json,ScoopInstaller/Extras
 posh-git.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 microsoft-teams.json,ScoopInstaller/Extras
 termius.json,ScoopInstaller/Extras
 tweakstyle.json,ScoopInstaller/Extras
@@ -6667,11 +6667,11 @@ VideoPanoramasPlayer.json,everyx/scoop-bucket
 retroarch_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 steam-rom-manager_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
@@ -7193,6 +7193,7 @@ RuckZuck.json,dodorz/scoop
 flacout.json,dodorz/scoop
 IECache_dodorz.json,dodorz/scoop
 Rem-Empty-Dir.json,dodorz/scoop
+ScreenCapture.json,dodorz/scoop
 GPAC_dodorz.json,dodorz/scoop
 KillEmAll.json,dodorz/scoop
 DarkRoom.json,dodorz/scoop
@@ -7819,7 +7820,7 @@ neteasemusic_wzv5.json,wzv5/ScoopBucket
 volumelock.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
 openjdk-doc.json,wzv5/ScoopBucket
-aliyundrive_wzv5.json,wzv5/ScoopBucket
+aliyundrive.json,wzv5/ScoopBucket
 phpmyadmin.json,wzv5/ScoopBucket
 nodejs-bin.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
@@ -7846,7 +7847,7 @@ scrcpy_akirco.json,akirco/aki-apps
 oh-my-posh_akirco.json,akirco/aki-apps
 anaconda3_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
 kate_akirco.json,akirco/aki-apps
@@ -7937,7 +7938,7 @@ you-get_akirco.json,akirco/aki-apps
 sox_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 easywsl.json,akirco/aki-apps
-telegram_akirco.json,akirco/aki-apps
+telegram.json,akirco/aki-apps
 libwebp_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 yt-dlp_akirco.json,akirco/aki-apps
@@ -7976,7 +7977,7 @@ prs_akirco.json,akirco/aki-apps
 fx_akirco.json,akirco/aki-apps
 macchina_akirco.json,akirco/aki-apps
 windows11manager.json,akirco/aki-apps
-yuque.json,akirco/aki-apps
+yuque_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 micro_akirco.json,akirco/aki-apps
@@ -9578,6 +9579,7 @@ mpv-handler.json,hu3rror/scoop-muggle
 tuya_hu3rror.json,hu3rror/scoop-muggle
 systeminformer-nightly_hu3rror.json,hu3rror/scoop-muggle
 open-video-downloader.json,hu3rror/scoop-muggle
+smartsystemmenu_hu3rror.json,hu3rror/scoop-muggle
 opentrace.json,hu3rror/scoop-muggle
 gingko.json,hu3rror/scoop-muggle
 briss.json,hu3rror/scoop-muggle
@@ -10269,6 +10271,7 @@ shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
 ffmpeg_DoveBoy.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
+energystar_DoveBoy.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 clashn_DoveBoy.json,DoveBoy/Apps
@@ -10393,7 +10396,7 @@ clashwarden.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
 v2raya-git.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
-dingtalk.json,DoveBoy/Apps
+dingtalk_DoveBoy.json,DoveBoy/Apps
 kotatsu-dl.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 scoop-search-shilangyu.json,DoveBoy/Apps
