@@ -104,8 +104,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - Velgus/Scoop-Portapps
 - mogeko/scoop-sysinternals
 - ChungZH/peach
-- cc713/ownscoop
 - hu3rror/scoop-muggle
+- cc713/ownscoop
 - aoisummer/scoop-bucket
 - seumsc/scoop-seu
 - rivy/scoop-bucket
