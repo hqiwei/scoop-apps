@@ -1391,7 +1391,7 @@ outlook-google-calendar-sync.json,ScoopInstaller/Extras
 xdelta3-cross-gui.json,ScoopInstaller/Extras
 capframex.json,ScoopInstaller/Extras
 ngspice.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 notepad2-mod.json,ScoopInstaller/Extras
 shutter.json,ScoopInstaller/Extras
 madvr.json,ScoopInstaller/Extras
@@ -1898,7 +1898,7 @@ figma.json,ScoopInstaller/Extras
 secureuxtheme.json,ScoopInstaller/Extras
 wezterm.json,ScoopInstaller/Extras
 avrdudess.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 linqpadless.json,ScoopInstaller/Extras
 explorerplusplus.json,ScoopInstaller/Extras
 so.json,ScoopInstaller/Extras
@@ -2816,7 +2816,7 @@ m3u8-downloader.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
 regester.json,ivaquero/scoopet
 mambaforge-cn.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 downkyi_ivaquero.json,ivaquero/scoopet
 julia-cn.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
@@ -7812,7 +7812,7 @@ fastgithub.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 jd-gui_zhoujin7.json,zhoujin7/tomato
 wnr_zhoujin7.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 arthas_zhoujin7.json,zhoujin7/tomato
 HBuilderX-Full-Alpha.json,zhoujin7/tomato
 smartsvn11.json,zhoujin7/tomato
@@ -8087,7 +8087,7 @@ psutils_akirco.json,akirco/aki-apps
 nmap-portable.json,akirco/aki-apps
 cowsay_akirco.json,akirco/aki-apps
 pypy3_akirco.json,akirco/aki-apps
-flutter-cn.json,akirco/aki-apps
+flutter-cn_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
@@ -9107,6 +9107,7 @@ bcdown.json,amorphobia/siku
 ls-interactive.json,amorphobia/siku
 scoop-find.json,amorphobia/siku
 clash-verge_amorphobia.json,amorphobia/siku
+clash-for-windows_amorphobia.json,amorphobia/siku
 todesk_amorphobia.json,amorphobia/siku
 hfsexplorer.json,amorphobia/siku
 wiliwili_amorphobia.json,amorphobia/siku
@@ -9170,7 +9171,7 @@ gostv3.json,NyaMisty/scoop_bucket_misty
 fermion.json,NyaMisty/scoop_bucket_misty
 ghidra-beta.json,NyaMisty/scoop_bucket_misty
 metasploit-framework_NyaMisty.json,NyaMisty/scoop_bucket_misty
-dnSpyEx_NyaMisty.json,NyaMisty/scoop_bucket_misty
+dnSpyEx.json,NyaMisty/scoop_bucket_misty
 libimobiledevice-nightly.json,NyaMisty/scoop_bucket_misty
 dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
 wireshark-nightly.json,NyaMisty/scoop_bucket_misty
@@ -9216,6 +9217,7 @@ git-branch-stash.json,batkiz/backit
 irust.json,batkiz/backit
 dotnet-core-uninstall.json,batkiz/backit
 pixeval.json,batkiz/backit
+eza.json,batkiz/backit
 hey.json,batkiz/backit
 xq.json,batkiz/backit
 youtube-dl-wpf_batkiz.json,batkiz/backit
@@ -9672,6 +9674,7 @@ oh-my-posh_hu3rror.json,hu3rror/scoop-muggle
 foobar2000-asion-cn-plus.json,hu3rror/scoop-muggle
 virtualbox-extension.json,cc713/ownscoop
 winmerge_cc713.json,cc713/ownscoop
+gimagereader.json,cc713/ownscoop
 aqt.json,cc713/ownscoop
 qimgv_cc713.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
@@ -10343,6 +10346,7 @@ jenny.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
+calibre-normal_DoveBoy.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
 vhs_DoveBoy.json,DoveBoy/Apps
 wax.json,DoveBoy/Apps
@@ -10369,6 +10373,7 @@ gh_DoveBoy.json,DoveBoy/Apps
 opensearcher-win7.json,DoveBoy/Apps
 zoomit_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
+calibre_DoveBoy.json,DoveBoy/Apps
 tim_DoveBoy.json,DoveBoy/Apps
 purewriter.json,DoveBoy/Apps
 min-portable.json,DoveBoy/Apps
@@ -10530,7 +10535,6 @@ shadowsocks-rust_DoveBoy.json,DoveBoy/Apps
 ffmpeg-shared-nightly_DoveBoy.json,DoveBoy/Apps
 alisthelper_DoveBoy.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
-openai-translator.json,DoveBoy/Apps
 ghostscript_DoveBoy.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
 ipinfo_DoveBoy.json,DoveBoy/Apps
@@ -11152,7 +11156,7 @@ aidoku-cli.json,beerpiss/scoop-bucket
 graboid.json,beerpiss/scoop-bucket
 itunes-np.json,beerpiss/scoop-bucket
 absolutetouchex.json,beerpiss/scoop-bucket
-adguardhome.json,beerpiss/scoop-bucket
+adguardhome_beerpiss.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 cider.json,beerpiss/scoop-bucket
 slidershim.json,beerpiss/scoop-bucket
@@ -11280,7 +11284,6 @@ mpv-persist-properties.json,brian6932/dank-scoop
 mozlz4.json,brian6932/dank-scoop
 clima.json,brian6932/dank-scoop
 OpenHashTab_brian6932.json,brian6932/dank-scoop
-gimagereader.json,brian6932/dank-scoop
 wget2.json,brian6932/dank-scoop
 z.lua_HUMORCE.json,HUMORCE/nuke
 gminer.json,HUMORCE/nuke
