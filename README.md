@@ -106,6 +106,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - Velgus/Scoop-Portapps
 - hu3rror/scoop-muggle
 - DoveBoy/Apps
+- starise/Scoop-Gaming
 - cc713/ownscoop
 - aoisummer/scoop-bucket
 - seumsc/scoop-seu
@@ -114,7 +115,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - AkariiinMKII/Scoop4kariiin
 - littleli/Scoop-littleli
 - ChinLong/scoop-customize
-- starise/Scoop-Gaming
 - yuusakuri/scoop-bucket
 - Darkatse/Scoop-KanColle
 - aliesbelik/poldi
