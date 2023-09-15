@@ -1,5 +1,5 @@
 {
-    "version": "117.0.2045.27",
+    "version": "117.0.2045.31",
     "description": "Microsoft Edge Beta. The chromium based Microsoft Edge browser (Beta Channel)",
     "homepage": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=beta",
     "license": "Freeware",
@@ -7,21 +7,21 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://dorado-api.deno.dev/edge?arch=64&channel=beta&version=117.0.2045.27&dl#/dl.7z",
+                "https://dorado-api.deno.dev/edge?arch=64&channel=beta&version=117.0.2045.31&dl#/dl.7z",
                 "https://raw.githubusercontent.com/ACooper81/SharedFiles/master/icons/msedgebeta.ico"
             ],
             "hash": [
-                "dbf348b53ff521898ea5e5e23527a5b6fbe6356dd9d58977d2ed7af614227728",
+                "70b1bf387aec009981597073438ec2162992411c8a4a58d5a243a1c73691e5f3",
                 "a8a1df8f03c70b7af22d859347bd7270a4073f2c3dcbd3cb841aa2ff0797f5d8"
             ]
         },
         "32bit": {
             "url": [
-                "https://dorado-api.deno.dev/edge?arch=86&channel=beta&version=117.0.2045.27&dl#/dl.7z",
+                "https://dorado-api.deno.dev/edge?arch=86&channel=beta&version=117.0.2045.31&dl#/dl.7z",
                 "https://raw.githubusercontent.com/ACooper81/SharedFiles/master/icons/msedgebeta.ico"
             ],
             "hash": [
-                "5af26bc384fade488388f382d211ce69ddeacbcb0838d0386fd90867a2a3caaa",
+                "2f4ac1f3c3f2e60b8e2af44d6a92ca3a9ea6a9b076617569fef9b39c354aee5d",
                 "a8a1df8f03c70b7af22d859347bd7270a4073f2c3dcbd3cb841aa2ff0797f5d8"
             ]
         }
