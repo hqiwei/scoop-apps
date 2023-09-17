@@ -74,8 +74,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - Paxxs/Cluttered-bucket
 - ACooper81/scoop-apps
 - ScoopInstaller/Nonportable
-- couleur-tweak-tips/utils
 - hermanjustnu/scoop-emulators
+- couleur-tweak-tips/utils
 - cderv/r-bucket
 - everyx/scoop-bucket
 - dodorz/scoop
@@ -111,6 +111,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - aoisummer/scoop-bucket
 - seumsc/scoop-seu
 - rivy/scoop-bucket
+- mo-san/scoop-bucket
 - brian6932/dank-scoop
 - AkariiinMKII/Scoop4kariiin
 - littleli/Scoop-littleli
@@ -120,7 +121,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - aliesbelik/poldi
 - MCOfficer/scoop-bucket
 - KnotUntied/scoop-fonts
-- mo-san/scoop-bucket
 - beerpiss/scoop-bucket
 - HUMORCE/nuke
 - AkinoKaede/maple
