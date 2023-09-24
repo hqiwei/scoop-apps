@@ -2091,7 +2091,7 @@ toggl.json,ScoopInstaller/Extras
 fun.json,ScoopInstaller/Extras
 silentcmd.json,ScoopInstaller/Extras
 fvim.json,ScoopInstaller/Extras
-autohotkey_ScoopInstaller.json,ScoopInstaller/Extras
+autohotkey.json,ScoopInstaller/Extras
 termius.json,ScoopInstaller/Extras
 ipfs-desktop.json,ScoopInstaller/Extras
 audacity.json,ScoopInstaller/Extras
@@ -3586,7 +3586,7 @@ glslang-nightly.json,ScoopInstaller/Versions
 chromedriver-canary.json,ScoopInstaller/Versions
 openssl1-light.json,ScoopInstaller/Versions
 python310.json,ScoopInstaller/Versions
-snipaste-beta_ScoopInstaller.json,ScoopInstaller/Versions
+snipaste-beta.json,ScoopInstaller/Versions
 tinymediamanager3.json,ScoopInstaller/Versions
 camunda-operate1.3.json,ScoopInstaller/Versions
 mysql57.json,ScoopInstaller/Versions
@@ -4973,7 +4973,7 @@ kcptun_hoilc.json,hoilc/scoop-lemon
 maye.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
 uptoc.json,hoilc/scoop-lemon
-pot_hoilc.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 mongodb-compass_hoilc.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
 ntttcp.json,hoilc/scoop-lemon
@@ -4986,7 +4986,7 @@ bilibili-live-record-downloader.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
 besttrace.json,hoilc/scoop-lemon
 remnote.json,hoilc/scoop-lemon
-wingetui.json,hoilc/scoop-lemon
+wingetui_hoilc.json,hoilc/scoop-lemon
 kubeseal_hoilc.json,hoilc/scoop-lemon
 tcping_hoilc.json,hoilc/scoop-lemon
 avidemux-nightly_hoilc.json,hoilc/scoop-lemon
@@ -5031,7 +5031,7 @@ filefriend-cn.json,hoilc/scoop-lemon
 windows_exporter.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
 cozo.json,hoilc/scoop-lemon
-64gram.json,hoilc/scoop-lemon
+64gram_hoilc.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
 comicenhancepro-eng.json,hoilc/scoop-lemon
@@ -7477,6 +7477,21 @@ AESCrypt.json,dodorz/scoop
 Yosoro.json,dodorz/scoop
 CopyTranslator_dodorz.json,dodorz/scoop
 MessageBox_dodorz.json,dodorz/scoop
+qv2ray-plugin-trojan_Qv2ray.json,Qv2ray/mochi
+qv2ray-plugin-trojan-go_Qv2ray.json,Qv2ray/mochi
+qv2ray-plugin-ssr_Qv2ray.json,Qv2ray/mochi
+xray_Qv2ray.json,Qv2ray/mochi
+qv2ray-plugin-command_Qv2ray.json,Qv2ray/mochi
+naiveproxy_Qv2ray.json,Qv2ray/mochi
+qv2ray-plugin-ss_Qv2ray.json,Qv2ray/mochi
+v2ray-rules-dat_Qv2ray.json,Qv2ray/mochi
+v2ray-geoip_Qv2ray.json,Qv2ray/mochi
+v2ray_Qv2ray.json,Qv2ray/mochi
+trojan_Qv2ray.json,Qv2ray/mochi
+qv2ray_Qv2ray.json,Qv2ray/mochi
+trojan-go_Qv2ray.json,Qv2ray/mochi
+qv2ray-plugin-naiveproxy_Qv2ray.json,Qv2ray/mochi
+v2ray-domain-list-community_Qv2ray.json,Qv2ray/mochi
 luyten_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 aomei-partition-assistant-standard.json,TheRandomLabs/Scoop-Bucket
 windows-sdk-signing-tools.json,TheRandomLabs/Scoop-Bucket
@@ -7505,7 +7520,7 @@ melonds_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -7514,7 +7529,7 @@ xemu_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
@@ -7526,7 +7541,7 @@ ares_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -7534,21 +7549,6 @@ duckstation_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
-qv2ray-plugin-trojan_Qv2ray.json,Qv2ray/mochi
-qv2ray-plugin-trojan-go_Qv2ray.json,Qv2ray/mochi
-qv2ray-plugin-ssr_Qv2ray.json,Qv2ray/mochi
-xray_Qv2ray.json,Qv2ray/mochi
-qv2ray-plugin-command_Qv2ray.json,Qv2ray/mochi
-naiveproxy_Qv2ray.json,Qv2ray/mochi
-qv2ray-plugin-ss_Qv2ray.json,Qv2ray/mochi
-v2ray-rules-dat_Qv2ray.json,Qv2ray/mochi
-v2ray-geoip_Qv2ray.json,Qv2ray/mochi
-v2ray_Qv2ray.json,Qv2ray/mochi
-trojan_Qv2ray.json,Qv2ray/mochi
-qv2ray_Qv2ray.json,Qv2ray/mochi
-trojan-go_Qv2ray.json,Qv2ray/mochi
-qv2ray-plugin-naiveproxy_Qv2ray.json,Qv2ray/mochi
-v2ray-domain-list-community_Qv2ray.json,Qv2ray/mochi
 picgo_ZvonimirSun.json,ZvonimirSun/scoop-iszy
 oraclejdk8-8u151.json,ZvonimirSun/scoop-iszy
 clash-for-windows_ZvonimirSun.json,ZvonimirSun/scoop-iszy
@@ -7725,7 +7725,7 @@ gowitness.json,arch3rPro/PST-Bucket
 gda.json,arch3rPro/PST-Bucket
 igdm_arch3rPro.json,arch3rPro/PST-Bucket
 cudatext-cn.json,arch3rPro/PST-Bucket
-newfiletime_arch3rPro.json,arch3rPro/PST-Bucket
+newfiletime.json,arch3rPro/PST-Bucket
 maye_arch3rPro.json,arch3rPro/PST-Bucket
 windterm.json,arch3rPro/PST-Bucket
 cpuz-cn.json,arch3rPro/PST-Bucket
@@ -8151,7 +8151,7 @@ notion_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
 gsudo_akirco.json,akirco/aki-apps
 xming_akirco.json,akirco/aki-apps
-ftnn.json,akirco/aki-apps
+ftnn_akirco.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
 OpenHashTab.json,akirco/aki-apps
 sayit_akirco.json,akirco/aki-apps
@@ -8344,7 +8344,7 @@ zy-player.json,akirco/aki-apps
 clash-dotnet.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
-homedale.json,akirco/aki-apps
+homedale_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
 zoom_akirco.json,akirco/aki-apps
@@ -8647,6 +8647,7 @@ sublime-text-4.json,naderi/scoop-bucket
 ydl-ui-portable.json,naderi/scoop-bucket
 xnview-classic-full.json,naderi/scoop-bucket
 fixwin-10.json,naderi/scoop-bucket
+snipaste_naderi.json,naderi/scoop-bucket
 autodarkmode_naderi.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
 mp4muxer.json,naderi/scoop-bucket
@@ -9244,7 +9245,7 @@ python38_batkiz.json,batkiz/backit
 miktex_batkiz.json,batkiz/backit
 EnergyStar.json,batkiz/backit
 duckdb_batkiz.json,batkiz/backit
-Iosevka.json,batkiz/backit
+Iosevka_batkiz.json,batkiz/backit
 kreya.json,batkiz/backit
 es_batkiz.json,batkiz/backit
 obs-cli.json,batkiz/backit
@@ -9582,6 +9583,7 @@ neovim-nightly.json,DoveBoy/Apps
 handbrake_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
 bulk-crap-uninstaller_DoveBoy.json,DoveBoy/Apps
+chromedriver_DoveBoy.json,DoveBoy/Apps
 john-the-ripper_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 clickrun.json,DoveBoy/Apps
@@ -9657,7 +9659,6 @@ ariang-native_DoveBoy.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 pixeval_DoveBoy.json,DoveBoy/Apps
-64gram_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 energystar_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
