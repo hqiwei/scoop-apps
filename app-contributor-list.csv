@@ -525,7 +525,7 @@ pureref.json,ScoopInstaller/Extras
 networkmanager.json,ScoopInstaller/Extras
 pycharm-professional.json,ScoopInstaller/Extras
 opera.json,ScoopInstaller/Extras
-obsidian_ScoopInstaller.json,ScoopInstaller/Extras
+obsidian.json,ScoopInstaller/Extras
 attribute-changer.json,ScoopInstaller/Extras
 superputty.json,ScoopInstaller/Extras
 dismplusplus.json,ScoopInstaller/Extras
@@ -905,7 +905,7 @@ exeinfo-pe.json,ScoopInstaller/Extras
 uiforetw.json,ScoopInstaller/Extras
 seamonkey.json,ScoopInstaller/Extras
 screenoff.json,ScoopInstaller/Extras
-sourcetree_ScoopInstaller.json,ScoopInstaller/Extras
+sourcetree.json,ScoopInstaller/Extras
 diffmerge.json,ScoopInstaller/Extras
 syncthingtray.json,ScoopInstaller/Extras
 android-studio.json,ScoopInstaller/Extras
@@ -3586,7 +3586,7 @@ glslang-nightly.json,ScoopInstaller/Versions
 chromedriver-canary.json,ScoopInstaller/Versions
 openssl1-light.json,ScoopInstaller/Versions
 python310.json,ScoopInstaller/Versions
-snipaste-beta.json,ScoopInstaller/Versions
+snipaste-beta_ScoopInstaller.json,ScoopInstaller/Versions
 tinymediamanager3.json,ScoopInstaller/Versions
 camunda-operate1.3.json,ScoopInstaller/Versions
 mysql57.json,ScoopInstaller/Versions
@@ -7505,10 +7505,9 @@ raylib_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 neovim-dev.json,TheRandomLabs/Scoop-Bucket
 shellexview_TheRandomLabs.json,TheRandomLabs/Scoop-Bucket
 corsair-icue.json,TheRandomLabs/Scoop-Bucket
-ryujinx-ava.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -7726,7 +7725,7 @@ gowitness.json,arch3rPro/PST-Bucket
 gda.json,arch3rPro/PST-Bucket
 igdm_arch3rPro.json,arch3rPro/PST-Bucket
 cudatext-cn.json,arch3rPro/PST-Bucket
-newfiletime.json,arch3rPro/PST-Bucket
+newfiletime_arch3rPro.json,arch3rPro/PST-Bucket
 maye_arch3rPro.json,arch3rPro/PST-Bucket
 windterm.json,arch3rPro/PST-Bucket
 cpuz-cn.json,arch3rPro/PST-Bucket
@@ -7744,6 +7743,7 @@ clash-windows.json,arch3rPro/PST-Bucket
 fastgithub.json,arch3rPro/PST-Bucket
 finalshell.json,arch3rPro/PST-Bucket
 w3cschool.json,arch3rPro/PST-Bucket
+FluentSearch.json,arch3rPro/PST-Bucket
 windynamicdesktop_arch3rPro.json,arch3rPro/PST-Bucket
 transfer.json,arch3rPro/PST-Bucket
 caesium.json,arch3rPro/PST-Bucket
@@ -8174,7 +8174,7 @@ fzf_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
 jianyingpro_akirco.json,akirco/aki-apps
 wavpack_akirco.json,akirco/aki-apps
-aliyundrive_akirco.json,akirco/aki-apps
+aliyundrive.json,akirco/aki-apps
 wegame.json,akirco/aki-apps
 tldr_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
@@ -8331,7 +8331,7 @@ tesseract-languages_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
 kate_akirco.json,akirco/aki-apps
 ntop_akirco.json,akirco/aki-apps
-bilibili.json,akirco/aki-apps
+bilibili_akirco.json,akirco/aki-apps
 fishingfunds.json,akirco/aki-apps
 httpstat_akirco.json,akirco/aki-apps
 docker-desktop.json,akirco/aki-apps
@@ -8343,14 +8343,14 @@ redis-desktop-manager_akirco.json,akirco/aki-apps
 php74_akirco.json,akirco/aki-apps
 zy-player.json,akirco/aki-apps
 clash-dotnet.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 netcat_akirco.json,akirco/aki-apps
 homedale_akirco.json,akirco/aki-apps
 electerm_akirco.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
 zoom_akirco.json,akirco/aki-apps
 ysyy.json,akirco/aki-apps
-figma_akirco.json,akirco/aki-apps
+figma.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 selenium_akirco.json,akirco/aki-apps
 vcredist2022_akirco.json,akirco/aki-apps
@@ -8462,6 +8462,7 @@ pot_ViCrack.json,ViCrack/scoop-bucket
 sliver_ViCrack.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
 windterm_ViCrack.json,ViCrack/scoop-bucket
+cpuz-cn.json,ViCrack/scoop-bucket
 rad.json,ViCrack/scoop-bucket
 pidkey.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
@@ -8789,7 +8790,7 @@ telegram_naderi.json,naderi/scoop-bucket
 xdm_naderi.json,naderi/scoop-bucket
 gimp-portable_naderi.json,naderi/scoop-bucket
 bitmana.json,naderi/scoop-bucket
-tweakpower.json,naderi/scoop-bucket
+tweakpower_naderi.json,naderi/scoop-bucket
 babelpad_naderi.json,naderi/scoop-bucket
 multidoge.json,naderi/scoop-bucket
 kmplayer.json,naderi/scoop-bucket
@@ -9630,7 +9631,7 @@ v2raya-git.json,DoveBoy/Apps
 ss.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
 wtv.json,DoveBoy/Apps
-autodarkmode.json,DoveBoy/Apps
+autodarkmode_DoveBoy.json,DoveBoy/Apps
 nvm-tab-completion.json,DoveBoy/Apps
 webcam-on-off_DoveBoy.json,DoveBoy/Apps
 wingetui_DoveBoy.json,DoveBoy/Apps
@@ -9664,6 +9665,7 @@ pixeval_DoveBoy.json,DoveBoy/Apps
 64gram_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 energystar_DoveBoy.json,DoveBoy/Apps
+microsoft-activation-scripts.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
@@ -9869,6 +9871,7 @@ scoop-tab-completion.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 backup-start-menu-layout_DoveBoy.json,DoveBoy/Apps
+powertoys.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
 cloudflared_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
@@ -9876,7 +9879,7 @@ zy-player_DoveBoy.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
-umi-ocr_DoveBoy.json,DoveBoy/Apps
+umi-ocr.json,DoveBoy/Apps
 keyviz_DoveBoy.json,DoveBoy/Apps
 vim-nightly_DoveBoy.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
@@ -9899,7 +9902,7 @@ audacity_DoveBoy.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
 heu-kms-activator.json,DoveBoy/Apps
 openoffice_DoveBoy.json,DoveBoy/Apps
-qq.json,DoveBoy/Apps
+qq_DoveBoy.json,DoveBoy/Apps
 iobit-system-information.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
@@ -11199,6 +11202,7 @@ pingu.json,aliesbelik/poldi
 httpie-go_aliesbelik.json,aliesbelik/poldi
 plow_aliesbelik.json,aliesbelik/poldi
 cdntest.json,aliesbelik/poldi
+csvq_aliesbelik.json,aliesbelik/poldi
 goku.json,aliesbelik/poldi
 gotop_aliesbelik.json,aliesbelik/poldi
 termscp_aliesbelik.json,aliesbelik/poldi
@@ -11471,7 +11475,7 @@ cider.json,beerpiss/scoop-bucket
 libimobiledevice_beerpiss.json,beerpiss/scoop-bucket
 slidershim.json,beerpiss/scoop-bucket
 peupdate.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 aidoku-cli.json,beerpiss/scoop-bucket
 cider-nightly.json,beerpiss/scoop-bucket
 z.lua_HUMORCE.json,HUMORCE/nuke
@@ -11745,7 +11749,7 @@ wxformbuilder.json,jingyu9575/scoop-jingyu9575
 rime-weasel-np.json,jingyu9575/scoop-jingyu9575
 autohotkey-v2-nightly.json,jingyu9575/scoop-jingyu9575
 stripe-cli_jingyu9575.json,jingyu9575/scoop-jingyu9575
-thunderbird-zh-cn_jingyu9575.json,jingyu9575/scoop-jingyu9575
+thunderbird-zh-cn.json,jingyu9575/scoop-jingyu9575
 link-shell-extension-np.json,jingyu9575/scoop-jingyu9575
 netcdf.json,jingyu9575/scoop-jingyu9575
 udp2raw.json,jingyu9575/scoop-jingyu9575
