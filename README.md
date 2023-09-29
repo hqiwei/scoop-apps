@@ -111,6 +111,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - aoisummer/scoop-bucket
 - seumsc/scoop-seu
 - rivy/scoop-bucket
+- starise/Scoop-Confetti
 - brian6932/dank-scoop
 - mo-san/scoop-bucket
 - AkariiinMKII/Scoop4kariiin
@@ -124,6 +125,5 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - beerpiss/scoop-bucket
 - HUMORCE/nuke
 - AkinoKaede/maple
-- starise/Scoop-Confetti
 - hulucc/bucket
 - jingyu9575/scoop-jingyu9575
