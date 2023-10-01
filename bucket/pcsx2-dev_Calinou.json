@@ -1,6 +1,6 @@
 {
-    "version": "1.7.5067",
-    "description": "Sony PlayStation 2 emulator",
+    "version": "1.7.5072",
+    "description": "A feature rich FOSS PlayStation 2 emulator (development version)",
     "homepage": "https://pcsx2.net/",
     "license": {
         "identifier": "GPL-3.0",
@@ -16,8 +16,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.5067/pcsx2-v1.7.5067-windows-x64-Qt.7z",
-            "hash": "60d2f928452fc6a2f347c4b884379dd0f21ac729158112c4c7be35108fd45f44"
+            "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.5072/pcsx2-v1.7.5072-windows-x64-Qt.7z",
+            "hash": "d91b0fc738abc8635b53758be96e44378546544696a5e4484640e76137bc2a58"
         }
     },
     "pre_install": [
