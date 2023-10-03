@@ -806,7 +806,7 @@ ffmpeg-batch.json,ScoopInstaller/Extras
 logseq.json,ScoopInstaller/Extras
 registry-key-jumper.json,ScoopInstaller/Extras
 rtlutility.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 interlink.json,ScoopInstaller/Extras
 zeal.json,ScoopInstaller/Extras
 dont-sleep.json,ScoopInstaller/Extras
@@ -5063,6 +5063,7 @@ makesfx.json,hoilc/scoop-lemon
 win11syscheck.json,hoilc/scoop-lemon
 baidupcs-go.json,hoilc/scoop-lemon
 start-reader.json,hoilc/scoop-lemon
+alixby.json,hoilc/scoop-lemon
 arpsift.json,hoilc/scoop-lemon
 multidesk-chs.json,hoilc/scoop-lemon
 btrace.json,hoilc/scoop-lemon
@@ -5630,7 +5631,7 @@ bypass_echoiron.json,echoiron/echo-scoop
 neatreader.json,echoiron/echo-scoop
 picgo_echoiron.json,echoiron/echo-scoop
 n-m3u8dl-cli_echoiron.json,echoiron/echo-scoop
-alixby.json,echoiron/echo-scoop
+alixby_echoiron.json,echoiron/echo-scoop
 ocam.json,echoiron/echo-scoop
 dismpp.json,echoiron/echo-scoop
 renamer_echoiron.json,echoiron/echo-scoop
@@ -7518,7 +7519,7 @@ melonds_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
@@ -7532,7 +7533,7 @@ flycast_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 desmume_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
@@ -8366,7 +8367,7 @@ python39_akirco.json,akirco/aki-apps
 switchhosts_akirco.json,akirco/aki-apps
 youtube-dl-gui_akirco.json,akirco/aki-apps
 gradle4_akirco.json,akirco/aki-apps
-draw.io.json,akirco/aki-apps
+draw.io_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
 fastbootEnhance.json,akirco/aki-apps
 dark_akirco.json,akirco/aki-apps
@@ -8504,6 +8505,7 @@ ddns-go.json,ViCrack/scoop-bucket
 emeditor_ViCrack.json,ViCrack/scoop-bucket
 naabu_ViCrack.json,ViCrack/scoop-bucket
 godzilla_ViCrack.json,ViCrack/scoop-bucket
+java-echo-generator-release.json,ViCrack/scoop-bucket
 anew.json,ViCrack/scoop-bucket
 gda.json,ViCrack/scoop-bucket
 PowerRun_ViCrack.json,ViCrack/scoop-bucket
@@ -9778,7 +9780,6 @@ sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
 godmode.json,DoveBoy/Apps
 mycomputermanager_DoveBoy.json,DoveBoy/Apps
 idm.json,DoveBoy/Apps
-chromedriver-canary.json,DoveBoy/Apps
 vivetool-gui.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 clashrauto_DoveBoy.json,DoveBoy/Apps
@@ -10865,6 +10866,7 @@ uosc.json,brian6932/dank-scoop
 Dexios.json,brian6932/dank-scoop
 chatterino7.json,brian6932/dank-scoop
 chatterino-qt5.json,brian6932/dank-scoop
+streamsave.json,brian6932/dank-scoop
 sshfs-np-beta.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
@@ -11239,6 +11241,7 @@ ghz.json,aliesbelik/poldi
 ain.json,aliesbelik/poldi
 rewrk.json,aliesbelik/poldi
 gut.json,aliesbelik/poldi
+whris.json,aliesbelik/poldi
 ali_aliesbelik.json,aliesbelik/poldi
 httprobe.json,aliesbelik/poldi
 yj_aliesbelik.json,aliesbelik/poldi
