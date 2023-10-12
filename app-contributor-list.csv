@@ -1607,7 +1607,7 @@ vcredist2010.json,ScoopInstaller/Extras
 mindforger.json,ScoopInstaller/Extras
 jd-gui.json,ScoopInstaller/Extras
 moonscript.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 alpinewsl.json,ScoopInstaller/Extras
 mypaint.json,ScoopInstaller/Extras
 hammultiplayer.json,ScoopInstaller/Extras
@@ -2088,7 +2088,7 @@ basecamp.json,ScoopInstaller/Extras
 yumi.json,ScoopInstaller/Extras
 mambaforge.json,ScoopInstaller/Extras
 pseps.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 rxrepl.json,ScoopInstaller/Extras
 manifold-viewer.json,ScoopInstaller/Extras
 publii.json,ScoopInstaller/Extras
@@ -5543,7 +5543,7 @@ cryptsync.json,hoilc/scoop-lemon
 iwck.json,hoilc/scoop-lemon
 n3dr.json,hoilc/scoop-lemon
 tockler_hoilc.json,hoilc/scoop-lemon
-azd_hoilc.json,hoilc/scoop-lemon
+azd.json,hoilc/scoop-lemon
 stern_hoilc.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
@@ -5563,7 +5563,7 @@ findstr.json,hoilc/scoop-lemon
 xiaolai.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
 step.json,hoilc/scoop-lemon
-pot_hoilc.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 tts-vue.json,hoilc/scoop-lemon
 pazera-free-audio-extractor.json,hoilc/scoop-lemon
 bark-server.json,hoilc/scoop-lemon
@@ -5767,7 +5767,7 @@ ultraiso_echoiron.json,echoiron/echo-scoop
 lightproxy_echoiron.json,echoiron/echo-scoop
 notepad2-mod_echoiron.json,echoiron/echo-scoop
 totalcommander_echoiron.json,echoiron/echo-scoop
-adrive.json,echoiron/echo-scoop
+adrive_echoiron.json,echoiron/echo-scoop
 everedit.json,echoiron/echo-scoop
 4kvideodownloader.json,echoiron/echo-scoop
 typeeasy.json,echoiron/echo-scoop
@@ -7619,7 +7619,7 @@ Nushell.json,dodorz/scoop
 autojump-rs.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 MutoMark.json,dodorz/scoop
-ConsoleZ_dodorz.json,dodorz/scoop
+ConsoleZ.json,dodorz/scoop
 5KPlayer.json,dodorz/scoop
 SciTE_dodorz.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
@@ -7738,7 +7738,7 @@ mesen_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
@@ -7747,7 +7747,7 @@ mgba_borger.json,borger/scoop-emulators
 retroarch_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
@@ -7763,7 +7763,7 @@ dolphin-beta_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
@@ -8071,7 +8071,7 @@ apifox_zhoujin7.json,zhoujin7/tomato
 Elasticsearch6.json,zhoujin7/tomato
 jd-gui_zhoujin7.json,zhoujin7/tomato
 notepadplusplus_zhoujin7.json,zhoujin7/tomato
-subconverter_zhoujin7.json,zhoujin7/tomato
+subconverter.json,zhoujin7/tomato
 QtDesigner.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 HBuilder.json,zhoujin7/tomato
@@ -8243,7 +8243,7 @@ potplayer_akirco.json,akirco/aki-apps
 wp-cli_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
 runjs.json,akirco/aki-apps
-aliyundrive.json,akirco/aki-apps
+aliyundrive_akirco.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
 nvs_akirco.json,akirco/aki-apps
 quarkpan.json,akirco/aki-apps
@@ -8359,10 +8359,10 @@ gallery-dl_akirco.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 jianyingpro_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 libwebp_akirco.json,akirco/aki-apps
 httpstat_akirco.json,akirco/aki-apps
-flutter-cn.json,akirco/aki-apps
+flutter-cn_akirco.json,akirco/aki-apps
 fishingfunds.json,akirco/aki-apps
 nc.json,akirco/aki-apps
 ffmpeg_akirco.json,akirco/aki-apps
@@ -9138,7 +9138,6 @@ otfcc.json,ygguorun/scoop-bucket
 ClashXW.json,ygguorun/scoop-bucket
 CefDetectorX_ygguorun.json,ygguorun/scoop-bucket
 compact_html.json,ygguorun/scoop-bucket
-aDrive_ygguorun.json,ygguorun/scoop-bucket
 repkg.json,ygguorun/scoop-bucket
 aliyundrive-webdav_ygguorun.json,ygguorun/scoop-bucket
 PingFangSC.json,ygguorun/scoop-bucket
@@ -9228,7 +9227,6 @@ googlechrome-canary_42wim.json,42wim/scoop-bucket
 matterbridge_42wim.json,42wim/scoop-bucket
 msedge-stable.json,42wim/scoop-bucket
 msedge-canary.json,42wim/scoop-bucket
-googlechrome_42wim.json,42wim/scoop-bucket
 apimonitor.json,42wim/scoop-bucket
 matterircd_42wim.json,42wim/scoop-bucket
 nomachine-enterprise.json,42wim/scoop-bucket
@@ -9619,7 +9617,7 @@ b23downloader_DoveBoy.json,DoveBoy/Apps
 ntrace-v1.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
-neovim-nightly_DoveBoy.json,DoveBoy/Apps
+neovim-nightly.json,DoveBoy/Apps
 ali.json,DoveBoy/Apps
 nali_DoveBoy.json,DoveBoy/Apps
 sandboxie-classic.json,DoveBoy/Apps
@@ -9860,6 +9858,7 @@ idm-activation-script.json,DoveBoy/Apps
 html-comic.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
+rustdesk_DoveBoy.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
 ultimatevocalremovergui.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
@@ -10239,6 +10238,7 @@ jepgview-fork.json,cc713/ownscoop
 PicView-noRT.json,cc713/ownscoop
 nomacs.json,cc713/ownscoop
 aegisub-arch.json,cc713/ownscoop
+bililiverecorder.json,cc713/ownscoop
 Types.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
 freeplane_cc713.json,cc713/ownscoop
