@@ -1479,7 +1479,7 @@ rtss.json,ScoopInstaller/Extras
 bencode-editor.json,ScoopInstaller/Extras
 fadetop.json,ScoopInstaller/Extras
 eclipse-java.json,ScoopInstaller/Extras
-obsidian_ScoopInstaller.json,ScoopInstaller/Extras
+obsidian.json,ScoopInstaller/Extras
 cmdow.json,ScoopInstaller/Extras
 thonny.json,ScoopInstaller/Extras
 neoray.json,ScoopInstaller/Extras
@@ -1607,7 +1607,7 @@ vcredist2010.json,ScoopInstaller/Extras
 mindforger.json,ScoopInstaller/Extras
 jd-gui.json,ScoopInstaller/Extras
 moonscript.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 alpinewsl.json,ScoopInstaller/Extras
 mypaint.json,ScoopInstaller/Extras
 hammultiplayer.json,ScoopInstaller/Extras
@@ -2088,7 +2088,7 @@ basecamp.json,ScoopInstaller/Extras
 yumi.json,ScoopInstaller/Extras
 mambaforge.json,ScoopInstaller/Extras
 pseps.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 rxrepl.json,ScoopInstaller/Extras
 manifold-viewer.json,ScoopInstaller/Extras
 publii.json,ScoopInstaller/Extras
@@ -2836,7 +2836,7 @@ sagemath-cn.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
 m3u8-downloader.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
 netlogo.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
@@ -5543,7 +5543,7 @@ cryptsync.json,hoilc/scoop-lemon
 iwck.json,hoilc/scoop-lemon
 n3dr.json,hoilc/scoop-lemon
 tockler_hoilc.json,hoilc/scoop-lemon
-azd.json,hoilc/scoop-lemon
+azd_hoilc.json,hoilc/scoop-lemon
 stern_hoilc.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
@@ -5563,7 +5563,7 @@ findstr.json,hoilc/scoop-lemon
 xiaolai.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
 step.json,hoilc/scoop-lemon
-pot.json,hoilc/scoop-lemon
+pot_hoilc.json,hoilc/scoop-lemon
 tts-vue.json,hoilc/scoop-lemon
 pazera-free-audio-extractor.json,hoilc/scoop-lemon
 bark-server.json,hoilc/scoop-lemon
@@ -7619,7 +7619,7 @@ Nushell.json,dodorz/scoop
 autojump-rs.json,dodorz/scoop
 Manuskript.json,dodorz/scoop
 MutoMark.json,dodorz/scoop
-ConsoleZ.json,dodorz/scoop
+ConsoleZ_dodorz.json,dodorz/scoop
 5KPlayer.json,dodorz/scoop
 SciTE_dodorz.json,dodorz/scoop
 winpty-msys2.json,dodorz/scoop
@@ -7738,7 +7738,7 @@ mesen_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
@@ -7763,7 +7763,7 @@ dolphin-beta_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
@@ -8071,7 +8071,7 @@ apifox_zhoujin7.json,zhoujin7/tomato
 Elasticsearch6.json,zhoujin7/tomato
 jd-gui_zhoujin7.json,zhoujin7/tomato
 notepadplusplus_zhoujin7.json,zhoujin7/tomato
-subconverter.json,zhoujin7/tomato
+subconverter_zhoujin7.json,zhoujin7/tomato
 QtDesigner.json,zhoujin7/tomato
 lockhunter-np_zhoujin7.json,zhoujin7/tomato
 HBuilder.json,zhoujin7/tomato
@@ -9858,7 +9858,6 @@ idm-activation-script.json,DoveBoy/Apps
 html-comic.json,DoveBoy/Apps
 glow_DoveBoy.json,DoveBoy/Apps
 openbbterminal-pre.json,DoveBoy/Apps
-rustdesk_DoveBoy.json,DoveBoy/Apps
 v2ray-rules-dat.json,DoveBoy/Apps
 ultimatevocalremovergui.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
@@ -10238,7 +10237,6 @@ jepgview-fork.json,cc713/ownscoop
 PicView-noRT.json,cc713/ownscoop
 nomacs.json,cc713/ownscoop
 aegisub-arch.json,cc713/ownscoop
-bililiverecorder.json,cc713/ownscoop
 Types.json,cc713/ownscoop
 GARbro-Mod.json,cc713/ownscoop
 freeplane_cc713.json,cc713/ownscoop
