@@ -121,6 +121,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - ChinLong/scoop-customize
 - yuusakuri/scoop-bucket
 - Darkatse/Scoop-KanColle
+- Zliced13/MyScoop
 - The-Simples/scoop-minecraft
 - aliesbelik/poldi
 - MCOfficer/scoop-bucket
