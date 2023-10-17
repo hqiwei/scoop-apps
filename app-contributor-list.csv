@@ -1609,7 +1609,7 @@ vcredist2010.json,ScoopInstaller/Extras
 mindforger.json,ScoopInstaller/Extras
 jd-gui.json,ScoopInstaller/Extras
 moonscript.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 alpinewsl.json,ScoopInstaller/Extras
 mypaint.json,ScoopInstaller/Extras
 hammultiplayer.json,ScoopInstaller/Extras
@@ -4778,7 +4778,7 @@ we-meet.json,scoopcn/scoopcn
 dingtalk_scoopcn.json,scoopcn/scoopcn
 xt800agent.json,scoopcn/scoopcn
 s3-browser.json,scoopcn/scoopcn
-tim_scoopcn.json,scoopcn/scoopcn
+tim.json,scoopcn/scoopcn
 procmon.json,scoopcn/scoopcn
 dingtalk-gov.json,scoopcn/scoopcn
 todesk_scoopcn.json,scoopcn/scoopcn
@@ -6798,7 +6798,7 @@ igdm_arch3rPro.json,arch3rPro/PST-Bucket
 notepad--.json,arch3rPro/PST-Bucket
 notify.json,arch3rPro/PST-Bucket
 mobaxterm_arch3rPro.json,arch3rPro/PST-Bucket
-newfiletime_arch3rPro.json,arch3rPro/PST-Bucket
+newfiletime.json,arch3rPro/PST-Bucket
 fastgithub.json,arch3rPro/PST-Bucket
 crawlergo.json,arch3rPro/PST-Bucket
 clash-windows.json,arch3rPro/PST-Bucket
@@ -7758,7 +7758,7 @@ flycast_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
@@ -8605,7 +8605,7 @@ capture2text-persian.json,naderi/scoop-bucket
 ant-renamer.json,naderi/scoop-bucket
 lingoes_naderi.json,naderi/scoop-bucket
 cpdf_naderi.json,naderi/scoop-bucket
-bitcomet.json,naderi/scoop-bucket
+bitcomet_naderi.json,naderi/scoop-bucket
 pulsar_naderi.json,naderi/scoop-bucket
 windirstat-portable.json,naderi/scoop-bucket
 epicgames.json,naderi/scoop-bucket
@@ -8946,7 +8946,7 @@ wiliwili_amorphobia.json,amorphobia/siku
 rust-sl.json,amorphobia/siku
 imazing-converter.json,amorphobia/siku
 radarr_amorphobia.json,amorphobia/siku
-86box.json,amorphobia/siku
+86box_amorphobia.json,amorphobia/siku
 winrar-zh-cn.json,amorphobia/siku
 diskgenius-zh-cn.json,amorphobia/siku
 tautulli.json,amorphobia/siku
@@ -8955,7 +8955,8 @@ cargo-binstall.json,amorphobia/siku
 minesweeper-arbiter.json,amorphobia/siku
 shakemousetolocate.json,amorphobia/siku
 bdinfo.json,amorphobia/siku
-todesk_amorphobia.json,amorphobia/siku
+todesk.json,amorphobia/siku
+microdicom-dicom-viewer.json,amorphobia/siku
 bilibili-desktop.json,amorphobia/siku
 parallels-client.json,amorphobia/siku
 vfilename.json,amorphobia/siku
@@ -9545,8 +9546,9 @@ qtpass_ChungZH.json,ChungZH/peach
 qownnotes_ChungZH.json,ChungZH/peach
 go-musicfox.json,DoveBoy/Apps
 cheat-engine_DoveBoy.json,DoveBoy/Apps
+czkawka_DoveBoy.json,DoveBoy/Apps
 shadowsocksr-hmbsbige_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 ariang-native_DoveBoy.json,DoveBoy/Apps
 iobit-uninstaller.json,DoveBoy/Apps
 bat_DoveBoy.json,DoveBoy/Apps
@@ -9609,6 +9611,7 @@ monit-portable.json,DoveBoy/Apps
 mpv.net-beta_DoveBoy.json,DoveBoy/Apps
 sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
+pdfarranger_DoveBoy.json,DoveBoy/Apps
 bbdown_DoveBoy.json,DoveBoy/Apps
 cntv.json,DoveBoy/Apps
 ipinfo_DoveBoy.json,DoveBoy/Apps
@@ -9685,6 +9688,7 @@ xray_DoveBoy.json,DoveBoy/Apps
 scoop-sd_DoveBoy.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
 cacert_DoveBoy.json,DoveBoy/Apps
+musicfreedesktop.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
 openbbterminal.json,DoveBoy/Apps
@@ -9812,11 +9816,12 @@ godmode.json,DoveBoy/Apps
 mycomputermanager_DoveBoy.json,DoveBoy/Apps
 idm.json,DoveBoy/Apps
 vivetool-gui.json,DoveBoy/Apps
+czkawka-gui.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 littletips.json,DoveBoy/Apps
 clashrauto_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
-qq_DoveBoy.json,DoveBoy/Apps
+qq.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
 windterm_DoveBoy.json,DoveBoy/Apps
 lemonpush.json,DoveBoy/Apps
@@ -9937,7 +9942,9 @@ python-tab-completion.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
+qalculate_DoveBoy.json,DoveBoy/Apps
 ntrace-core.json,DoveBoy/Apps
+pdf-guru.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 powerping_DoveBoy.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
