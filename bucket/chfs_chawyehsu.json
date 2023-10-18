@@ -1,0 +1,30 @@
+{
+    "homepage": "http://iscute.cn/chfs",
+    "description": "CuteHttpFileServer/chfs is a free file sharing http server tool.",
+    "license": "Freeware",
+    "version": "3.0",
+    "architecture": {
+        "64bit": {
+            "url": "http://iscute.cn/tar/chfs/3.0/chfs-windows-x64-3.0.zip",
+            "hash": "343249464b48355c6520e2ac9d6c1c5b5ef3e3bcd331b51d5dcb12fa35d21381"
+        },
+        "32bit": {
+            "url": "http://iscute.cn/tar/chfs/3.0/chfs-windows-x86-3.0.zip",
+            "hash": "0173f14d03031e07de06709ef9be9669f8d6e1d4e00b533d0a45f6453504ba27"
+        }
+    },
+    "bin": "chfs.exe",
+    "checkver": {
+        "regex": "chfs-windows-x64-([\\d.]+).zip"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "http://iscute.cn/tar/chfs/$version/chfs-windows-x64-$version.zip"
+            },
+            "32bit": {
+                "url": "http://iscute.cn/tar/chfs/$version/chfs-windows-x86-$version.zip"
+            }
+        }
+    }
+}
