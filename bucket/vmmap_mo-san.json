@@ -5,9 +5,9 @@
         "identifier": "Freeware",
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
-    "version": "3.31",
+    "version": "3.4",
     "url": "https://download.sysinternals.com/files/VMMap.zip",
-    "hash": "e23baef492dfeb974ef42f07c3835fac7456a326ab20a7f2442e25d3d7d07273",
+    "hash": "71c9bb73f1ba63f69096cc5ab11aaad4f1969b060931f19c97f7ca6458ca1c1e",
     "checkver": {
         "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap",
         "re": "VMMap\\s(?:v|V)?([\\d.]+)"
