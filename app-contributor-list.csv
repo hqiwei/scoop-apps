@@ -1106,7 +1106,7 @@ registry-explorer.json,ScoopInstaller/Extras
 plex-desktop.json,ScoopInstaller/Extras
 gcc-arm-none-eabi.json,ScoopInstaller/Extras
 electronmail.json,ScoopInstaller/Extras
-jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
+jetbrains-toolbox.json,ScoopInstaller/Extras
 mtuner.json,ScoopInstaller/Extras
 oni.json,ScoopInstaller/Extras
 prusaslicer.json,ScoopInstaller/Extras
@@ -2837,7 +2837,7 @@ vmware-workstation-pro.json,ivaquero/scoopet
 veracrypt.json,ivaquero/scoopet
 cursor.json,ivaquero/scoopet
 mpv.net-cm.json,ivaquero/scoopet
-clash-for-windows_ivaquero.json,ivaquero/scoopet
+clash-for-windows.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
 chatgpt-cli.json,ivaquero/scoopet
@@ -4966,6 +4966,7 @@ mouseinc.json,hoilc/scoop-lemon
 shutter_hoilc.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
+petaclone.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
 whalebird.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
@@ -5030,6 +5031,7 @@ werf.json,hoilc/scoop-lemon
 asfenhance-cn.json,hoilc/scoop-lemon
 zincsearch.json,hoilc/scoop-lemon
 enable-loopback.json,hoilc/scoop-lemon
+feiq.json,hoilc/scoop-lemon
 qsctl.json,hoilc/scoop-lemon
 sidekick.json,hoilc/scoop-lemon
 go-p2ptunnel.json,hoilc/scoop-lemon
@@ -5181,6 +5183,7 @@ goss.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
 diskbench.json,hoilc/scoop-lemon
 uupmediacreator.json,hoilc/scoop-lemon
+proxypin.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
 vcluster_hoilc.json,hoilc/scoop-lemon
 ultrasearch.json,hoilc/scoop-lemon
@@ -5359,6 +5362,7 @@ litomusic.json,hoilc/scoop-lemon
 snmp_exporter.json,hoilc/scoop-lemon
 avidemux-nightly_hoilc.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
+videoduplicatefinder.json,hoilc/scoop-lemon
 kbld.json,hoilc/scoop-lemon
 b23downloader.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
@@ -5388,6 +5392,7 @@ enigma-virtual-box.json,hoilc/scoop-lemon
 zhconv-rs.json,hoilc/scoop-lemon
 berglas.json,hoilc/scoop-lemon
 twolame.json,hoilc/scoop-lemon
+jpegoptim.json,hoilc/scoop-lemon
 pdgcnteditor-eng.json,hoilc/scoop-lemon
 maxthon6.json,hoilc/scoop-lemon
 hysteria_hoilc.json,hoilc/scoop-lemon
@@ -5498,6 +5503,7 @@ tsmuxer.json,hoilc/scoop-lemon
 treeline.json,hoilc/scoop-lemon
 belautils.json,hoilc/scoop-lemon
 metabase.json,hoilc/scoop-lemon
+radius.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 i4tools.json,hoilc/scoop-lemon
 karma.json,hoilc/scoop-lemon
@@ -5574,6 +5580,7 @@ chanify.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
 n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
 makesfx.json,hoilc/scoop-lemon
+vgmstream-cli.json,hoilc/scoop-lemon
 bkviewer-pro.json,hoilc/scoop-lemon
 garden.json,hoilc/scoop-lemon
 elasticsearch_exporter.json,hoilc/scoop-lemon
@@ -5814,7 +5821,7 @@ pdfpatcher.json,echoiron/echo-scoop
 uninstalltool.json,echoiron/echo-scoop
 adrive_echoiron.json,echoiron/echo-scoop
 qq_echoiron.json,echoiron/echo-scoop
-coodesker_echoiron.json,echoiron/echo-scoop
+coodesker.json,echoiron/echo-scoop
 oss-browser.json,echoiron/echo-scoop
 wisecare365_echoiron.json,echoiron/echo-scoop
 TinyGUI-Portable.json,ACooper81/scoop-apps
@@ -6872,7 +6879,7 @@ rubick.json,arch3rPro/PST-Bucket
 another-redis-desktop-manager_arch3rPro.json,arch3rPro/PST-Bucket
 git-repo-clean.json,arch3rPro/PST-Bucket
 notepad--.json,arch3rPro/PST-Bucket
-newfiletime.json,arch3rPro/PST-Bucket
+newfiletime_arch3rPro.json,arch3rPro/PST-Bucket
 transfer.json,arch3rPro/PST-Bucket
 crawlergo.json,arch3rPro/PST-Bucket
 windynamicdesktop_arch3rPro.json,arch3rPro/PST-Bucket
@@ -6940,6 +6947,7 @@ postman-cn.json,arch3rPro/PST-Bucket
 mimikatz.json,arch3rPro/PST-Bucket
 hackbrowserdata.json,arch3rPro/PST-Bucket
 dotnet-runtime.json,arch3rPro/PST-Bucket
+goproxy.json,arch3rPro/PST-Bucket
 CeWL.json,arch3rPro/PST-Bucket
 netspy.json,arch3rPro/PST-Bucket
 broxy.json,arch3rPro/PST-Bucket
@@ -8731,6 +8739,7 @@ unicsved_naderi.json,naderi/scoop-bucket
 texniccenter_naderi.json,naderi/scoop-bucket
 waterfox-portable_naderi.json,naderi/scoop-bucket
 cpod_naderi.json,naderi/scoop-bucket
+yandex.json,naderi/scoop-bucket
 xnview-classic.json,naderi/scoop-bucket
 chrome-beta-portable.json,naderi/scoop-bucket
 exif-pilot.json,naderi/scoop-bucket
@@ -8754,7 +8763,7 @@ qilin.json,naderi/scoop-bucket
 7zip-lzma.json,naderi/scoop-bucket
 csved_naderi.json,naderi/scoop-bucket
 wise-program-uninstaller.json,naderi/scoop-bucket
-teamviewer-portable.json,naderi/scoop-bucket
+teamviewer-portable_naderi.json,naderi/scoop-bucket
 copy-handler.json,naderi/scoop-bucket
 locate_naderi.json,naderi/scoop-bucket
 mp4muxer.json,naderi/scoop-bucket
@@ -9598,6 +9607,7 @@ idlemaster-extended_starise.json,starise/Scoop-Gaming
 uniws-patcher.json,starise/Scoop-Gaming
 lama-cleaner.json,DoveBoy/Apps
 study-xxqg.json,DoveBoy/Apps
+pdf-guru.json,DoveBoy/Apps
 clash.meta-alpha.json,DoveBoy/Apps
 typoracracker.json,DoveBoy/Apps
 study-xxqg-beta.json,DoveBoy/Apps
@@ -9721,7 +9731,7 @@ waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 clashy.json,DoveBoy/Apps
 droppoint_DoveBoy.json,DoveBoy/Apps
 ffmpeg-shared_DoveBoy.json,DoveBoy/Apps
-neovim-nightly.json,DoveBoy/Apps
+neovim-nightly_DoveBoy.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
@@ -9755,7 +9765,6 @@ iobit-software-updater.json,DoveBoy/Apps
 qq-nt_DoveBoy.json,DoveBoy/Apps
 shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
-pdf-guru.json,DoveBoy/Apps
 telegram_DoveBoy.json,DoveBoy/Apps
 folder-painter_DoveBoy.json,DoveBoy/Apps
 chfs-tab-completion.json,DoveBoy/Apps
@@ -9771,6 +9780,7 @@ trafficmonitor-lite_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
 pscalendar.json,DoveBoy/Apps
 pixivbiu_DoveBoy.json,DoveBoy/Apps
+nssm_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 vhs_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
@@ -12331,7 +12341,7 @@ slidershim.json,beerpiss/scoop-bucket
 arrayv.json,beerpiss/scoop-bucket
 stash_beerpiss.json,beerpiss/scoop-bucket
 apfs.json,beerpiss/scoop-bucket
-microsoftedge_beerpiss.json,beerpiss/scoop-bucket
+microsoftedge.json,beerpiss/scoop-bucket
 punzip.json,beerpiss/scoop-bucket
 graboid.json,beerpiss/scoop-bucket
 sl-h.json,beerpiss/scoop-bucket
