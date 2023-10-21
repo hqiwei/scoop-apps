@@ -1106,7 +1106,7 @@ registry-explorer.json,ScoopInstaller/Extras
 plex-desktop.json,ScoopInstaller/Extras
 gcc-arm-none-eabi.json,ScoopInstaller/Extras
 electronmail.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 mtuner.json,ScoopInstaller/Extras
 oni.json,ScoopInstaller/Extras
 prusaslicer.json,ScoopInstaller/Extras
@@ -2809,7 +2809,7 @@ sagemath-cn.json,ivaquero/scoopet
 aboboo-full.json,ivaquero/scoopet
 m3u8-downloader.json,ivaquero/scoopet
 tim.json,ivaquero/scoopet
-lx-music_ivaquero.json,ivaquero/scoopet
+lx-music.json,ivaquero/scoopet
 blender-cn.json,ivaquero/scoopet
 libreoffice-cn.json,ivaquero/scoopet
 misakatranslator_ivaquero.json,ivaquero/scoopet
@@ -2837,7 +2837,7 @@ vmware-workstation-pro.json,ivaquero/scoopet
 veracrypt.json,ivaquero/scoopet
 cursor.json,ivaquero/scoopet
 mpv.net-cm.json,ivaquero/scoopet
-clash-for-windows.json,ivaquero/scoopet
+clash-for-windows_ivaquero.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
 chatgpt-cli.json,ivaquero/scoopet
@@ -2900,6 +2900,7 @@ mesen-s.json,Calinou/scoop-games
 rgbds.json,Calinou/scoop-games
 pacmc.json,Calinou/scoop-games
 itch_Calinou.json,Calinou/scoop-games
+mudlet.json,Calinou/scoop-games
 ufoai.json,Calinou/scoop-games
 romsorter.json,Calinou/scoop-games
 prboom-plus.json,Calinou/scoop-games
@@ -3878,6 +3879,7 @@ godot4-mono.json,ScoopInstaller/Versions
 cuda9.0.json,ScoopInstaller/Versions
 ant19.json,ScoopInstaller/Versions
 qview-nightly.json,ScoopInstaller/Versions
+python-pre.json,ScoopInstaller/Versions
 ubisoftconnect.json,ScoopInstaller/Versions
 winpython38.json,ScoopInstaller/Versions
 anaconda3-2022.05.json,ScoopInstaller/Versions
@@ -4903,7 +4905,7 @@ tickeys_hoilc.json,hoilc/scoop-lemon
 httpx.json,hoilc/scoop-lemon
 supervisord-go.json,hoilc/scoop-lemon
 fuso.json,hoilc/scoop-lemon
-pot_hoilc.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 swagger-codegen-cli.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
@@ -5902,6 +5904,7 @@ WinSCP-Portable.json,ACooper81/scoop-apps
 WinMerge-Portable.json,ACooper81/scoop-apps
 Audacity-Install.json,ACooper81/scoop-apps
 SoftwareOKPrintTestPageOK-Portable.json,ACooper81/scoop-apps
+HandyWinGet-Portable.json,ACooper81/scoop-apps
 RidNacs-Portable.json,ACooper81/scoop-apps
 ChatALL-Portable.json,ACooper81/scoop-apps
 CuteHttpFileServerGUI-Portable.json,ACooper81/scoop-apps
@@ -6095,6 +6098,7 @@ iMazingConverter-Install.json,ACooper81/scoop-apps
 Lapce-Portable.json,ACooper81/scoop-apps
 ExplorerPatcher-Install.json,ACooper81/scoop-apps
 ThisIsWin11-Portable.json,ACooper81/scoop-apps
+Optimizer-Portable.json,ACooper81/scoop-apps
 FreeSpaceWipe-Portable.json,ACooper81/scoop-apps
 MicrosoftEdgeDev-Portable.json,ACooper81/scoop-apps
 NordPass-Portable.json,ACooper81/scoop-apps
@@ -6749,7 +6753,7 @@ mednaffe_hermanjustnu.json,hermanjustnu/scoop-emulators
 scummvm-nightly.json,hermanjustnu/scoop-emulators
 bsnes-nightly.json,hermanjustnu/scoop-emulators
 stella_hermanjustnu.json,hermanjustnu/scoop-emulators
-cxbx-reloaded.json,hermanjustnu/scoop-emulators
+cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 retroarch-nightly.json,hermanjustnu/scoop-emulators
 pcsx2-avx2-qt.json,hermanjustnu/scoop-emulators
 vice-gtk3.json,hermanjustnu/scoop-emulators
@@ -6947,7 +6951,6 @@ postman-cn.json,arch3rPro/PST-Bucket
 mimikatz.json,arch3rPro/PST-Bucket
 hackbrowserdata.json,arch3rPro/PST-Bucket
 dotnet-runtime.json,arch3rPro/PST-Bucket
-goproxy.json,arch3rPro/PST-Bucket
 CeWL.json,arch3rPro/PST-Bucket
 netspy.json,arch3rPro/PST-Bucket
 broxy.json,arch3rPro/PST-Bucket
@@ -7683,6 +7686,7 @@ LightAlloy.json,dodorz/scoop
 msls.json,dodorz/scoop
 DuplicateCleanerFree.json,dodorz/scoop
 sift_dodorz.json,dodorz/scoop
+QR-Desktop.json,dodorz/scoop
 MutoMark.json,dodorz/scoop
 InterityDownloader.json,dodorz/scoop
 Wait.json,dodorz/scoop
@@ -9486,7 +9490,7 @@ wrangler_batkiz.json,batkiz/backit
 capslock-plus.json,batkiz/backit
 bloomrpc.json,batkiz/backit
 embarcadero-dev-cpp-no-compiler.json,batkiz/backit
-Iosevka_batkiz.json,batkiz/backit
+Iosevka.json,batkiz/backit
 git-stack.json,batkiz/backit
 hopp-cli_batkiz.json,batkiz/backit
 kotatogram.json,batkiz/backit
@@ -9634,6 +9638,7 @@ nali_DoveBoy.json,DoveBoy/Apps
 pwsh_DoveBoy.json,DoveBoy/Apps
 neteaseuu_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-kureikei.json,DoveBoy/Apps
+b0pass.json,DoveBoy/Apps
 douyu_DoveBoy.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
 wechat-backup.json,DoveBoy/Apps
@@ -9820,7 +9825,7 @@ officetoolplus_DoveBoy.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
-joplin-pre_DoveBoy.json,DoveBoy/Apps
+joplin-pre.json,DoveBoy/Apps
 gallery-dl_DoveBoy.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 opensearcher-win7.json,DoveBoy/Apps
@@ -10255,7 +10260,7 @@ firefox-zh-CN_cc713.json,cc713/ownscoop
 qimgv-video_cc713.json,cc713/ownscoop
 kiwix-tools.json,cc713/ownscoop
 rstudio_cc713.json,cc713/ownscoop
-lx-music.json,cc713/ownscoop
+lx-music_cc713.json,cc713/ownscoop
 opencomic.json,cc713/ownscoop
 MoonPlayer.json,cc713/ownscoop
 qpdf_cc713.json,cc713/ownscoop
@@ -12341,7 +12346,7 @@ slidershim.json,beerpiss/scoop-bucket
 arrayv.json,beerpiss/scoop-bucket
 stash_beerpiss.json,beerpiss/scoop-bucket
 apfs.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 punzip.json,beerpiss/scoop-bucket
 graboid.json,beerpiss/scoop-bucket
 sl-h.json,beerpiss/scoop-bucket
