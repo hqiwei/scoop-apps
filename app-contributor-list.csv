@@ -4893,11 +4893,14 @@ hamsterbase-desktop.json,hoilc/scoop-lemon
 oppo-sans.json,hoilc/scoop-lemon
 belautils.json,hoilc/scoop-lemon
 remetrics.json,hoilc/scoop-lemon
+bookget.json,hoilc/scoop-lemon
 zhconv-rs.json,hoilc/scoop-lemon
 git-duet.json,hoilc/scoop-lemon
 alixby.json,hoilc/scoop-lemon
 ark-pixel-font-12px-monospaced.json,hoilc/scoop-lemon
 maxthon.json,hoilc/scoop-lemon
+cefflashbrowser.json,hoilc/scoop-lemon
+ismylcdok.json,hoilc/scoop-lemon
 meepo.json,hoilc/scoop-lemon
 comicenhancepro.json,hoilc/scoop-lemon
 snmp_exporter.json,hoilc/scoop-lemon
@@ -4949,6 +4952,7 @@ double-entry-generator.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
 btrace.json,hoilc/scoop-lemon
 pdgthumbviewer.json,hoilc/scoop-lemon
+3body-lang.json,hoilc/scoop-lemon
 verycapture.json,hoilc/scoop-lemon
 dug.json,hoilc/scoop-lemon
 terminus-player.json,hoilc/scoop-lemon
@@ -5543,6 +5547,7 @@ arp-ping.json,hoilc/scoop-lemon
 vmutils.json,hoilc/scoop-lemon
 librespeed-cli_hoilc.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
+cleanwechatx.json,hoilc/scoop-lemon
 mongodb-compass_hoilc.json,hoilc/scoop-lemon
 gbm.json,hoilc/scoop-lemon
 ehco.json,hoilc/scoop-lemon
@@ -5568,6 +5573,7 @@ n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
 rathole_hoilc.json,hoilc/scoop-lemon
 b23downloader.json,hoilc/scoop-lemon
+twinkstar.json,hoilc/scoop-lemon
 kanha.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
 tanoshi_hoilc.json,hoilc/scoop-lemon
@@ -5639,6 +5645,7 @@ pagebypage.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
 tracerx-viewer.json,hoilc/scoop-lemon
+portscan.json,hoilc/scoop-lemon
 niconvert.json,hoilc/scoop-lemon
 lyricease.json,hoilc/scoop-lemon
 digitalclock4.json,hoilc/scoop-lemon
@@ -7061,7 +7068,7 @@ rpcs3.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -8159,7 +8166,7 @@ EasyContextMenu.json,akirco/aki-apps
 DNSAngel.json,akirco/aki-apps
 officetoolplus_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 redis-desktop-manager_akirco.json,akirco/aki-apps
 qpdf_akirco.json,akirco/aki-apps
 neofetch_akirco.json,akirco/aki-apps
@@ -8566,7 +8573,7 @@ wechat_wzv5.json,wzv5/ScoopBucket
 inno-setup_wzv5.json,wzv5/ScoopBucket
 python_wzv5.json,wzv5/ScoopBucket
 gost_wzv5.json,wzv5/ScoopBucket
-qqlive.json,wzv5/ScoopBucket
+qqlive_wzv5.json,wzv5/ScoopBucket
 pyembed-downloader.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 lx-music-desktop.json,wzv5/ScoopBucket
@@ -9370,7 +9377,7 @@ ipinfo_DoveBoy.json,DoveBoy/Apps
 whisper-cpp_DoveBoy.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
-qq-nt_DoveBoy.json,DoveBoy/Apps
+qq-nt.json,DoveBoy/Apps
 sandboxie-classic-portable.json,DoveBoy/Apps
 posh-maven.json,DoveBoy/Apps
 64gram_DoveBoy.json,DoveBoy/Apps
@@ -9498,6 +9505,7 @@ gitalias.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
 v2raya.json,DoveBoy/Apps
 officetoolplus-with-runtime.json,DoveBoy/Apps
+chromedriver-canary.json,DoveBoy/Apps
 rustdesk_DoveBoy.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 ali.json,DoveBoy/Apps
@@ -9568,7 +9576,7 @@ kaf-wifi.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 qqlive_DoveBoy.json,DoveBoy/Apps
 text-grab_DoveBoy.json,DoveBoy/Apps
-sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
+sandboxie-classic-np.json,DoveBoy/Apps
 book-searcher-desktop.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
@@ -9628,10 +9636,10 @@ grex_DoveBoy.json,DoveBoy/Apps
 nu_DoveBoy.json,DoveBoy/Apps
 jo_DoveBoy.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
-sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
+sandboxie-plus-np.json,DoveBoy/Apps
 hgrep.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
-pwsh-beta.json,DoveBoy/Apps
+pwsh-beta_DoveBoy.json,DoveBoy/Apps
 energystarx.json,DoveBoy/Apps
 bilibilitoolpro.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
@@ -10298,9 +10306,7 @@ MoonPlayer.json,cc713/ownscoop
 Pixeval_cc713.json,cc713/ownscoop
 xdm-dev.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
-goldendict.json,cc713/ownscoop
 Hitomi-Downloader_cc713.json,cc713/ownscoop
-goldendict-xapian.json,cc713/ownscoop
 MisakaTranslator_cc713.json,cc713/ownscoop
 keepass-plugin-KPSimpleBackup.json,cc713/ownscoop
 cudatext-addons.json,cc713/ownscoop
@@ -10309,7 +10315,7 @@ zyplayer_cc713.json,cc713/ownscoop
 get-sauce.json,cc713/ownscoop
 lx-music_cc713.json,cc713/ownscoop
 downkyi_cc713.json,cc713/ownscoop
-thunderbird-zh-cn_cc713.json,cc713/ownscoop
+thunderbird-zh-cn.json,cc713/ownscoop
 virtualbox-extension.json,cc713/ownscoop
 work-crawler.json,cc713/ownscoop
 freeplane_cc713.json,cc713/ownscoop
@@ -10346,6 +10352,7 @@ gimagereader.json,cc713/ownscoop
 mpv.net-DW.json,cc713/ownscoop
 rstudio_cc713.json,cc713/ownscoop
 nomacs.json,cc713/ownscoop
+goldendict-ng.json,cc713/ownscoop
 JMComic-qt.json,cc713/ownscoop
 TsubakiTranslator-noRT.json,cc713/ownscoop
 FreeFileSync_cc713.json,cc713/ownscoop
@@ -10430,7 +10437,7 @@ josm-generic.json,seumsc/scoop-seu
 v2rayn-core_seumsc.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 waifu2x-ncnn-vulkan_seumsc.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 foobar2000-preview.json,seumsc/scoop-seu
 hmcl_seumsc.json,seumsc/scoop-seu
 cmake_rivy.json,rivy/scoop-bucket
@@ -12457,7 +12464,7 @@ fiddler-classic-addon-anywhere.json,HUMORCE/nuke
 steam-authenticator.json,HUMORCE/nuke
 proxychains_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-galleryview.json,HUMORCE/nuke
-lavfilters_HUMORCE.json,HUMORCE/nuke
+lavfilters.json,HUMORCE/nuke
 aptos-cli.json,HUMORCE/nuke
 testmem5.json,HUMORCE/nuke
 twinkle-tray_HUMORCE.json,HUMORCE/nuke
