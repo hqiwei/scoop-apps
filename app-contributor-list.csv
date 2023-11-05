@@ -243,6 +243,7 @@ dev-sidecar.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
 Edge-Webdriver-Stable.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
+wutils.json,Weidows-projects/scoop-3rd
 webbrain.json,Weidows-projects/scoop-3rd
 git-all.json,Weidows-projects/scoop-3rd
 Pixeval.json,Weidows-projects/scoop-3rd
@@ -305,6 +306,7 @@ Jeenpi.json,Weidows-projects/scoop-3rd
 KugouMusic.json,Weidows-projects/scoop-3rd
 intel-one-mono.json,Weidows-projects/scoop-3rd
 PCmaster.json,Weidows-projects/scoop-3rd
+UmamusumeResponseAnalyzer.json,Weidows-projects/scoop-3rd
 YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
 x-studio.json,Weidows-projects/scoop-3rd
 scoop-viewer.json,prezesp/scoop-viewer-bucket
@@ -1237,7 +1239,7 @@ obsidian_ScoopInstaller.json,ScoopInstaller/Extras
 gitahead.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
 ubports-installer.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 alacritty.json,ScoopInstaller/Extras
 msiafterburner.json,ScoopInstaller/Extras
 kotatogram.json,ScoopInstaller/Extras
@@ -1389,7 +1391,7 @@ tartube.json,ScoopInstaller/Extras
 anki.json,ScoopInstaller/Extras
 caprine.json,ScoopInstaller/Extras
 hwp-converter.json,ScoopInstaller/Extras
-tinymediamanager_ScoopInstaller.json,ScoopInstaller/Extras
+tinymediamanager.json,ScoopInstaller/Extras
 betaflight-blackbox-explorer.json,ScoopInstaller/Extras
 vidi.json,ScoopInstaller/Extras
 activemq-artemis.json,ScoopInstaller/Extras
@@ -6673,6 +6675,7 @@ EpicGamesLauncher-Install.json,ACooper81/scoop-apps
 CuteHttpFileServer-Portable.json,ACooper81/scoop-apps
 RustDesk-Portable.json,ACooper81/scoop-apps
 ChatBox-Portable.json,ACooper81/scoop-apps
+UCheck-Portable.json,ACooper81/scoop-apps
 TimeVertor-Portable.json,ACooper81/scoop-apps
 DLSSSwapper-Portable.json,ACooper81/scoop-apps
 LoveWindowsAgain-Portable.json,ACooper81/scoop-apps
@@ -9217,7 +9220,7 @@ Sandboxie-Plus_ygguorun.json,ygguorun/scoop-bucket
 triangula_ygguorun.json,ygguorun/scoop-bucket
 FontLoaderSub.json,ygguorun/scoop-bucket
 mahjong-helper.json,ygguorun/scoop-bucket
-CJK-character-count_ygguorun.json,ygguorun/scoop-bucket
+CJK-character-count.json,ygguorun/scoop-bucket
 RegexMatchTracer.json,ygguorun/scoop-bucket
 EmbyTheater.json,ygguorun/scoop-bucket
 hash.json,ygguorun/scoop-bucket
@@ -9474,7 +9477,6 @@ blockthespot_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 vim_DoveBoy.json,DoveBoy/Apps
 ama.json,DoveBoy/Apps
-chromedriver-canary.json,DoveBoy/Apps
 heu-kms-activator.json,DoveBoy/Apps
 npm-tab-completion.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
@@ -10405,6 +10407,7 @@ smplayer_cc713.json,cc713/ownscoop
 LunaTranslator.json,cc713/ownscoop
 DanmakuFactory.json,cc713/ownscoop
 qimgv-dev.json,cc713/ownscoop
+bililiverecorder.json,cc713/ownscoop
 xdm-dev.json,cc713/ownscoop
 AnyTXT.json,cc713/ownscoop
 qimgv-video_cc713.json,cc713/ownscoop
@@ -11083,6 +11086,7 @@ qbittorrentdarktheme.json,brian6932/dank-scoop
 personal-scripts.json,brian6932/dank-scoop
 KryptorGUI.json,brian6932/dank-scoop
 technorino-portable-qt5.json,brian6932/dank-scoop
+openzfs.json,brian6932/dank-scoop
 artroom-stable-diffusion.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 DexiosGUI.json,brian6932/dank-scoop
@@ -12165,7 +12169,7 @@ reicon_fixed.json,Zliced13/MyScoop
 xmeters-np.json,Zliced13/MyScoop
 innoextractor_Zliced13.json,Zliced13/MyScoop
 nilesoft-shell_fixed.json,Zliced13/MyScoop
-everything-toolbar_Zliced13.json,Zliced13/MyScoop
+everything-toolbar.json,Zliced13/MyScoop
 riseup-vpn-np.json,Zliced13/MyScoop
 davmail.json,Zliced13/MyScoop
 stexbar-np.json,Zliced13/MyScoop
@@ -12454,7 +12458,7 @@ apfs.json,beerpiss/scoop-bucket
 windowstoolbox-head.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 scoop-search_beerpiss.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 ib-en.json,beerpiss/scoop-bucket
 sound-of-sorting.json,beerpiss/scoop-bucket
 ariang-native_beerpiss.json,beerpiss/scoop-bucket
@@ -12540,7 +12544,7 @@ fiddler-classic-addon-imageflipper.json,HUMORCE/nuke
 gdu_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-sazdiff.json,HUMORCE/nuke
 jadx_HUMORCE.json,HUMORCE/nuke
-quickcpu_HUMORCE.json,HUMORCE/nuke
+quickcpu.json,HUMORCE/nuke
 video2x_HUMORCE.json,HUMORCE/nuke
 gomuks.json,HUMORCE/nuke
 hkbtest.json,HUMORCE/nuke
