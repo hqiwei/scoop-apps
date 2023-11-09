@@ -59,8 +59,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - TheRandomLabs/Scoop-Spotify
 - borger/scoop-galaxy-integrations
 - ScoopInstaller/Versions
-- TheRandomLabs/scoop-nonportable
 - TheCjw/scoop-retools
+- TheRandomLabs/scoop-nonportable
 - kodybrown/scoop-nirsoft
 - littleli/scoop-clojure
 - kkzzhizhou/scoop-zapps
@@ -69,8 +69,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - ScoopInstaller/Nirsoft
 - scoopcn/scoopcn
 - hoilc/scoop-lemon
-- KNOXDEV/wsl
 - arch3rPro/PST-Bucket
+- KNOXDEV/wsl
 - Paxxs/Cluttered-bucket
 - echoiron/echo-scoop
 - ACooper81/scoop-apps
@@ -93,11 +93,11 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - wzv5/ScoopBucket
 - niheaven/scoop-sysinternals
 - naderi/scoop-bucket
-- amorphobia/siku
 - jonz94/scoop-sarasa-nerd-fonts
-- ygguorun/scoop-bucket
-- iquiw/scoop-bucket
 - charmbracelet/scoop-bucket
+- amorphobia/siku
+- iquiw/scoop-bucket
+- ygguorun/scoop-bucket
 - NyaMisty/scoop_bucket_misty
 - 42wim/scoop-bucket
 - DoveBoy/Apps
