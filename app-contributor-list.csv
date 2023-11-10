@@ -1002,7 +1002,7 @@ lazy-posh-git.json,ScoopInstaller/Extras
 shiba.json,ScoopInstaller/Extras
 workspaceutilities.json,ScoopInstaller/Extras
 tabby.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 chatterino7.json,ScoopInstaller/Extras
 localsend.json,ScoopInstaller/Extras
 clion.json,ScoopInstaller/Extras
@@ -2096,7 +2096,7 @@ gcc-arm-none-eabi.json,ScoopInstaller/Extras
 ksnip.json,ScoopInstaller/Extras
 chef-workstation.json,ScoopInstaller/Extras
 natscli.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 swyh-rs.json,ScoopInstaller/Extras
 shaderglass.json,ScoopInstaller/Extras
 convert.net.json,ScoopInstaller/Extras
@@ -5181,6 +5181,7 @@ simple-vhd-manager.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 kui_hoilc.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
+odbc2parquet.json,hoilc/scoop-lemon
 sandboxdiff.json,hoilc/scoop-lemon
 douyin.json,hoilc/scoop-lemon
 feiq.json,hoilc/scoop-lemon
@@ -5351,6 +5352,7 @@ quick-change-resolution.json,hoilc/scoop-lemon
 esheep.json,hoilc/scoop-lemon
 verycapture.json,hoilc/scoop-lemon
 pulumictl.json,hoilc/scoop-lemon
+hap-viewer.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
@@ -6848,7 +6850,6 @@ icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 xysubfilter-libass-np.json,ScoopInstaller/Nonportable
 everything-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lockhunter-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 notepadplusplus-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6884,7 +6885,6 @@ lavfilters-np.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
 teamviewer-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 encodegui-np.json,ScoopInstaller/Nonportable
 mullvadvpn-np.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -6898,7 +6898,6 @@ biglybt-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 virtualbox-with-extension-pack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 burp-suite-community-np.json,ScoopInstaller/Nonportable
 scilab-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 nvidia-display-driver-with-3d-vision-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 voicemeeter-potato-np.json,ScoopInstaller/Nonportable
@@ -6936,7 +6935,6 @@ goodsync-np.json,ScoopInstaller/Nonportable
 qttabbar-np.json,ScoopInstaller/Nonportable
 google-japanese-input-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 grammarly-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 8gadgetpack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 notepads-np.json,ScoopInstaller/Nonportable
 10x-np.json,ScoopInstaller/Nonportable
@@ -7134,12 +7132,12 @@ duckstation_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
@@ -7165,7 +7163,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -7408,7 +7406,7 @@ FAAC_dodorz.json,dodorz/scoop
 ProcessCloser.json,dodorz/scoop
 HDCleaner.json,dodorz/scoop
 Spread32.json,dodorz/scoop
-Windows-Terminal_dodorz.json,dodorz/scoop
+Windows-Terminal.json,dodorz/scoop
 rare_dodorz.json,dodorz/scoop
 rains.json,dodorz/scoop
 FileTime.json,dodorz/scoop
@@ -7694,7 +7692,7 @@ mimeTeX.json,dodorz/scoop
 ssr.json,dodorz/scoop
 SQLiteExpertPersonal.json,dodorz/scoop
 MPD_dodorz.json,dodorz/scoop
-WeChat_dodorz.json,dodorz/scoop
+WeChat.json,dodorz/scoop
 NeeView.json,dodorz/scoop
 NaotuMini.json,dodorz/scoop
 AdvanceCOMP.json,dodorz/scoop
@@ -8256,7 +8254,7 @@ nginx_akirco.json,akirco/aki-apps
 kodi_akirco.json,akirco/aki-apps
 vcredist2010_akirco.json,akirco/aki-apps
 clash-dotnet.json,akirco/aki-apps
-telegram.json,akirco/aki-apps
+telegram_akirco.json,akirco/aki-apps
 tldr_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 BaiduNetdisk_akirco.json,akirco/aki-apps
@@ -9297,6 +9295,7 @@ ShadowExplorer.json,ygguorun/scoop-bucket
 dragon.json,ygguorun/scoop-bucket
 compact_html.json,ygguorun/scoop-bucket
 katrain_ygguorun.json,ygguorun/scoop-bucket
+QuickSwitch.json,ygguorun/scoop-bucket
 RustDesk_ygguorun.json,ygguorun/scoop-bucket
 upgit_ygguorun.json,ygguorun/scoop-bucket
 AxMath.json,ygguorun/scoop-bucket
@@ -9434,7 +9433,7 @@ umi-ocr_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
 wechatvideodownloader.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 scoop-search-shilangyu.json,DoveBoy/Apps
 spleetergui-portable_DoveBoy.json,DoveBoy/Apps
 hitomi-downloader_DoveBoy.json,DoveBoy/Apps
@@ -9691,7 +9690,6 @@ superrdp.json,DoveBoy/Apps
 irfanview_DoveBoy.json,DoveBoy/Apps
 motrix_DoveBoy.json,DoveBoy/Apps
 sandboxie-classic.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
 pikapika.json,DoveBoy/Apps
 act_DoveBoy.json,DoveBoy/Apps
 officetoolplus_DoveBoy.json,DoveBoy/Apps
@@ -9790,7 +9788,8 @@ gopeed_DoveBoy.json,DoveBoy/Apps
 snappy-driver-installer-origin_DoveBoy.json,DoveBoy/Apps
 video-srt-windows-with-ffmpeg.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
-wechat.json,DoveBoy/Apps
+wechat_DoveBoy.json,DoveBoy/Apps
+emeditor.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
 v2raya-unstable.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
@@ -9844,7 +9843,7 @@ sandboxie-classic-portable.json,DoveBoy/Apps
 libreoffice_DoveBoy.json,DoveBoy/Apps
 psscripttools.json,DoveBoy/Apps
 speedtest-cli_DoveBoy.json,DoveBoy/Apps
-text-grab_DoveBoy.json,DoveBoy/Apps
+text-grab.json,DoveBoy/Apps
 gotop_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
@@ -10535,7 +10534,7 @@ autowikibrowser.json,seumsc/scoop-seu
 sdrcleaner.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
 archisteamfarm_seumsc.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 officetoolplus_seumsc.json,seumsc/scoop-seu
 musicdecrypto.json,seumsc/scoop-seu
 shterm-alt.json,seumsc/scoop-seu
@@ -11298,6 +11297,7 @@ steamchina.json,SayCV/scoop-cvp
 peid.json,SayCV/scoop-cvp
 wifi-direct-legacy-ap-plus.json,SayCV/scoop-cvp
 qcadcam.json,SayCV/scoop-cvp
+linkscope.json,SayCV/scoop-cvp
 zxhn-f610gv9-crcv.json,SayCV/scoop-cvp
 hqfpga.json,SayCV/scoop-cvp
 transcend-ssdscope.json,SayCV/scoop-cvp
@@ -12337,6 +12337,7 @@ sourcecodepro.json,KnotUntied/scoop-fonts
 iawritermono.json,KnotUntied/scoop-fonts
 hubotsans.json,KnotUntied/scoop-fonts
 juliamono-latin.json,KnotUntied/scoop-fonts
+monaspacexenon.json,KnotUntied/scoop-fonts
 spacegrotesk.json,KnotUntied/scoop-fonts
 iosevka-ss11.json,KnotUntied/scoop-fonts
 dejavusanscode.json,KnotUntied/scoop-fonts
@@ -12367,6 +12368,7 @@ recmono-semicasual.json,KnotUntied/scoop-fonts
 officecodepro-d.json,KnotUntied/scoop-fonts
 cascadiacode-italic.json,KnotUntied/scoop-fonts
 iosevka-ss08.json,KnotUntied/scoop-fonts
+monaspaceneon.json,KnotUntied/scoop-fonts
 iosevka-ss03.json,KnotUntied/scoop-fonts
 dejavusansmono-lgc.json,KnotUntied/scoop-fonts
 leaguemono.json,KnotUntied/scoop-fonts
@@ -12388,6 +12390,7 @@ whoismono.json,KnotUntied/scoop-fonts
 writer.json,KnotUntied/scoop-fonts
 leaguemono-variable_KnotUntied.json,KnotUntied/scoop-fonts
 cascadiacode-all.json,KnotUntied/scoop-fonts
+monaspaceradon.json,KnotUntied/scoop-fonts
 notosansmono.json,KnotUntied/scoop-fonts
 fairfaxserif.json,KnotUntied/scoop-fonts
 iosevka-ss05.json,KnotUntied/scoop-fonts
@@ -12414,6 +12417,7 @@ iosevka-ss14.json,KnotUntied/scoop-fonts
 sometypemono.json,KnotUntied/scoop-fonts
 cascadiamono-italic-static.json,KnotUntied/scoop-fonts
 gomono.json,KnotUntied/scoop-fonts
+monaspaceargon.json,KnotUntied/scoop-fonts
 iosevka-ss15.json,KnotUntied/scoop-fonts
 ubuntu.json,KnotUntied/scoop-fonts
 cascadiacode-pl-italic-static.json,KnotUntied/scoop-fonts
@@ -12423,6 +12427,7 @@ firacode_KnotUntied.json,KnotUntied/scoop-fonts
 fairfax-sm.json,KnotUntied/scoop-fonts
 victormono.json,KnotUntied/scoop-fonts
 iosevka-ss07.json,KnotUntied/scoop-fonts
+monaspacekrypton.json,KnotUntied/scoop-fonts
 fantasquesansmono-nlk.json,KnotUntied/scoop-fonts
 mononoki.json,KnotUntied/scoop-fonts
 fragment-mono.json,KnotUntied/scoop-fonts
