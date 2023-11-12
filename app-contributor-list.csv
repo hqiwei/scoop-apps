@@ -243,6 +243,7 @@ dev-sidecar.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
 Edge-Webdriver-Stable.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
+cygwin-libs-hentai.json,Weidows-projects/scoop-3rd
 wutils.json,Weidows-projects/scoop-3rd
 webbrain.json,Weidows-projects/scoop-3rd
 git-all.json,Weidows-projects/scoop-3rd
@@ -1239,7 +1240,7 @@ obsidian_ScoopInstaller.json,ScoopInstaller/Extras
 gitahead.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
 ubports-installer.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 alacritty.json,ScoopInstaller/Extras
 msiafterburner.json,ScoopInstaller/Extras
 kotatogram.json,ScoopInstaller/Extras
@@ -4505,7 +4506,7 @@ firefox-tete009.json,kidonng/sushi
 cpeditor-beta.json,kidonng/sushi
 wnr.json,kidonng/sushi
 qv2ray-plugin-ss.json,kidonng/sushi
-browsinghistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+browsinghistoryview.json,ScoopInstaller/Nirsoft
 monitorinfoview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 credentialsfileview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 browserdownloadsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -6372,6 +6373,7 @@ FixWin10-Portable.json,ACooper81/scoop-apps
 AutoHotkey2-UserInstall.json,ACooper81/scoop-apps
 OpenHAB-Portable.json,ACooper81/scoop-apps
 TidalMediaDownloaderPro-Portable.json,ACooper81/scoop-apps
+RaiDrive-Portable.json,ACooper81/scoop-apps
 NetworkDriveControl-ManualInstall.json,ACooper81/scoop-apps
 VirtualBox-Extension-Pack-Install.json,ACooper81/scoop-apps
 AppFlowy-Portable.json,ACooper81/scoop-apps
@@ -6497,6 +6499,7 @@ SordumRunAsTool-Portable.json,ACooper81/scoop-apps
 MicrosoftOneDriveInsiders-UserInstall.json,ACooper81/scoop-apps
 HueSync-Portable.json,ACooper81/scoop-apps
 Database.NET-Portable.json,ACooper81/scoop-apps
+iDrive-Install.json,ACooper81/scoop-apps
 AdobeCreativeCloudPreW10-ManualInstall.json,ACooper81/scoop-apps
 Caffeine-Portable.json,ACooper81/scoop-apps
 dsqCLI-Portable.json,ACooper81/scoop-apps
@@ -6682,6 +6685,7 @@ TransmissionRemoteGUI-Portable.json,ACooper81/scoop-apps
 WinSCP-Portable.json,ACooper81/scoop-apps
 MediaCreationTool-Portable.json,ACooper81/scoop-apps
 LuxCLI-Portable.json,ACooper81/scoop-apps
+VirtualBoxGuestAdditions-Install.json,ACooper81/scoop-apps
 JellyfinMpvShim-Portable.json,ACooper81/scoop-apps
 PSGen-Portable.json,ACooper81/scoop-apps
 SUMo-Portable.json,ACooper81/scoop-apps
@@ -7132,8 +7136,8 @@ duckstation_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -7168,7 +7172,7 @@ vita3k_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-ryujinx-ava.json,borger/scoop-emulators
+ryujinx-ava_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
@@ -8278,7 +8282,6 @@ unzip_akirco.json,akirco/aki-apps
 apache_akirco.json,akirco/aki-apps
 ShadowsocksR_akirco.json,akirco/aki-apps
 vcredist2013_akirco.json,akirco/aki-apps
-obs-studio_akirco.json,akirco/aki-apps
 aria2_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
@@ -9562,7 +9565,7 @@ litespeedtest.json,DoveBoy/Apps
 gnirehtet_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
 dingtalk_DoveBoy.json,DoveBoy/Apps
-obs-studio-pre_DoveBoy.json,DoveBoy/Apps
+obs-studio-pre.json,DoveBoy/Apps
 upscayl_DoveBoy.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
 etcher-portable.json,DoveBoy/Apps
@@ -9735,7 +9738,7 @@ ffmpeg_DoveBoy.json,DoveBoy/Apps
 clashsinicizationtool.json,DoveBoy/Apps
 reqable.json,DoveBoy/Apps
 scoop-tab-completion.json,DoveBoy/Apps
-neovim-nightly_DoveBoy.json,DoveBoy/Apps
+neovim-nightly.json,DoveBoy/Apps
 1remote_DoveBoy.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 sumatrapdf-installer_DoveBoy.json,DoveBoy/Apps
@@ -9772,7 +9775,7 @@ posh-maven.json,DoveBoy/Apps
 everything-beta_DoveBoy.json,DoveBoy/Apps
 v2raya-git.json,DoveBoy/Apps
 dust_DoveBoy.json,DoveBoy/Apps
-http-downloader_DoveBoy.json,DoveBoy/Apps
+http-downloader.json,DoveBoy/Apps
 audio-share.json,DoveBoy/Apps
 chatall.json,DoveBoy/Apps
 bili-cli-rs.json,DoveBoy/Apps
@@ -11061,6 +11064,7 @@ technorino-qt5.json,brian6932/dank-scoop
 qbittorrent-nightly-lean.json,brian6932/dank-scoop
 technorino.json,brian6932/dank-scoop
 memo.json,brian6932/dank-scoop
+libjpeg-turbo.json,brian6932/dank-scoop
 cotp.json,brian6932/dank-scoop
 minify-js.json,brian6932/dank-scoop
 dankerino.json,brian6932/dank-scoop
@@ -11132,6 +11136,7 @@ chatterino-portable-qt5.json,brian6932/dank-scoop
 luminous-ttv.json,brian6932/dank-scoop
 trackselect.json,brian6932/dank-scoop
 chatterino-portable.json,brian6932/dank-scoop
+libusb.json,brian6932/dank-scoop
 chatterino7-portable-qt5.json,brian6932/dank-scoop
 mpv-persist-properties.json,brian6932/dank-scoop
 OpenHashTab_brian6932.json,brian6932/dank-scoop
@@ -11156,6 +11161,7 @@ gif2apng-cli.json,brian6932/dank-scoop
 gameboosthd_brian6932.json,brian6932/dank-scoop
 jsoncomma.json,brian6932/dank-scoop
 qbittorrent-nightly-lean-libtorrentv1.json,brian6932/dank-scoop
+glfw.json,brian6932/dank-scoop
 bcd.json,brian6932/dank-scoop
 vtm.json,brian6932/dank-scoop
 tegrarcmgui.json,brian6932/dank-scoop
@@ -11244,6 +11250,7 @@ muffet.json,aliesbelik/poldi
 taplo_aliesbelik.json,aliesbelik/poldi
 goku-bench.json,aliesbelik/poldi
 ghz.json,aliesbelik/poldi
+ttdl.json,aliesbelik/poldi
 xq_aliesbelik.json,aliesbelik/poldi
 hq.json,aliesbelik/poldi
 gojq_aliesbelik.json,aliesbelik/poldi
@@ -12496,7 +12503,7 @@ apfs.json,beerpiss/scoop-bucket
 windowstoolbox-head.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 scoop-search_beerpiss.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 ib-en.json,beerpiss/scoop-bucket
 sound-of-sorting.json,beerpiss/scoop-bucket
 ariang-native_beerpiss.json,beerpiss/scoop-bucket
