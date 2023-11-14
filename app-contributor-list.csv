@@ -5517,7 +5517,7 @@ btrace.json,hoilc/scoop-lemon
 stable-diffusion-prompt-reader.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
 heroic.json,hoilc/scoop-lemon
-balabolka_hoilc.json,hoilc/scoop-lemon
+balabolka.json,hoilc/scoop-lemon
 vtfedit-reloaded.json,hoilc/scoop-lemon
 zmeter.json,hoilc/scoop-lemon
 ark-pixel-font-10px-monospaced.json,hoilc/scoop-lemon
@@ -5982,7 +5982,7 @@ winxcorners.json,Paxxs/Cluttered-bucket
 logseq_Paxxs.json,Paxxs/Cluttered-bucket
 UAC.HashTab.json,Paxxs/Cluttered-bucket
 Aida64-Ex.json,Paxxs/Cluttered-bucket
-dotnet-desktop-runtime_Paxxs.json,Paxxs/Cluttered-bucket
+dotnet-desktop-runtime.json,Paxxs/Cluttered-bucket
 ProjectEye.json,Paxxs/Cluttered-bucket
 bingdian.json,Paxxs/Cluttered-bucket
 UAC.EverythingToolbar.json,Paxxs/Cluttered-bucket
@@ -6893,7 +6893,6 @@ teamviewer-np.json,ScoopInstaller/Nonportable
 workman-p-uk-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 encodegui-np.json,ScoopInstaller/Nonportable
 mullvadvpn-np.json,ScoopInstaller/Nonportable
-sql-server-management-studio-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vpnc-front-end-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 wireguard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 qttabbar-indiff-np.json,ScoopInstaller/Nonportable
@@ -7144,7 +7143,7 @@ ryujinx.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
@@ -7165,7 +7164,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -9440,11 +9439,13 @@ umi-ocr_DoveBoy.json,DoveBoy/Apps
 crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 unblockneteasemusic-git.json,DoveBoy/Apps
 wechatvideodownloader.json,DoveBoy/Apps
+picpick.json,DoveBoy/Apps
 neteaseuu_DoveBoy.json,DoveBoy/Apps
 scoop-search-shilangyu.json,DoveBoy/Apps
 spleetergui-portable_DoveBoy.json,DoveBoy/Apps
 hitomi-downloader_DoveBoy.json,DoveBoy/Apps
 mediacreationtool-bat.json,DoveBoy/Apps
+deeplx_DoveBoy.json,DoveBoy/Apps
 opensearcher.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 wtv.json,DoveBoy/Apps
@@ -9500,6 +9501,7 @@ blockthespot_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 vim_DoveBoy.json,DoveBoy/Apps
 ama.json,DoveBoy/Apps
+chromedriver-canary.json,DoveBoy/Apps
 heu-kms-activator.json,DoveBoy/Apps
 npm-tab-completion.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
@@ -9559,7 +9561,7 @@ auto-unlocker.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 pytranscriber.json,DoveBoy/Apps
-chatbox.json,DoveBoy/Apps
+chatbox_DoveBoy.json,DoveBoy/Apps
 qrcp_DoveBoy.json,DoveBoy/Apps
 powerline-go_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
@@ -9575,11 +9577,13 @@ etcher-portable.json,DoveBoy/Apps
 typora-plugin.json,DoveBoy/Apps
 naiveproxy_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
+watttoolkit.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
 optimizer.json,DoveBoy/Apps
 gsudo_DoveBoy.json,DoveBoy/Apps
 betterncm_DoveBoy.json,DoveBoy/Apps
+hwinfo_DoveBoy.json,DoveBoy/Apps
 whisper-cpp-blas.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
 nali_DoveBoy.json,DoveBoy/Apps
@@ -9622,6 +9626,7 @@ everything-alpha_DoveBoy.json,DoveBoy/Apps
 doc-downloader.json,DoveBoy/Apps
 pixiv-omina.json,DoveBoy/Apps
 book-searcher-desktop.json,DoveBoy/Apps
+watttoolkit-beta.json,DoveBoy/Apps
 autoruns_DoveBoy.json,DoveBoy/Apps
 typora_DoveBoy.json,DoveBoy/Apps
 scrcpy_DoveBoy.json,DoveBoy/Apps
@@ -11068,6 +11073,7 @@ technorino.json,brian6932/dank-scoop
 memo.json,brian6932/dank-scoop
 libjpeg-turbo.json,brian6932/dank-scoop
 cotp.json,brian6932/dank-scoop
+winbtrfs.json,brian6932/dank-scoop
 minify-js.json,brian6932/dank-scoop
 dankerino.json,brian6932/dank-scoop
 thumbfast.json,brian6932/dank-scoop
