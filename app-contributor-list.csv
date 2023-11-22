@@ -980,7 +980,7 @@ mullvad-browser.json,ScoopInstaller/Extras
 depends.json,ScoopInstaller/Extras
 hibit-uninstaller.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 bgpkiller.json,ScoopInstaller/Extras
 musique.json,ScoopInstaller/Extras
@@ -1720,7 +1720,7 @@ psiphon3.json,ScoopInstaller/Extras
 boostnote-local.json,ScoopInstaller/Extras
 jabref.json,ScoopInstaller/Extras
 openelement.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 streamdeck.json,ScoopInstaller/Extras
 vlc.json,ScoopInstaller/Extras
 goldendict.json,ScoopInstaller/Extras
@@ -2240,7 +2240,7 @@ justcolorpicker.json,chawyehsu/dorado
 rustup-msvc-np.json,chawyehsu/dorado
 trezor-suite.json,chawyehsu/dorado
 dotnet-install.json,chawyehsu/dorado
-wechatwork_chawyehsu.json,chawyehsu/dorado
+wechatwork.json,chawyehsu/dorado
 wechat-np.json,chawyehsu/dorado
 ali-miniprogram-studio.json,chawyehsu/dorado
 beyondcompare-zh-cn.json,chawyehsu/dorado
@@ -2501,13 +2501,13 @@ clash-for-windows-np.json,chawyehsu/dorado
 pandownload_chawyehsu.json,chawyehsu/dorado
 translucenttb_chawyehsu.json,chawyehsu/dorado
 tcping_chawyehsu.json,chawyehsu/dorado
+winlibs-mingw-msvcrt-mcf-snapshot.json,chawyehsu/dorado
 anaconda2.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
 scoop-completion_chawyehsu.json,chawyehsu/dorado
 figma_chawyehsu.json,chawyehsu/dorado
 dotnet-desktop-runtime.json,chawyehsu/dorado
 dzclient.json,chawyehsu/dorado
-winlibs-mingw-snapshot-msvcrt-posix.json,chawyehsu/dorado
 clash-verge_chawyehsu.json,chawyehsu/dorado
 netch_chawyehsu.json,chawyehsu/dorado
 trojan-qt5.json,chawyehsu/dorado
@@ -2852,7 +2852,7 @@ utools_ivaquero.json,ivaquero/scoopet
 reader.json,ivaquero/scoopet
 viber.json,ivaquero/scoopet
 texstudio-cn.json,ivaquero/scoopet
-wechatwork.json,ivaquero/scoopet
+wechatwork_ivaquero.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
@@ -4551,7 +4551,7 @@ urlstringgrabber_ScoopInstaller.json,ScoopInstaller/Nirsoft
 strun.json,ScoopInstaller/Nirsoft
 videocacheview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 installedpackagesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-pinginfoview.json,ScoopInstaller/Nirsoft
+pinginfoview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 webcacheimageinfo_ScoopInstaller.json,ScoopInstaller/Nirsoft
 ntfslinksview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 windeflogview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -4743,7 +4743,7 @@ gdiview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 outlookaccountsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 whoiscl_ScoopInstaller.json,ScoopInstaller/Nirsoft
 sysexp.json,ScoopInstaller/Nirsoft
-dataprotectiondecryptor.json,ScoopInstaller/Nirsoft
+dataprotectiondecryptor_ScoopInstaller.json,ScoopInstaller/Nirsoft
 shman.json,ScoopInstaller/Nirsoft
 hostednetworkstarter_ScoopInstaller.json,ScoopInstaller/Nirsoft
 productkeyscanner_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -4758,7 +4758,7 @@ lsasecretsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 livecontactsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 winlogonview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 uninstallview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-chromehistoryview.json,ScoopInstaller/Nirsoft
+chromehistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 networkusageview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 simpleprogramdebugger_ScoopInstaller.json,ScoopInstaller/Nirsoft
 bluescreenview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -4773,7 +4773,7 @@ guipropview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 browsertools.json,ScoopInstaller/Nirsoft
 soundvolumeview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 jumplistsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-extpassword.json,ScoopInstaller/Nirsoft
+extpassword_ScoopInstaller.json,ScoopInstaller/Nirsoft
 volumouse_ScoopInstaller.json,ScoopInstaller/Nirsoft
 networkcounterswatch_ScoopInstaller.json,ScoopInstaller/Nirsoft
 securityquestionsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -4799,7 +4799,7 @@ taskschedulerview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 websitesniffer_ScoopInstaller.json,ScoopInstaller/Nirsoft
 operapassview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 eventlogchannelsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-browsinghistoryview.json,ScoopInstaller/Nirsoft
+browsinghistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 systools.json,ScoopInstaller/Nirsoft
 videoaudiotools.json,ScoopInstaller/Nirsoft
 shexview.json,ScoopInstaller/Nirsoft
@@ -7186,7 +7186,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
@@ -8360,6 +8360,7 @@ wrangler_akirco.json,akirco/aki-apps
 pure-live.json,akirco/aki-apps
 glow_akirco.json,akirco/aki-apps
 nvs_akirco.json,akirco/aki-apps
+jianyingpro_akirco.json,akirco/aki-apps
 powertoys_akirco.json,akirco/aki-apps
 redis-desktop-manager_akirco.json,akirco/aki-apps
 fl980.json,akirco/aki-apps
@@ -8457,7 +8458,7 @@ BaiduNetdisk_akirco.json,akirco/aki-apps
 pastel_akirco.json,akirco/aki-apps
 alipan.json,akirco/aki-apps
 zoom_akirco.json,akirco/aki-apps
-bilibili-livehime.json,akirco/aki-apps
+bilibili-livehime_akirco.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
 vcredist2019.json,akirco/aki-apps
 innounp_akirco.json,akirco/aki-apps
@@ -8562,7 +8563,7 @@ cosbrowser_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
 gallery-dl_akirco.json,akirco/aki-apps
 git_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 psutils_akirco.json,akirco/aki-apps
 dark_akirco.json,akirco/aki-apps
 netch_akirco.json,akirco/aki-apps
@@ -8611,7 +8612,7 @@ pidkey.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
 xpoc.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 pot_ViCrack.json,ViCrack/scoop-bucket
 sliver_ViCrack.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
@@ -8708,7 +8709,7 @@ zabbix-agent.json,wzv5/ScoopBucket
 regex-tool.json,wzv5/ScoopBucket
 neteasemusic_wzv5.json,wzv5/ScoopBucket
 douyu.json,wzv5/ScoopBucket
-nattypetester_wzv5.json,wzv5/ScoopBucket
+nattypetester.json,wzv5/ScoopBucket
 inno-setup_wzv5.json,wzv5/ScoopBucket
 qqmusic_wzv5.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
@@ -9615,7 +9616,7 @@ opensearcher-win7.json,DoveBoy/Apps
 ffmpeg-shared_DoveBoy.json,DoveBoy/Apps
 diskgeniuslite-zh.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
-sharex-dev.json,DoveBoy/Apps
+sharex-dev_DoveBoy.json,DoveBoy/Apps
 quardcrt.json,DoveBoy/Apps
 mpvconfigurator.json,DoveBoy/Apps
 openssl_DoveBoy.json,DoveBoy/Apps
@@ -9749,7 +9750,7 @@ emeditor_DoveBoy.json,DoveBoy/Apps
 keymousego.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
-saber.json,DoveBoy/Apps
+saber_DoveBoy.json,DoveBoy/Apps
 mgtv.json,DoveBoy/Apps
 inkscape_DoveBoy.json,DoveBoy/Apps
 monit.json,DoveBoy/Apps
@@ -9783,7 +9784,6 @@ typora-plugin.json,DoveBoy/Apps
 sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 droppoint_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
-chromedriver-canary.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
@@ -9924,7 +9924,7 @@ reqable-beta.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
-handbrake_DoveBoy.json,DoveBoy/Apps
+handbrake.json,DoveBoy/Apps
 go-musicfox.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 ss.json,DoveBoy/Apps
@@ -11861,7 +11861,7 @@ mpg123_littleli.json,littleli/Scoop-littleli
 csvdiff.json,littleli/Scoop-littleli
 immuclient.json,littleli/Scoop-littleli
 zecwallet-cli.json,littleli/Scoop-littleli
-llvm-mingw_littleli.json,littleli/Scoop-littleli
+llvm-mingw.json,littleli/Scoop-littleli
 tokio-console.json,littleli/Scoop-littleli
 csvq_littleli.json,littleli/Scoop-littleli
 7800basic.json,littleli/Scoop-littleli
