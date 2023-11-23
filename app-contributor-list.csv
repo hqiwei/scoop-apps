@@ -980,7 +980,7 @@ mullvad-browser.json,ScoopInstaller/Extras
 depends.json,ScoopInstaller/Extras
 hibit-uninstaller.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 bgpkiller.json,ScoopInstaller/Extras
 musique.json,ScoopInstaller/Extras
@@ -2240,7 +2240,7 @@ justcolorpicker.json,chawyehsu/dorado
 rustup-msvc-np.json,chawyehsu/dorado
 trezor-suite.json,chawyehsu/dorado
 dotnet-install.json,chawyehsu/dorado
-wechatwork.json,chawyehsu/dorado
+wechatwork_chawyehsu.json,chawyehsu/dorado
 wechat-np.json,chawyehsu/dorado
 ali-miniprogram-studio.json,chawyehsu/dorado
 beyondcompare-zh-cn.json,chawyehsu/dorado
@@ -4740,7 +4740,7 @@ skypecontactsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 socketsniff_ScoopInstaller.json,ScoopInstaller/Nirsoft
 domainlookuptools.json,ScoopInstaller/Nirsoft
 gdiview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-outlookaccountsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+outlookaccountsview.json,ScoopInstaller/Nirsoft
 whoiscl_ScoopInstaller.json,ScoopInstaller/Nirsoft
 sysexp.json,ScoopInstaller/Nirsoft
 dataprotectiondecryptor_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5327,6 +5327,7 @@ step.json,hoilc/scoop-lemon
 postgres_exporter.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
+moonbit.json,hoilc/scoop-lemon
 risoheditor.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
 cleanwechatx.json,hoilc/scoop-lemon
@@ -6098,7 +6099,7 @@ typora_echoiron.json,echoiron/echo-scoop
 emeditor.json,echoiron/echo-scoop
 hdtune.json,echoiron/echo-scoop
 coodesker.json,echoiron/echo-scoop
-ccleaner.json,echoiron/echo-scoop
+ccleaner_echoiron.json,echoiron/echo-scoop
 115.json,echoiron/echo-scoop
 4kvideodownloader.json,echoiron/echo-scoop
 tencentmeeting.json,echoiron/echo-scoop
@@ -6327,6 +6328,7 @@ Blender-Portable.json,ACooper81/scoop-apps
 FluentSearch-Portable.json,ACooper81/scoop-apps
 Audacity-Portable.json,ACooper81/scoop-apps
 AdobeCreativeCloudCleanerToolCLI-Portable.json,ACooper81/scoop-apps
+IObitSoftwareUpdater-Portable.json,ACooper81/scoop-apps
 balenaEtcher-Portable.json,ACooper81/scoop-apps
 DevToys-Install.json,ACooper81/scoop-apps
 UniversalWatermarkDisabler-Portable.json,ACooper81/scoop-apps
@@ -6704,6 +6706,7 @@ DNSProxyCLI-Portable.json,ACooper81/scoop-apps
 SrvStart-Portable.json,ACooper81/scoop-apps
 JunkCtrl-Portable.json,ACooper81/scoop-apps
 AquaSnap-Portable.json,ACooper81/scoop-apps
+UpdateHub-Portable.json,ACooper81/scoop-apps
 CuteHttpFileServerGUI-Portable.json,ACooper81/scoop-apps
 WebCatalog-Portable.json,ACooper81/scoop-apps
 Coodesker-Portable.json,ACooper81/scoop-apps
@@ -7223,7 +7226,7 @@ dolphin_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 HtmlDocEdit_dodorz.json,dodorz/scoop
 TiddlyDesktop.json,dodorz/scoop
@@ -8325,6 +8328,7 @@ koodo-reader_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
 nircmd_akirco.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
+youtubedownloader.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 PowerSession_akirco.json,akirco/aki-apps
 dp.json,akirco/aki-apps
@@ -8382,7 +8386,7 @@ windows11manager.json,akirco/aki-apps
 musicfox.json,akirco/aki-apps
 bob.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 kate_akirco.json,akirco/aki-apps
 draw.io_akirco.json,akirco/aki-apps
 yuque_akirco.json,akirco/aki-apps
@@ -8462,7 +8466,7 @@ bilibili-livehime_akirco.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
 vcredist2019.json,akirco/aki-apps
 innounp_akirco.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 xzvoice.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 xming_akirco.json,akirco/aki-apps
@@ -8612,7 +8616,7 @@ pidkey.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
 xpoc.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 pot_ViCrack.json,ViCrack/scoop-bucket
 sliver_ViCrack.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
@@ -9315,6 +9319,7 @@ ArctimePro.json,ygguorun/scoop-bucket
 ClashXW.json,ygguorun/scoop-bucket
 DDMonitor.json,ygguorun/scoop-bucket
 neo4j-community.json,ygguorun/scoop-bucket
+duplicate-searcher.json,ygguorun/scoop-bucket
 netflix-verify.json,ygguorun/scoop-bucket
 DotNetVersions.json,ygguorun/scoop-bucket
 AxMath.json,ygguorun/scoop-bucket
@@ -9784,6 +9789,7 @@ typora-plugin.json,DoveBoy/Apps
 sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 droppoint_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
+chromedriver-canary.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
@@ -9924,7 +9930,7 @@ reqable-beta.json,DoveBoy/Apps
 joplin_DoveBoy.json,DoveBoy/Apps
 idcard-generator.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
-handbrake.json,DoveBoy/Apps
+handbrake_DoveBoy.json,DoveBoy/Apps
 go-musicfox.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 ss.json,DoveBoy/Apps
@@ -10835,7 +10841,7 @@ llvm_rivy.json,rivy/scoop-bucket
 task_rivy.json,rivy/scoop-bucket
 wget@1.21.1.json,rivy/scoop-bucket
 msys2@2022-09-04.json,rivy/scoop-bucket
-ghcup.json,rivy/scoop-bucket
+ghcup_rivy.json,rivy/scoop-bucket
 perl@5.28.json,rivy/scoop-bucket
 msys2@2018-05-31.json,rivy/scoop-bucket
 fnm@1.35.1.json,rivy/scoop-bucket
