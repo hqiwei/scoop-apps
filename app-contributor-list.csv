@@ -980,7 +980,7 @@ mullvad-browser.json,ScoopInstaller/Extras
 depends.json,ScoopInstaller/Extras
 hibit-uninstaller.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 bgpkiller.json,ScoopInstaller/Extras
 musique.json,ScoopInstaller/Extras
@@ -7204,7 +7204,7 @@ xenia-canary_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
@@ -8244,7 +8244,7 @@ Elasticsearch7.json,zhoujin7/tomato
 arthas_zhoujin7.json,zhoujin7/tomato
 HBuilderX-Full-Alpha.json,zhoujin7/tomato
 HBuilder.json,zhoujin7/tomato
-HBuilderX_zhoujin7.json,zhoujin7/tomato
+HBuilderX.json,zhoujin7/tomato
 OracleJDK8.json,zhoujin7/tomato
 notepadplusplus_zhoujin7.json,zhoujin7/tomato
 notepad--.json,zhoujin7/tomato
@@ -9307,6 +9307,7 @@ zyplayer.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
 winget-preview_DoveBoy.json,DoveBoy/Apps
 windows11-classic-context-menu_DoveBoy.json,DoveBoy/Apps
+openai-translator.json,DoveBoy/Apps
 v2rayn-core-with-runtime.json,DoveBoy/Apps
 bilibilitoolpro.json,DoveBoy/Apps
 sandboxie-classic.json,DoveBoy/Apps
@@ -9361,7 +9362,7 @@ reduce-memory_DoveBoy.json,DoveBoy/Apps
 gsudo_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
-neovim-nightly_DoveBoy.json,DoveBoy/Apps
+neovim-nightly.json,DoveBoy/Apps
 mpv.net_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
@@ -9406,7 +9407,7 @@ malware-patch.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 winget_DoveBoy.json,DoveBoy/Apps
 imagemagick_DoveBoy.json,DoveBoy/Apps
-min.json,DoveBoy/Apps
+min_DoveBoy.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
 onlyoffice-desktopeditors_DoveBoy.json,DoveBoy/Apps
 biliup-rs_DoveBoy.json,DoveBoy/Apps
@@ -9467,7 +9468,7 @@ emeditor_DoveBoy.json,DoveBoy/Apps
 keymousego.json,DoveBoy/Apps
 gh_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
-saber_DoveBoy.json,DoveBoy/Apps
+saber.json,DoveBoy/Apps
 mgtv.json,DoveBoy/Apps
 inkscape_DoveBoy.json,DoveBoy/Apps
 monit.json,DoveBoy/Apps
@@ -9591,7 +9592,7 @@ v2raya.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
 github_DoveBoy.json,DoveBoy/Apps
 joinersplitter.json,DoveBoy/Apps
-chatbox_DoveBoy.json,DoveBoy/Apps
+chatbox.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 ssrr-windows.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
