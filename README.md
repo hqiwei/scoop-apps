@@ -72,8 +72,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - hoilc/scoop-lemon
 - KNOXDEV/wsl
 - Paxxs/Cluttered-bucket
-- echoiron/echo-scoop
 - ACooper81/scoop-apps
+- echoiron/echo-scoop
 - ScoopInstaller/Nonportable
 - cderv/r-bucket
 - hermanjustnu/scoop-emulators
