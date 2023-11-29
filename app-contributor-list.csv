@@ -283,6 +283,7 @@ DevEco-Studio.json,Weidows-projects/scoop-3rd
 UmaAi.json,Weidows-projects/scoop-3rd
 MyJoy.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
+xiangtian-workbench.json,Weidows-projects/scoop-3rd
 thief.json,Weidows-projects/scoop-3rd
 YoudaoDict-portable.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
@@ -980,7 +981,7 @@ mullvad-browser.json,ScoopInstaller/Extras
 depends.json,ScoopInstaller/Extras
 hibit-uninstaller.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 bgpkiller.json,ScoopInstaller/Extras
 musique.json,ScoopInstaller/Extras
@@ -4695,7 +4696,7 @@ gdiview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 outlookaccountsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 whoiscl_ScoopInstaller.json,ScoopInstaller/Nirsoft
 sysexp.json,ScoopInstaller/Nirsoft
-dataprotectiondecryptor_ScoopInstaller.json,ScoopInstaller/Nirsoft
+dataprotectiondecryptor.json,ScoopInstaller/Nirsoft
 shman.json,ScoopInstaller/Nirsoft
 hostednetworkstarter_ScoopInstaller.json,ScoopInstaller/Nirsoft
 productkeyscanner_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -4893,7 +4894,7 @@ transfer.json,arch3rPro/PST-Bucket
 wub.json,arch3rPro/PST-Bucket
 w3cschool.json,arch3rPro/PST-Bucket
 finalshell.json,arch3rPro/PST-Bucket
-FlowUs_arch3rPro.json,arch3rPro/PST-Bucket
+FlowUs.json,arch3rPro/PST-Bucket
 confuserex-cli.json,arch3rPro/PST-Bucket
 xunlei.json,arch3rPro/PST-Bucket
 igdm_arch3rPro.json,arch3rPro/PST-Bucket
@@ -7222,7 +7223,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 citra-canary_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
@@ -7250,7 +7251,7 @@ dolphin_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 HtmlDocEdit_dodorz.json,dodorz/scoop
 TiddlyDesktop.json,dodorz/scoop
@@ -7391,6 +7392,7 @@ wimlib_dodorz.json,dodorz/scoop
 Koodo-Reader_dodorz.json,dodorz/scoop
 Masterway.json,dodorz/scoop
 RuckZuck.json,dodorz/scoop
+Umi-OCR-All-Language.json,dodorz/scoop
 ExcelCompare.json,dodorz/scoop
 OORegEditor.json,dodorz/scoop
 WordGrinder.json,dodorz/scoop
@@ -7563,6 +7565,7 @@ AdvanceCOMP.json,dodorz/scoop
 Oggenc.json,dodorz/scoop
 Zim.json,dodorz/scoop
 Github-CLI.json,dodorz/scoop
+Umi-OCR-DLC-Language.json,dodorz/scoop
 Notation.json,dodorz/scoop
 Clash-for-Windows_dodorz.json,dodorz/scoop
 libav.json,dodorz/scoop
@@ -8483,7 +8486,6 @@ unzip_akirco.json,akirco/aki-apps
 github_akirco.json,akirco/aki-apps
 gof_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
-electron-fiddle.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 winxray_akirco.json,akirco/aki-apps
@@ -8557,7 +8559,7 @@ linear-desktop.json,akirco/aki-apps
 jabba_akirco.json,akirco/aki-apps
 wp-cli_akirco.json,akirco/aki-apps
 easywsl.json,akirco/aki-apps
-dvm_akirco.json,akirco/aki-apps
+dvm.json,akirco/aki-apps
 qqmusic_akirco.json,akirco/aki-apps
 youtube-dl_akirco.json,akirco/aki-apps
 apache_akirco.json,akirco/aki-apps
@@ -8625,7 +8627,7 @@ pidkey.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
 xpoc.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
-apifox_ViCrack.json,ViCrack/scoop-bucket
+apifox.json,ViCrack/scoop-bucket
 pot_ViCrack.json,ViCrack/scoop-bucket
 sliver_ViCrack.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
@@ -9309,7 +9311,6 @@ clashxw.json,DoveBoy/Apps
 xray_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 winmemorycleaner_DoveBoy.json,DoveBoy/Apps
-marktext_DoveBoy.json,DoveBoy/Apps
 zyplayer.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
 winget-preview_DoveBoy.json,DoveBoy/Apps
@@ -9367,7 +9368,7 @@ reduce-memory_DoveBoy.json,DoveBoy/Apps
 gsudo_DoveBoy.json,DoveBoy/Apps
 gpg_DoveBoy.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
-neovim-nightly_DoveBoy.json,DoveBoy/Apps
+neovim-nightly.json,DoveBoy/Apps
 mpv.net_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
@@ -9520,7 +9521,6 @@ trafficmonitor_DoveBoy.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
 lanzouyun-disk.json,DoveBoy/Apps
 tai.json,DoveBoy/Apps
-imageglass_DoveBoy.json,DoveBoy/Apps
 runastool_DoveBoy.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-cli_DoveBoy.json,DoveBoy/Apps
@@ -9666,7 +9666,6 @@ deoldify-net.json,DoveBoy/Apps
 q-dns_DoveBoy.json,DoveBoy/Apps
 sniproxy.json,DoveBoy/Apps
 wechat-backup.json,DoveBoy/Apps
-ddu_DoveBoy.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
@@ -9770,7 +9769,6 @@ cloc_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
 everything_DoveBoy.json,DoveBoy/Apps
 obs-studio-pre.json,DoveBoy/Apps
-audacity_DoveBoy.json,DoveBoy/Apps
 yesplaymusic_DoveBoy.json,DoveBoy/Apps
 gitextensions_DoveBoy.json,DoveBoy/Apps
 jq_DoveBoy.json,DoveBoy/Apps
@@ -12338,6 +12336,7 @@ ntlite.json,Zliced13/MyScoop
 tidal_Zliced13.json,Zliced13/MyScoop
 clawpdf-np.json,Zliced13/MyScoop
 touch-designer.json,Zliced13/MyScoop
+mysql-shell.json,Zliced13/MyScoop
 tabula-java.json,Zliced13/MyScoop
 voxedit.json,Zliced13/MyScoop
 event-log-explorer.json,Zliced13/MyScoop
@@ -12637,7 +12636,7 @@ ntlite_beerpiss.json,beerpiss/scoop-bucket
 apfs.json,beerpiss/scoop-bucket
 ntfs2btrfs_beerpiss.json,beerpiss/scoop-bucket
 thewitchshouse-en.json,beerpiss/scoop-bucket
-microsoftedge_beerpiss.json,beerpiss/scoop-bucket
+microsoftedge.json,beerpiss/scoop-bucket
 oneko.json,beerpiss/scoop-bucket
 scoop-search_beerpiss.json,beerpiss/scoop-bucket
 miru_beerpiss.json,beerpiss/scoop-bucket
