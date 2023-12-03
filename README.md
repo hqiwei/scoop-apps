@@ -67,8 +67,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - rasa/scoops
 - kidonng/sushi
 - ScoopInstaller/Nirsoft
-- scoopcn/scoopcn
 - arch3rPro/PST-Bucket
+- scoopcn/scoopcn
 - hoilc/scoop-lemon
 - KNOXDEV/wsl
 - Paxxs/Cluttered-bucket
@@ -79,8 +79,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - hermanjustnu/scoop-emulators
 - couleur-tweak-tips/utils
 - everyx/scoop-bucket
-- Qv2ray/mochi
 - borger/scoop-emulators
+- Qv2ray/mochi
 - dodorz/scoop
 - TheRandomLabs/Scoop-Bucket
 - ZvonimirSun/scoop-iszy
