@@ -981,7 +981,7 @@ mullvad-browser.json,ScoopInstaller/Extras
 depends.json,ScoopInstaller/Extras
 hibit-uninstaller.json,ScoopInstaller/Extras
 mp3tag.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 vcredist-aio.json,ScoopInstaller/Extras
 bgpkiller.json,ScoopInstaller/Extras
 musique.json,ScoopInstaller/Extras
@@ -2360,6 +2360,7 @@ ftnn.json,chawyehsu/dorado
 triangula.json,chawyehsu/dorado
 lhmouse-gcc-mcf-snapshot-ucrt.json,chawyehsu/dorado
 clipber.json,chawyehsu/dorado
+bitcoinknots.json,chawyehsu/dorado
 lemon.json,chawyehsu/dorado
 famitracker.json,chawyehsu/dorado
 go-cn.json,chawyehsu/dorado
@@ -5594,6 +5595,7 @@ imgdrivelite.json,hoilc/scoop-lemon
 odbc2parquet.json,hoilc/scoop-lemon
 msmbps.json,hoilc/scoop-lemon
 quick-access-popup.json,hoilc/scoop-lemon
+amazon-ec2-metadata-mock.json,hoilc/scoop-lemon
 cleanmywechat.json,hoilc/scoop-lemon
 bleconsole.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
@@ -5615,7 +5617,7 @@ whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
 hap-viewer.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
 deck.json,hoilc/scoop-lemon
-perfview.json,hoilc/scoop-lemon
+perfview_hoilc.json,hoilc/scoop-lemon
 a5m2.json,hoilc/scoop-lemon
 dug.json,hoilc/scoop-lemon
 klog.json,hoilc/scoop-lemon
@@ -5742,6 +5744,7 @@ luaperfect.json,hoilc/scoop-lemon
 metabase.json,hoilc/scoop-lemon
 lamedropxpd.json,hoilc/scoop-lemon
 maxthon.json,hoilc/scoop-lemon
+aws-copilot-cli.json,hoilc/scoop-lemon
 whalebird.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 orange.json,hoilc/scoop-lemon
@@ -5865,6 +5868,7 @@ portx.json,hoilc/scoop-lemon
 lyricease.json,hoilc/scoop-lemon
 royalts.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
+amazon-ec2-instance-selector.json,hoilc/scoop-lemon
 3body-lang.json,hoilc/scoop-lemon
 flydav.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
@@ -7211,7 +7215,7 @@ dolphin-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
@@ -8504,7 +8508,6 @@ gof_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
 wget_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
-go-cn.json,akirco/aki-apps
 winxray_akirco.json,akirco/aki-apps
 nexusfont_akirco.json,akirco/aki-apps
 listen1desktop_akirco.json,akirco/aki-apps
@@ -8543,7 +8546,7 @@ fishingfunds.json,akirco/aki-apps
 svtplay-dl_akirco.json,akirco/aki-apps
 n-m3u8dl-cli_akirco.json,akirco/aki-apps
 dim2clear.json,akirco/aki-apps
-aliyundrive.json,akirco/aki-apps
+aliyundrive_akirco.json,akirco/aki-apps
 mysql57_akirco.json,akirco/aki-apps
 wegameMiniLoader.json,akirco/aki-apps
 gitomatic_akirco.json,akirco/aki-apps
@@ -8670,7 +8673,7 @@ pidkey.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
 xpoc.json,ViCrack/scoop-bucket
 notepad--_ViCrack.json,ViCrack/scoop-bucket
-apifox.json,ViCrack/scoop-bucket
+apifox_ViCrack.json,ViCrack/scoop-bucket
 pot_ViCrack.json,ViCrack/scoop-bucket
 sliver_ViCrack.json,ViCrack/scoop-bucket
 yakit_ViCrack.json,ViCrack/scoop-bucket
@@ -9337,6 +9340,7 @@ bilibilitoolpro.json,DoveBoy/Apps
 sandboxie-classic.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 r3play.json,DoveBoy/Apps
+bookget_DoveBoy.json,DoveBoy/Apps
 vivetool_DoveBoy.json,DoveBoy/Apps
 idm-activation-script.json,DoveBoy/Apps
 sandboxie-classic-np_DoveBoy.json,DoveBoy/Apps
@@ -9533,6 +9537,7 @@ typora-plugin.json,DoveBoy/Apps
 sandboxie-plus_DoveBoy.json,DoveBoy/Apps
 droppoint_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
+chromedriver-canary.json,DoveBoy/Apps
 microsoft-activation-scripts.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
 gping_DoveBoy.json,DoveBoy/Apps
@@ -9805,7 +9810,7 @@ dreamscene2.json,DoveBoy/Apps
 gnupg1_DoveBoy.json,DoveBoy/Apps
 clash-mini.json,DoveBoy/Apps
 qr_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 crystaldiskmark_DoveBoy.json,DoveBoy/Apps
 clashn-core.json,DoveBoy/Apps
 pdf-guru.json,DoveBoy/Apps
@@ -10113,7 +10118,6 @@ ungoogled-chromium-portable.json,hu3rror/scoop-muggle
 oh-my-posh_hu3rror.json,hu3rror/scoop-muggle
 b23downloader_hu3rror.json,hu3rror/scoop-muggle
 calibre-normal-cjk-patch.json,hu3rror/scoop-muggle
-foobar2000-asion-cn-plus.json,hu3rror/scoop-muggle
 chromium-dev-avx2-nosync.json,hu3rror/scoop-muggle
 exa.json,hu3rror/scoop-muggle
 calibre-cjk-patch.json,hu3rror/scoop-muggle
@@ -10659,7 +10663,7 @@ leanify.json,seumsc/scoop-seu
 rsgain.json,seumsc/scoop-seu
 usbeamhostseditor.json,seumsc/scoop-seu
 clash-verge_seumsc.json,seumsc/scoop-seu
-kook.json,seumsc/scoop-seu
+kook_seumsc.json,seumsc/scoop-seu
 cloudflare-speedtest.json,seumsc/scoop-seu
 dpeaklim.json,seumsc/scoop-seu
 lltskb.json,seumsc/scoop-seu
@@ -11266,6 +11270,7 @@ google-usb-driver.json,brian6932/dank-scoop
 testmem5-advanced.json,brian6932/dank-scoop
 minify-js.json,brian6932/dank-scoop
 auto-mode.json,brian6932/dank-scoop
+librespeed.json,brian6932/dank-scoop
 gif2apng-gui.json,brian6932/dank-scoop
 qttabbar-beta.json,brian6932/dank-scoop
 cache-monkey.json,brian6932/dank-scoop
@@ -11367,6 +11372,7 @@ ain.json,aliesbelik/poldi
 pingu.json,aliesbelik/poldi
 kafta.json,aliesbelik/poldi
 vegeta.json,aliesbelik/poldi
+assh.json,aliesbelik/poldi
 ghs.json,aliesbelik/poldi
 xurls.json,aliesbelik/poldi
 muffet.json,aliesbelik/poldi
