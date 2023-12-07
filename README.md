@@ -59,8 +59,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - TheRandomLabs/Scoop-Spotify
 - borger/scoop-galaxy-integrations
 - ScoopInstaller/Versions
-- TheRandomLabs/scoop-nonportable
 - TheCjw/scoop-retools
+- TheRandomLabs/scoop-nonportable
 - kodybrown/scoop-nirsoft
 - littleli/scoop-clojure
 - kkzzhizhou/scoop-zapps
@@ -108,6 +108,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - ChungZH/peach
 - starise/Scoop-Gaming
 - Velgus/Scoop-Portapps
+- starise/Scoop-Confetti
 - Weidows-projects/scoop-3rd
 - cc713/ownscoop
 - aoisummer/scoop-bucket
@@ -116,7 +117,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - brian6932/dank-scoop
 - aliesbelik/poldi
 - SayCV/scoop-cvp
-- starise/Scoop-Confetti
 - mo-san/scoop-bucket
 - AkariiinMKII/Scoop4kariiin
 - littleli/Scoop-littleli
