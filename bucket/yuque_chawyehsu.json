@@ -1,15 +1,15 @@
 {
     "homepage": "https://www.yuque.com/",
     "description": "Professional note and document repositories",
-    "version": "2.4.2.1017",
+    "version": "3.2.2.1107",
     "license": {
         "identifier": "EULA",
         "url": "https://www.yuque.com/terms"
     },
     "architecture": {
         "64bit": {
-            "url": "https://app.nlark.com/yuque-desktop/2.4.2.1017/Yuque-2.4.2.1017.exe#/Yuque_2.4.2.1017.7z",
-            "hash": "e3503d7f6f250b7347cf7a15d7247ea5ad1555222bd099e402ee3ecc86ff9f14",
+            "url": "https://app.nlark.com/yuque-desktop/3.2.2.1107/BJ8bc8b0ef27754326903612bc3fe3dd14/Yuque-3.2.2.1107.exe#/Yuque_3.2.2.1107.7z",
+            "hash": "300cadc41ff9618b1855702068b676bbfea795633d7ca3d7861a0f1c12eb1ad3",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR/app-64.7z\" \"$dir\" -Removal",
@@ -26,14 +26,13 @@
     ],
     "checkver": {
         "url": "https://www.yuque.com/download",
-        "regex": "Yuque-([\\d.]+).exe"
+        "regex": "%2F(?<code>[a-zA-Z0-9]+)%2FYuque-([\\d.]+).exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://app.nlark.com/yuque-desktop/$version/Yuque-$version.exe#/Yuque_$version.7z"
+                "url": "https://app.nlark.com/yuque-desktop/$version/$matchCode/Yuque-$version.exe#/Yuque_$version.7z"
             }
         }
-    },
-    "notes": "Your Yuque data are not persisted by Scoop and still storaged in '%APPDATA%\\yuque-desktop'."
+    }
 }
