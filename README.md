@@ -75,8 +75,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - echoiron/echo-scoop
 - ACooper81/scoop-apps
 - ScoopInstaller/Nonportable
-- hermanjustnu/scoop-emulators
 - cderv/r-bucket
+- hermanjustnu/scoop-emulators
 - couleur-tweak-tips/utils
 - everyx/scoop-bucket
 - dodorz/scoop
@@ -109,6 +109,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - AStupidBear/scoop-bear
 - starise/Scoop-Gaming
 - Velgus/Scoop-Portapps
+- aliesbelik/poldi
 - brian6932/dank-scoop
 - starise/Scoop-Confetti
 - Weidows-projects/scoop-3rd
@@ -116,7 +117,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - aoisummer/scoop-bucket
 - seumsc/scoop-seu
 - rivy/scoop-bucket
-- aliesbelik/poldi
 - SayCV/scoop-cvp
 - mo-san/scoop-bucket
 - AkariiinMKII/Scoop4kariiin
