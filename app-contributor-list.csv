@@ -194,6 +194,7 @@ openssh_HCLonely.json,HCLonely/my-scoop-bucket
 ffmpeg-tools.json,HCLonely/my-scoop-bucket
 KeySound.json,Weidows-projects/scoop-3rd
 obs-plugin-auto-subtitle.json,Weidows-projects/scoop-3rd
+vscode.json,Weidows-projects/scoop-3rd
 cudnn.json,Weidows-projects/scoop-3rd
 Iobitdriverbooster.json,Weidows-projects/scoop-3rd
 thief.json,Weidows-projects/scoop-3rd
@@ -283,7 +284,6 @@ Motrix-linking-aria2.json,Weidows-projects/scoop-3rd
 SFP.json,Weidows-projects/scoop-3rd
 Adwaita-for-Steam.json,Weidows-projects/scoop-3rd
 XStudio.json,Weidows-projects/scoop-3rd
-vscode-portable-association.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 Jvedio.json,Weidows-projects/scoop-3rd
@@ -316,6 +316,7 @@ wps-photoplus.json,Weidows-projects/scoop-3rd
 Fluent-for-Steam.json,Weidows-projects/scoop-3rd
 poetry_Weidows-projects.json,Weidows-projects/scoop-3rd
 anaconda3.json,Weidows-projects/scoop-3rd
+vscode-portable-association.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 Synergy-Binaries.json,Weidows-projects/scoop-3rd
 scoop-viewer.json,prezesp/scoop-viewer-bucket
@@ -339,7 +340,7 @@ safebrowser.json,ScoopInstaller/Extras
 musicplayer2.json,ScoopInstaller/Extras
 wxdfast.json,ScoopInstaller/Extras
 telegram-downloader.json,ScoopInstaller/Extras
-vscode.json,ScoopInstaller/Extras
+vscode_ScoopInstaller.json,ScoopInstaller/Extras
 tageditor.json,ScoopInstaller/Extras
 milton.json,ScoopInstaller/Extras
 cabal.json,ScoopInstaller/Extras
@@ -505,7 +506,7 @@ plex-mpv-shim.json,ScoopInstaller/Extras
 inboxer.json,ScoopInstaller/Extras
 devhub.json,ScoopInstaller/Extras
 butane.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 quodlibet.json,ScoopInstaller/Extras
 kid3.json,ScoopInstaller/Extras
 irfanview.json,ScoopInstaller/Extras
@@ -714,7 +715,7 @@ appbuster.json,ScoopInstaller/Extras
 dockercompletion.json,ScoopInstaller/Extras
 mendeley.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 pidgin.json,ScoopInstaller/Extras
 debugviewpp.json,ScoopInstaller/Extras
 windows95.json,ScoopInstaller/Extras
@@ -7182,7 +7183,7 @@ sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-interim.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-cxbx-reloaded.json,hermanjustnu/scoop-emulators
+cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt.json,hermanjustnu/scoop-emulators
@@ -8628,7 +8629,7 @@ rnr_akirco.json,akirco/aki-apps
 yuque_akirco.json,akirco/aki-apps
 snipaste.json,akirco/aki-apps
 upx_akirco.json,akirco/aki-apps
-ftnn.json,akirco/aki-apps
+ftnn_akirco.json,akirco/aki-apps
 okular_akirco.json,akirco/aki-apps
 kodi_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
@@ -9445,6 +9446,7 @@ pixeval.json,DoveBoy/Apps
 clumsy.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 sing-box-beta.json,DoveBoy/Apps
+imageglass_DoveBoy.json,DoveBoy/Apps
 esearch-portable.json,DoveBoy/Apps
 xiaochao.json,DoveBoy/Apps
 bookget.json,DoveBoy/Apps
@@ -9501,6 +9503,7 @@ webcam-on-off_DoveBoy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-cpu.json,DoveBoy/Apps
+chromedriver-canary.json,DoveBoy/Apps
 potplayer_DoveBoy.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
@@ -9511,7 +9514,7 @@ clash-rev-compatible.json,DoveBoy/Apps
 v2ray_DoveBoy.json,DoveBoy/Apps
 shadowsocksr-hmbsbige-full.json,DoveBoy/Apps
 xx-net_DoveBoy.json,DoveBoy/Apps
-optimizer_DoveBoy.json,DoveBoy/Apps
+optimizer.json,DoveBoy/Apps
 godmode.json,DoveBoy/Apps
 scoop-completion_DoveBoy.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
@@ -9792,7 +9795,6 @@ walk_DoveBoy.json,DoveBoy/Apps
 tcping_DoveBoy.json,DoveBoy/Apps
 clash-verge_DoveBoy.json,DoveBoy/Apps
 iwck_DoveBoy.json,DoveBoy/Apps
-reqable-beta.json,DoveBoy/Apps
 posh-git_DoveBoy.json,DoveBoy/Apps
 pywxdump.json,DoveBoy/Apps
 bililive-go_DoveBoy.json,DoveBoy/Apps
@@ -9806,7 +9808,7 @@ glow_DoveBoy.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 freefilesync.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 posh-maven.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
@@ -9909,6 +9911,7 @@ lama-cleaner.json,DoveBoy/Apps
 clash.meta-cgo.json,DoveBoy/Apps
 book-searcher.json,DoveBoy/Apps
 pdf-guru.json,DoveBoy/Apps
+reqable-beta.json,DoveBoy/Apps
 study-xxqg-beta.json,DoveBoy/Apps
 clash-chinese-patch.json,DoveBoy/Apps
 clashy.json,DoveBoy/Apps
@@ -11120,7 +11123,7 @@ cinebench.json,aoisummer/scoop-bucket
 ddtv2.json,aoisummer/scoop-bucket
 thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 waifu2x-ncnn-vulkan_seumsc.json,seumsc/scoop-seu
-kook_seumsc.json,seumsc/scoop-seu
+kook.json,seumsc/scoop-seu
 firetools.json,seumsc/scoop-seu
 srmd-ncnn-vulkan.json,seumsc/scoop-seu
 leanify.json,seumsc/scoop-seu
@@ -12362,7 +12365,7 @@ heic-for-windows.json,FlawlessCasual17/MyScoop
 simple-sticky-notes.json,FlawlessCasual17/MyScoop
 driverscloud.json,FlawlessCasual17/MyScoop
 bitwarden_fixed.json,FlawlessCasual17/MyScoop
-swyh-rs.json,FlawlessCasual17/MyScoop
+swyh-rs_FlawlessCasual17.json,FlawlessCasual17/MyScoop
 windhawk.json,FlawlessCasual17/MyScoop
 displaypoweroff.json,FlawlessCasual17/MyScoop
 creaminstaller.json,FlawlessCasual17/MyScoop
