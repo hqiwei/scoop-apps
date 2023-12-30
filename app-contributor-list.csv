@@ -6657,6 +6657,7 @@ IObitSoftwareUpdater-Portable.json,ACooper81/scoop-apps
 ScoopUpdates-Alias.json,ACooper81/scoop-apps
 TinyNvidiaUpdateChecker-Portable.json,ACooper81/scoop-apps
 ZMeter-Portable.json,ACooper81/scoop-apps
+WinSW2CLI-Portable.json,ACooper81/scoop-apps
 AquaSnap-Portable.json,ACooper81/scoop-apps
 VNCViewer-Portable.json,ACooper81/scoop-apps
 MicrosoftOneDriveInsiders-UserInstall.json,ACooper81/scoop-apps
@@ -7183,7 +7184,7 @@ sameboy_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-interim.json,hermanjustnu/scoop-emulators
 winuae.json,hermanjustnu/scoop-emulators
 mesen_hermanjustnu.json,hermanjustnu/scoop-emulators
-cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
+cxbx-reloaded.json,hermanjustnu/scoop-emulators
 vice-sdl2-snapshot.json,hermanjustnu/scoop-emulators
 ppsspp_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt.json,hermanjustnu/scoop-emulators
@@ -8034,7 +8035,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -8061,7 +8062,7 @@ xenia_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
@@ -8376,7 +8377,7 @@ wnr_zhoujin7.json,zhoujin7/tomato
 notepadplusplus_zhoujin7.json,zhoujin7/tomato
 PartAssist_zhoujin7.json,zhoujin7/tomato
 HBuilderX-Full.json,zhoujin7/tomato
-Quicker_zhoujin7.json,zhoujin7/tomato
+Quicker.json,zhoujin7/tomato
 RegistryWorkshop.json,zhoujin7/tomato
 PhotoFiltre11.json,zhoujin7/tomato
 lealone.json,zhoujin7/tomato
@@ -8994,7 +8995,7 @@ alacritty-portable.json,naderi/scoop-bucket
 firefox-nightly-portable.json,naderi/scoop-bucket
 dev-cpp-no-compiler.json,naderi/scoop-bucket
 boom_naderi.json,naderi/scoop-bucket
-hdcleaner_naderi.json,naderi/scoop-bucket
+hdcleaner.json,naderi/scoop-bucket
 winamp.json,naderi/scoop-bucket
 converter-now.json,naderi/scoop-bucket
 windows-update-viewer.json,naderi/scoop-bucket
@@ -9005,7 +9006,7 @@ reicon_naderi.json,naderi/scoop-bucket
 teamviewer-portable_naderi.json,naderi/scoop-bucket
 firefox-portable-de.json,naderi/scoop-bucket
 lyx_naderi.json,naderi/scoop-bucket
-tweakpower_naderi.json,naderi/scoop-bucket
+tweakpower.json,naderi/scoop-bucket
 scoop-completion_naderi.json,naderi/scoop-bucket
 mitec-system-information-x.json,naderi/scoop-bucket
 font-ganjnameh.json,naderi/scoop-bucket
@@ -9200,7 +9201,6 @@ audacity-ffmpeg-plugin.json,naderi/scoop-bucket
 local-wp.json,naderi/scoop-bucket
 console2_naderi.json,naderi/scoop-bucket
 vscode-insider.json,naderi/scoop-bucket
-plexamp.json,naderi/scoop-bucket
 doublecmd-portable.json,naderi/scoop-bucket
 icofx.json,naderi/scoop-bucket
 sqlite-gui.json,naderi/scoop-bucket
@@ -9239,7 +9239,7 @@ firefox-esr-portable.json,naderi/scoop-bucket
 alwaysmousewheel.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 easy-context-menu_naderi.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 bitmana.json,naderi/scoop-bucket
@@ -9503,7 +9503,6 @@ webcam-on-off_DoveBoy.json,DoveBoy/Apps
 min_DoveBoy.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
 video-subtitle-extractor-cpu.json,DoveBoy/Apps
-chromedriver-canary.json,DoveBoy/Apps
 potplayer_DoveBoy.json,DoveBoy/Apps
 reicon_DoveBoy.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
@@ -12216,7 +12215,7 @@ vscode1740.json,FlawlessCasual17/MyScoop
 msi-afterburner.json,FlawlessCasual17/MyScoop
 everything-toolbar-scripts.json,FlawlessCasual17/MyScoop
 r_fixed.json,FlawlessCasual17/MyScoop
-encrypto_FlawlessCasual17.json,FlawlessCasual17/MyScoop
+encrypto.json,FlawlessCasual17/MyScoop
 gwsl.json,FlawlessCasual17/MyScoop
 setpoint.json,FlawlessCasual17/MyScoop
 010editor_fixed.json,FlawlessCasual17/MyScoop
