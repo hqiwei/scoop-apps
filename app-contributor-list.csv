@@ -506,7 +506,7 @@ plex-mpv-shim.json,ScoopInstaller/Extras
 inboxer.json,ScoopInstaller/Extras
 devhub.json,ScoopInstaller/Extras
 butane.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 quodlibet.json,ScoopInstaller/Extras
 kid3.json,ScoopInstaller/Extras
 irfanview.json,ScoopInstaller/Extras
@@ -715,7 +715,7 @@ appbuster.json,ScoopInstaller/Extras
 dockercompletion.json,ScoopInstaller/Extras
 mendeley.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
-electerm_ScoopInstaller.json,ScoopInstaller/Extras
+electerm.json,ScoopInstaller/Extras
 pidgin.json,ScoopInstaller/Extras
 debugviewpp.json,ScoopInstaller/Extras
 windows95.json,ScoopInstaller/Extras
@@ -7168,7 +7168,7 @@ betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-stella_hermanjustnu.json,hermanjustnu/scoop-emulators
+stella.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
 pegasus_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu-pineapple_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8035,7 +8035,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -8062,7 +8062,7 @@ xenia_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-ppsspp-dev.json,borger/scoop-emulators
+ppsspp-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
