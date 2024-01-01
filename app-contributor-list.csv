@@ -715,7 +715,7 @@ appbuster.json,ScoopInstaller/Extras
 dockercompletion.json,ScoopInstaller/Extras
 mendeley.json,ScoopInstaller/Extras
 devdocs.json,ScoopInstaller/Extras
-electerm.json,ScoopInstaller/Extras
+electerm_ScoopInstaller.json,ScoopInstaller/Extras
 pidgin.json,ScoopInstaller/Extras
 debugviewpp.json,ScoopInstaller/Extras
 windows95.json,ScoopInstaller/Extras
@@ -5678,7 +5678,7 @@ ccode.json,hoilc/scoop-lemon
 whisper-model-ggml-base-en.json,hoilc/scoop-lemon
 gtk-sharp-libs.json,hoilc/scoop-lemon
 minder.json,hoilc/scoop-lemon
-clashn_hoilc.json,hoilc/scoop-lemon
+clashn.json,hoilc/scoop-lemon
 tcptunnel.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
 pcap2socks.json,hoilc/scoop-lemon
@@ -7168,7 +7168,7 @@ betterjoy_hermanjustnu.json,hermanjustnu/scoop-emulators
 simple64_hermanjustnu.json,hermanjustnu/scoop-emulators
 rpcs3_hermanjustnu.json,hermanjustnu/scoop-emulators
 mgba_hermanjustnu.json,hermanjustnu/scoop-emulators
-stella.json,hermanjustnu/scoop-emulators
+stella_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-dev.json,hermanjustnu/scoop-emulators
 pegasus_hermanjustnu.json,hermanjustnu/scoop-emulators
 yuzu-pineapple_hermanjustnu.json,hermanjustnu/scoop-emulators
@@ -8035,7 +8035,7 @@ scummvm-nightly_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -8053,7 +8053,7 @@ fceux.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
@@ -8062,7 +8062,7 @@ xenia_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
@@ -9257,7 +9257,7 @@ falkon_naderi.json,naderi/scoop-bucket
 chord.json,naderi/scoop-bucket
 chrome-dev-portable.json,naderi/scoop-bucket
 win11rct.json,naderi/scoop-bucket
-cpod_naderi.json,naderi/scoop-bucket
+cpod.json,naderi/scoop-bucket
 universal-viewer-free.json,naderi/scoop-bucket
 tad_naderi.json,naderi/scoop-bucket
 gitnote_naderi.json,naderi/scoop-bucket
@@ -9657,7 +9657,7 @@ ruffle.json,DoveBoy/Apps
 pnpm_DoveBoy.json,DoveBoy/Apps
 rickrack_DoveBoy.json,DoveBoy/Apps
 kobi.json,DoveBoy/Apps
-telegram_DoveBoy.json,DoveBoy/Apps
+telegram.json,DoveBoy/Apps
 yank-note_DoveBoy.json,DoveBoy/Apps
 autoruns_DoveBoy.json,DoveBoy/Apps
 ripgrep_DoveBoy.json,DoveBoy/Apps
