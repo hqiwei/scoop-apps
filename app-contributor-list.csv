@@ -8044,7 +8044,7 @@ mgba_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -9813,7 +9813,7 @@ glow_DoveBoy.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
 freefilesync.json,DoveBoy/Apps
 everything-lite_DoveBoy.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 posh-maven.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
@@ -10722,6 +10722,7 @@ dnsproxy_aliesbelik.json,aliesbelik/poldi
 doggo_aliesbelik.json,aliesbelik/poldi
 yc.json,aliesbelik/poldi
 plumber_aliesbelik.json,aliesbelik/poldi
+hgrep_aliesbelik.json,aliesbelik/poldi
 ali_aliesbelik.json,aliesbelik/poldi
 cassowary_aliesbelik.json,aliesbelik/poldi
 grpcui.json,aliesbelik/poldi
