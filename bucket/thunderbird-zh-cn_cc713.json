@@ -1,0 +1,46 @@
+{
+    "version": "115.6.1",
+    "description": "A free email application that's easy to set up and customize.",
+    "homepage": "https://www.thunderbird.net",
+    "license": "MPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://archive.mozilla.org/pub/thunderbird/releases/115.6.1/win64/zh-CN/Thunderbird%20Setup%20115.6.1.exe#/dl.7z",
+            "hash": "sha512:ebaa4570f371c0bf5996d8214523aee17cbcf452c5f53774629f108c49cd63247905efcb3da05a523c13f00945968e87ac809022cb5dff1b26b294f357c844ce"
+        },
+        "32bit": {
+            "url": "https://archive.mozilla.org/pub/thunderbird/releases/115.6.1/win32/zh-CN/Thunderbird%20Setup%20115.6.1.exe#/dl.7z",
+            "hash": "sha512:a7a45c6ce30ae3cd99eed54a3bfe20b4a8c0c93595e25b85a0e144e0640a2292991a472e3a0a5c74ce93a4c458c4c920a808dadc481565d03e278949c937e301"
+        }
+    },
+    "extract_dir": "core",
+    "bin": "thunderbird.exe",
+    "shortcuts": [
+        [
+            "thunderbird.exe",
+            "Thunderbird"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.thunderbird.net/thunderbird/all/",
+        "regex": "thunderbird/([\\d.]+)/"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://archive.mozilla.org/pub/thunderbird/releases/$version/win64/zh-CN/Thunderbird%20Setup%20$version.exe#/dl.7z",
+                "hash": {
+                    "url": "https://archive.mozilla.org/pub/thunderbird/releases/$version/SHA512SUMS",
+                    "regex": "$sha512\\s+win64/zh-CN/$basename"
+                }
+            },
+            "32bit": {
+                "url": "https://archive.mozilla.org/pub/thunderbird/releases/$version/win32/zh-CN/Thunderbird%20Setup%20$version.exe#/dl.7z",
+                "hash": {
+                    "url": "https://archive.mozilla.org/pub/thunderbird/releases/$version/SHA512SUMS",
+                    "regex": "$sha512\\s+win32/zh-CN/$basename"
+                }
+            }
+        }
+    }
+}
