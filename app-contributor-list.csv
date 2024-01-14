@@ -1819,6 +1819,7 @@ everything-lite.json,ScoopInstaller/Extras
 material-maker.json,ScoopInstaller/Extras
 v2rayn.json,ScoopInstaller/Extras
 ipfs-desktop.json,ScoopInstaller/Extras
+sasm.json,ScoopInstaller/Extras
 monitorprofileswitcher.json,ScoopInstaller/Extras
 mp3directcut.json,ScoopInstaller/Extras
 hibit-system-information.json,ScoopInstaller/Extras
@@ -2934,7 +2935,6 @@ yuque_ivaquero.json,ivaquero/scoopet
 scihubeva.json,ivaquero/scoopet
 wisecare365.json,ivaquero/scoopet
 blender-cn.json,ivaquero/scoopet
-live777_ivaquero.json,ivaquero/scoopet
 misakatranslator_ivaquero.json,ivaquero/scoopet
 inkscape-cn.json,ivaquero/scoopet
 chatgpt-cli.json,ivaquero/scoopet
@@ -7685,7 +7685,6 @@ sift_dodorz.json,dodorz/scoop
 Chocolatey.json,dodorz/scoop
 cjoe-static.json,dodorz/scoop
 MCI-Browser.json,dodorz/scoop
-Koodo-Reader_dodorz.json,dodorz/scoop
 IndexYourFiles.json,dodorz/scoop
 jsonui.json,dodorz/scoop
 HoeKey.json,dodorz/scoop
@@ -8067,7 +8066,7 @@ bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
-sameboy.json,borger/scoop-emulators
+sameboy_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
@@ -8092,7 +8091,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 ryujinx-ava_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -8750,7 +8749,7 @@ vscan_ViCrack.json,ViCrack/scoop-bucket
 airfly.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
-cudatext-cn_ViCrack.json,ViCrack/scoop-bucket
+cudatext-cn.json,ViCrack/scoop-bucket
 winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
 HBuilder.json,zhoujin7/tomato
@@ -9422,7 +9421,6 @@ wechat_amorphobia.json,amorphobia/siku
 wiliwili_amorphobia.json,amorphobia/siku
 stellarium_amorphobia.json,amorphobia/siku
 keep-jbl-go.json,amorphobia/siku
-cudatext_DoveBoy.json,DoveBoy/Apps
 volta-tab-completion.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
@@ -9432,7 +9430,7 @@ telegram-downloader_DoveBoy.json,DoveBoy/Apps
 nanazip_DoveBoy.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
 easymusic.json,DoveBoy/Apps
-hiddify-next_DoveBoy.json,DoveBoy/Apps
+hiddify-next.json,DoveBoy/Apps
 mingw_DoveBoy.json,DoveBoy/Apps
 vimtutor_DoveBoy.json,DoveBoy/Apps
 clashcross.json,DoveBoy/Apps
@@ -11661,7 +11659,6 @@ chatterino.json,brian6932/dank-scoop
 galaxy-integration-legendary.json,brian6932/dank-scoop
 thumbfast.json,brian6932/dank-scoop
 mpv-sub-select.json,brian6932/dank-scoop
-glfw_brian6932.json,brian6932/dank-scoop
 Dexios.json,brian6932/dank-scoop
 chatterino7.json,brian6932/dank-scoop
 c2-logs.json,brian6932/dank-scoop
@@ -11669,7 +11666,6 @@ uosc.json,brian6932/dank-scoop
 tgpt.json,brian6932/dank-scoop
 mpv-sponsorblock-minimal.json,brian6932/dank-scoop
 streamsave-dev.json,brian6932/dank-scoop
-libjpeg-turbo_brian6932.json,brian6932/dank-scoop
 mozlz4.json,brian6932/dank-scoop
 technorino-qt5.json,brian6932/dank-scoop
 apngopt-cli.json,brian6932/dank-scoop
@@ -11678,7 +11674,6 @@ apng2gif-gui.json,brian6932/dank-scoop
 cache-monkey.json,brian6932/dank-scoop
 fcc.json,brian6932/dank-scoop
 rustdesk-nightly.json,brian6932/dank-scoop
-cc65_brian6932.json,brian6932/dank-scoop
 memory-checker.json,brian6932/dank-scoop
 pwsh-man-highlighting.json,brian6932/dank-scoop
 chatterino7-portable-qt5.json,brian6932/dank-scoop
@@ -12900,7 +12895,7 @@ cider_beerpiss.json,beerpiss/scoop-bucket
 susplayer.json,beerpiss/scoop-bucket
 stash-dev_beerpiss.json,beerpiss/scoop-bucket
 ib-en.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 punzip.json,beerpiss/scoop-bucket
 onetrueawk.json,beerpiss/scoop-bucket
 majdata.json,beerpiss/scoop-bucket
