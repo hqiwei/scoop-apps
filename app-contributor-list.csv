@@ -462,6 +462,7 @@ scantailor-advanced.json,ScoopInstaller/Extras
 wxhexeditor.json,ScoopInstaller/Extras
 qmplay2.json,ScoopInstaller/Extras
 inkscape.json,ScoopInstaller/Extras
+hello-http.json,ScoopInstaller/Extras
 mkvtoolnix.json,ScoopInstaller/Extras
 prime95.json,ScoopInstaller/Extras
 eraser.json,ScoopInstaller/Extras
@@ -603,6 +604,7 @@ vesta.json,ScoopInstaller/Extras
 awesomebump.json,ScoopInstaller/Extras
 rubymine.json,ScoopInstaller/Extras
 wavebox.json,ScoopInstaller/Extras
+mqtt-cli.json,ScoopInstaller/Extras
 nuget-package-explorer.json,ScoopInstaller/Extras
 baregrep.json,ScoopInstaller/Extras
 vcxsrv.json,ScoopInstaller/Extras
@@ -655,6 +657,7 @@ netradio.json,ScoopInstaller/Extras
 gpu-z.json,ScoopInstaller/Extras
 kate.json,ScoopInstaller/Extras
 advancedrenamer.json,ScoopInstaller/Extras
+whepfrom.json,ScoopInstaller/Extras
 synfig-studio.json,ScoopInstaller/Extras
 simplenote.json,ScoopInstaller/Extras
 waifu2x-caffe.json,ScoopInstaller/Extras
@@ -701,6 +704,7 @@ vnote.json,ScoopInstaller/Extras
 usbimager.json,ScoopInstaller/Extras
 retroshare.json,ScoopInstaller/Extras
 dottrace.json,ScoopInstaller/Extras
+protege.json,ScoopInstaller/Extras
 potplayer.json,ScoopInstaller/Extras
 reicon.json,ScoopInstaller/Extras
 musique.json,ScoopInstaller/Extras
@@ -708,6 +712,7 @@ shareaza.json,ScoopInstaller/Extras
 jpass.json,ScoopInstaller/Extras
 logexpert.json,ScoopInstaller/Extras
 ratiomaster.json,ScoopInstaller/Extras
+whipinto.json,ScoopInstaller/Extras
 interlink.json,ScoopInstaller/Extras
 calibre-normal.json,ScoopInstaller/Extras
 scallion.json,ScoopInstaller/Extras
@@ -2190,6 +2195,7 @@ pasteboard.json,ScoopInstaller/Extras
 klogg.json,ScoopInstaller/Extras
 wsl-terminal.json,ScoopInstaller/Extras
 universalpausebutton.json,ScoopInstaller/Extras
+clashtui.json,ScoopInstaller/Extras
 squirreldisk.json,ScoopInstaller/Extras
 protonmail-bridge.json,ScoopInstaller/Extras
 dxirc.json,ScoopInstaller/Extras
@@ -2890,10 +2896,10 @@ lx-music_ivaquero.json,ivaquero/scoopet
 viber.json,ivaquero/scoopet
 regester.json,ivaquero/scoopet
 weasel.json,ivaquero/scoopet
-whepfrom.json,ivaquero/scoopet
+whepfrom_ivaquero.json,ivaquero/scoopet
 octave-cn.json,ivaquero/scoopet
 n-m3u8dl-re.json,ivaquero/scoopet
-whipinto.json,ivaquero/scoopet
+whipinto_ivaquero.json,ivaquero/scoopet
 cajviewer_ivaquero.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
 music-dl.json,ivaquero/scoopet
@@ -2950,7 +2956,6 @@ chatbox.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
 umi-ocr-all-lang.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
-clashtui.json,ivaquero/scoopet
 freecad-cn.json,ivaquero/scoopet
 kega-fusion.json,Calinou/scoop-games
 iortcw.json,Calinou/scoop-games
@@ -4805,7 +4810,7 @@ managewirelessnetworks_ScoopInstaller.json,ScoopInstaller/Nirsoft
 appreadwritecounter_ScoopInstaller.json,ScoopInstaller/Nirsoft
 webbrowserbookmarksview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 socketsniff_ScoopInstaller.json,ScoopInstaller/Nirsoft
-chromecacheview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+chromecacheview.json,ScoopInstaller/Nirsoft
 opensavefilesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 pinginfoview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 cports.json,ScoopInstaller/Nirsoft
@@ -5259,7 +5264,7 @@ dataflare.json,hoilc/scoop-lemon
 vesta_hoilc.json,hoilc/scoop-lemon
 droppoint.json,hoilc/scoop-lemon
 kubevpn.json,hoilc/scoop-lemon
-mqtt-cli.json,hoilc/scoop-lemon
+mqtt-cli_hoilc.json,hoilc/scoop-lemon
 statsd_exporter.json,hoilc/scoop-lemon
 task-explorer.json,hoilc/scoop-lemon
 jellyfin-media-player.json,hoilc/scoop-lemon
@@ -5434,6 +5439,7 @@ nexttrace-enhanced.json,hoilc/scoop-lemon
 mcap.json,hoilc/scoop-lemon
 ossutil_hoilc.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
+stranslate.json,hoilc/scoop-lemon
 oplus-sans.json,hoilc/scoop-lemon
 filefriend-cn.json,hoilc/scoop-lemon
 amazon-ec2-metadata-mock.json,hoilc/scoop-lemon
@@ -5952,6 +5958,7 @@ waifu2x-snowshell_hoilc.json,hoilc/scoop-lemon
 mongodb-atlas-cli_hoilc.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
 nuclei_hoilc.json,hoilc/scoop-lemon
+canal2sql.json,hoilc/scoop-lemon
 zip2dir.json,hoilc/scoop-lemon
 img-convert.json,hoilc/scoop-lemon
 sing-box_hoilc.json,hoilc/scoop-lemon
@@ -8091,7 +8098,7 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 ryujinx-ava_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -8551,6 +8558,7 @@ tup_akirco.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 jianyingpro_akirco.json,akirco/aki-apps
 youtube-dl-wpf_akirco.json,akirco/aki-apps
+rustdesk_akirco.json,akirco/aki-apps
 easywsl.json,akirco/aki-apps
 mpxplay_akirco.json,akirco/aki-apps
 lf_akirco.json,akirco/aki-apps
@@ -8722,6 +8730,7 @@ kscan_ViCrack.json,ViCrack/scoop-bucket
 crawlergo.json,ViCrack/scoop-bucket
 postman-cn_ViCrack.json,ViCrack/scoop-bucket
 subfinder_ViCrack.json,ViCrack/scoop-bucket
+dddd.json,ViCrack/scoop-bucket
 sliver_ViCrack.json,ViCrack/scoop-bucket
 xpoc.json,ViCrack/scoop-bucket
 httpx_ViCrack.json,ViCrack/scoop-bucket
@@ -8749,7 +8758,7 @@ vscan_ViCrack.json,ViCrack/scoop-bucket
 airfly.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
 java-echo-generator-release.json,ViCrack/scoop-bucket
-cudatext-cn.json,ViCrack/scoop-bucket
+cudatext-cn_ViCrack.json,ViCrack/scoop-bucket
 winmemorycleaner_ViCrack.json,ViCrack/scoop-bucket
 katana_ViCrack.json,ViCrack/scoop-bucket
 HBuilder.json,zhoujin7/tomato
@@ -9263,7 +9272,7 @@ alwaysmousewheel.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
 unsplash-wallpapers.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
-encrypto.json,naderi/scoop-bucket
+encrypto_naderi.json,naderi/scoop-bucket
 easy-context-menu_naderi.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
 bitmana.json,naderi/scoop-bucket
@@ -9809,7 +9818,7 @@ everything-cli_DoveBoy.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 gopeed_DoveBoy.json,DoveBoy/Apps
 croc_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 upx_DoveBoy.json,DoveBoy/Apps
 ipcalc_DoveBoy.json,DoveBoy/Apps
 obs-studio_DoveBoy.json,DoveBoy/Apps
@@ -10759,7 +10768,6 @@ pgweb.json,aliesbelik/poldi
 unfurl.json,aliesbelik/poldi
 claws.json,aliesbelik/poldi
 muffet.json,aliesbelik/poldi
-mqtt-cli_aliesbelik.json,aliesbelik/poldi
 proxify_aliesbelik.json,aliesbelik/poldi
 kafta.json,aliesbelik/poldi
 gat.json,aliesbelik/poldi
@@ -10768,6 +10776,7 @@ gocannon.json,aliesbelik/poldi
 fortio.json,aliesbelik/poldi
 jc_aliesbelik.json,aliesbelik/poldi
 eget_aliesbelik.json,aliesbelik/poldi
+mqtt-cli_aliesbelik.json,aliesbelik/poldi
 bombardier_aliesbelik.json,aliesbelik/poldi
 gut_aliesbelik.json,aliesbelik/poldi
 ov_aliesbelik.json,aliesbelik/poldi
@@ -10780,6 +10789,7 @@ jo_aliesbelik.json,aliesbelik/poldi
 gotop_aliesbelik.json,aliesbelik/poldi
 jaq_aliesbelik.json,aliesbelik/poldi
 dnslookup_aliesbelik.json,aliesbelik/poldi
+tailspin_aliesbelik.json,aliesbelik/poldi
 walk_aliesbelik.json,aliesbelik/poldi
 tcping_aliesbelik.json,aliesbelik/poldi
 tf-summarize_aliesbelik.json,aliesbelik/poldi
@@ -10835,12 +10845,12 @@ dijo.json,aliesbelik/poldi
 trdsql_aliesbelik.json,aliesbelik/poldi
 dt.json,aliesbelik/poldi
 fast.json,aliesbelik/poldi
-tailspin_aliesbelik.json,aliesbelik/poldi
 hey_aliesbelik.json,aliesbelik/poldi
 mturoute_aliesbelik.json,aliesbelik/poldi
 rewrk.json,aliesbelik/poldi
 dnstrace.json,aliesbelik/poldi
 godu.json,aliesbelik/poldi
+ego.json,aliesbelik/poldi
 ck-cli.json,aliesbelik/poldi
 cdntest.json,aliesbelik/poldi
 beast.json,aliesbelik/poldi
@@ -11680,6 +11690,7 @@ chatterino7-portable-qt5.json,brian6932/dank-scoop
 vtm.json,brian6932/dank-scoop
 set-timer-resolution.json,brian6932/dank-scoop
 tegrarcmgui.json,brian6932/dank-scoop
+termusic.json,brian6932/dank-scoop
 qrrs.json,brian6932/dank-scoop
 mpv-git_brian6932.json,brian6932/dank-scoop
 qbittorrent-nightly-lean-libtorrentv1.json,brian6932/dank-scoop
@@ -12274,7 +12285,7 @@ vscode1740.json,FlawlessCasual17/MyScoop
 msi-afterburner.json,FlawlessCasual17/MyScoop
 everything-toolbar-scripts.json,FlawlessCasual17/MyScoop
 r_fixed.json,FlawlessCasual17/MyScoop
-encrypto_FlawlessCasual17.json,FlawlessCasual17/MyScoop
+encrypto.json,FlawlessCasual17/MyScoop
 gwsl.json,FlawlessCasual17/MyScoop
 setpoint.json,FlawlessCasual17/MyScoop
 010editor_fixed.json,FlawlessCasual17/MyScoop
@@ -13086,7 +13097,7 @@ stern_hulucc.json,hulucc/bucket
 cpptools.json,hulucc/bucket
 xkb-switch.json,hulucc/bucket
 nebula_hulucc.json,hulucc/bucket
-gn_hulucc.json,hulucc/bucket
+gn.json,hulucc/bucket
 vim90.json,hulucc/bucket
 neo4j.json,hulucc/bucket
 android-sdk.json,hulucc/bucket
