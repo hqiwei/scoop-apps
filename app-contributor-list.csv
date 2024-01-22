@@ -1521,6 +1521,7 @@ hokus.json,ScoopInstaller/Extras
 smartsynchronize.json,ScoopInstaller/Extras
 vial.json,ScoopInstaller/Extras
 keepassxc.json,ScoopInstaller/Extras
+vesktop.json,ScoopInstaller/Extras
 rednotebook.json,ScoopInstaller/Extras
 eclipse-sumo.json,ScoopInstaller/Extras
 sunsetscreen.json,ScoopInstaller/Extras
@@ -1550,6 +1551,7 @@ kdeconnect.json,ScoopInstaller/Extras
 lokalise2.json,ScoopInstaller/Extras
 koodo-reader.json,ScoopInstaller/Extras
 cfssl.json,ScoopInstaller/Extras
+steamguard-cli.json,ScoopInstaller/Extras
 i2pd.json,ScoopInstaller/Extras
 squirrel-sql.json,ScoopInstaller/Extras
 via.json,ScoopInstaller/Extras
@@ -1865,6 +1867,7 @@ launchy.json,ScoopInstaller/Extras
 manifold.json,ScoopInstaller/Extras
 camstudio.json,ScoopInstaller/Extras
 gyroflow.json,ScoopInstaller/Extras
+space.json,ScoopInstaller/Extras
 fix-print-spooler.json,ScoopInstaller/Extras
 sleek.json,ScoopInstaller/Extras
 vuplayer.json,ScoopInstaller/Extras
@@ -3379,6 +3382,7 @@ corretto-jmc.json,ScoopInstaller/Java
 temurin11-jdk.json,ScoopInstaller/Java
 zulu17-jre.json,ScoopInstaller/Java
 liberica-full-lts-jre.json,ScoopInstaller/Java
+microsoft17-jdk.json,ScoopInstaller/Java
 liberica16-lite-jdk.json,ScoopInstaller/Java
 semeru19-jre.json,ScoopInstaller/Java
 ojdkbuild17-full.json,ScoopInstaller/Java
@@ -5003,13 +5007,13 @@ webcacheimageinfo_ScoopInstaller.json,ScoopInstaller/Nirsoft
 passrec.json,ScoopInstaller/Nirsoft
 winupdatesview.json,ScoopInstaller/Nirsoft
 mobilefilesearch_ScoopInstaller.json,ScoopInstaller/Nirsoft
-lsasecretsview.json,ScoopInstaller/Nirsoft
+lsasecretsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 productkeyscanner_ScoopInstaller.json,ScoopInstaller/Nirsoft
 firefoxdownloadsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 seqdownload_ScoopInstaller.json,ScoopInstaller/Nirsoft
 hashmyfiles_ScoopInstaller.json,ScoopInstaller/Nirsoft
 netrouteview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-winmailpassrec.json,ScoopInstaller/Nirsoft
+winmailpassrec_ScoopInstaller.json,ScoopInstaller/Nirsoft
 networkcounterswatch_ScoopInstaller.json,ScoopInstaller/Nirsoft
 nk2view_ScoopInstaller.json,ScoopInstaller/Nirsoft
 usblogview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5561,6 +5565,7 @@ chkssl.json,hoilc/scoop-lemon
 grafana-agent.json,hoilc/scoop-lemon
 azd_hoilc.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
+imbatch.json,hoilc/scoop-lemon
 catsxp.json,hoilc/scoop-lemon
 bookxnote.json,hoilc/scoop-lemon
 sdx.json,hoilc/scoop-lemon
@@ -5624,6 +5629,7 @@ whisper-model-ggml-medium-en.json,hoilc/scoop-lemon
 asnmap.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
 jellycli.json,hoilc/scoop-lemon
+mdx-editor.json,hoilc/scoop-lemon
 rundeck-cli.json,hoilc/scoop-lemon
 cmail.json,hoilc/scoop-lemon
 mycomputermanager.json,hoilc/scoop-lemon
@@ -5946,6 +5952,7 @@ libportable-floorp-lightning.json,hoilc/scoop-lemon
 homedale_hoilc.json,hoilc/scoop-lemon
 bililive-go.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
+woterm.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 chirp-next.json,hoilc/scoop-lemon
 keepassxc-snapshot.json,hoilc/scoop-lemon
@@ -6284,7 +6291,7 @@ Mellow_Paxxs.json,Paxxs/Cluttered-bucket
 stellarplayer.json,echoiron/echo-scoop
 shadowsocksrr.json,echoiron/echo-scoop
 coodesker.json,echoiron/echo-scoop
-bypass_echoiron.json,echoiron/echo-scoop
+bypass.json,echoiron/echo-scoop
 ultraiso_echoiron.json,echoiron/echo-scoop
 edge.json,echoiron/echo-scoop
 iobituninstaller.json,echoiron/echo-scoop
@@ -8132,7 +8139,7 @@ mgba_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -8143,7 +8150,7 @@ desmume.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
@@ -8158,11 +8165,11 @@ ppsspp-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
-ryujinx-ava_borger.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
+ryujinx-ava.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -8656,6 +8663,7 @@ nyagos_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 recycle-bin_akirco.json,akirco/aki-apps
 rnr_akirco.json,akirco/aki-apps
+cpu-z_akirco.json,akirco/aki-apps
 yuque_akirco.json,akirco/aki-apps
 snipaste.json,akirco/aki-apps
 upx_akirco.json,akirco/aki-apps
@@ -10248,7 +10256,7 @@ RyuSAK_hu3rror.json,hu3rror/scoop-muggle
 roadkil-disk-image.json,hu3rror/scoop-muggle
 NatTypeTester_hu3rror.json,hu3rror/scoop-muggle
 lx-music-desktop_hu3rror.json,hu3rror/scoop-muggle
-rimage.json,hu3rror/scoop-muggle
+rimage_hu3rror.json,hu3rror/scoop-muggle
 dota2_realblood.json,hu3rror/scoop-muggle
 yomikiru.json,hu3rror/scoop-muggle
 fehviewer.json,hu3rror/scoop-muggle
@@ -10923,6 +10931,7 @@ cdntest.json,aliesbelik/poldi
 beast.json,aliesbelik/poldi
 pingu.json,aliesbelik/poldi
 dnsping.json,aliesbelik/poldi
+updo.json,aliesbelik/poldi
 hetty_aliesbelik.json,aliesbelik/poldi
 binjr.json,aliesbelik/poldi
 openpomodoro.json,aliesbelik/poldi
