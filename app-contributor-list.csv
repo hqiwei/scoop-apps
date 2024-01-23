@@ -203,6 +203,7 @@ HandWrite.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 PostImages-client-portable.json,Weidows-projects/scoop-3rd
+Game-Cheats-Manager.json,Weidows-projects/scoop-3rd
 DigitalMate2D.json,Weidows-projects/scoop-3rd
 dev-sidecar.json,Weidows-projects/scoop-3rd
 encore.json,Weidows-projects/scoop-3rd
@@ -625,6 +626,7 @@ mumble.json,ScoopInstaller/Extras
 notepad2-mod.json,ScoopInstaller/Extras
 mtuner.json,ScoopInstaller/Extras
 petools.json,ScoopInstaller/Extras
+gramps.json,ScoopInstaller/Extras
 dismplusplus.json,ScoopInstaller/Extras
 universal-gcode-sender.json,ScoopInstaller/Extras
 buildcache.json,ScoopInstaller/Extras
@@ -3382,7 +3384,6 @@ corretto-jmc.json,ScoopInstaller/Java
 temurin11-jdk.json,ScoopInstaller/Java
 zulu17-jre.json,ScoopInstaller/Java
 liberica-full-lts-jre.json,ScoopInstaller/Java
-microsoft17-jdk.json,ScoopInstaller/Java
 liberica16-lite-jdk.json,ScoopInstaller/Java
 semeru19-jre.json,ScoopInstaller/Java
 ojdkbuild17-full.json,ScoopInstaller/Java
@@ -4735,7 +4736,7 @@ ddns-go.json,arch3rPro/PST-Bucket
 notepad--.json,arch3rPro/PST-Bucket
 FlowUs_arch3rPro.json,arch3rPro/PST-Bucket
 fastgithub.json,arch3rPro/PST-Bucket
-windterm.json,arch3rPro/PST-Bucket
+windterm_arch3rPro.json,arch3rPro/PST-Bucket
 easy-context-menu_arch3rPro.json,arch3rPro/PST-Bucket
 MonitorOff.json,arch3rPro/PST-Bucket
 siyuan.json,arch3rPro/PST-Bucket
@@ -6291,7 +6292,7 @@ Mellow_Paxxs.json,Paxxs/Cluttered-bucket
 stellarplayer.json,echoiron/echo-scoop
 shadowsocksrr.json,echoiron/echo-scoop
 coodesker.json,echoiron/echo-scoop
-bypass.json,echoiron/echo-scoop
+bypass_echoiron.json,echoiron/echo-scoop
 ultraiso_echoiron.json,echoiron/echo-scoop
 edge.json,echoiron/echo-scoop
 iobituninstaller.json,echoiron/echo-scoop
@@ -8139,7 +8140,7 @@ mgba_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -8161,15 +8162,15 @@ xenia_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
+ppsspp-dev.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
-ryujinx-ava.json,borger/scoop-emulators
+ryujinx-ava_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -8543,7 +8544,7 @@ shimo.json,akirco/aki-apps
 gdu_akirco.json,akirco/aki-apps
 dotfiles.json,akirco/aki-apps
 sox_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
 completion-predictor.json,akirco/aki-apps
 yt-dlp_akirco.json,akirco/aki-apps
