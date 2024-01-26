@@ -3883,7 +3883,6 @@ omnisharp-http-net6.json,ScoopInstaller/Versions
 winpython37cod.json,ScoopInstaller/Versions
 nodejs9.json,ScoopInstaller/Versions
 cuda10.1.json,ScoopInstaller/Versions
-spark-hadoop2.json,ScoopInstaller/Versions
 dotnet7-sdk.json,ScoopInstaller/Versions
 xmind8.json,ScoopInstaller/Versions
 godot-alpha.json,ScoopInstaller/Versions
@@ -3908,6 +3907,7 @@ oracle-instant-client-odbc19.json,ScoopInstaller/Versions
 biber-prev.json,ScoopInstaller/Versions
 camunda-operate1.3.json,ScoopInstaller/Versions
 sharex-dev.json,ScoopInstaller/Versions
+spark-hadoop3.json,ScoopInstaller/Versions
 mongodb-rc.json,ScoopInstaller/Versions
 clion-eap.json,ScoopInstaller/Versions
 prusaslicer-pre.json,ScoopInstaller/Versions
@@ -8496,7 +8496,7 @@ tar_akirco.json,akirco/aki-apps
 wavpack_akirco.json,akirco/aki-apps
 libwebp_akirco.json,akirco/aki-apps
 mtn_akirco.json,akirco/aki-apps
-flutter.json,akirco/aki-apps
+flutter_akirco.json,akirco/aki-apps
 audacity_akirco.json,akirco/aki-apps
 vim_akirco.json,akirco/aki-apps
 dim2clear.json,akirco/aki-apps
@@ -8527,7 +8527,7 @@ yddict.json,akirco/aki-apps
 nero-aac_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 opus-tools_akirco.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 vcredist2008.json,akirco/aki-apps
 youtube-dl-gui_akirco.json,akirco/aki-apps
 topgrade_akirco.json,akirco/aki-apps
@@ -8573,7 +8573,7 @@ nginx_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
 scoop-completion_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
-aliyundrive.json,akirco/aki-apps
+aliyundrive_akirco.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
@@ -9557,7 +9557,7 @@ sniproxy.json,DoveBoy/Apps
 umi-ocr-paddle_DoveBoy.json,DoveBoy/Apps
 openssl_DoveBoy.json,DoveBoy/Apps
 audio-share.json,DoveBoy/Apps
-qq-nt.json,DoveBoy/Apps
+qq-nt_DoveBoy.json,DoveBoy/Apps
 saber_DoveBoy.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
 imageglass_DoveBoy.json,DoveBoy/Apps
@@ -9722,7 +9722,7 @@ wxdatviewerautoexportrust.json,DoveBoy/Apps
 qq_DoveBoy.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 monit-portable.json,DoveBoy/Apps
-hiddify-next_DoveBoy.json,DoveBoy/Apps
+hiddify-next.json,DoveBoy/Apps
 walk_DoveBoy.json,DoveBoy/Apps
 gopeed-web.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
@@ -9803,7 +9803,7 @@ perl_DoveBoy.json,DoveBoy/Apps
 monit.json,DoveBoy/Apps
 typora-plugin.json,DoveBoy/Apps
 crystaldiskinfo-kureikei.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 clink_DoveBoy.json,DoveBoy/Apps
 wechat_DoveBoy.json,DoveBoy/Apps
 context-menu-manager_DoveBoy.json,DoveBoy/Apps
@@ -9895,10 +9895,8 @@ waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
 163musiclyrics.json,DoveBoy/Apps
 clone-voice.json,DoveBoy/Apps
 hashcat_DoveBoy.json,DoveBoy/Apps
-emeditor_DoveBoy.json,DoveBoy/Apps
 b23downloader-win7.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
-cudatext_DoveBoy.json,DoveBoy/Apps
 mihomo-go120.json,DoveBoy/Apps
 wget_DoveBoy.json,DoveBoy/Apps
 neovim_DoveBoy.json,DoveBoy/Apps
@@ -9973,7 +9971,6 @@ hitomi-downloader_DoveBoy.json,DoveBoy/Apps
 mitmproxy_DoveBoy.json,DoveBoy/Apps
 ffmpeg-nightly_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark_DoveBoy.json,DoveBoy/Apps
-forkgram.json,DoveBoy/Apps
 freefilesync.json,DoveBoy/Apps
 czkawka-gui_DoveBoy.json,DoveBoy/Apps
 binggpt.json,DoveBoy/Apps
@@ -10020,7 +10017,6 @@ openssh_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
 tiny11builder.json,DoveBoy/Apps
 cmder_DoveBoy.json,DoveBoy/Apps
-gnupg-np.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
 network-proxy-flutter.json,DoveBoy/Apps
 daisy.json,DoveBoy/Apps
