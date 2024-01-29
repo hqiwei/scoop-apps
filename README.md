@@ -88,9 +88,9 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - wangzq/scoop-bucket
 - ViCrack/scoop-bucket
 - zhoujin7/tomato
+- TheRandomLabs/Scoop-Python
 - akirco/aki-apps
 - wzv5/ScoopBucket
-- TheRandomLabs/Scoop-Python
 - niheaven/scoop-sysinternals
 - jonz94/scoop-sarasa-nerd-fonts
 - charmbracelet/scoop-bucket
@@ -124,6 +124,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - ChinLong/scoop-customize
 - yuusakuri/scoop-bucket
 - Darkatse/Scoop-KanColle
+- beerpiss/scoop-bucket
 - ShuguangSun/sgs-scoop-bucket
 - Small-Ku/turbo-bucket
 - AkariiinMKII/Scoop4kariiin
@@ -131,7 +132,6 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - babo4d/scoop-xrtools
 - FlawlessCasual17/MyScoop
 - MCOfficer/scoop-bucket
-- beerpiss/scoop-bucket
 - HUMORCE/nuke
 - hulucc/bucket
 - jingyu9575/scoop-jingyu9575
