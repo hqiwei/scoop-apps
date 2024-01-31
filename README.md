@@ -78,8 +78,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - hermanjustnu/scoop-emulators
 - cderv/r-bucket
 - couleur-tweak-tips/utils
-- everyx/scoop-bucket
 - dodorz/scoop
+- everyx/scoop-bucket
 - borger/scoop-emulators
 - Qv2ray/mochi
 - TheRandomLabs/Scoop-Bucket
