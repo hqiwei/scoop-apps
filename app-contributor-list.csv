@@ -389,7 +389,7 @@ eclipse-sumo.json,ScoopInstaller/Extras
 telegram-downloader.json,ScoopInstaller/Extras
 android-sms-backup-and-restore.json,ScoopInstaller/Extras
 explorer-suite.json,ScoopInstaller/Extras
-waifu2x-extension-gui.json,ScoopInstaller/Extras
+waifu2x-extension-gui_ScoopInstaller.json,ScoopInstaller/Extras
 fastcopy.json,ScoopInstaller/Extras
 pci-z.json,ScoopInstaller/Extras
 gridea.json,ScoopInstaller/Extras
@@ -1162,6 +1162,7 @@ game-editor.json,ScoopInstaller/Extras
 audioswitcher.json,ScoopInstaller/Extras
 libresprite.json,ScoopInstaller/Extras
 checksum-compare.json,ScoopInstaller/Extras
+gisto.json,ScoopInstaller/Extras
 wincompose.json,ScoopInstaller/Extras
 raylib-mingw.json,ScoopInstaller/Extras
 msedgeredirect.json,ScoopInstaller/Extras
@@ -5259,7 +5260,7 @@ copyplusplus_hoilc.json,hoilc/scoop-lemon
 windows-registry-recovery.json,hoilc/scoop-lemon
 localxpose.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
-nuclei.json,hoilc/scoop-lemon
+nuclei_hoilc.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 chfs_hoilc.json,hoilc/scoop-lemon
 nexusfile.json,hoilc/scoop-lemon
@@ -5436,7 +5437,7 @@ a2fa.json,hoilc/scoop-lemon
 staxrip_hoilc.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 rpk.json,hoilc/scoop-lemon
-balabolka_hoilc.json,hoilc/scoop-lemon
+balabolka.json,hoilc/scoop-lemon
 chirp-next.json,hoilc/scoop-lemon
 minizip-ng.json,hoilc/scoop-lemon
 1history.json,hoilc/scoop-lemon
@@ -7337,7 +7338,7 @@ qv2ray_Qv2ray.json,Qv2ray/mochi
 qv2ray-plugin-trojan_Qv2ray.json,Qv2ray/mochi
 snes9x_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-visualboyadvance-m_borger.json,borger/scoop-emulators
+visualboyadvance-m.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 ppsspp_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -7371,7 +7372,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -8738,7 +8739,7 @@ thewitchshouse-en.json,beerpiss/scoop-bucket
 imazing.json,beerpiss/scoop-bucket
 ntlite.json,beerpiss/scoop-bucket
 evkey.json,beerpiss/scoop-bucket
-microsoftedge_beerpiss.json,beerpiss/scoop-bucket
+microsoftedge.json,beerpiss/scoop-bucket
 itunes-np.json,beerpiss/scoop-bucket
 slidershim.json,beerpiss/scoop-bucket
 miru_beerpiss.json,beerpiss/scoop-bucket
@@ -8913,7 +8914,7 @@ icora.json,Small-Ku/turbo-bucket
 hoyo-gacha.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
 sarasa-super-ttc.json,Small-Ku/turbo-bucket
-starward_Small-Ku.json,Small-Ku/turbo-bucket
+starward.json,Small-Ku/turbo-bucket
 dmm-fast-launcher.json,Small-Ku/turbo-bucket
 yae-achievement.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
