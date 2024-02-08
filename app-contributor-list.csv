@@ -336,6 +336,7 @@ task-coach.json,ScoopInstaller/Extras
 winrar.json,ScoopInstaller/Extras
 oras.json,ScoopInstaller/Extras
 euler.json,ScoopInstaller/Extras
+wxformbuilder.json,ScoopInstaller/Extras
 joe.json,ScoopInstaller/Extras
 tracy.json,ScoopInstaller/Extras
 wsl2-distro-manager.json,ScoopInstaller/Extras
@@ -824,6 +825,7 @@ pia-desktop.json,ScoopInstaller/Extras
 komga.json,ScoopInstaller/Extras
 launchy.json,ScoopInstaller/Extras
 tribler.json,ScoopInstaller/Extras
+tiddlydesktop.json,ScoopInstaller/Extras
 github.json,ScoopInstaller/Extras
 lunarvim.json,ScoopInstaller/Extras
 yubikey-personalization-gui.json,ScoopInstaller/Extras
@@ -1011,7 +1013,7 @@ staxrip.json,ScoopInstaller/Extras
 godot-mono.json,ScoopInstaller/Extras
 eclipse-modeling.json,ScoopInstaller/Extras
 trillian.json,ScoopInstaller/Extras
-jetbrains-toolbox.json,ScoopInstaller/Extras
+jetbrains-toolbox_ScoopInstaller.json,ScoopInstaller/Extras
 nuclear_ScoopInstaller.json,ScoopInstaller/Extras
 umi-ocr-paddle.json,ScoopInstaller/Extras
 fadetop.json,ScoopInstaller/Extras
@@ -1354,7 +1356,7 @@ hashcheck.json,ScoopInstaller/Extras
 ausweisapp2.json,ScoopInstaller/Extras
 vcredist2008.json,ScoopInstaller/Extras
 sunshine.json,ScoopInstaller/Extras
-vscode_ScoopInstaller.json,ScoopInstaller/Extras
+vscode.json,ScoopInstaller/Extras
 signal.json,ScoopInstaller/Extras
 laragon.json,ScoopInstaller/Extras
 gridplayer.json,ScoopInstaller/Extras
@@ -1380,7 +1382,7 @@ dosbox-x.json,ScoopInstaller/Extras
 textadept.json,ScoopInstaller/Extras
 freemove.json,ScoopInstaller/Extras
 nekoray.json,ScoopInstaller/Extras
-qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
+qownnotes.json,ScoopInstaller/Extras
 sozi.json,ScoopInstaller/Extras
 milkytracker.json,ScoopInstaller/Extras
 perfview.json,ScoopInstaller/Extras
@@ -6721,7 +6723,7 @@ GeoGebra_dodorz.json,dodorz/scoop
 GSpot.json,dodorz/scoop
 HackMD.json,dodorz/scoop
 Shortcut_dodorz.json,dodorz/scoop
-TiddlyDesktop.json,dodorz/scoop
+TiddlyDesktop_dodorz.json,dodorz/scoop
 Notepad--_dodorz.json,dodorz/scoop
 scoop-completion_dodorz.json,dodorz/scoop
 WinSW.Net2.json,dodorz/scoop
@@ -7401,7 +7403,7 @@ desmume.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-redream-dev_borger.json,borger/scoop-emulators
+redream-dev.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -8773,7 +8775,7 @@ adguardhome-beta.json,beerpiss/scoop-bucket
 thewitchshouse-jp.json,beerpiss/scoop-bucket
 miru_beerpiss.json,beerpiss/scoop-bucket
 libretta.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 ariang-native_beerpiss.json,beerpiss/scoop-bucket
 ib-en.json,beerpiss/scoop-bucket
 unxwb.json,beerpiss/scoop-bucket
