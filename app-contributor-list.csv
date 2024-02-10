@@ -661,6 +661,7 @@ memreduct.json,ScoopInstaller/Extras
 webpicmd.json,ScoopInstaller/Extras
 cloudcompare.json,ScoopInstaller/Extras
 ytsubconverter.json,ScoopInstaller/Extras
+recyclarr.json,ScoopInstaller/Extras
 iographica.json,ScoopInstaller/Extras
 lbry.json,ScoopInstaller/Extras
 windirstat.json,ScoopInstaller/Extras
@@ -1383,9 +1384,10 @@ dosbox-x.json,ScoopInstaller/Extras
 textadept.json,ScoopInstaller/Extras
 freemove.json,ScoopInstaller/Extras
 nekoray.json,ScoopInstaller/Extras
-qownnotes.json,ScoopInstaller/Extras
+qownnotes_ScoopInstaller.json,ScoopInstaller/Extras
 sozi.json,ScoopInstaller/Extras
 milkytracker.json,ScoopInstaller/Extras
+free42.json,ScoopInstaller/Extras
 perfview.json,ScoopInstaller/Extras
 cherrytree.json,ScoopInstaller/Extras
 video-compare.json,ScoopInstaller/Extras
@@ -1945,6 +1947,7 @@ discord.json,ScoopInstaller/Extras
 spotify-qt.json,ScoopInstaller/Extras
 keepass-plugin-kpenhentryview.json,ScoopInstaller/Extras
 regiontoshare.json,ScoopInstaller/Extras
+ab-av1.json,ScoopInstaller/Extras
 keepass-plugin-keepasshttp.json,ScoopInstaller/Extras
 redis-tui.json,ScoopInstaller/Extras
 flutter.json,ScoopInstaller/Extras
@@ -2203,6 +2206,7 @@ gcc-arm-none-linux-gnueabihf.json,ScoopInstaller/Extras
 bitmessage.json,ScoopInstaller/Extras
 pdf-xchange-editor.json,ScoopInstaller/Extras
 steam-desktop-authenticator.json,ScoopInstaller/Extras
+restic-browser.json,ScoopInstaller/Extras
 keystore-explorer.json,ScoopInstaller/Extras
 spotify.json,ScoopInstaller/Extras
 meinplatz.json,ScoopInstaller/Extras
@@ -5034,7 +5038,7 @@ chromecacheview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 hashmyfiles_ScoopInstaller.json,ScoopInstaller/Nirsoft
 faview.json,ScoopInstaller/Nirsoft
 uninstallview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-simplecodegenerator.json,ScoopInstaller/Nirsoft
+simplecodegenerator_ScoopInstaller.json,ScoopInstaller/Nirsoft
 imagecacheviewer_ScoopInstaller.json,ScoopInstaller/Nirsoft
 dataprotectiondecryptor_ScoopInstaller.json,ScoopInstaller/Nirsoft
 shellmenunew_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5079,7 +5083,7 @@ deviceioview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 webcookiessniffer_ScoopInstaller.json,ScoopInstaller/Nirsoft
 appaudioconfig_ScoopInstaller.json,ScoopInstaller/Nirsoft
 filetypesman_ScoopInstaller.json,ScoopInstaller/Nirsoft
-wifihistoryview.json,ScoopInstaller/Nirsoft
+wifihistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 downtester_ScoopInstaller.json,ScoopInstaller/Nirsoft
 acm.json,ScoopInstaller/Nirsoft
 chromehistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5743,7 +5747,7 @@ droppoint.json,hoilc/scoop-lemon
 summon.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
-fvm.json,hoilc/scoop-lemon
+fvm_hoilc.json,hoilc/scoop-lemon
 openra_hoilc.json,hoilc/scoop-lemon
 nvenc.json,hoilc/scoop-lemon
 drmemory-nightly.json,hoilc/scoop-lemon
@@ -7368,7 +7372,7 @@ xenia_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
@@ -8330,7 +8334,7 @@ icns.json,hu3rror/scoop-muggle
 xanmod-WSL2.json,hu3rror/scoop-muggle
 neat-converter.json,hu3rror/scoop-muggle
 logseq_hu3rror.json,hu3rror/scoop-muggle
-pdfpatcher.json,hu3rror/scoop-muggle
+pdfpatcher_hu3rror.json,hu3rror/scoop-muggle
 caesium_hu3rror.json,hu3rror/scoop-muggle
 universal-watermark-disabler.json,hu3rror/scoop-muggle
 dota2_realblood.json,hu3rror/scoop-muggle
@@ -8373,7 +8377,7 @@ weylus_hu3rror.json,hu3rror/scoop-muggle
 neovim_hu3rror.json,hu3rror/scoop-muggle
 clipboard-online.json,hu3rror/scoop-muggle
 DocBox.json,hu3rror/scoop-muggle
-NatTypeTester_hu3rror.json,hu3rror/scoop-muggle
+NatTypeTester.json,hu3rror/scoop-muggle
 lito-music.json,hu3rror/scoop-muggle
 mpv-handler.json,hu3rror/scoop-muggle
 gingko.json,hu3rror/scoop-muggle
@@ -8837,7 +8841,7 @@ adguardhome-beta.json,beerpiss/scoop-bucket
 thewitchshouse-jp.json,beerpiss/scoop-bucket
 miru_beerpiss.json,beerpiss/scoop-bucket
 libretta.json,beerpiss/scoop-bucket
-microsoftedge_beerpiss.json,beerpiss/scoop-bucket
+microsoftedge.json,beerpiss/scoop-bucket
 ariang-native_beerpiss.json,beerpiss/scoop-bucket
 ib-en.json,beerpiss/scoop-bucket
 unxwb.json,beerpiss/scoop-bucket
