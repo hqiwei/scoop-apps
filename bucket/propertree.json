@@ -8,14 +8,6 @@
     "hash": "a954e4a065debc2f6fa863b632bbb445b36dc4c65da3d1758b36a2b3fbeab794",
     "extract_dir": "ProperTree-a9eee92a4d321b537303a6a3fac2ae3692ebd101",
     "bin": "ProperTree.bat",
-    "shortcuts": [
-        [
-            "ProperTree.bat",
-            "ProperTree"
-        ]
-    ],
-    "pre_install": "if (!(Test-Path \"$persist_dir\\Scripts\\settings.json\")) { Set-Content \"$dir\\Scripts\\settings.json\" '{}' -Encoding Ascii }",
-    "persist": "Scripts\\settings.json",
     "checkver": {
         "url": "https://github.com/corpnewt/ProperTree/commits/master.atom",
         "regex": "(?s)>(\\d+)-(\\d+)-(\\d+)T.*?/(?<sha>[0-9a-f]{40})",
