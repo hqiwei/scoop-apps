@@ -1031,7 +1031,6 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 inkscape-ext-textext.json,ivaquero/scoopet
 jigdo.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
-pot-desktop.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
 veracrypt.json,ivaquero/scoopet
 twitchdropsminer.json,Calinou/scoop-games
@@ -3084,7 +3083,7 @@ myeventviewer_ScoopInstaller.json,ScoopInstaller/Nirsoft
 winmailpassrec_ScoopInstaller.json,ScoopInstaller/Nirsoft
 diskcountersview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 firmwaretablesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-filetypesman_ScoopInstaller.json,ScoopInstaller/Nirsoft
+filetypesman.json,ScoopInstaller/Nirsoft
 simpleprogramdebugger_ScoopInstaller.json,ScoopInstaller/Nirsoft
 websitesniffer_ScoopInstaller.json,ScoopInstaller/Nirsoft
 nirext_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -3799,7 +3798,7 @@ aliyundrive-webdav_hoilc.json,hoilc/scoop-lemon
 astro-cli.json,hoilc/scoop-lemon
 sleep.json,hoilc/scoop-lemon
 chinesesubfinder.json,hoilc/scoop-lemon
-pot.json,hoilc/scoop-lemon
+pot_hoilc.json,hoilc/scoop-lemon
 xdown.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
 worsttrace.json,hoilc/scoop-lemon
@@ -4659,14 +4658,14 @@ snes9x-dev_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-redream-dev_borger.json,borger/scoop-emulators
+redream-dev.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
@@ -5792,7 +5791,7 @@ zstd_akirco.json,akirco/aki-apps
 BaiduNetdisk_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 rufus.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
@@ -6382,7 +6381,7 @@ doc-downloader.json,DoveBoy/Apps
 lux_DoveBoy.json,DoveBoy/Apps
 nu_DoveBoy.json,DoveBoy/Apps
 sunloginclientsos.json,DoveBoy/Apps
-emeditor_DoveBoy.json,DoveBoy/Apps
+emeditor.json,DoveBoy/Apps
 translumo.json,DoveBoy/Apps
 youtube-dl_DoveBoy.json,DoveBoy/Apps
 qalculate.json,DoveBoy/Apps
@@ -7094,7 +7093,7 @@ neeview.json,hu3rror/scoop-muggle
 neat-reader.json,hu3rror/scoop-muggle
 cheat-engine.json,hu3rror/scoop-muggle
 imagine_hu3rror.json,hu3rror/scoop-muggle
-pot-desktop_hu3rror.json,hu3rror/scoop-muggle
+pot-desktop.json,hu3rror/scoop-muggle
 goodsync-10.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
