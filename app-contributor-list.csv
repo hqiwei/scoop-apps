@@ -1024,7 +1024,6 @@ vscode-win7.json,ivaquero/scoopet
 subversion.json,ivaquero/scoopet
 eudic.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
-spyder.json,ivaquero/scoopet
 clash-nyanpasu.json,ivaquero/scoopet
 reader.json,ivaquero/scoopet
 baidunetdisk_ivaquero.json,ivaquero/scoopet
@@ -4658,14 +4657,14 @@ snes9x-dev_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
-redream-dev.json,borger/scoop-emulators
+redream-dev_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
@@ -4687,7 +4686,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
@@ -5791,7 +5790,7 @@ zstd_akirco.json,akirco/aki-apps
 BaiduNetdisk_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 rufus.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
@@ -6003,7 +6002,7 @@ sarasa-fixed-slab-j-nerd-font.json,jonz94/scoop-sarasa-nerd-fonts
 sarasa-term-tc-nerd-font.json,jonz94/scoop-sarasa-nerd-fonts
 sarasa-fixed-k-nerd-font.json,jonz94/scoop-sarasa-nerd-fonts
 imageglass.json,DoveBoy/Apps
-crystaldiskinfo-shizuku-edition_DoveBoy.json,DoveBoy/Apps
+crystaldiskinfo-shizuku-edition.json,DoveBoy/Apps
 hyper-beta.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
@@ -6094,6 +6093,7 @@ esearch.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
 wincompose.json,DoveBoy/Apps
 clink-completions_DoveBoy.json,DoveBoy/Apps
+crystaldiskinfo-aoi-edition.json,DoveBoy/Apps
 vcredist-aio.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
 draw.io_DoveBoy.json,DoveBoy/Apps
