@@ -1016,6 +1016,7 @@ weasel.json,ivaquero/scoopet
 filecentipede.json,ivaquero/scoopet
 autodarkmode_ivaquero.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
+buzz.json,ivaquero/scoopet
 winrar.json,ivaquero/scoopet
 tencent-meeting.json,ivaquero/scoopet
 git-cn.json,ivaquero/scoopet
@@ -3304,7 +3305,7 @@ balabolka.json,hoilc/scoop-lemon
 chart-testing.json,hoilc/scoop-lemon
 nohttp-cli.json,hoilc/scoop-lemon
 projclean.json,hoilc/scoop-lemon
-homedale.json,hoilc/scoop-lemon
+homedale_hoilc.json,hoilc/scoop-lemon
 juicity.json,hoilc/scoop-lemon
 iiscrypto.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
@@ -4661,9 +4662,9 @@ privacysexy.json,couleur-tweak-tips/utils
 mesen_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
-xenia-canary.json,borger/scoop-emulators
+xenia-canary_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
@@ -4687,7 +4688,7 @@ mesen-s_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 ppsspp-dev_borger.json,borger/scoop-emulators
-ryujinx-ava_borger.json,borger/scoop-emulators
+ryujinx-ava.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
@@ -4763,7 +4764,7 @@ ExplorerXP.json,dodorz/scoop
 src-highlight.json,dodorz/scoop
 WinSW.Net4.json,dodorz/scoop
 Capture2Text-zh-cn.json,dodorz/scoop
-Buzz.json,dodorz/scoop
+Buzz_dodorz.json,dodorz/scoop
 CoverYourTracks.json,dodorz/scoop
 Umi-OCR1.json,dodorz/scoop
 Yosoro.json,dodorz/scoop
@@ -5901,7 +5902,7 @@ python_akirco.json,akirco/aki-apps
 you-get_akirco.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 tesseract_akirco.json,akirco/aki-apps
-notion_akirco.json,akirco/aki-apps
+notion.json,akirco/aki-apps
 mpxplay_akirco.json,akirco/aki-apps
 redis-desktop-manager_akirco.json,akirco/aki-apps
 bilibili-livehime_akirco.json,akirco/aki-apps
@@ -6010,6 +6011,7 @@ etcher.json,DoveBoy/Apps
 reqable.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
 ttyd_DoveBoy.json,DoveBoy/Apps
+raptor-standalone.json,DoveBoy/Apps
 pwsh-beta_DoveBoy.json,DoveBoy/Apps
 mihomo-compatible-go120.json,DoveBoy/Apps
 dua_DoveBoy.json,DoveBoy/Apps
@@ -6100,7 +6102,7 @@ quasar_DoveBoy.json,DoveBoy/Apps
 cmder-full_DoveBoy.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
 capture2text_DoveBoy.json,DoveBoy/Apps
-typora.json,DoveBoy/Apps
+typora_DoveBoy.json,DoveBoy/Apps
 heu-kms-activator.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
@@ -6196,6 +6198,7 @@ joinersplitter.json,DoveBoy/Apps
 mpv.net.json,DoveBoy/Apps
 ffmpeg-nightly_DoveBoy.json,DoveBoy/Apps
 shotcut.json,DoveBoy/Apps
+chromedriver-canary.json,DoveBoy/Apps
 winfetch_DoveBoy.json,DoveBoy/Apps
 revokemsgpatcher_DoveBoy.json,DoveBoy/Apps
 waifu2x-ncnn-vulkan_DoveBoy.json,DoveBoy/Apps
@@ -6316,6 +6319,7 @@ sudo_DoveBoy.json,DoveBoy/Apps
 waifu2x-snowshell_DoveBoy.json,DoveBoy/Apps
 v2raya-git.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
+raptor-integrated.json,DoveBoy/Apps
 naiveproxy_DoveBoy.json,DoveBoy/Apps
 winscp.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
@@ -6405,6 +6409,7 @@ pwsh_DoveBoy.json,DoveBoy/Apps
 calibre.json,DoveBoy/Apps
 typioca_DoveBoy.json,DoveBoy/Apps
 pywxdump.json,DoveBoy/Apps
+liveautorecord.json,DoveBoy/Apps
 handbrake-cli_DoveBoy.json,DoveBoy/Apps
 pixivutil2.json,DoveBoy/Apps
 spacedrive.json,DoveBoy/Apps
@@ -6440,7 +6445,7 @@ clash-verge_DoveBoy.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
-fastcopy_DoveBoy.json,DoveBoy/Apps
+fastcopy.json,DoveBoy/Apps
 openoffice.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 shadowsocks-qtun-plugin.json,DoveBoy/Apps
