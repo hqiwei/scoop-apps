@@ -200,6 +200,7 @@ steam-theme-Zehn.json,Weidows-projects/scoop-3rd
 g-helper.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
 psmodule-GuiCompletion.json,Weidows-projects/scoop-3rd
+GUI.for.SingBox.json,Weidows-projects/scoop-3rd
 wutils.json,Weidows-projects/scoop-3rd
 QuickCut.json,Weidows-projects/scoop-3rd
 clash.net.json,Weidows-projects/scoop-3rd
@@ -234,9 +235,11 @@ ApiPost_Weidows-projects.json,Weidows-projects/scoop-3rd
 UmamusumeResponseAnalyzer.json,Weidows-projects/scoop-3rd
 dev-sidecar.json,Weidows-projects/scoop-3rd
 TagUI.json,Weidows-projects/scoop-3rd
+fav.json,Weidows-projects/scoop-3rd
 encore.json,Weidows-projects/scoop-3rd
 BADownloaderUI.json,Weidows-projects/scoop-3rd
 pipx-poetry.json,Weidows-projects/scoop-3rd
+WePE.json,Weidows-projects/scoop-3rd
 Windows-Theme-HighContract-Tokyo-Night.json,Weidows-projects/scoop-3rd
 WingetUI.json,Weidows-projects/scoop-3rd
 WondershareUniconverter.json,Weidows-projects/scoop-3rd
@@ -965,7 +968,6 @@ n-m3u8dl-re.json,ivaquero/scoopet
 freecad-cn.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
-feishu.json,ivaquero/scoopet
 umi-ocr-all-lang.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
@@ -1034,6 +1036,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 inkscape-ext-textext.json,ivaquero/scoopet
 jigdo.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
+pot-desktop.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
 veracrypt.json,ivaquero/scoopet
 twitchdropsminer.json,Calinou/scoop-games
@@ -1044,6 +1047,7 @@ vkquake2.json,Calinou/scoop-games
 snes9x-dev.json,Calinou/scoop-games
 tickompiler.json,Calinou/scoop-games
 scummvm.json,Calinou/scoop-games
+steam-achievement-manager-syntaxtm.json,Calinou/scoop-games
 redeclipse.json,Calinou/scoop-games
 ryujinx.json,Calinou/scoop-games
 dwarf-fortress-lnp.json,Calinou/scoop-games
@@ -1117,6 +1121,7 @@ xenia.json,Calinou/scoop-games
 stuntrally.json,Calinou/scoop-games
 retroarch-nightly.json,Calinou/scoop-games
 supertuxkart.json,Calinou/scoop-games
+csauto.json,Calinou/scoop-games
 kega-fusion.json,Calinou/scoop-games
 wemod.json,Calinou/scoop-games
 fillets.json,Calinou/scoop-games
@@ -3261,7 +3266,7 @@ fuso.json,hoilc/scoop-lemon
 hostess.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
 winfi-lite.json,hoilc/scoop-lemon
-cosbrowser_hoilc.json,hoilc/scoop-lemon
+cosbrowser.json,hoilc/scoop-lemon
 jj_hoilc.json,hoilc/scoop-lemon
 fusion-lang.json,hoilc/scoop-lemon
 nvenc.json,hoilc/scoop-lemon
@@ -3807,7 +3812,7 @@ aliyundrive-webdav_hoilc.json,hoilc/scoop-lemon
 astro-cli.json,hoilc/scoop-lemon
 sleep.json,hoilc/scoop-lemon
 chinesesubfinder.json,hoilc/scoop-lemon
-pot_hoilc.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 xdown.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
 worsttrace.json,hoilc/scoop-lemon
@@ -4122,7 +4127,7 @@ tencent-transmart.json,hoilc/scoop-lemon
 qbittorrent-enhanced.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
 arp-ping.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 tun2brook.json,hoilc/scoop-lemon
 videoduplicatefinder.json,hoilc/scoop-lemon
@@ -4705,7 +4710,7 @@ xemu_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
@@ -5433,7 +5438,7 @@ NPowerTray.json,dodorz/scoop
 justmd.json,dodorz/scoop
 Notepad--_dodorz.json,dodorz/scoop
 DiagramDesigner.json,dodorz/scoop
-CCleaner.json,dodorz/scoop
+CCleaner_dodorz.json,dodorz/scoop
 TarTool.json,dodorz/scoop
 adobe-source-han-sans-tw-fonts.json,dodorz/scoop
 TesseractData-cn.json,dodorz/scoop
@@ -5673,7 +5678,7 @@ fluent-reader.json,akirco/aki-apps
 wx_qq_revokeMsgPatcher.json,akirco/aki-apps
 pup_akirco.json,akirco/aki-apps
 draw.io.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 fzf_akirco.json,akirco/aki-apps
 homedale_akirco.json,akirco/aki-apps
 fastbootEnhance.json,akirco/aki-apps
@@ -5993,7 +5998,7 @@ hyper-beta.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 sublime-text_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 hgrep.json,DoveBoy/Apps
 keymousego.json,DoveBoy/Apps
@@ -6013,6 +6018,7 @@ everything-cli_DoveBoy.json,DoveBoy/Apps
 npm-tab-completion.json,DoveBoy/Apps
 crystaldiskinfo-kureikei.json,DoveBoy/Apps
 clashxw.json,DoveBoy/Apps
+lky-officetools.json,DoveBoy/Apps
 watttoolkit.json,DoveBoy/Apps
 zoxide_DoveBoy.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
@@ -6529,7 +6535,7 @@ winsw_DoveBoy.json,DoveBoy/Apps
 clone-voice.json,DoveBoy/Apps
 googletranslateipcheck.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
-dingtalk.json,DoveBoy/Apps
+dingtalk_DoveBoy.json,DoveBoy/Apps
 7zip-beta_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
 puttytel.json,DoveBoy/Apps
@@ -6549,7 +6555,7 @@ sandboxie-plus-np.json,DoveBoy/Apps
 reader.json,DoveBoy/Apps
 anyburn.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
-clash-verge-rev.json,DoveBoy/Apps
+clash-verge-rev_DoveBoy.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
 scoop-shim_DoveBoy.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
@@ -7131,7 +7137,7 @@ neeview.json,hu3rror/scoop-muggle
 neat-reader.json,hu3rror/scoop-muggle
 cheat-engine.json,hu3rror/scoop-muggle
 imagine_hu3rror.json,hu3rror/scoop-muggle
-pot-desktop.json,hu3rror/scoop-muggle
+pot-desktop_hu3rror.json,hu3rror/scoop-muggle
 goodsync-10.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
@@ -7159,7 +7165,7 @@ shadowsocks-rust-gnu.json,aoisummer/scoop-bucket
 cinebench.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 veracrypt-legacy-np.json,aoisummer/scoop-bucket
-thunderbird-zh-cn.json,aoisummer/scoop-bucket
+thunderbird-zh-cn_aoisummer.json,aoisummer/scoop-bucket
 cpu-z-zh.json,aoisummer/scoop-bucket
 veracrypt-np.json,aoisummer/scoop-bucket
 crystaldiskmark-shizuku.json,aoisummer/scoop-bucket
