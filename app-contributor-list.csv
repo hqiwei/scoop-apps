@@ -1022,6 +1022,7 @@ autodarkmode_ivaquero.json,ivaquero/scoopet
 obs-studio-cn.json,ivaquero/scoopet
 buzz.json,ivaquero/scoopet
 winrar.json,ivaquero/scoopet
+fishing-funds.json,ivaquero/scoopet
 tencent-meeting.json,ivaquero/scoopet
 git-cn.json,ivaquero/scoopet
 kicad-cn.json,ivaquero/scoopet
@@ -2663,7 +2664,7 @@ notify.json,arch3rPro/PST-Bucket
 verycapture.json,arch3rPro/PST-Bucket
 gowitness.json,arch3rPro/PST-Bucket
 MonitorOff.json,arch3rPro/PST-Bucket
-another-redis-desktop-manager.json,arch3rPro/PST-Bucket
+another-redis-desktop-manager_arch3rPro.json,arch3rPro/PST-Bucket
 emeditor.json,arch3rPro/PST-Bucket
 FluentSearch.json,arch3rPro/PST-Bucket
 curl-impersonate.json,arch3rPro/PST-Bucket
@@ -3288,7 +3289,7 @@ dorion.json,hoilc/scoop-lemon
 tts-vue.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
 integer-scaler.json,hoilc/scoop-lemon
-nomeiryoui.json,hoilc/scoop-lemon
+nomeiryoui_hoilc.json,hoilc/scoop-lemon
 suwellofd.json,hoilc/scoop-lemon
 zip2dir.json,hoilc/scoop-lemon
 deck.json,hoilc/scoop-lemon
@@ -4680,7 +4681,7 @@ qualitymuncher.json,couleur-tweak-tips/utils
 privacysexy.json,couleur-tweak-tips/utils
 mesen_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
-desmume.json,borger/scoop-emulators
+desmume_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
@@ -5371,7 +5372,7 @@ WGestures-np.json,dodorz/scoop
 scoop-completion.json,dodorz/scoop
 Arturo.json,dodorz/scoop
 SetSFN_dodorz.json,dodorz/scoop
-WeChat.json,dodorz/scoop
+WeChat_dodorz.json,dodorz/scoop
 CPod.json,dodorz/scoop
 TypeAndRun.json,dodorz/scoop
 BuiltIn_dodorz.json,dodorz/scoop
@@ -5767,7 +5768,7 @@ oxipng_akirco.json,akirco/aki-apps
 hwmonitor.json,akirco/aki-apps
 bat2exe.json,akirco/aki-apps
 clash-dotnet.json,akirco/aki-apps
-koodo-reader.json,akirco/aki-apps
+koodo-reader_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
@@ -5828,7 +5829,7 @@ nircmd_akirco.json,akirco/aki-apps
 docker-desktop.json,akirco/aki-apps
 unbound_akirco.json,akirco/aki-apps
 vcredist2015.json,akirco/aki-apps
-officetoolplus.json,akirco/aki-apps
+officetoolplus_akirco.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 vcredist2012.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -5856,7 +5857,6 @@ rnr_akirco.json,akirco/aki-apps
 ffmpeg_akirco.json,akirco/aki-apps
 telegram.json,akirco/aki-apps
 obs-studio.json,akirco/aki-apps
-fishingfunds.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
 xmind.json,akirco/aki-apps
 gradle4_akirco.json,akirco/aki-apps
@@ -5867,7 +5867,7 @@ neofetch_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
 pandoc_akirco.json,akirco/aki-apps
 mysql57_akirco.json,akirco/aki-apps
-qtscrcpy.json,akirco/aki-apps
+qtscrcpy_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 cpu-z.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
@@ -6475,7 +6475,7 @@ clash-verge_DoveBoy.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
-fastcopy_DoveBoy.json,DoveBoy/Apps
+fastcopy.json,DoveBoy/Apps
 openoffice.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 shadowsocks-qtun-plugin.json,DoveBoy/Apps
@@ -7567,7 +7567,7 @@ windowstoolbox.json,beerpiss/scoop-bucket
 stash.json,beerpiss/scoop-bucket
 absolutetouch.json,beerpiss/scoop-bucket
 adguardhome_beerpiss.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 sound-of-sorting.json,beerpiss/scoop-bucket
 sl-h.json,beerpiss/scoop-bucket
 cider-nightly.json,beerpiss/scoop-bucket
