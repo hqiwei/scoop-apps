@@ -1269,6 +1269,7 @@ n-m3u8dl-re.json,ivaquero/scoopet
 freecad-cn.json,ivaquero/scoopet
 partition-assistant.json,ivaquero/scoopet
 diskgenius-cn.json,ivaquero/scoopet
+feishu.json,ivaquero/scoopet
 umi-ocr-all-lang.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 lyx-cn.json,ivaquero/scoopet
@@ -3812,7 +3813,7 @@ findstr.json,hoilc/scoop-lemon
 uwscr.json,hoilc/scoop-lemon
 colored-text.json,hoilc/scoop-lemon
 pipe-rename.json,hoilc/scoop-lemon
-timoni.json,hoilc/scoop-lemon
+timoni_hoilc.json,hoilc/scoop-lemon
 leafview.json,hoilc/scoop-lemon
 arrowdl.json,hoilc/scoop-lemon
 aliyundrive-webdav_hoilc.json,hoilc/scoop-lemon
@@ -4358,6 +4359,7 @@ lavfilters-np.json,ScoopInstaller/Nonportable
 winbtrfs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 vokoscreenng-np.json,ScoopInstaller/Nonportable
 auto-dark-mode-np.json,ScoopInstaller/Nonportable
+k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 dshidmini-np.json,ScoopInstaller/Nonportable
 ditto-np_ScoopInstaller.json,ScoopInstaller/Nonportable
@@ -5466,7 +5468,7 @@ visualboyadvance-m_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
@@ -5943,6 +5945,7 @@ wxHexEditor.json,dodorz/scoop
 CopyTranslator_dodorz.json,dodorz/scoop
 KillEmAll.json,dodorz/scoop
 OpenLiveWriter.json,dodorz/scoop
+AFFiNE.json,dodorz/scoop
 FCrackZip.json,dodorz/scoop
 CreaWriter.json,dodorz/scoop
 PDFMatePDFConverter.json,dodorz/scoop
@@ -6045,6 +6048,7 @@ WriteMonkey3.json,dodorz/scoop
 CyLog.json,dodorz/scoop
 Shortcut_dodorz.json,dodorz/scoop
 QQPlayer_dodorz.json,dodorz/scoop
+lanzou.json,dodorz/scoop
 NanoEmacs.json,dodorz/scoop
 MiKTeX_dodorz.json,dodorz/scoop
 MarkEditor.json,dodorz/scoop
@@ -6383,7 +6387,7 @@ interactsh_ViCrack.json,ViCrack/scoop-bucket
 wub_ViCrack.json,ViCrack/scoop-bucket
 godzilla_ViCrack.json,ViCrack/scoop-bucket
 RegConverter_ViCrack.json,ViCrack/scoop-bucket
-sliver_ViCrack.json,ViCrack/scoop-bucket
+sliver.json,ViCrack/scoop-bucket
 rakshasa_ViCrack.json,ViCrack/scoop-bucket
 w3cschool_ViCrack.json,ViCrack/scoop-bucket
 ffuf_ViCrack.json,ViCrack/scoop-bucket
@@ -6524,7 +6528,7 @@ shim_akirco.json,akirco/aki-apps
 winfetch_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
 trash_akirco.json,akirco/aki-apps
-yuque.json,akirco/aki-apps
+yuque_akirco.json,akirco/aki-apps
 bob.json,akirco/aki-apps
 googlechrome.json,akirco/aki-apps
 llvm_akirco.json,akirco/aki-apps
@@ -6567,7 +6571,7 @@ zstd_akirco.json,akirco/aki-apps
 BaiduNetdisk_akirco.json,akirco/aki-apps
 gow_akirco.json,akirco/aki-apps
 rufus.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 highlight_akirco.json,akirco/aki-apps
 bcut.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
@@ -6658,7 +6662,7 @@ gallery-dl_akirco.json,akirco/aki-apps
 gdrive_akirco.json,akirco/aki-apps
 electron-fiddle.json,akirco/aki-apps
 crow-translate.json,akirco/aki-apps
-jetbrains-toolbox.json,akirco/aki-apps
+jetbrains-toolbox_akirco.json,akirco/aki-apps
 terminus.json,akirco/aki-apps
 grex_akirco.json,akirco/aki-apps
 memreduct.json,akirco/aki-apps
@@ -7226,7 +7230,7 @@ clash-verge_DoveBoy.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 calctus.json,DoveBoy/Apps
 buzz_DoveBoy.json,DoveBoy/Apps
-fastcopy.json,DoveBoy/Apps
+fastcopy_DoveBoy.json,DoveBoy/Apps
 openoffice.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 shadowsocks-qtun-plugin.json,DoveBoy/Apps
@@ -7515,7 +7519,7 @@ kotatogram.json,batkiz/backit
 soul.json,batkiz/backit
 gitty.json,batkiz/backit
 miniconda3_batkiz.json,batkiz/backit
-bitcomet_batkiz.json,batkiz/backit
+bitcomet.json,batkiz/backit
 sonic-pi.json,batkiz/backit
 posh-cargo_batkiz.json,batkiz/backit
 mdcat_batkiz.json,batkiz/backit
