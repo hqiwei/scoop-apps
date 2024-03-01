@@ -63,8 +63,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - kodybrown/scoop-nirsoft
 - littleli/scoop-clojure
 - arch3rPro/PST-Bucket
-- kkzzhizhou/scoop-zapps
 - rasa/scoops
+- kkzzhizhou/scoop-zapps
 - ScoopInstaller/Nirsoft
 - kidonng/sushi
 - hoilc/scoop-lemon
