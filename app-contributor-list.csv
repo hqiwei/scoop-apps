@@ -539,6 +539,7 @@ firefox-zh-cn.json,chawyehsu/dorado
 tockler.json,chawyehsu/dorado
 powershell.json,chawyehsu/dorado
 milton.json,chawyehsu/dorado
+swift-nightly.json,chawyehsu/dorado
 msys2-cn.json,chawyehsu/dorado
 setuna.json,chawyehsu/dorado
 jianyingpro.json,chawyehsu/dorado
@@ -1338,6 +1339,7 @@ baidunetdisk_ivaquero.json,ivaquero/scoopet
 inkscape-ext-textext.json,ivaquero/scoopet
 jigdo.json,ivaquero/scoopet
 gimp-cn.json,ivaquero/scoopet
+pot-desktop.json,ivaquero/scoopet
 neteasemusic_ivaquero.json,ivaquero/scoopet
 veracrypt.json,ivaquero/scoopet
 semeru19-jre.json,ScoopInstaller/Java
@@ -3649,7 +3651,7 @@ infobar.json,hoilc/scoop-lemon
 hop-cli.json,hoilc/scoop-lemon
 checkstyle.json,hoilc/scoop-lemon
 hubble.json,hoilc/scoop-lemon
-httpx.json,hoilc/scoop-lemon
+httpx_hoilc.json,hoilc/scoop-lemon
 clockpod.json,hoilc/scoop-lemon
 pure-data.json,hoilc/scoop-lemon
 hybrid.json,hoilc/scoop-lemon
@@ -3821,7 +3823,7 @@ aliyundrive-webdav_hoilc.json,hoilc/scoop-lemon
 astro-cli.json,hoilc/scoop-lemon
 sleep.json,hoilc/scoop-lemon
 chinesesubfinder.json,hoilc/scoop-lemon
-pot_hoilc.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 xdown.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
 worsttrace.json,hoilc/scoop-lemon
@@ -5473,7 +5475,7 @@ xemu_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 citra_borger.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
@@ -5989,6 +5991,7 @@ InterityDownloader.json,dodorz/scoop
 IcecreamPDFConverter.json,dodorz/scoop
 autojump.json,dodorz/scoop
 Dexpot.json,dodorz/scoop
+SquirrelShell.json,dodorz/scoop
 Soulseek.json,dodorz/scoop
 wxMEdit.json,dodorz/scoop
 autojump-rs.json,dodorz/scoop
@@ -6571,7 +6574,7 @@ xh_akirco.json,akirco/aki-apps
 restic_akirco.json,akirco/aki-apps
 nexusfont.json,akirco/aki-apps
 powertoys.json,akirco/aki-apps
-aliyundrive.json,akirco/aki-apps
+aliyundrive_akirco.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
 zstd_akirco.json,akirco/aki-apps
 BaiduNetdisk_akirco.json,akirco/aki-apps
@@ -6770,7 +6773,7 @@ hyper-beta.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 sublime-text_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 7zip_DoveBoy.json,DoveBoy/Apps
 hgrep.json,DoveBoy/Apps
 keymousego.json,DoveBoy/Apps
@@ -6842,7 +6845,7 @@ psreadline.json,DoveBoy/Apps
 sendto-menu-editor.json,DoveBoy/Apps
 clashrauto_DoveBoy.json,DoveBoy/Apps
 nomeiryoui_DoveBoy.json,DoveBoy/Apps
-waifu2x-extension-gui_DoveBoy.json,DoveBoy/Apps
+waifu2x-extension-gui.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 ttime.json,DoveBoy/Apps
 godmode.json,DoveBoy/Apps
@@ -7898,7 +7901,7 @@ neeview.json,hu3rror/scoop-muggle
 neat-reader.json,hu3rror/scoop-muggle
 cheat-engine.json,hu3rror/scoop-muggle
 imagine_hu3rror.json,hu3rror/scoop-muggle
-pot-desktop.json,hu3rror/scoop-muggle
+pot-desktop_hu3rror.json,hu3rror/scoop-muggle
 goodsync-10.json,hu3rror/scoop-muggle
 pixivbiu_hu3rror.json,hu3rror/scoop-muggle
 nhse.json,hu3rror/scoop-muggle
