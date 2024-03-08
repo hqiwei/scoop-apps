@@ -388,6 +388,7 @@ douyin-ide.json,chawyehsu/dorado
 openethereum.json,chawyehsu/dorado
 adiirc.json,chawyehsu/dorado
 ledger-live.json,chawyehsu/dorado
+crystaldiskmark-aoi-edition.json,chawyehsu/dorado
 flvextract.json,chawyehsu/dorado
 waifu2x-caffe.json,chawyehsu/dorado
 mycrypto.json,chawyehsu/dorado
@@ -489,6 +490,7 @@ neteaseuu.json,chawyehsu/dorado
 microsoftedge-canary.json,chawyehsu/dorado
 runany.json,chawyehsu/dorado
 bilibili-livehime.json,chawyehsu/dorado
+moonbit.json,chawyehsu/dorado
 speedtest-cli_chawyehsu.json,chawyehsu/dorado
 lceda-pro.json,chawyehsu/dorado
 dvm.json,chawyehsu/dorado
@@ -5452,7 +5454,6 @@ mesen-s_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
-ppsspp-dev_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -5460,23 +5461,19 @@ retroarch-nightly_borger.json,borger/scoop-emulators
 ryujinx-ava_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
-yuzu-dev.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
-citra.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
-simple64.json,borger/scoop-emulators
-yuzu_borger.json,borger/scoop-emulators
+simple64_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
-citra-canary.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
@@ -6327,6 +6324,7 @@ psexec.json,niheaven/scoop-sysinternals
 autologon.json,niheaven/scoop-sysinternals
 cpustres.json,niheaven/scoop-sysinternals
 shareenum.json,niheaven/scoop-sysinternals
+chat2db.json,ViCrack/scoop-bucket
 ysomap_ViCrack.json,ViCrack/scoop-bucket
 windterm.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
@@ -6473,7 +6471,7 @@ hellofont_akirco.json,akirco/aki-apps
 linear-desktop.json,akirco/aki-apps
 uwd.json,akirco/aki-apps
 TianRuoOCR_akirco.json,akirco/aki-apps
-ftnn.json,akirco/aki-apps
+ftnn_akirco.json,akirco/aki-apps
 fiddler.json,akirco/aki-apps
 composer_akirco.json,akirco/aki-apps
 cosbrowser_akirco.json,akirco/aki-apps
@@ -6593,7 +6591,7 @@ homedale_akirco.json,akirco/aki-apps
 koodo-reader_akirco.json,akirco/aki-apps
 windows-application-driver_akirco.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
-cyberduck_akirco.json,akirco/aki-apps
+cyberduck.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
 qt-creator.json,akirco/aki-apps
 marktext.json,akirco/aki-apps
@@ -6717,7 +6715,7 @@ scoop-search_akirco.json,akirco/aki-apps
 netch.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
-vscode.json,akirco/aki-apps
+vscode_akirco.json,akirco/aki-apps
 clash-dotnet.json,akirco/aki-apps
 jianyingpro_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -6819,6 +6817,7 @@ tenacity.json,naderi/scoop-bucket
 win-bash_naderi.json,naderi/scoop-bucket
 totalcommander-portable.json,naderi/scoop-bucket
 famistudio_naderi.json,naderi/scoop-bucket
+awgg_naderi.json,naderi/scoop-bucket
 coolplayer_naderi.json,naderi/scoop-bucket
 veracrypt-portable.json,naderi/scoop-bucket
 keyfinder.json,naderi/scoop-bucket
@@ -7424,7 +7423,7 @@ vivetool-gui_DoveBoy.json,DoveBoy/Apps
 clashn_DoveBoy.json,DoveBoy/Apps
 n_m3u8dl-re.json,DoveBoy/Apps
 bbk-cli_DoveBoy.json,DoveBoy/Apps
-crystaldiskmark-shizuku-edition.json,DoveBoy/Apps
+crystaldiskmark-shizuku-edition_DoveBoy.json,DoveBoy/Apps
 alisthelper-portable.json,DoveBoy/Apps
 raptor-standalone.json,DoveBoy/Apps
 dnsjumper.json,DoveBoy/Apps
@@ -7460,7 +7459,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 winmemorycleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 tageditor.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
 droppoint_DoveBoy.json,DoveBoy/Apps
@@ -7627,7 +7626,6 @@ yesplaymusic.json,DoveBoy/Apps
 starship_DoveBoy.json,DoveBoy/Apps
 dreamscene2.json,DoveBoy/Apps
 weylus.json,DoveBoy/Apps
-gnupg-np.json,DoveBoy/Apps
 http-downloader.json,DoveBoy/Apps
 john-the-ripper_DoveBoy.json,DoveBoy/Apps
 scoop-completion_DoveBoy.json,DoveBoy/Apps
@@ -8420,6 +8418,7 @@ apng2gif-cli.json,brian6932/dank-scoop
 technorino-qt5.json,brian6932/dank-scoop
 cotp.json,brian6932/dank-scoop
 sysdvr-client.json,brian6932/dank-scoop
+qview-jdp-nightly.json,brian6932/dank-scoop
 chatterino7.json,brian6932/dank-scoop
 catbox.json,brian6932/dank-scoop
 thorium.json,brian6932/dank-scoop
@@ -8858,7 +8857,7 @@ rare_Small-Ku.json,Small-Ku/turbo-bucket
 psst.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
-starward.json,Small-Ku/turbo-bucket
+starward_Small-Ku.json,Small-Ku/turbo-bucket
 icora.json,Small-Ku/turbo-bucket
 star-rail-tool.json,Small-Ku/turbo-bucket
 reshade-addon-dll.json,Small-Ku/turbo-bucket
@@ -8885,7 +8884,6 @@ link-plus.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R15.json,AkariiinMKII/Scoop4kariiin
 EmbyTheater.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R20.json,AkariiinMKII/Scoop4kariiin
-CrystalDiskMark-Aoi.json,AkariiinMKII/Scoop4kariiin
 ClashforWindows.json,AkariiinMKII/Scoop4kariiin
 TwinkleTray.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskInfo-Shizuku_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
@@ -8894,7 +8892,6 @@ Windows-screenFetch.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskInfo-KureiKei_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 yuzu_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 CleanMyWechat_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
-CrystalDiskMark-Shizuku_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R23.json,AkariiinMKII/Scoop4kariiin
 WhoAteMyRAM.json,AkariiinMKII/Scoop4kariiin
 yuzu-pineapple.json,AkariiinMKII/Scoop4kariiin

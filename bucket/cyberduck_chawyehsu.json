@@ -1,9 +1,8 @@
 {
-    "version": "8.7.3.40979",
-    "description": "Multiple protocols libre file transfer client",
     "homepage": "https://cyberduck.io/",
+    "description": "Multiple protocols libre file transfer client",
     "license": "GPL-2.0-or-later",
-    "notes": "Additional third party connection profiles can be installed to and found in '%APPDATA%\\Cyberduck\\Profiles'.",
+    "version": "8.7.3.40979",
     "url": "https://update.cyberduck.io/windows/Cyberduck-Installer-8.7.3.40979.msi",
     "hash": "52715075ca01fac1e5315464129a530ce655dede1312f71670729d967d2e6fdd",
     "extract_dir": "Cyberduck",
@@ -15,9 +14,10 @@
     ],
     "checkver": {
         "url": "https://cyberduck.io/changelog/",
-        "regex": "Cyberduck-Installer-([\\d.]+).msi"
+        "re": "Cyberduck-Installer-([\\d.]+).msi"
     },
     "autoupdate": {
         "url": "https://update.cyberduck.io/windows/Cyberduck-Installer-$version.msi"
-    }
+    },
+    "notes": "Additional third party connection profiles can be installed to and found in '%APPDATA%\\Cyberduck\\Profiles'."
 }
