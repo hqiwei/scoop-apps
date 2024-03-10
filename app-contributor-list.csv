@@ -3065,7 +3065,7 @@ iconsext.json,ScoopInstaller/Nirsoft
 cleanafterme_ScoopInstaller.json,ScoopInstaller/Nirsoft
 rtmpdumphelper_ScoopInstaller.json,ScoopInstaller/Nirsoft
 mailpv.json,ScoopInstaller/Nirsoft
-windeflogview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+windeflogview.json,ScoopInstaller/Nirsoft
 runfromprocess_ScoopInstaller.json,ScoopInstaller/Nirsoft
 hashmyfiles_ScoopInstaller.json,ScoopInstaller/Nirsoft
 runtimeclassesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -3962,7 +3962,7 @@ speex.json,hoilc/scoop-lemon
 zotero-beta.json,hoilc/scoop-lemon
 bbdown-nightly.json,hoilc/scoop-lemon
 snctl.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 pure-data.json,hoilc/scoop-lemon
 vocabulary.net.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
@@ -5436,6 +5436,7 @@ usbtreeview_couleur-tweak-tips.json,couleur-tweak-tips/utils
 smoothie.json,couleur-tweak-tips/utils
 ezshare.json,couleur-tweak-tips/utils
 qualitymuncher.json,couleur-tweak-tips/utils
+bflat_couleur-tweak-tips.json,couleur-tweak-tips/utils
 ffprogress.json,couleur-tweak-tips/utils
 mesen_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
@@ -5473,7 +5474,7 @@ xemu_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 sameboy_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
@@ -6534,7 +6535,7 @@ httpstat_akirco.json,akirco/aki-apps
 z.json,akirco/aki-apps
 regexp.json,akirco/aki-apps
 clean-my-pc.json,akirco/aki-apps
-aliyundrive.json,akirco/aki-apps
+aliyundrive_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 bilibili_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
@@ -6865,7 +6866,6 @@ api-monitor_naderi.json,naderi/scoop-bucket
 winpaletter.json,naderi/scoop-bucket
 uplay_naderi.json,naderi/scoop-bucket
 windows-update-viewer.json,naderi/scoop-bucket
-duck_naderi.json,naderi/scoop-bucket
 wavebox-portable.json,naderi/scoop-bucket
 ucalendar-portable.json,naderi/scoop-bucket
 aegisub_naderi.json,naderi/scoop-bucket
@@ -6946,7 +6946,7 @@ chrome-dev-portable.json,naderi/scoop-bucket
 filevoyager-portable.json,naderi/scoop-bucket
 winauth-portable.json,naderi/scoop-bucket
 waterfox-portable_naderi.json,naderi/scoop-bucket
-1by1_naderi.json,naderi/scoop-bucket
+1by1.json,naderi/scoop-bucket
 cpdf_naderi.json,naderi/scoop-bucket
 smart-svg-viewer.json,naderi/scoop-bucket
 cleanmgrplus.json,naderi/scoop-bucket
@@ -7014,7 +7014,7 @@ safeincloud.json,naderi/scoop-bucket
 fan-control.json,naderi/scoop-bucket
 xnview-classic-min.json,naderi/scoop-bucket
 csvsort_naderi.json,naderi/scoop-bucket
-processko_naderi.json,naderi/scoop-bucket
+processko.json,naderi/scoop-bucket
 copy-handler.json,naderi/scoop-bucket
 wigui.json,naderi/scoop-bucket
 picard-portable.json,naderi/scoop-bucket
@@ -7031,7 +7031,6 @@ windedit.json,naderi/scoop-bucket
 multidoge.json,naderi/scoop-bucket
 nanaget.json,naderi/scoop-bucket
 firefox-beta-de.json,naderi/scoop-bucket
-uninstalr_naderi.json,naderi/scoop-bucket
 youtube-local.json,naderi/scoop-bucket
 ydl-ui-portable.json,naderi/scoop-bucket
 firefox-portable-de.json,naderi/scoop-bucket
@@ -7711,7 +7710,7 @@ scrcpy_DoveBoy.json,DoveBoy/Apps
 pls.json,DoveBoy/Apps
 picturecleaner_DoveBoy.json,DoveBoy/Apps
 tiktokdownloader.json,DoveBoy/Apps
-fastcopy_DoveBoy.json,DoveBoy/Apps
+fastcopy.json,DoveBoy/Apps
 network-profile-name-changer.json,DoveBoy/Apps
 n_m3u8dl-cli_DoveBoy.json,DoveBoy/Apps
 termscp_DoveBoy.json,DoveBoy/Apps
@@ -8709,7 +8708,7 @@ stash.json,beerpiss/scoop-bucket
 imazing.json,beerpiss/scoop-bucket
 unxwb.json,beerpiss/scoop-bucket
 adguardhome.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 absolutetouchex.json,beerpiss/scoop-bucket
 arrayv.json,beerpiss/scoop-bucket
 scoop-search_beerpiss.json,beerpiss/scoop-bucket
