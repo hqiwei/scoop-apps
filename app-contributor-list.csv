@@ -2861,7 +2861,7 @@ livecontactsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 wirelessnetconsole_ScoopInstaller.json,ScoopInstaller/Nirsoft
 iedesignmode_ScoopInstaller.json,ScoopInstaller/Nirsoft
 pocketasterisk.json,ScoopInstaller/Nirsoft
-wifiinfoview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+wifiinfoview.json,ScoopInstaller/Nirsoft
 bluetoothcl_ScoopInstaller.json,ScoopInstaller/Nirsoft
 skypecontactsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 wirelesskeyview_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -4352,11 +4352,9 @@ wsl-ubuntu1804-arm.json,KNOXDEV/wsl
 wsl-ubuntu1804.json,KNOXDEV/wsl
 dshidmini-np.json,ScoopInstaller/Nonportable
 burp-suite-community-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-standard-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 musicbee-np.json,ScoopInstaller/Nonportable
 nodejs-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 omnidb-np_ScoopInstaller.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-basic-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 flash-drive-tester-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 workman-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 zadig-np.json,ScoopInstaller/Nonportable
@@ -4426,7 +4424,6 @@ voicemeeter-banana-np.json,ScoopInstaller/Nonportable
 textpad8-np.json,ScoopInstaller/Nonportable
 glasswire-np.json,ScoopInstaller/Nonportable
 zerotier-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-full-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 pdf24-creator-np.json,ScoopInstaller/Nonportable
 icaros-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 protonvpn-np.json,ScoopInstaller/Nonportable
@@ -4460,7 +4457,6 @@ sandboxie-plus-np.json,ScoopInstaller/Nonportable
 8gadgetpack-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lav-filters-megamix-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 lockhunter-np.json,ScoopInstaller/Nonportable
-k-lite-codec-pack-mega-np_ScoopInstaller.json,ScoopInstaller/Nonportable
 kodoimport.json,echoiron/echo-scoop
 mouseinc_echoiron.json,echoiron/echo-scoop
 kodobrowser.json,echoiron/echo-scoop
@@ -5455,8 +5451,8 @@ snes9x_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -6073,7 +6069,7 @@ Qute.json,dodorz/scoop
 Npackd.json,dodorz/scoop
 lanzou.json,dodorz/scoop
 sK1.json,dodorz/scoop
-FastCopy.json,dodorz/scoop
+FastCopy_dodorz.json,dodorz/scoop
 QQPlayer_dodorz.json,dodorz/scoop
 AbaReplace.json,dodorz/scoop
 autojump.json,dodorz/scoop
@@ -6616,7 +6612,7 @@ mysql57_akirco.json,akirco/aki-apps
 youtube-dl_akirco.json,akirco/aki-apps
 xidel_akirco.json,akirco/aki-apps
 memo.json,akirco/aki-apps
-wechatdevtools.json,akirco/aki-apps
+wechatdevtools_akirco.json,akirco/aki-apps
 youtube-dl-gui.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
@@ -6711,7 +6707,7 @@ termscp_akirco.json,akirco/aki-apps
 nsis.json,akirco/aki-apps
 pandoc_akirco.json,akirco/aki-apps
 lepton_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 redis5.json,akirco/aki-apps
 vcredist2019.json,akirco/aki-apps
 say_akirco.json,akirco/aki-apps
@@ -6721,7 +6717,7 @@ scoop-search_akirco.json,akirco/aki-apps
 netch.json,akirco/aki-apps
 sudo_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 clash-dotnet.json,akirco/aki-apps
 jianyingpro_akirco.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
@@ -7464,7 +7460,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 musicfreedesktop.json,DoveBoy/Apps
 winmemorycleaner_DoveBoy.json,DoveBoy/Apps
 bililive-go_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 tageditor.json,DoveBoy/Apps
 lanzou-gui.json,DoveBoy/Apps
 droppoint_DoveBoy.json,DoveBoy/Apps
@@ -7582,7 +7578,7 @@ text-grab.json,DoveBoy/Apps
 winsw_DoveBoy.json,DoveBoy/Apps
 bilibilitoolpro.json,DoveBoy/Apps
 joplin.json,DoveBoy/Apps
-clash-verge-rev.json,DoveBoy/Apps
+clash-verge-rev_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark.json,DoveBoy/Apps
 scoop-search-shilangyu.json,DoveBoy/Apps
 irfanview.json,DoveBoy/Apps
@@ -7611,7 +7607,6 @@ lazy-posh-git.json,DoveBoy/Apps
 gns3.json,DoveBoy/Apps
 qq-nt.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
-k-lite-codec-pack-full-np_DoveBoy.json,DoveBoy/Apps
 ffmpeg-nightly_DoveBoy.json,DoveBoy/Apps
 python-tab-completion.json,DoveBoy/Apps
 ffmpeg-shared_DoveBoy.json,DoveBoy/Apps
@@ -7676,12 +7671,12 @@ powertoys_DoveBoy.json,DoveBoy/Apps
 sharex-dev_DoveBoy.json,DoveBoy/Apps
 sshwifty.json,DoveBoy/Apps
 clash-verge-rev-portable.json,DoveBoy/Apps
-qalculate.json,DoveBoy/Apps
+qalculate_DoveBoy.json,DoveBoy/Apps
 go-musicfox.json,DoveBoy/Apps
 cloudflarespeedtest_DoveBoy.json,DoveBoy/Apps
 compactgui.json,DoveBoy/Apps
 gopeed-portable.json,DoveBoy/Apps
-qqlive_DoveBoy.json,DoveBoy/Apps
+qqlive.json,DoveBoy/Apps
 ugrep_DoveBoy.json,DoveBoy/Apps
 bulk-crap-uninstaller.json,DoveBoy/Apps
 freefilesync_DoveBoy.json,DoveBoy/Apps
