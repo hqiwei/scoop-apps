@@ -81,6 +81,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - borger/scoop-emulators
 - Qv2ray/mochi
 - TheRandomLabs/Scoop-Bucket
+- kiennq/scoop-misc
 - niheaven/scoop-sysinternals
 - ViCrack/scoop-bucket
 - akirco/aki-apps
@@ -94,8 +95,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - iquiw/scoop-bucket
 - AStupidBear/scoop-bear
 - hu3rror/scoop-muggle
-- aoisummer/scoop-bucket
 - brian6932/dank-scoop
+- aoisummer/scoop-bucket
 - KnotUntied/scoop-fonts
 - Darkatse/Scoop-Darkatse
 - TianXiaTech/scoop-txt
