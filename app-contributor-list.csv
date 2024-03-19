@@ -1336,7 +1336,7 @@ qq-nt.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
 cursor.json,ivaquero/scoopet
-baidunetdisk_ivaquero.json,ivaquero/scoopet
+baidunetdisk.json,ivaquero/scoopet
 pot-desktop.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 n-m3u8dl-re.json,ivaquero/scoopet
@@ -2681,6 +2681,7 @@ gitminer.json,arch3rPro/PST-Bucket
 myexploit.json,arch3rPro/PST-Bucket
 super-xray.json,arch3rPro/PST-Bucket
 whatweb.json,arch3rPro/PST-Bucket
+goproxy.json,arch3rPro/PST-Bucket
 mateuszex.json,arch3rPro/PST-Bucket
 rustcat.json,arch3rPro/PST-Bucket
 dirsearch.json,arch3rPro/PST-Bucket
@@ -6189,7 +6190,7 @@ ps3-system-software_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
-xenia-canary_borger.json,borger/scoop-emulators
+xenia-canary.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 ryujinx-ava_borger.json,borger/scoop-emulators
@@ -6197,7 +6198,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -6208,7 +6209,7 @@ project64-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
@@ -6466,7 +6467,7 @@ vim_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
 charles_akirco.json,akirco/aki-apps
 cpu-z.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -6563,7 +6564,7 @@ PowerSession_akirco.json,akirco/aki-apps
 nexusfont.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 bilibili-livehime_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
@@ -6602,7 +6603,7 @@ far_akirco.json,akirco/aki-apps
 dart_akirco.json,akirco/aki-apps
 ydl-ui.json,akirco/aki-apps
 zstd_akirco.json,akirco/aki-apps
-neteasemusic_akirco.json,akirco/aki-apps
+neteasemusic.json,akirco/aki-apps
 shimo.json,akirco/aki-apps
 switchhosts.json,akirco/aki-apps
 xzvoice.json,akirco/aki-apps
@@ -7320,7 +7321,7 @@ pnpm-tab-completion.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 windirstat_DoveBoy.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 registry-key-jumper.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
@@ -7471,7 +7472,7 @@ v2raya.json,DoveBoy/Apps
 clink-flex-prompt_DoveBoy.json,DoveBoy/Apps
 optimizer_DoveBoy.json,DoveBoy/Apps
 mpv.net-beta.json,DoveBoy/Apps
-dingtalk_DoveBoy.json,DoveBoy/Apps
+dingtalk.json,DoveBoy/Apps
 dnsjumper.json,DoveBoy/Apps
 tinypng.json,DoveBoy/Apps
 blockthespot_DoveBoy.json,DoveBoy/Apps
