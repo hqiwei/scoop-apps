@@ -1,0 +1,63 @@
+{
+    "homepage": "https://www.swift.org/",
+    "description": "The Swift Programming Language (Nightly builds)",
+    "license": "Apache-2.0",
+    "version": "20240319.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/thebrowsercompany/swift-build/releases/download/20240319.3/installer-amd64.exe",
+            "hash": "e3c3b9cc34c7d121d0e2d12e9ca91e79f706b7e345da1587b512af6caba77f55"
+        },
+        "arm64": {
+            "url": "https://github.com/thebrowsercompany/swift-build/releases/download/20240319.3/installer-arm64.exe",
+            "hash": "26fcf6ee6d04a18a86cf0341cd5c99e6cc6255bd885c145d780a22c755f4f777"
+        }
+    },
+    "depends": "dorado/wix",
+    "suggest": {
+        "python39": "versions/python39",
+        "vcredist": "extras/vcredist2022"
+    },
+    "installer": {
+        "script": [
+            "wix.exe burn extract \"$dir\\$fname\" -o \"$dir\\extracted\" -oba \"$dir\\extracted\"",
+            "Get-ChildItem \"$dir\\extracted\\WixAttachedContainer\\*.msi\" | ForEach-Object {",
+            "    if ($_.Name -match 'rtl.msi') {",
+            "        Expand-MsiArchive $_ \"$dir\\LocalApp\\Programs\\Swift\\Runtimes\\0.0.0\\usr\\bin\"",
+            "    } else {",
+            "        Expand-MsiArchive $_ \"$dir\"",
+            "    }",
+            "}",
+            "Remove-Item \"$dir\\$fname\",\"$dir\\extracted\" -Recurse | Out-Null"
+        ]
+    },
+    "env_add_path": [
+        "LocalApp\\Programs\\Swift\\Toolchains\\0.0.0+Asserts\\usr\\bin",
+        "LocalApp\\Programs\\Swift\\Runtimes\\0.0.0\\usr\\bin"
+    ],
+    "env_set": {
+        "SDKROOT": "$dir\\LocalApp\\Programs\\Swift\\Platforms\\0.0.0\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "DEVELOPER_DIR": "$dir\\LocalApp\\Programs\\Swift\\Platforms\\0.0.0\\Windows.platform\\Developer"
+    },
+    "checkver": {
+        "github": "https://api.github.com/repos/thebrowsercompany/swift-build/releases?per_page=50",
+        "regex": "tag/([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-amd64.exe"
+            },
+            "arm64": {
+                "url": "https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-arm64.exe"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "notes": [
+        "Swift Toolchain does not bundle Python39 which is a requirement for LLDB to work.",
+        "Please install Python39 from versions/python39 if you want to use the LLDB debugger."
+    ]
+}
