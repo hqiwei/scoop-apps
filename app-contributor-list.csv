@@ -5765,7 +5765,7 @@ SciHubEVA_dodorz.json,dodorz/scoop
 NetView_dodorz.json,dodorz/scoop
 newLISP.json,dodorz/scoop
 Story-writer.json,dodorz/scoop
-Buzz_dodorz.json,dodorz/scoop
+Buzz.json,dodorz/scoop
 SpeQ.json,dodorz/scoop
 RegSeeker.json,dodorz/scoop
 HoeKey.json,dodorz/scoop
@@ -6362,7 +6362,7 @@ sliver_ViCrack.json,ViCrack/scoop-bucket
 gda.json,ViCrack/scoop-bucket
 contextmenumanager_ViCrack.json,ViCrack/scoop-bucket
 ksubdomain_ViCrack.json,ViCrack/scoop-bucket
-jar-analyzer_ViCrack.json,ViCrack/scoop-bucket
+jar-analyzer.json,ViCrack/scoop-bucket
 rogue_mysql_server.json,ViCrack/scoop-bucket
 rad.json,ViCrack/scoop-bucket
 cyberapi.json,ViCrack/scoop-bucket
@@ -6398,7 +6398,7 @@ anew.json,ViCrack/scoop-bucket
 crawlergo.json,ViCrack/scoop-bucket
 afrog_ViCrack.json,ViCrack/scoop-bucket
 bluelife-host-editor.json,ViCrack/scoop-bucket
-observerward.json,ViCrack/scoop-bucket
+observerward_ViCrack.json,ViCrack/scoop-bucket
 ysomap_ViCrack.json,ViCrack/scoop-bucket
 proguard_ViCrack.json,ViCrack/scoop-bucket
 java-memshell-generator.json,ViCrack/scoop-bucket
@@ -6469,7 +6469,7 @@ vim_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
 charles_akirco.json,akirco/aki-apps
 cpu-z.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -6877,7 +6877,7 @@ pscalendar.json,DoveBoy/Apps
 clashsinicizationtool.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
-clash-verge-rev_DoveBoy.json,DoveBoy/Apps
+clash-verge-rev.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
 ipinfo_DoveBoy.json,DoveBoy/Apps
@@ -7360,7 +7360,7 @@ sshwifty.json,DoveBoy/Apps
 sharex.json,DoveBoy/Apps
 sunloginclientsos.json,DoveBoy/Apps
 crystaldiskmark.json,DoveBoy/Apps
-chromedriver-beta_DoveBoy.json,DoveBoy/Apps
+chromedriver-beta.json,DoveBoy/Apps
 sendto-menu-editor.json,DoveBoy/Apps
 pdfpatcher_DoveBoy.json,DoveBoy/Apps
 final2x-portable.json,DoveBoy/Apps
@@ -7465,7 +7465,7 @@ context.json,naderi/scoop-bucket
 focus-writer.json,naderi/scoop-bucket
 font-nika.json,naderi/scoop-bucket
 gyroflow.json,naderi/scoop-bucket
-bluej_naderi.json,naderi/scoop-bucket
+bluej.json,naderi/scoop-bucket
 boom_naderi.json,naderi/scoop-bucket
 thunderbird-portable_naderi.json,naderi/scoop-bucket
 jsonedit_naderi.json,naderi/scoop-bucket
@@ -7947,7 +7947,7 @@ antsword_batkiz.json,batkiz/backit
 dotnet-script_batkiz.json,batkiz/backit
 hopp-cli_batkiz.json,batkiz/backit
 micro_batkiz.json,batkiz/backit
-bitcomet_batkiz.json,batkiz/backit
+bitcomet.json,batkiz/backit
 glow_batkiz.json,batkiz/backit
 pueue_batkiz.json,batkiz/backit
 ghdl.json,batkiz/backit
@@ -8858,7 +8858,7 @@ r-4.1.2.json,ShuguangSun/sgs-scoop-bucket
 naotu.json,ShuguangSun/sgs-scoop-bucket
 subversion_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 micromamba-cn.json,ShuguangSun/sgs-scoop-bucket
-foobar2000_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+foobar2000.json,ShuguangSun/sgs-scoop-bucket
 public-sans.json,ShuguangSun/sgs-scoop-bucket
 git-lfs_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 rtools_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -8904,7 +8904,7 @@ coqui-stt.json,Small-Ku/turbo-bucket
 jxl-winthumb.json,Small-Ku/turbo-bucket
 qbittorrent-enhanced_Small-Ku.json,Small-Ku/turbo-bucket
 source-han-sans-vf-ttc.json,Small-Ku/turbo-bucket
-starward.json,Small-Ku/turbo-bucket
+starward_Small-Ku.json,Small-Ku/turbo-bucket
 kondo_Small-Ku.json,Small-Ku/turbo-bucket
 icora.json,Small-Ku/turbo-bucket
 star-rail-tool.json,Small-Ku/turbo-bucket
