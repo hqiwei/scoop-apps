@@ -355,6 +355,7 @@ tor-browser-zh-cn.json,chawyehsu/dorado
 himalaya_chawyehsu.json,chawyehsu/dorado
 docker-cli.json,chawyehsu/dorado
 jiduscan.json,chawyehsu/dorado
+esbuild.json,chawyehsu/dorado
 figma.json,chawyehsu/dorado
 clash-verge.json,chawyehsu/dorado
 anaconda3_chawyehsu.json,chawyehsu/dorado
@@ -521,7 +522,6 @@ mcskin3d.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 altserver.json,chawyehsu/dorado
 binance.json,chawyehsu/dorado
-esbuild.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 rustup-msvc-np.json,chawyehsu/dorado
 neteasemusic.json,chawyehsu/dorado
@@ -1337,7 +1337,7 @@ qq-nt.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
 cursor.json,ivaquero/scoopet
-baidunetdisk_ivaquero.json,ivaquero/scoopet
+baidunetdisk.json,ivaquero/scoopet
 pot-desktop.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 n-m3u8dl-re.json,ivaquero/scoopet
@@ -6469,7 +6469,7 @@ vim_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
 charles_akirco.json,akirco/aki-apps
 cpu-z.json,akirco/aki-apps
-ftnn.json,akirco/aki-apps
+ftnn_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -6478,7 +6478,7 @@ macchina_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 poetry_akirco.json,akirco/aki-apps
 jabba_akirco.json,akirco/aki-apps
-wechatdevtools_akirco.json,akirco/aki-apps
+wechatdevtools.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 ShadowsocksR_akirco.json,akirco/aki-apps
@@ -6566,7 +6566,7 @@ PowerSession_akirco.json,akirco/aki-apps
 nexusfont.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 bilibili-livehime_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
@@ -6877,7 +6877,7 @@ pscalendar.json,DoveBoy/Apps
 clashsinicizationtool.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
-clash-verge-rev.json,DoveBoy/Apps
+clash-verge-rev_DoveBoy.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
 ipinfo_DoveBoy.json,DoveBoy/Apps
