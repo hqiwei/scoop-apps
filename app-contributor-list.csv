@@ -1337,7 +1337,7 @@ qq-nt.json,ivaquero/scoopet
 sagemath-cn.json,ivaquero/scoopet
 tencent-edu.json,ivaquero/scoopet
 cursor.json,ivaquero/scoopet
-baidunetdisk.json,ivaquero/scoopet
+baidunetdisk_ivaquero.json,ivaquero/scoopet
 pot-desktop.json,ivaquero/scoopet
 miniconda-cn.json,ivaquero/scoopet
 n-m3u8dl-re.json,ivaquero/scoopet
@@ -1666,16 +1666,6 @@ liberica16-jre.json,ScoopInstaller/Java
 graalvm-nightly.json,ScoopInstaller/Java
 sapmachine-jdk.json,ScoopInstaller/Java
 liberica17-lite-jdk.json,ScoopInstaller/Java
-spotify-latest.json,TheRandomLabs/Scoop-Spotify
-spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
-spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
-spicetify-jqbx.json,TheRandomLabs/Scoop-Spotify
-google-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes.json,TheRandomLabs/Scoop-Spotify
-spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-blockthespot.json,TheRandomLabs/Scoop-Spotify
-genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 emule-cv.json,ScoopInstaller/Versions
 chromium-dev-nosync.json,ScoopInstaller/Versions
 avidemux-nightly.json,ScoopInstaller/Versions
@@ -2118,6 +2108,16 @@ wireshark3.json,ScoopInstaller/Versions
 zip-beta.json,ScoopInstaller/Versions
 php73.json,ScoopInstaller/Versions
 premake4.json,ScoopInstaller/Versions
+spotify-latest.json,TheRandomLabs/Scoop-Spotify
+spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
+spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
+spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
+spicetify-jqbx.json,TheRandomLabs/Scoop-Spotify
+google-spicetify.json,TheRandomLabs/Scoop-Spotify
+spicetify-themes.json,TheRandomLabs/Scoop-Spotify
+spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
+blockthespot.json,TheRandomLabs/Scoop-Spotify
+genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 snowman.json,TheCjw/scoop-retools
 pin.json,TheCjw/scoop-retools
 il2cppdumper.json,TheCjw/scoop-retools
@@ -2995,7 +2995,7 @@ folrep.json,ScoopInstaller/Nirsoft
 winlister_ScoopInstaller.json,ScoopInstaller/Nirsoft
 mobilefilesearch_ScoopInstaller.json,ScoopInstaller/Nirsoft
 browserdownloadsview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-insideclipboard_ScoopInstaller.json,ScoopInstaller/Nirsoft
+insideclipboard.json,ScoopInstaller/Nirsoft
 dumpedid_ScoopInstaller.json,ScoopInstaller/Nirsoft
 recentfilesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 filetypesman_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5440,7 +5440,6 @@ danske-mem-cleaner.json,couleur-tweak-tips/utils
 ffprogress.json,couleur-tweak-tips/utils
 qualitymuncher.json,couleur-tweak-tips/utils
 qm-py.json,couleur-tweak-tips/utils
-privacysexy.json,couleur-tweak-tips/utils
 utvideo.json,couleur-tweak-tips/utils
 ezshare.json,couleur-tweak-tips/utils
 discordcompressor.json,couleur-tweak-tips/utils
@@ -6195,7 +6194,7 @@ dolphin-beta_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
-ryujinx-ava_borger.json,borger/scoop-emulators
+ryujinx-ava.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -6205,7 +6204,7 @@ mgba_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 mesen-s_borger.json,borger/scoop-emulators
-xemu_borger.json,borger/scoop-emulators
+xemu.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
@@ -6217,7 +6216,7 @@ xenia_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
@@ -6478,7 +6477,7 @@ macchina_akirco.json,akirco/aki-apps
 x264_akirco.json,akirco/aki-apps
 poetry_akirco.json,akirco/aki-apps
 jabba_akirco.json,akirco/aki-apps
-wechatdevtools.json,akirco/aki-apps
+wechatdevtools_akirco.json,akirco/aki-apps
 everything_akirco.json,akirco/aki-apps
 optipng_akirco.json,akirco/aki-apps
 ShadowsocksR_akirco.json,akirco/aki-apps
@@ -6566,7 +6565,7 @@ PowerSession_akirco.json,akirco/aki-apps
 nexusfont.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 bilibili-livehime_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
@@ -6655,7 +6654,7 @@ gsudo_akirco.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
-officetoolplus_akirco.json,akirco/aki-apps
+officetoolplus.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 directoryPredictor.json,akirco/aki-apps
