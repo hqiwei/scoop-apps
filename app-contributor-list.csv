@@ -1900,7 +1900,7 @@ stunnel-beta.json,ScoopInstaller/Versions
 php56.json,ScoopInstaller/Versions
 miniconda3-py39.json,ScoopInstaller/Versions
 ruby24.json,ScoopInstaller/Versions
-swift-nightly.json,ScoopInstaller/Versions
+swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
 typora0.11.18.json,ScoopInstaller/Versions
 cuda11.3.json,ScoopInstaller/Versions
 php70.json,ScoopInstaller/Versions
@@ -3898,6 +3898,7 @@ legendary_hoilc.json,hoilc/scoop-lemon
 minipad2.json,hoilc/scoop-lemon
 keepass-plugin-kpscript.json,hoilc/scoop-lemon
 cozo.json,hoilc/scoop-lemon
+opensearch-cli.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 autocorrect_hoilc.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
@@ -5629,7 +5630,7 @@ FeiQ.json,dodorz/scoop
 FAAD2_dodorz.json,dodorz/scoop
 FullscreenPhotoViewer.json,dodorz/scoop
 RevoUninstallerFree.json,dodorz/scoop
-BitComet.json,dodorz/scoop
+BitComet_dodorz.json,dodorz/scoop
 MP4Tools.json,dodorz/scoop
 adobe-source-han-sans-hk-fonts.json,dodorz/scoop
 cheat_dodorz.json,dodorz/scoop
@@ -6195,7 +6196,6 @@ dolphin-beta_borger.json,borger/scoop-emulators
 xenia-canary_borger.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
-ryujinx-ava_borger.json,borger/scoop-emulators
 tegra-rcm-gui.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
@@ -6215,7 +6215,7 @@ snes9x-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -6467,7 +6467,7 @@ postman.json,akirco/aki-apps
 php74_akirco.json,akirco/aki-apps
 vim_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
-charles.json,akirco/aki-apps
+charles_akirco.json,akirco/aki-apps
 cpu-z.json,akirco/aki-apps
 ftnn_akirco.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
@@ -6635,7 +6635,7 @@ python_akirco.json,akirco/aki-apps
 vcredist2022.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 rustdesk.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 nc.json,akirco/aki-apps
 youtube-dl-wpf_akirco.json,akirco/aki-apps
@@ -6878,7 +6878,6 @@ clashsinicizationtool.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
 clash-verge-rev_DoveBoy.json,DoveBoy/Apps
-charles_DoveBoy.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
 ipinfo_DoveBoy.json,DoveBoy/Apps
@@ -7074,7 +7073,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 sniffnet.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 john-the-ripper_DoveBoy.json,DoveBoy/Apps
 waifu2x-caffe_DoveBoy.json,DoveBoy/Apps
 picturecleaner_DoveBoy.json,DoveBoy/Apps
@@ -7229,6 +7228,7 @@ psgithub_DoveBoy.json,DoveBoy/Apps
 qtscrcpy_DoveBoy.json,DoveBoy/Apps
 littletips-portable.json,DoveBoy/Apps
 alist_DoveBoy.json,DoveBoy/Apps
+miniserve_DoveBoy.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 curl_DoveBoy.json,DoveBoy/Apps
 yank-note_DoveBoy.json,DoveBoy/Apps
@@ -8461,6 +8461,7 @@ dandanplay_aoisummer.json,aoisummer/scoop-bucket
 netch_aoisummer.json,aoisummer/scoop-bucket
 pcap-dnsproxy.json,aoisummer/scoop-bucket
 aliwangwang.json,aoisummer/scoop-bucket
+winscp-chs.json,aoisummer/scoop-bucket
 autologon_aoisummer.json,aoisummer/scoop-bucket
 iosevka-ss04.json,KnotUntied/scoop-fonts
 iosevka_KnotUntied.json,KnotUntied/scoop-fonts
@@ -8844,7 +8845,7 @@ LXGWWenKaiScreen_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 robotoslab.json,ShuguangSun/sgs-scoop-bucket
 pdf-xchange-editor.json,ShuguangSun/sgs-scoop-bucket
 openjdk15_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+micromamba.json,ShuguangSun/sgs-scoop-bucket
 openjdk17_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tree-sitter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 texlive_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
