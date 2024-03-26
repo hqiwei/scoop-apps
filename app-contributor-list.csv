@@ -260,6 +260,7 @@ psmodule-GuiCompletion.json,Weidows-projects/scoop-3rd
 bongocat-osu.json,Weidows-projects/scoop-3rd
 Kemono-scraper.json,Weidows-projects/scoop-3rd
 Jvedio.json,Weidows-projects/scoop-3rd
+hello-vam.json,Weidows-projects/scoop-3rd
 PartAssist.json,Weidows-projects/scoop-3rd
 UmaAi.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
@@ -969,6 +970,7 @@ andika.json,matthewjberger/scoop-nerd-fonts
 AnonymousPro-NF-Mono.json,matthewjberger/scoop-nerd-fonts
 twitchdropsminer.json,Calinou/scoop-games
 tooniversal.json,Calinou/scoop-games
+ddnet.json,Calinou/scoop-games
 naev.json,Calinou/scoop-games
 openclonk.json,Calinou/scoop-games
 cemu-dev.json,Calinou/scoop-games
@@ -1900,7 +1902,7 @@ stunnel-beta.json,ScoopInstaller/Versions
 php56.json,ScoopInstaller/Versions
 miniconda3-py39.json,ScoopInstaller/Versions
 ruby24.json,ScoopInstaller/Versions
-swift-nightly_ScoopInstaller.json,ScoopInstaller/Versions
+swift-nightly.json,ScoopInstaller/Versions
 typora0.11.18.json,ScoopInstaller/Versions
 cuda11.3.json,ScoopInstaller/Versions
 php70.json,ScoopInstaller/Versions
@@ -6215,7 +6217,7 @@ snes9x-dev_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 pcsx2-dev_borger.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
@@ -6635,7 +6637,7 @@ python_akirco.json,akirco/aki-apps
 vcredist2022.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 rustdesk.json,akirco/aki-apps
-electerm.json,akirco/aki-apps
+electerm_akirco.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 nc.json,akirco/aki-apps
 youtube-dl-wpf_akirco.json,akirco/aki-apps
@@ -7114,7 +7116,7 @@ onlyoffice-desktopeditors.json,DoveBoy/Apps
 ffmpeg-nightly_DoveBoy.json,DoveBoy/Apps
 joplin.json,DoveBoy/Apps
 aria2_DoveBoy.json,DoveBoy/Apps
-alisthelper_DoveBoy.json,DoveBoy/Apps
+alisthelper.json,DoveBoy/Apps
 ps-guicompletion.json,DoveBoy/Apps
 neovim_DoveBoy.json,DoveBoy/Apps
 pterm.json,DoveBoy/Apps
@@ -7787,6 +7789,7 @@ sarasa-fixed-slab-cl-nerd-font.json,jonz94/scoop-sarasa-nerd-fonts
 sarasa-term-j-nerd-font.json,jonz94/scoop-sarasa-nerd-fonts
 confettysh.json,charmbracelet/scoop-bucket
 vhs_charmbracelet.json,charmbracelet/scoop-bucket
+freeze.json,charmbracelet/scoop-bucket
 glow_charmbracelet.json,charmbracelet/scoop-bucket
 soft-serve.json,charmbracelet/scoop-bucket
 melt.json,charmbracelet/scoop-bucket
@@ -8845,7 +8848,7 @@ LXGWWenKaiScreen_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 robotoslab.json,ShuguangSun/sgs-scoop-bucket
 pdf-xchange-editor.json,ShuguangSun/sgs-scoop-bucket
 openjdk15_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-micromamba.json,ShuguangSun/sgs-scoop-bucket
+micromamba_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk17_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 tree-sitter_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 texlive_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
