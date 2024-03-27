@@ -63,8 +63,8 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - kodybrown/scoop-nirsoft
 - littleli/scoop-clojure
 - arch3rPro/PST-Bucket
-- rasa/scoops
 - kkzzhizhou/scoop-zapps
+- rasa/scoops
 - ScoopInstaller/Nirsoft
 - kidonng/sushi
 - hoilc/scoop-lemon
@@ -77,13 +77,14 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - cderv/r-bucket
 - hermanjustnu/scoop-emulators
 - couleur-tweak-tips/utils
+- everyx/scoop-bucket
 - dodorz/scoop
 - borger/scoop-emulators
 - Qv2ray/mochi
 - TheRandomLabs/Scoop-Bucket
 - kiennq/scoop-misc
-- niheaven/scoop-sysinternals
 - ViCrack/scoop-bucket
+- niheaven/scoop-sysinternals
 - akirco/aki-apps
 - TheRandomLabs/Scoop-Python
 - DoveBoy/Apps
@@ -91,6 +92,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - jonz94/scoop-sarasa-nerd-fonts
 - charmbracelet/scoop-bucket
 - amorphobia/siku
+- ygguorun/scoop-bucket
 - batkiz/backit
 - iquiw/scoop-bucket
 - AStupidBear/scoop-bear
