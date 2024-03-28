@@ -981,6 +981,7 @@ trenchbroom.json,Calinou/scoop-games
 rtcwcoop.json,Calinou/scoop-games
 urbanterror.json,Calinou/scoop-games
 applewin.json,Calinou/scoop-games
+shipwright.json,Calinou/scoop-games
 pacmc.json,Calinou/scoop-games
 redeclipse.json,Calinou/scoop-games
 nbtexplorer_Calinou.json,Calinou/scoop-games
@@ -1310,7 +1311,6 @@ tencent-meeting.json,ivaquero/scoopet
 jigdo.json,ivaquero/scoopet
 utools_ivaquero.json,ivaquero/scoopet
 rectanglewin.json,ivaquero/scoopet
-feishu.json,ivaquero/scoopet
 chatgpt-cli.json,ivaquero/scoopet
 clash-nyanpasu.json,ivaquero/scoopet
 cnkiexpress.json,ivaquero/scoopet
@@ -6220,7 +6220,6 @@ AnyTXTSearcher-np.json,dodorz/scoop
 SquirrelShell.json,dodorz/scoop
 SodaPlayer.json,dodorz/scoop
 cemu-dev_borger.json,borger/scoop-emulators
-shipwright.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
@@ -6511,7 +6510,7 @@ vim_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
 charles_akirco.json,akirco/aki-apps
 cpu-z.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 wechat_akirco.json,akirco/aki-apps
 time_akirco.json,akirco/aki-apps
 mdcat_akirco.json,akirco/aki-apps
@@ -6677,7 +6676,7 @@ python_akirco.json,akirco/aki-apps
 vcredist2022.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 rustdesk.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 nc.json,akirco/aki-apps
 youtube-dl-wpf_akirco.json,akirco/aki-apps
@@ -6918,7 +6917,7 @@ pscalendar.json,DoveBoy/Apps
 clashsinicizationtool.json,DoveBoy/Apps
 mapdownload.json,DoveBoy/Apps
 bbdown-beta.json,DoveBoy/Apps
-clash-verge-rev_DoveBoy.json,DoveBoy/Apps
+clash-verge-rev.json,DoveBoy/Apps
 fd_DoveBoy.json,DoveBoy/Apps
 scoop-validator_DoveBoy.json,DoveBoy/Apps
 ipinfo_DoveBoy.json,DoveBoy/Apps
@@ -6971,7 +6970,7 @@ pnpm-tab-completion.json,DoveBoy/Apps
 go-proxy-bingai.json,DoveBoy/Apps
 retrieval-based-voice-conversion-webui.json,DoveBoy/Apps
 windirstat_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 registry-key-jumper.json,DoveBoy/Apps
 dark_DoveBoy.json,DoveBoy/Apps
 openssh_DoveBoy.json,DoveBoy/Apps
@@ -7163,7 +7162,7 @@ trafficmonitor_DoveBoy.json,DoveBoy/Apps
 auto-unlocker.json,DoveBoy/Apps
 cmwtat-digital-edition.json,DoveBoy/Apps
 imagemagick-lean_DoveBoy.json,DoveBoy/Apps
-fastcopy_DoveBoy.json,DoveBoy/Apps
+fastcopy.json,DoveBoy/Apps
 ali.json,DoveBoy/Apps
 watttoolkit.json,DoveBoy/Apps
 qbittorrent.json,DoveBoy/Apps
