@@ -5685,6 +5685,7 @@ TinyPlay.json,dodorz/scoop
 VSubst.json,dodorz/scoop
 nvPY.json,dodorz/scoop
 PasteEx_dodorz.json,dodorz/scoop
+Echosync.json,dodorz/scoop
 Transfersh.json,dodorz/scoop
 MadEdit-mod.json,dodorz/scoop
 XVI32.json,dodorz/scoop
@@ -6242,7 +6243,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-vita3k_borger.json,borger/scoop-emulators
+vita3k.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -6348,6 +6349,7 @@ chmac.json,ViCrack/scoop-bucket
 maye_ViCrack.json,ViCrack/scoop-bucket
 kscan_ViCrack.json,ViCrack/scoop-bucket
 scan4all_ViCrack.json,ViCrack/scoop-bucket
+finalshell_ViCrack.json,ViCrack/scoop-bucket
 quake_rs_ViCrack.json,ViCrack/scoop-bucket
 reqstress.json,ViCrack/scoop-bucket
 rakshasa_ViCrack.json,ViCrack/scoop-bucket
@@ -6736,7 +6738,7 @@ rnr_akirco.json,akirco/aki-apps
 aria-ng-gui.json,akirco/aki-apps
 yt-dlp_akirco.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
-bilibili.json,akirco/aki-apps
+bilibili_akirco.json,akirco/aki-apps
 crow-translate.json,akirco/aki-apps
 pure-live.json,akirco/aki-apps
 snipaste.json,akirco/aki-apps
@@ -7114,7 +7116,7 @@ lessmsi_DoveBoy.json,DoveBoy/Apps
 energystar.json,DoveBoy/Apps
 sniffnet.json,DoveBoy/Apps
 baidupcs-go_DoveBoy.json,DoveBoy/Apps
-v2rayn_DoveBoy.json,DoveBoy/Apps
+v2rayn.json,DoveBoy/Apps
 john-the-ripper_DoveBoy.json,DoveBoy/Apps
 waifu2x-caffe_DoveBoy.json,DoveBoy/Apps
 picturecleaner_DoveBoy.json,DoveBoy/Apps
@@ -8873,7 +8875,7 @@ graboid.json,beerpiss/scoop-bucket
 oneko.json,beerpiss/scoop-bucket
 apfs.json,beerpiss/scoop-bucket
 stash.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 libimobiledevice_beerpiss.json,beerpiss/scoop-bucket
 plutil.json,beerpiss/scoop-bucket
 rawcap-old.json,beerpiss/scoop-bucket
