@@ -4060,7 +4060,7 @@ keepass-plugin-keepasswinhello.json,hoilc/scoop-lemon
 chirp.json,hoilc/scoop-lemon
 douyin.json,hoilc/scoop-lemon
 library.net.json,hoilc/scoop-lemon
-websocat_hoilc.json,hoilc/scoop-lemon
+websocat.json,hoilc/scoop-lemon
 ysmood.whisper.json,hoilc/scoop-lemon
 summon.json,hoilc/scoop-lemon
 keyviz.json,hoilc/scoop-lemon
@@ -5068,6 +5068,7 @@ qBittorrentEnhanced-Install.json,ACooper81/scoop-apps
 ToastNotificationScript-PSScript.json,ACooper81/scoop-apps
 tcpingCLI-Portable.json,ACooper81/scoop-apps
 NirsoftNetworkOpenedFiles-Portable.json,ACooper81/scoop-apps
+Winpilot-Portable.json,ACooper81/scoop-apps
 AdvancedWgetGUI-Portable.json,ACooper81/scoop-apps
 SteelSeriesEngine-Install.json,ACooper81/scoop-apps
 QuickCPU-Portable.json,ACooper81/scoop-apps
@@ -5299,7 +5300,6 @@ UniversalSilentSwitchFinder-Portable.json,ACooper81/scoop-apps
 ExifPilot-Portable.json,ACooper81/scoop-apps
 VirtualBoxWithExtensionPack-Install.json,ACooper81/scoop-apps
 Tidal-Portable.json,ACooper81/scoop-apps
-BloatyNosy-Portable.json,ACooper81/scoop-apps
 AutoHotkey2-Portable.json,ACooper81/scoop-apps
 AdobeAcrobatReader-Install.json,ACooper81/scoop-apps
 ScoopUpdates-Alias.json,ACooper81/scoop-apps
@@ -6222,7 +6222,7 @@ AnyTXTSearcher-np.json,dodorz/scoop
 SquirrelShell.json,dodorz/scoop
 SodaPlayer.json,dodorz/scoop
 cemu-dev_borger.json,borger/scoop-emulators
-ares_borger.json,borger/scoop-emulators
+ares.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 fceux.json,borger/scoop-emulators
@@ -6243,7 +6243,7 @@ tegra-rcm-gui.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
-vita3k.json,borger/scoop-emulators
+vita3k_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 mednafen-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
@@ -6679,7 +6679,7 @@ python_akirco.json,akirco/aki-apps
 vcredist2022.json,akirco/aki-apps
 figlet_akirco.json,akirco/aki-apps
 rustdesk.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 gh_akirco.json,akirco/aki-apps
 nc.json,akirco/aki-apps
 youtube-dl-wpf_akirco.json,akirco/aki-apps
@@ -7524,7 +7524,7 @@ stdu-xml-editor.json,naderi/scoop-bucket
 nanarun.json,naderi/scoop-bucket
 stdu-viewer.json,naderi/scoop-bucket
 winpaletter.json,naderi/scoop-bucket
-hdcleaner_naderi.json,naderi/scoop-bucket
+hdcleaner.json,naderi/scoop-bucket
 centbrowser-portable.json,naderi/scoop-bucket
 cinta-notes.json,naderi/scoop-bucket
 wxmedit_naderi.json,naderi/scoop-bucket
@@ -7590,7 +7590,7 @@ processko_naderi.json,naderi/scoop-bucket
 telegram_naderi.json,naderi/scoop-bucket
 font-estedad.json,naderi/scoop-bucket
 smart-svg-viewer.json,naderi/scoop-bucket
-encrypto_naderi.json,naderi/scoop-bucket
+encrypto.json,naderi/scoop-bucket
 winrar-de.json,naderi/scoop-bucket
 tenacity.json,naderi/scoop-bucket
 easy-context-menu_naderi.json,naderi/scoop-bucket
@@ -7711,7 +7711,7 @@ chromium-portable.json,naderi/scoop-bucket
 xnview-classic-full.json,naderi/scoop-bucket
 winsetview.json,naderi/scoop-bucket
 mitec-icon-explorer.json,naderi/scoop-bucket
-tweakpower_naderi.json,naderi/scoop-bucket
+tweakpower.json,naderi/scoop-bucket
 birdfont.json,naderi/scoop-bucket
 xpdf-tools_naderi.json,naderi/scoop-bucket
 uplay_naderi.json,naderi/scoop-bucket
@@ -7919,6 +7919,21 @@ tally-marks.json,amorphobia/siku
 scoop-hook.json,amorphobia/siku
 dgmpgdec.json,amorphobia/siku
 rust-sl.json,amorphobia/siku
+trays.json,NyaMisty/scoop_bucket_misty
+libimobiledevice-nightly.json,NyaMisty/scoop_bucket_misty
+fermion.json,NyaMisty/scoop_bucket_misty
+gostv3.json,NyaMisty/scoop_bucket_misty
+chfs_NyaMisty.json,NyaMisty/scoop_bucket_misty
+carnac-misty.json,NyaMisty/scoop_bucket_misty
+rizin_NyaMisty.json,NyaMisty/scoop_bucket_misty
+metasploit-framework.json,NyaMisty/scoop_bucket_misty
+dnSpyEx.json,NyaMisty/scoop_bucket_misty
+wireshark-nightly.json,NyaMisty/scoop_bucket_misty
+fclone.json,NyaMisty/scoop_bucket_misty
+ghidra-nightly.json,NyaMisty/scoop_bucket_misty
+dnSpyEx-nightly.json,NyaMisty/scoop_bucket_misty
+ghidra-beta.json,NyaMisty/scoop_bucket_misty
+ghidramod.json,NyaMisty/scoop_bucket_misty
 Internet-Download-Manager.json,ygguorun/scoop-bucket
 TeambitionProjectWeb.json,ygguorun/scoop-bucket
 SarasaGothicRegular-ttc.json,ygguorun/scoop-bucket
