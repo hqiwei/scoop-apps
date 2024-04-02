@@ -396,6 +396,7 @@ douyin-streamingtool.json,chawyehsu/dorado
 axure.json,chawyehsu/dorado
 runany.json,chawyehsu/dorado
 nbtexplorer.json,chawyehsu/dorado
+raddebugger.json,chawyehsu/dorado
 whois.json,chawyehsu/dorado
 chfs-gui.json,chawyehsu/dorado
 pixitracker-1bit.json,chawyehsu/dorado
@@ -996,6 +997,7 @@ cataclysm-dda-tiles.json,Calinou/scoop-games
 newer-tanooki.json,Calinou/scoop-games
 amulet-map-editor.json,Calinou/scoop-games
 jeveassets.json,Calinou/scoop-games
+dreamm.json,Calinou/scoop-games
 openxcom.json,Calinou/scoop-games
 melonds_Calinou.json,Calinou/scoop-games
 redream-dev.json,Calinou/scoop-games
@@ -1673,6 +1675,16 @@ liberica16-jre.json,ScoopInstaller/Java
 graalvm-nightly.json,ScoopInstaller/Java
 sapmachine-jdk.json,ScoopInstaller/Java
 liberica17-lite-jdk.json,ScoopInstaller/Java
+spotify-latest.json,TheRandomLabs/Scoop-Spotify
+spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
+spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
+spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
+spicetify-jqbx.json,TheRandomLabs/Scoop-Spotify
+google-spicetify.json,TheRandomLabs/Scoop-Spotify
+spicetify-themes.json,TheRandomLabs/Scoop-Spotify
+spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
+blockthespot.json,TheRandomLabs/Scoop-Spotify
+genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 emule-cv.json,ScoopInstaller/Versions
 chromium-dev-nosync.json,ScoopInstaller/Versions
 avidemux-nightly.json,ScoopInstaller/Versions
@@ -2115,16 +2127,6 @@ wireshark3.json,ScoopInstaller/Versions
 zip-beta.json,ScoopInstaller/Versions
 php73.json,ScoopInstaller/Versions
 premake4.json,ScoopInstaller/Versions
-spotify-latest.json,TheRandomLabs/Scoop-Spotify
-spicetify-autovolume.json,TheRandomLabs/Scoop-Spotify
-spicetify-cli_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-spotify-with-blockthespot.json,TheRandomLabs/Scoop-Spotify
-spicetify-jqbx.json,TheRandomLabs/Scoop-Spotify
-google-spicetify.json,TheRandomLabs/Scoop-Spotify
-spicetify-themes.json,TheRandomLabs/Scoop-Spotify
-spotify-tui_TheRandomLabs.json,TheRandomLabs/Scoop-Spotify
-blockthespot.json,TheRandomLabs/Scoop-Spotify
-genius-spicetify.json,TheRandomLabs/Scoop-Spotify
 snowman.json,TheCjw/scoop-retools
 pin.json,TheCjw/scoop-retools
 il2cppdumper.json,TheCjw/scoop-retools
@@ -3679,6 +3681,7 @@ flyedit.json,hoilc/scoop-lemon
 obsutil.json,hoilc/scoop-lemon
 emby-pinyin.json,hoilc/scoop-lemon
 securefs.json,hoilc/scoop-lemon
+weron.json,hoilc/scoop-lemon
 pineapple-pictures.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
 glow_hoilc.json,hoilc/scoop-lemon
@@ -3996,6 +3999,7 @@ duga-player.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
 terrascan.json,hoilc/scoop-lemon
 guid-generator.json,hoilc/scoop-lemon
+duckling.json,hoilc/scoop-lemon
 obs-browser-plus.json,hoilc/scoop-lemon
 hybrid.json,hoilc/scoop-lemon
 cleanmywechat.json,hoilc/scoop-lemon
@@ -4104,7 +4108,7 @@ metabase.json,hoilc/scoop-lemon
 xplorer.json,hoilc/scoop-lemon
 nebula-console.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
-archisteamfarm_hoilc.json,hoilc/scoop-lemon
+archisteamfarm.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 rav1e.json,hoilc/scoop-lemon
 leafview.json,hoilc/scoop-lemon
@@ -6252,7 +6256,7 @@ mesen-s_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
 flycast_borger.json,borger/scoop-emulators
 project64-dev_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 snes9x-dev_borger.json,borger/scoop-emulators
@@ -6260,7 +6264,7 @@ mgba-dev_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
 cemu_borger.json,borger/scoop-emulators
 rpcs3_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 ryujinx_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 redream_borger.json,borger/scoop-emulators
@@ -6611,7 +6615,7 @@ PowerSession_akirco.json,akirco/aki-apps
 nexusfont.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 bilibili-livehime_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
@@ -6658,7 +6662,7 @@ gof_akirco.json,akirco/aki-apps
 tomcat8_akirco.json,akirco/aki-apps
 touch_akirco.json,akirco/aki-apps
 yarn_akirco.json,akirco/aki-apps
-yuque.json,akirco/aki-apps
+yuque_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 registry-finder_akirco.json,akirco/aki-apps
 scrcpy_akirco.json,akirco/aki-apps
@@ -6700,7 +6704,7 @@ gsudo_akirco.json,akirco/aki-apps
 typora_akirco.json,akirco/aki-apps
 hub_akirco.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
-officetoolplus.json,akirco/aki-apps
+officetoolplus_akirco.json,akirco/aki-apps
 mvndaemon_akirco.json,akirco/aki-apps
 shim_akirco.json,akirco/aki-apps
 directoryPredictor.json,akirco/aki-apps
@@ -6739,7 +6743,7 @@ rnr_akirco.json,akirco/aki-apps
 aria-ng-gui.json,akirco/aki-apps
 yt-dlp_akirco.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
-bilibili_akirco.json,akirco/aki-apps
+bilibili.json,akirco/aki-apps
 crow-translate.json,akirco/aki-apps
 pure-live.json,akirco/aki-apps
 snipaste.json,akirco/aki-apps
@@ -7020,7 +7024,7 @@ network-profile-name-changer.json,DoveBoy/Apps
 obs-studio_DoveBoy.json,DoveBoy/Apps
 hysteria.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
-waifu2x-extension-gui_DoveBoy.json,DoveBoy/Apps
+waifu2x-extension-gui.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
 lettura.json,DoveBoy/Apps
@@ -7915,6 +7919,7 @@ qqplayer_amorphobia.json,amorphobia/siku
 double-finder.json,amorphobia/siku
 powercolorls.json,amorphobia/siku
 todesk_amorphobia.json,amorphobia/siku
+librime.json,amorphobia/siku
 rubick_amorphobia.json,amorphobia/siku
 qsv_amorphobia.json,amorphobia/siku
 tally-marks.json,amorphobia/siku
@@ -8176,7 +8181,7 @@ fnm_batkiz.json,batkiz/backit
 legendary_batkiz.json,batkiz/backit
 onefetch.json,batkiz/backit
 autocorrect_batkiz.json,batkiz/backit
-filebrowser.json,batkiz/backit
+filebrowser_batkiz.json,batkiz/backit
 latexindent_batkiz.json,batkiz/backit
 fsql_batkiz.json,batkiz/backit
 youtube-dl-wpf_batkiz.json,batkiz/backit
