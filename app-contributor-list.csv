@@ -983,6 +983,7 @@ cdogs-sdl.json,Calinou/scoop-games
 trenchbroom.json,Calinou/scoop-games
 rtcwcoop.json,Calinou/scoop-games
 urbanterror.json,Calinou/scoop-games
+ff-logs-uploader.json,Calinou/scoop-games
 applewin.json,Calinou/scoop-games
 shipwright.json,Calinou/scoop-games
 pacmc.json,Calinou/scoop-games
@@ -4075,7 +4076,7 @@ catsxp.json,hoilc/scoop-lemon
 bilibili-live-record-downloader.json,hoilc/scoop-lemon
 usbeam-hosts-editor_hoilc.json,hoilc/scoop-lemon
 experienceindexok.json,hoilc/scoop-lemon
-nuclei_hoilc.json,hoilc/scoop-lemon
+nuclei.json,hoilc/scoop-lemon
 jib-cli.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
 am-deadlink.json,hoilc/scoop-lemon
@@ -4108,7 +4109,7 @@ metabase.json,hoilc/scoop-lemon
 xplorer.json,hoilc/scoop-lemon
 nebula-console.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 rav1e.json,hoilc/scoop-lemon
 leafview.json,hoilc/scoop-lemon
@@ -6615,7 +6616,7 @@ PowerSession_akirco.json,akirco/aki-apps
 nexusfont.json,akirco/aki-apps
 contextmenu-manager.json,akirco/aki-apps
 bilibili-livehime_akirco.json,akirco/aki-apps
-firefox-zh-cn.json,akirco/aki-apps
+firefox-zh-cn_akirco.json,akirco/aki-apps
 which_akirco.json,akirco/aki-apps
 fu_akirco.json,akirco/aki-apps
 pseverything.json,akirco/aki-apps
@@ -6743,7 +6744,7 @@ rnr_akirco.json,akirco/aki-apps
 aria-ng-gui.json,akirco/aki-apps
 yt-dlp_akirco.json,akirco/aki-apps
 zola_akirco.json,akirco/aki-apps
-bilibili.json,akirco/aki-apps
+bilibili_akirco.json,akirco/aki-apps
 crow-translate.json,akirco/aki-apps
 pure-live.json,akirco/aki-apps
 snipaste.json,akirco/aki-apps
@@ -6756,6 +6757,7 @@ carnac.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
 mysql_akirco.json,akirco/aki-apps
 empty-recycle-bin_akirco.json,akirco/aki-apps
+go-cn.json,akirco/aki-apps
 mysql57_akirco.json,akirco/aki-apps
 s_akirco.json,akirco/aki-apps
 hosts.json,akirco/aki-apps
@@ -6993,6 +6995,7 @@ chromedriver-canary.json,DoveBoy/Apps
 youku.json,DoveBoy/Apps
 superrdp.json,DoveBoy/Apps
 zy-player_DoveBoy.json,DoveBoy/Apps
+escrcpy.json,DoveBoy/Apps
 libreoffice.json,DoveBoy/Apps
 captura_DoveBoy.json,DoveBoy/Apps
 termscp_DoveBoy.json,DoveBoy/Apps
@@ -7015,6 +7018,7 @@ nvm_DoveBoy.json,DoveBoy/Apps
 text-grab.json,DoveBoy/Apps
 jo_DoveBoy.json,DoveBoy/Apps
 clash-rev-compatible.json,DoveBoy/Apps
+so-novel.json,DoveBoy/Apps
 unblockneteasemusic.json,DoveBoy/Apps
 shadowsocksr-csharp.json,DoveBoy/Apps
 pdfarranger_DoveBoy.json,DoveBoy/Apps
@@ -7024,7 +7028,7 @@ network-profile-name-changer.json,DoveBoy/Apps
 obs-studio_DoveBoy.json,DoveBoy/Apps
 hysteria.json,DoveBoy/Apps
 gnupg_DoveBoy.json,DoveBoy/Apps
-waifu2x-extension-gui.json,DoveBoy/Apps
+waifu2x-extension-gui_DoveBoy.json,DoveBoy/Apps
 adb_DoveBoy.json,DoveBoy/Apps
 v2ray-rules-dat-git.json,DoveBoy/Apps
 lettura.json,DoveBoy/Apps
@@ -7248,6 +7252,7 @@ clashxw.json,DoveBoy/Apps
 pansy.json,DoveBoy/Apps
 sed_DoveBoy.json,DoveBoy/Apps
 npm-completion_DoveBoy.json,DoveBoy/Apps
+escrcpy-portable.json,DoveBoy/Apps
 mpvconfigurator.json,DoveBoy/Apps
 fix-print-spooler.json,DoveBoy/Apps
 clash-nyanpasu-portable.json,DoveBoy/Apps
@@ -7385,6 +7390,7 @@ qalculate.json,DoveBoy/Apps
 nanazip_DoveBoy.json,DoveBoy/Apps
 helix_DoveBoy.json,DoveBoy/Apps
 sox_DoveBoy.json,DoveBoy/Apps
+so-novel-with-jre.json,DoveBoy/Apps
 mitmproxy.json,DoveBoy/Apps
 transmission.json,DoveBoy/Apps
 sandboxie-plus-np_DoveBoy.json,DoveBoy/Apps
@@ -7405,7 +7411,7 @@ mihomo-compatible-go120.json,DoveBoy/Apps
 kotatogram.json,DoveBoy/Apps
 putty.json,DoveBoy/Apps
 upscayl.json,DoveBoy/Apps
-windterm_DoveBoy.json,DoveBoy/Apps
+windterm.json,DoveBoy/Apps
 sshwifty.json,DoveBoy/Apps
 sharex.json,DoveBoy/Apps
 sunloginclientsos.json,DoveBoy/Apps
@@ -9118,10 +9124,13 @@ TencentQQNT.json,AkariiinMKII/Scoop4kariiin
 Cinebench-R23.json,AkariiinMKII/Scoop4kariiin
 yuzu_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 TwinkleTray.json,AkariiinMKII/Scoop4kariiin
+CrystalMark-Retro-Aoi.json,AkariiinMKII/Scoop4kariiin
 yuzu-pineapple.json,AkariiinMKII/Scoop4kariiin
 CrystalDiskInfo-Shizuku_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
+CrystalDiskMark-Shizuku_AkariiinMKII.json,AkariiinMKII/Scoop4kariiin
 Windows-screenFetch.json,AkariiinMKII/Scoop4kariiin
 link-plus.json,AkariiinMKII/Scoop4kariiin
+CrystalDiskMark-Aoi.json,AkariiinMKII/Scoop4kariiin
 renovate.json,mo-san/scoop-bucket
 __template.json,mo-san/scoop-bucket
 psshutdown_mo-san.json,mo-san/scoop-bucket
