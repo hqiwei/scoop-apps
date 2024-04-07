@@ -2944,7 +2944,7 @@ ofview.json,ScoopInstaller/Nirsoft
 driveletterview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 produkey_ScoopInstaller.json,ScoopInstaller/Nirsoft
 fileaccesserrorview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-searchmyfiles_ScoopInstaller.json,ScoopInstaller/Nirsoft
+searchmyfiles.json,ScoopInstaller/Nirsoft
 countrytraceroute_ScoopInstaller.json,ScoopInstaller/Nirsoft
 cleanafterme_ScoopInstaller.json,ScoopInstaller/Nirsoft
 htmlastext_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -5004,7 +5004,6 @@ MicrosoftEdgeDev-Portable.json,ACooper81/scoop-apps
 4KSlideshowMaker-Install.json,ACooper81/scoop-apps
 NitroShare-Portable.json,ACooper81/scoop-apps
 EarTrumpet-Portable.json,ACooper81/scoop-apps
-VideoReDoTVSuiteV6-Install.json,ACooper81/scoop-apps
 IMMagicPartitionResizer-Portable.json,ACooper81/scoop-apps
 GitHubDesktop-Install.json,ACooper81/scoop-apps
 snova-asioCLI-Portable.json,ACooper81/scoop-apps
@@ -6248,8 +6247,8 @@ mesen-s_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
-cemu-dev.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
+cemu-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
 xemu_borger.json,borger/scoop-emulators
@@ -6528,6 +6527,7 @@ bc4.json,wangzq/scoop-bucket
 nvidia.ConfigureMosaic.json,wangzq/scoop-bucket
 etcd_wangzq.json,wangzq/scoop-bucket
 linqpad8-beta.json,wangzq/scoop-bucket
+topmost.json,ViCrack/scoop-bucket
 siyuan-ce.json,ViCrack/scoop-bucket
 suo5_ViCrack.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
@@ -6556,7 +6556,7 @@ bluelife-host-editor.json,ViCrack/scoop-bucket
 gda.json,ViCrack/scoop-bucket
 reqstress.json,ViCrack/scoop-bucket
 chat2db.json,ViCrack/scoop-bucket
-cudatext-cn_ViCrack.json,ViCrack/scoop-bucket
+cudatext-cn.json,ViCrack/scoop-bucket
 screentogif_ViCrack.json,ViCrack/scoop-bucket
 godzilla_ViCrack.json,ViCrack/scoop-bucket
 revokemsgpatcher.json,ViCrack/scoop-bucket
@@ -6706,7 +6706,7 @@ libwebp_akirco.json,akirco/aki-apps
 nali_akirco.json,akirco/aki-apps
 hbuilderx_akirco.json,akirco/aki-apps
 xh_akirco.json,akirco/aki-apps
-electerm_akirco.json,akirco/aki-apps
+electerm.json,akirco/aki-apps
 TianRuoOCR_akirco.json,akirco/aki-apps
 unbound_akirco.json,akirco/aki-apps
 vcredist2017.json,akirco/aki-apps
@@ -6744,7 +6744,7 @@ z.json,akirco/aki-apps
 notion_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
-koodo-reader.json,akirco/aki-apps
+koodo-reader_akirco.json,akirco/aki-apps
 nginx_akirco.json,akirco/aki-apps
 youtube-dl-gui.json,akirco/aki-apps
 figma.json,akirco/aki-apps
@@ -6965,7 +6965,7 @@ postman.json,akirco/aki-apps
 chromedriver_akirco.json,akirco/aki-apps
 gitomatic_akirco.json,akirco/aki-apps
 win32-openssh.json,akirco/aki-apps
-kodi.json,akirco/aki-apps
+kodi_akirco.json,akirco/aki-apps
 charles_akirco.json,akirco/aki-apps
 diskgenius.json,akirco/aki-apps
 termscp_akirco.json,akirco/aki-apps
@@ -7280,7 +7280,7 @@ winfetch_DoveBoy.json,DoveBoy/Apps
 linuxdoc.json,DoveBoy/Apps
 clashwarden.json,DoveBoy/Apps
 sharpthief.json,DoveBoy/Apps
-v2rayn.json,DoveBoy/Apps
+v2rayn_DoveBoy.json,DoveBoy/Apps
 autodarkmode_DoveBoy.json,DoveBoy/Apps
 mobaxterm.json,DoveBoy/Apps
 krita.json,DoveBoy/Apps
@@ -7371,7 +7371,7 @@ pls.json,DoveBoy/Apps
 network-proxy-flutter.json,DoveBoy/Apps
 gitalias.json,DoveBoy/Apps
 jenny.json,DoveBoy/Apps
-emeditor.json,DoveBoy/Apps
+emeditor_DoveBoy.json,DoveBoy/Apps
 final2x.json,DoveBoy/Apps
 wechatdownload.json,DoveBoy/Apps
 imageglass.json,DoveBoy/Apps
@@ -8828,7 +8828,6 @@ dry.json,aliesbelik/poldi
 gocannon.json,aliesbelik/poldi
 phraze.json,aliesbelik/poldi
 goreplay.json,aliesbelik/poldi
-hgrep_aliesbelik.json,aliesbelik/poldi
 tlrc_aliesbelik.json,aliesbelik/poldi
 helmify_aliesbelik.json,aliesbelik/poldi
 yj_aliesbelik.json,aliesbelik/poldi
@@ -9303,7 +9302,7 @@ oneko.json,beerpiss/scoop-bucket
 stash-dev_beerpiss.json,beerpiss/scoop-bucket
 unxwb.json,beerpiss/scoop-bucket
 thewitchshouse-jp.json,beerpiss/scoop-bucket
-microsoftedge.json,beerpiss/scoop-bucket
+microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 adguardhome.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 ntfs2btrfs_beerpiss.json,beerpiss/scoop-bucket
@@ -9395,7 +9394,7 @@ sumatrapdf-stable.json,ShuguangSun/sgs-scoop-bucket
 difftastic_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk17_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk13_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-foobar2000.json,ShuguangSun/sgs-scoop-bucket
+foobar2000_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Victor-Mono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mononoki_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
@@ -9662,6 +9661,7 @@ openvr-fsr-app.json,babo4d/scoop-xrtools
 beatsaber-legacylauncher.json,babo4d/scoop-xrtools
 beatsaber-modassistant.json,babo4d/scoop-xrtools
 cvr-melonassistant.json,babo4d/scoop-xrtools
+whispering-tiger.json,babo4d/scoop-xrtools
 desktop-plus.json,babo4d/scoop-xrtools
 openvr-advanced-settings.json,babo4d/scoop-xrtools
 vrc-get.json,babo4d/scoop-xrtools
