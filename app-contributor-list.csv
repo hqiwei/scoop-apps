@@ -1957,6 +1957,7 @@ nodejs14.json,ScoopInstaller/Versions
 php70.json,ScoopInstaller/Versions
 winpython38cod.json,ScoopInstaller/Versions
 obs-studio-pre.json,ScoopInstaller/Versions
+spark33.json,ScoopInstaller/Versions
 windowsdesktop-runtime-6.0.json,ScoopInstaller/Versions
 pdfbox-alpha.json,ScoopInstaller/Versions
 influxdb1.json,ScoopInstaller/Versions
@@ -2002,6 +2003,7 @@ cuda7.0.json,ScoopInstaller/Versions
 dotnet-sdk-lts.json,ScoopInstaller/Versions
 orca3.json,ScoopInstaller/Versions
 godot-beta.json,ScoopInstaller/Versions
+doublecmd-beta.json,ScoopInstaller/Versions
 winget1.4.json,ScoopInstaller/Versions
 mingw-winlibs-llvm-ucrt.json,ScoopInstaller/Versions
 openssl1.json,ScoopInstaller/Versions
@@ -2055,6 +2057,7 @@ postgresql11.json,ScoopInstaller/Versions
 elasticsearch5.json,ScoopInstaller/Versions
 neovide-dev.json,ScoopInstaller/Versions
 vscode-insiders.json,ScoopInstaller/Versions
+obs-studio28.json,ScoopInstaller/Versions
 nodejs7.json,ScoopInstaller/Versions
 php71-xdebug.json,ScoopInstaller/Versions
 aria2-134.json,ScoopInstaller/Versions
@@ -2595,6 +2598,7 @@ termite.json,arch3rPro/PST-Bucket
 behinder.json,arch3rPro/PST-Bucket
 bantam.json,arch3rPro/PST-Bucket
 cobaltstrike.json,arch3rPro/PST-Bucket
+goproxy.json,arch3rPro/PST-Bucket
 winscp-zh.json,arch3rPro/PST-Bucket
 dirmap.json,arch3rPro/PST-Bucket
 dismap.json,arch3rPro/PST-Bucket
@@ -3953,7 +3957,7 @@ obs-browser-plus.json,hoilc/scoop-lemon
 pictor.json,hoilc/scoop-lemon
 microsoft-error-lookup-tool.json,hoilc/scoop-lemon
 pinwin.json,hoilc/scoop-lemon
-wingetui_hoilc.json,hoilc/scoop-lemon
+wingetui.json,hoilc/scoop-lemon
 lyricify.json,hoilc/scoop-lemon
 classviewer.json,hoilc/scoop-lemon
 statsd_exporter.json,hoilc/scoop-lemon
@@ -5361,6 +5365,7 @@ rstudio-2022.02.json,cderv/r-bucket
 tinitex.json,cderv/r-bucket
 rstudio-pro-preview.json,cderv/r-bucket
 fq_cderv.json,cderv/r-bucket
+sass-migrator.json,cderv/r-bucket
 rig.json,cderv/r-bucket
 rstudio-1.4.json,cderv/r-bucket
 rstudio-daily_cderv.json,cderv/r-bucket
@@ -6251,7 +6256,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-rpcs3_borger.json,borger/scoop-emulators
+rpcs3.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
@@ -6262,7 +6267,7 @@ mesen-s_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-ryujinx_borger.json,borger/scoop-emulators
+ryujinx.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -6756,7 +6761,7 @@ wrangler_akirco.json,akirco/aki-apps
 redis-desktop-manager_akirco.json,akirco/aki-apps
 xwtoolbox.json,akirco/aki-apps
 z.json,akirco/aki-apps
-notion.json,akirco/aki-apps
+notion_akirco.json,akirco/aki-apps
 python_akirco.json,akirco/aki-apps
 php_akirco.json,akirco/aki-apps
 koodo-reader_akirco.json,akirco/aki-apps
@@ -6764,7 +6769,7 @@ nginx_akirco.json,akirco/aki-apps
 youtube-dl-gui.json,akirco/aki-apps
 figma.json,akirco/aki-apps
 bilibili_akirco.json,akirco/aki-apps
-ftnn_akirco.json,akirco/aki-apps
+ftnn.json,akirco/aki-apps
 youtube-dl_akirco.json,akirco/aki-apps
 qpdf_akirco.json,akirco/aki-apps
 unzip_akirco.json,akirco/aki-apps
@@ -6866,7 +6871,7 @@ ShadowsocksR_akirco.json,akirco/aki-apps
 yq_akirco.json,akirco/aki-apps
 dingtalk_akirco.json,akirco/aki-apps
 directoryPredictor.json,akirco/aki-apps
-vscode_akirco.json,akirco/aki-apps
+vscode.json,akirco/aki-apps
 officetoolplus_akirco.json,akirco/aki-apps
 shellcheck_akirco.json,akirco/aki-apps
 pwsh_akirco.json,akirco/aki-apps
@@ -7208,7 +7213,7 @@ everything-alpha_DoveBoy.json,DoveBoy/Apps
 vcpkg_DoveBoy.json,DoveBoy/Apps
 scoop-search-chriscp.json,DoveBoy/Apps
 lessmsi_DoveBoy.json,DoveBoy/Apps
-neteaseuu.json,DoveBoy/Apps
+neteaseuu_DoveBoy.json,DoveBoy/Apps
 nhentai-cross.json,DoveBoy/Apps
 refreshenv_DoveBoy.json,DoveBoy/Apps
 crystaldiskmark.json,DoveBoy/Apps
@@ -7554,7 +7559,7 @@ ddu.json,DoveBoy/Apps
 obs-studio-pre_DoveBoy.json,DoveBoy/Apps
 sudo_DoveBoy.json,DoveBoy/Apps
 brackets.json,DoveBoy/Apps
-wechat_DoveBoy.json,DoveBoy/Apps
+wechat.json,DoveBoy/Apps
 eartrumpet.json,DoveBoy/Apps
 picpick_DoveBoy.json,DoveBoy/Apps
 chromedriver-dev.json,DoveBoy/Apps
