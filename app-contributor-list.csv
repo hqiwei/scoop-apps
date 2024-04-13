@@ -259,6 +259,7 @@ MiFlash-with-BL_Unlocker.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
 webbrain.json,Weidows-projects/scoop-3rd
+griddycode.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
 Snap.Hutao.json,Weidows-projects/scoop-3rd
 yas.json,Weidows-projects/scoop-3rd
@@ -1864,7 +1865,6 @@ googlechrome-beta.json,ScoopInstaller/Versions
 spark-without-hadoop.json,ScoopInstaller/Versions
 teamcity-rc.json,ScoopInstaller/Versions
 r42.json,ScoopInstaller/Versions
-python-pre.json,ScoopInstaller/Versions
 7zip-beta.json,ScoopInstaller/Versions
 lynx283.json,ScoopInstaller/Versions
 winget-preview.json,ScoopInstaller/Versions
@@ -2607,6 +2607,7 @@ termite.json,arch3rPro/PST-Bucket
 behinder.json,arch3rPro/PST-Bucket
 bantam.json,arch3rPro/PST-Bucket
 cobaltstrike.json,arch3rPro/PST-Bucket
+goproxy.json,arch3rPro/PST-Bucket
 winscp-zh.json,arch3rPro/PST-Bucket
 dirmap.json,arch3rPro/PST-Bucket
 dismap.json,arch3rPro/PST-Bucket
@@ -5635,7 +5636,6 @@ BuiltIn.json,dodorz/scoop
 Random.json,dodorz/scoop
 DeleteProfiles.json,dodorz/scoop
 MindMaster.json,dodorz/scoop
-FireAlpaca_dodorz.json,dodorz/scoop
 EmptyRecycleBin.json,dodorz/scoop
 Citrio.json,dodorz/scoop
 GaaihoReader.json,dodorz/scoop
@@ -5971,6 +5971,7 @@ RuckZuck.json,dodorz/scoop
 DeleteProfiles_dodorz.json,dodorz/scoop
 jump.json,dodorz/scoop
 MCI-Browser.json,dodorz/scoop
+FireAlpaca_dodorz.json,dodorz/scoop
 QuickHash.json,dodorz/scoop
 mdfmt.json,dodorz/scoop
 jstar-static.json,dodorz/scoop
@@ -6258,7 +6259,7 @@ desmume.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 ps3-system-software_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -6266,7 +6267,7 @@ pcsx2-dev_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
-rpcs3.json,borger/scoop-emulators
+rpcs3_borger.json,borger/scoop-emulators
 mgba-dev_borger.json,borger/scoop-emulators
 mame_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
@@ -9348,6 +9349,7 @@ difftastic_littleli.json,littleli/Scoop-littleli
 tokio-console.json,littleli/Scoop-littleli
 immuclient.json,littleli/Scoop-littleli
 netmet.json,littleli/Scoop-littleli
+koka-lang.json,littleli/Scoop-littleli
 doom-remake4.json,littleli/Scoop-littleli
 gemget.json,littleli/Scoop-littleli
 zecwallet-lite.json,littleli/Scoop-littleli
@@ -9429,7 +9431,7 @@ sumatrapdf-stable.json,ShuguangSun/sgs-scoop-bucket
 difftastic_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk17_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 openjdk13_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
-foobar2000_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
+foobar2000.json,ShuguangSun/sgs-scoop-bucket
 r-devel_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 Victor-Mono_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
 mononoki_ShuguangSun.json,ShuguangSun/sgs-scoop-bucket
