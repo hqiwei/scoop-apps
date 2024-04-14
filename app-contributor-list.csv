@@ -1329,7 +1329,7 @@ vmware-workstation-pro.json,ivaquero/scoopet
 adrive.json,ivaquero/scoopet
 dingtalk_ivaquero.json,ivaquero/scoopet
 winrar.json,ivaquero/scoopet
-lx-music_ivaquero.json,ivaquero/scoopet
+lx-music.json,ivaquero/scoopet
 tim.json,ivaquero/scoopet
 libreoffice-cn.json,ivaquero/scoopet
 fishing-funds.json,ivaquero/scoopet
@@ -2607,7 +2607,6 @@ termite.json,arch3rPro/PST-Bucket
 behinder.json,arch3rPro/PST-Bucket
 bantam.json,arch3rPro/PST-Bucket
 cobaltstrike.json,arch3rPro/PST-Bucket
-goproxy.json,arch3rPro/PST-Bucket
 winscp-zh.json,arch3rPro/PST-Bucket
 dirmap.json,arch3rPro/PST-Bucket
 dismap.json,arch3rPro/PST-Bucket
@@ -3775,7 +3774,7 @@ hostess.json,hoilc/scoop-lemon
 terraformer_hoilc.json,hoilc/scoop-lemon
 lock-cursor-tools.json,hoilc/scoop-lemon
 bluelife-hosts-editor.json,hoilc/scoop-lemon
-pot_hoilc.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 uninstalr.json,hoilc/scoop-lemon
 cozo.json,hoilc/scoop-lemon
 meilisearch.json,hoilc/scoop-lemon
@@ -6259,7 +6258,7 @@ desmume.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 ps3-system-software_borger.json,borger/scoop-emulators
-dolphin-dev.json,borger/scoop-emulators
+dolphin-dev_borger.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -9109,7 +9108,7 @@ oneko.json,beerpiss/scoop-bucket
 stash-dev_beerpiss.json,beerpiss/scoop-bucket
 unxwb.json,beerpiss/scoop-bucket
 thewitchshouse-jp.json,beerpiss/scoop-bucket
-microsoftedge_beerpiss.json,beerpiss/scoop-bucket
+microsoftedge.json,beerpiss/scoop-bucket
 adguardhome.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 ntfs2btrfs_beerpiss.json,beerpiss/scoop-bucket
