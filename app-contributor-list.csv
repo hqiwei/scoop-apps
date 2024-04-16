@@ -2639,7 +2639,7 @@ dev-sidecar_arch3rPro.json,arch3rPro/PST-Bucket
 emeditor.json,arch3rPro/PST-Bucket
 notepad--.json,arch3rPro/PST-Bucket
 gowitness.json,arch3rPro/PST-Bucket
-another-redis-desktop-manager_arch3rPro.json,arch3rPro/PST-Bucket
+another-redis-desktop-manager.json,arch3rPro/PST-Bucket
 filezilla.json,arch3rPro/PST-Bucket
 transfer.json,arch3rPro/PST-Bucket
 windynamicdesktop.json,arch3rPro/PST-Bucket
@@ -3720,7 +3720,7 @@ wpinternals.json,hoilc/scoop-lemon
 soundswitch.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
-another-redis-desktop-manager.json,hoilc/scoop-lemon
+another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
 jellyfin-media-player.json,hoilc/scoop-lemon
 dooit.json,hoilc/scoop-lemon
@@ -6252,13 +6252,13 @@ xmind.json,everyx/scoop-bucket
 clash-for-windows_everyx.json,everyx/scoop-bucket
 SourceHanSerifJP.json,everyx/scoop-bucket
 yacd.json,everyx/scoop-bucket
-snes9x-dev.json,borger/scoop-emulators
+snes9x-dev_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 simple64_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
 ps3-system-software_borger.json,borger/scoop-emulators
-dolphin-dev_borger.json,borger/scoop-emulators
+dolphin-dev.json,borger/scoop-emulators
 scummvm_borger.json,borger/scoop-emulators
 dolphin-beta_borger.json,borger/scoop-emulators
 xenia_borger.json,borger/scoop-emulators
@@ -6277,7 +6277,7 @@ mesen-s_borger.json,borger/scoop-emulators
 redream-dev_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
 melonds_borger.json,borger/scoop-emulators
-ryujinx.json,borger/scoop-emulators
+ryujinx_borger.json,borger/scoop-emulators
 cemu-dev_borger.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 duckstation_borger.json,borger/scoop-emulators
@@ -6857,7 +6857,7 @@ DefenderControl.json,akirco/aki-apps
 warp_akirco.json,akirco/aki-apps
 unxutils_akirco.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
-firefox-zh-cn_akirco.json,akirco/aki-apps
+firefox-zh-cn.json,akirco/aki-apps
 xsv_akirco.json,akirco/aki-apps
 mi-assistant.json,akirco/aki-apps
 m3u8downloader.json,akirco/aki-apps
@@ -7013,9 +7013,9 @@ yt-dlp_akirco.json,akirco/aki-apps
 nvm_akirco.json,akirco/aki-apps
 zoom.json,akirco/aki-apps
 opus-tools_akirco.json,akirco/aki-apps
-yuque.json,akirco/aki-apps
+yuque_akirco.json,akirco/aki-apps
 android-sdk.json,akirco/aki-apps
-jetbrains-toolbox_akirco.json,akirco/aki-apps
+jetbrains-toolbox.json,akirco/aki-apps
 docker-desktop.json,akirco/aki-apps
 cosbrowser_akirco.json,akirco/aki-apps
 tar_akirco.json,akirco/aki-apps
@@ -7060,7 +7060,7 @@ phpmyadmin.json,wzv5/ScoopBucket
 xnview.json,wzv5/ScoopBucket
 python-doc-zh-cn.json,wzv5/ScoopBucket
 applicationinspector.json,wzv5/ScoopBucket
-wechat_wzv5.json,wzv5/ScoopBucket
+wechat.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
 pspad.json,wzv5/ScoopBucket
 inno-setup.json,wzv5/ScoopBucket
@@ -8880,7 +8880,6 @@ kubestr_aliesbelik.json,aliesbelik/poldi
 unfurl.json,aliesbelik/poldi
 dnsx_aliesbelik.json,aliesbelik/poldi
 chrono.json,aliesbelik/poldi
-gickup_aliesbelik.json,aliesbelik/poldi
 flog.json,aliesbelik/poldi
 kubedump.json,aliesbelik/poldi
 ck-cli.json,aliesbelik/poldi
@@ -9140,7 +9139,9 @@ microsoftedge_beerpiss.json,beerpiss/scoop-bucket
 adguardhome.json,beerpiss/scoop-bucket
 adguardhome-beta.json,beerpiss/scoop-bucket
 ntfs2btrfs_beerpiss.json,beerpiss/scoop-bucket
+zalo.json,beerpiss/scoop-bucket
 sl-h.json,beerpiss/scoop-bucket
+beeper.json,beerpiss/scoop-bucket
 rawcap-old.json,beerpiss/scoop-bucket
 susplayer.json,beerpiss/scoop-bucket
 majdata.json,beerpiss/scoop-bucket
@@ -9516,7 +9517,7 @@ zluda.json,Small-Ku/turbo-bucket
 gpu-z-portable.json,Small-Ku/turbo-bucket
 star-rail-tool.json,Small-Ku/turbo-bucket
 icora.json,Small-Ku/turbo-bucket
-mambaforge_Small-Ku.json,Small-Ku/turbo-bucket
+mambaforge.json,Small-Ku/turbo-bucket
 better-genshin-impact.json,Small-Ku/turbo-bucket
 mort.json,Small-Ku/turbo-bucket
 starward_Small-Ku.json,Small-Ku/turbo-bucket
