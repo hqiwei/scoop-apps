@@ -1,19 +1,20 @@
 {
-    "version": "3.0",
+    "version": "6.1",
     "description": "Practical and minimal image viewer",
     "homepage": "https://interversehq.com/qview/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jurplel/qView/releases/download/3.0/qView-3.0-win64.zip",
-            "hash": "089d07aafab2ec651736903d0a07662210ea93bc34a1b87c3a2a4d6205cb1559"
+            "url": "https://github.com/jurplel/qView/releases/download/6.1/qView-6.1-win64.zip",
+            "hash": "1c82b9c89cd9b1c6a9ecc9a7a52507e1eb7512ad79002331f0ba7a3c7657aae0",
+            "extract_dir": "qView"
         },
         "32bit": {
-            "url": "https://github.com/jurplel/qView/releases/download/3.0/qView-3.0-win32.zip",
-            "hash": "ffa99c67a096af11816016c94851ef84404be6694a758316da7df2715c48464d"
+            "url": "https://github.com/jurplel/qView/releases/download/6.1/qView-6.1-win32.zip",
+            "hash": "4157897ce58e104c852187a735d4c24d6cb6ef86d3af616881efa1fae1bfe24b",
+            "extract_dir": "qView"
         }
     },
-    "extract_dir": "qView",
     "bin": "qView.exe",
     "shortcuts": [
         [
