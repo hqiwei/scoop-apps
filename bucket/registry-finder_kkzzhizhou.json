@@ -1,7 +1,7 @@
 {
-    "version": "2.58.1.0",
-    "description": "Registry Finder is an improved replacement for the built-in Windows registry editor.",
     "homepage": "https://registry-finder.com/",
+    "description": "Registry Finder is an improved replacement for the built-in Windows registry editor.",
+    "version": "2.58.1.0",
     "architecture": {
         "64bit": {
             "url": "https://registry-finder.com/bin/2.58.1.0/RegistryFinder64.zip",
@@ -12,7 +12,10 @@
             "hash": "d08f25d694505dc7509ca53ea71f65c3aac228d0914570b2a4262f5c5360d38c"
         }
     },
-    "checkver": "sendEvent.+(\\d+\\.\\d+.\\d+.\\d+)",
+    "checkver": {
+        "url": "https://registry-finder.com/",
+        "regex": "sendEvent.+(\\d+\\.\\d+.\\d+.\\d+)"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
