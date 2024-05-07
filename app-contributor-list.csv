@@ -1702,7 +1702,7 @@ caret-beta.json,ScoopInstaller/Versions
 python35.json,ScoopInstaller/Versions
 oss-cad-suite-nightly.json,ScoopInstaller/Versions
 brave-nightly.json,ScoopInstaller/Versions
-snipaste-beta_ScoopInstaller.json,ScoopInstaller/Versions
+snipaste-beta.json,ScoopInstaller/Versions
 godot3-mono.json,ScoopInstaller/Versions
 python37.json,ScoopInstaller/Versions
 firefox-nightly.json,ScoopInstaller/Versions
@@ -2703,6 +2703,7 @@ filezilla.json,arch3rPro/PST-Bucket
 confuserex-cli.json,arch3rPro/PST-Bucket
 treesize_arch3rPro.json,arch3rPro/PST-Bucket
 clash-windows.json,arch3rPro/PST-Bucket
+he3.json,arch3rPro/PST-Bucket
 proxifier.json,arch3rPro/PST-Bucket
 curl-impersonate.json,arch3rPro/PST-Bucket
 maye.json,arch3rPro/PST-Bucket
@@ -2930,6 +2931,7 @@ cppcryptfsctl_hoilc.json,hoilc/scoop-lemon
 cleanmywechat.json,hoilc/scoop-lemon
 djvutoy.json,hoilc/scoop-lemon
 assetripper.json,hoilc/scoop-lemon
+emby-plugin-metatube.json,hoilc/scoop-lemon
 gaphor.json,hoilc/scoop-lemon
 piping-server-rust.json,hoilc/scoop-lemon
 jprq.json,hoilc/scoop-lemon
@@ -3421,6 +3423,7 @@ arrowdl.json,hoilc/scoop-lemon
 pineapple-pictures.json,hoilc/scoop-lemon
 cmix.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
+stream-music.json,hoilc/scoop-lemon
 plebbit-cli.json,hoilc/scoop-lemon
 sendme.json,hoilc/scoop-lemon
 clash-speedtest.json,hoilc/scoop-lemon
@@ -3765,6 +3768,7 @@ ncmdump.json,hoilc/scoop-lemon
 onenote-md-exporter.json,hoilc/scoop-lemon
 asnmap.json,hoilc/scoop-lemon
 whisper-model-ggml-base-en.json,hoilc/scoop-lemon
+ofgb.json,hoilc/scoop-lemon
 filesremote.json,hoilc/scoop-lemon
 asfenhance-cn.json,hoilc/scoop-lemon
 malware-patch.json,hoilc/scoop-lemon
@@ -5947,7 +5951,7 @@ Rolan.json,dodorz/scoop
 pngout.json,dodorz/scoop
 PandaOCRPro.json,dodorz/scoop
 RuckZuck-CLI.json,dodorz/scoop
-FastCopy.json,dodorz/scoop
+FastCopy_dodorz.json,dodorz/scoop
 TextFilter.json,dodorz/scoop
 autojump-rs.json,dodorz/scoop
 DeaDBeeF.json,dodorz/scoop
@@ -6359,7 +6363,7 @@ duckstation_borger.json,borger/scoop-emulators
 dolphin-dev_borger.json,borger/scoop-emulators
 cemuhook_borger.json,borger/scoop-emulators
 ares_borger.json,borger/scoop-emulators
-snes9x-dev_borger.json,borger/scoop-emulators
+snes9x-dev.json,borger/scoop-emulators
 bsnes-hd-beta_borger.json,borger/scoop-emulators
 mesen_borger.json,borger/scoop-emulators
 dolphin_borger.json,borger/scoop-emulators
@@ -6651,6 +6655,7 @@ postman-cn.json,ViCrack/scoop-bucket
 mdut_ViCrack.json,ViCrack/scoop-bucket
 observerward_ViCrack.json,ViCrack/scoop-bucket
 1remote.json,ViCrack/scoop-bucket
+godzilla_ekp.json,ViCrack/scoop-bucket
 bluelife-keyfreeze.json,ViCrack/scoop-bucket
 notepad--.json,ViCrack/scoop-bucket
 gda.json,ViCrack/scoop-bucket
@@ -6882,6 +6887,7 @@ gitui_akirco.json,akirco/aki-apps
 zoom.json,akirco/aki-apps
 qrcp_akirco.json,akirco/aki-apps
 upscaler.json,akirco/aki-apps
+go-cn.json,akirco/aki-apps
 dvm_akirco.json,akirco/aki-apps
 cowsay_akirco.json,akirco/aki-apps
 prs_akirco.json,akirco/aki-apps
@@ -7016,7 +7022,7 @@ winxray_akirco.json,akirco/aki-apps
 oxipng_akirco.json,akirco/aki-apps
 npm-completion.json,akirco/aki-apps
 tesseract-languages_akirco.json,akirco/aki-apps
-dismplusplus.json,akirco/aki-apps
+dismplusplus_akirco.json,akirco/aki-apps
 firefox-zh-cn_akirco.json,akirco/aki-apps
 dim2clear.json,akirco/aki-apps
 helix_akirco.json,akirco/aki-apps
@@ -7212,7 +7218,7 @@ regex-tool.json,wzv5/ScoopBucket
 applicationinspector.json,wzv5/ScoopBucket
 overture_wzv5.json,wzv5/ScoopBucket
 nattypetester_wzv5.json,wzv5/ScoopBucket
-utools_wzv5.json,wzv5/ScoopBucket
+utools.json,wzv5/ScoopBucket
 douyu.json,wzv5/ScoopBucket
 qqmusic_wzv5.json,wzv5/ScoopBucket
 winsw_wzv5.json,wzv5/ScoopBucket
@@ -7374,7 +7380,7 @@ powertoys_DoveBoy.json,DoveBoy/Apps
 jasmine.json,DoveBoy/Apps
 network-profile-name-changer.json,DoveBoy/Apps
 youku.json,DoveBoy/Apps
-neteaseuu_DoveBoy.json,DoveBoy/Apps
+neteaseuu.json,DoveBoy/Apps
 innounp_DoveBoy.json,DoveBoy/Apps
 study-xxqg-sjkhsl.json,DoveBoy/Apps
 watttoolkit.json,DoveBoy/Apps
@@ -7629,7 +7635,7 @@ ntrace-core.json,DoveBoy/Apps
 ss.json,DoveBoy/Apps
 snappy-driver-installer-origin.json,DoveBoy/Apps
 winscp_DoveBoy.json,DoveBoy/Apps
-fastcopy.json,DoveBoy/Apps
+fastcopy_DoveBoy.json,DoveBoy/Apps
 xx-net-win7.json,DoveBoy/Apps
 context-menu-manager.json,DoveBoy/Apps
 tabby_DoveBoy.json,DoveBoy/Apps
@@ -8013,6 +8019,7 @@ windows-update-manager.json,naderi/scoop-bucket
 pycharm-portable.json,naderi/scoop-bucket
 firefox-portable-fa.json,naderi/scoop-bucket
 mdview.json,naderi/scoop-bucket
+snipaste_naderi.json,naderi/scoop-bucket
 portable-registrator.json,naderi/scoop-bucket
 tabby-portable.json,naderi/scoop-bucket
 mpc-hc-portable.json,naderi/scoop-bucket
@@ -8143,7 +8150,7 @@ screenshot-captor.json,naderi/scoop-bucket
 firefox-portable-de.json,naderi/scoop-bucket
 mediathekview.json,naderi/scoop-bucket
 veracrypt-portable.json,naderi/scoop-bucket
-affine_naderi.json,naderi/scoop-bucket
+affine.json,naderi/scoop-bucket
 xnview-classic.json,naderi/scoop-bucket
 wxmedit_naderi.json,naderi/scoop-bucket
 cwtch.json,naderi/scoop-bucket
@@ -9953,7 +9960,7 @@ otfcc_HUMORCE.json,HUMORCE/nuke
 snipaste_HUMORCE.json,HUMORCE/nuke
 fiddler-classic-addon-bccertmaker.json,HUMORCE/nuke
 wechat_HUMORCE.json,HUMORCE/nuke
-autohotkey.json,HUMORCE/nuke
+autohotkey_HUMORCE.json,HUMORCE/nuke
 hysteria_HUMORCE.json,HUMORCE/nuke
 xpdf-tools-LSP-korean.json,HUMORCE/nuke
 sandboxie-plus_HUMORCE.json,HUMORCE/nuke
