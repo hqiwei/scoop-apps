@@ -8,20 +8,6 @@
     },
     "url": "https://uu.gdl.netease.com/5010/UU-5.7.1.exe#/dl.7z",
     "hash": "18d0e5285ed365b1cae63ef8fa3363f1a55b76996a4e707d10edc174a262c4fe",
-    "installer": {
-        "script": [
-            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
-            "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:APPDATA\\Netease\\UU\"",
-            "Remove-Module -Name AppsUtils"
-        ]
-    },
-    "uninstaller": {
-        "script": [
-            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
-            "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\Netease\\UU\"",
-            "Remove-Module -Name AppsUtils"
-        ]
-    },
     "shortcuts": [
         [
             "uu.exe",
