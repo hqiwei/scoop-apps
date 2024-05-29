@@ -1,0 +1,36 @@
+{
+    "homepage": "https://opencc.byvoid.com/",
+    "description": "Open Chinese Convert Command Line Tool. (latest prebuilt)",
+    "version": "c8743ca",
+    "license": "APL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x64",
+            "hash": "eb2f3ad4ce415ef6f087b05070e4038d2080cbd8213315f57d65916ae7b87d9b"
+        },
+        "32bit": {
+            "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x86",
+            "hash": "cf9071879a7f16805190df7e5bdcdb038c21111e53759279cfa1500152b904e7"
+        }
+    },
+    "extract_dir": "build",
+    "bin": [
+        "bin\\opencc.exe",
+        "bin\\opencc_dict.exe"
+    ],
+    "checkver": {
+        "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/",
+        "jsonpath": "$.build.commitId",
+        "regex": "([0-9a-f]{7})"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x64"
+            },
+            "32bit": {
+                "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x86"
+            }
+        }
+    }
+}
