@@ -1,26 +1,15 @@
 {
-    "version": "1.63-1413",
+    "version": "1.63-1414-99990af",
     "description": "Nintendo SNES (Super Nintendo Entertainment System) emulator",
     "homepage": "http://www.snes9x.com/",
     "license": {
-        "identifier": "Freeware",
-        "url": "https://github.com/snes9xgit/snes9x/blob/master/LICENSE"
+        "url": "https://github.com/snes9xgit/snes9x/blob/master/LICENSE",
+        "identifier": "Freeware"
     },
     "architecture": {
-        "32bit": {
-            "url": "https://ci.appveyor.com/api/buildjobs/f0jq6k6p2e8wigi6/artifacts/snes9x-1.63-1413-c02ee43-win32.zip",
-            "hash": "9ca4503c66f839fac251aa5bc8b0ff697c0ecca48a36048f45de4b6b6219cf92",
-            "bin": "snes9x.exe",
-            "shortcuts": [
-                [
-                    "snes9x.exe",
-                    "Snes9X (dev)"
-                ]
-            ]
-        },
         "64bit": {
-            "url": "https://ci.appveyor.com/api/buildjobs/hch5ic8skswc6ycd/artifacts/snes9x-1.63-1413-c02ee43-win32-x64.zip",
-            "hash": "589b61cbecdffea95a51c19c0a2fe04a131714d162cfe57df88d40c3b29ef64d",
+            "url": "https://ci.appveyor.com/api/buildjobs/bbf9ae9uo3hbqvdd/artifacts/snes9x-1.63-1414-99990af-win32-x64.zip",
+            "hash": "7b8e06ecd5b47d2ae8f64e8b2d511ea016efd6a3b4adc9288b3f8cfd8e199f05",
             "bin": [
                 [
                     "snes9x-x64.exe",
@@ -30,7 +19,18 @@
             "shortcuts": [
                 [
                     "snes9x-x64.exe",
-                    "Super Nintendo Entertainment System [snes][snes9x] (dev)"
+                    "Snes9X (dev)"
+                ]
+            ]
+        },
+        "32bit": {
+            "url": "https://ci.appveyor.com/api/buildjobs/q2tj36awnm1xle9f/artifacts/snes9x-1.63-1414-99990af-win32.zip",
+            "hash": "858d291aec887b3cce23df0d8feea5e144c70f550ccb939cf184287ef3472af3",
+            "bin": "snes9x.exe",
+            "shortcuts": [
+                [
+                    "snes9x.exe",
+                    "Snes9X (dev)"
                 ]
             ]
         }
@@ -46,15 +46,24 @@
     ],
     "checkver": {
         "url": "https://ci.appveyor.com/api/projects/snes9x/snes9x",
-        "regex": "\"jobId\":\"(?<win32>.*?)\".*?arch=win32,.*?\"jobId\":\"(?<x64>.*?)\".*?arch=win32-x64,.*\"version\":\"(?<version>.*?)\".*\"commitId\":\"(?<commit>.{7}).*\""
+        "script": [
+            "$version = json_path $page $.build.version",
+            "$job32 = json_path $page $.build.jobs[0].jobId",
+            "$job64 = json_path $page $.build.jobs[1].jobId",
+            "$build = json_path $page $.build.buildNumber",
+            "$commit = json_path $page $.build.commitId",
+            "Write-Output \"$version $job32 $job64 $build $commit\""
+        ],
+        "regex": "(?<version>[\\d.-]+) (?<job32>[\\w]{16}) (?<job64>[\\w]{16}) (?<build>[\\d]+) (?<commit>[a-f0-9]{7})",
+        "replace": "${version}-${commit}"
     },
     "autoupdate": {
         "architecture": {
-            "32bit": {
-                "url": "https://ci.appveyor.com/api/buildjobs/$matchWin32/artifacts/snes9x-$matchVersion-$matchCommit-win32.zip"
-            },
             "64bit": {
-                "url": "https://ci.appveyor.com/api/buildjobs/$matchX64/artifacts/snes9x-$matchVersion-$matchCommit-win32-x64.zip"
+                "url": "https://ci.appveyor.com/api/buildjobs/$matchJob64/artifacts/snes9x-$matchVersion-$matchCommit-win32-x64.zip"
+            },
+            "32bit": {
+                "url": "https://ci.appveyor.com/api/buildjobs/$matchJob32/artifacts/snes9x-$matchVersion-$matchCommit-win32.zip"
             }
         }
     }
