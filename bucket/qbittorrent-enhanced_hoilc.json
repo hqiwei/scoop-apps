@@ -1,11 +1,8 @@
 {
-    "homepage": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
-    "license": {
-        "identifier": "GPL-2.0-only",
-        "url": "https://github.com/qbittorrent/qBittorrent/blob/master/COPYING"
-    },
     "version": "4.6.4.10",
-    "description": "qBittorrent BitTorrent client with anti-leech enhancement.",
+    "description": "qBittorrent Enhanced Edition is based on qBittorrent, it's aimed at block a leeching clients automatically.",
+    "homepage": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
+    "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
             "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.6.4.10/qbittorrent_enhanced_4.6.4.10_x64_setup.exe#/dl.7z",
@@ -16,17 +13,18 @@
             "hash": "5d5c2a14b0e208d8835a7f6f53dd7cb27c62b11f8d5c29bc4615e46c4e8ff600"
         }
     },
-    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+    "pre_install": "if (!(Test-Path \"$persist_dir\\profile\\\")) { New-Item -Path \"$dir\\profile\\\" -ItemType Directory | Out-Null }",
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\uninst*\" -Force -Recurse",
     "persist": "profile",
     "shortcuts": [
         [
             "qbittorrent.exe",
-            "qBittorrent"
+            "qBittorrent Enhanced"
         ]
     ],
     "checkver": {
         "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/latest",
-        "regex": "/releases/tag/release-([\\d.]+)"
+        "regex": "/releases/tag/release-v?([\\d.]+)\""
     },
     "autoupdate": {
         "architecture": {
