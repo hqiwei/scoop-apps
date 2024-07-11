@@ -1,9 +1,8 @@
 {
-    "version": "3.9.6",
-    "description": "The all-in-one workspace for your notes, tasks, wikis, and databases.",
     "homepage": "https://www.notion.so",
+    "description": "The all-in-one workspace for your notes, tasks, wikis, and databases.",
+    "version": "3.9.6",
     "license": "Proprietary",
-    "notes": "Your Notion data are storaged in '%LOCALAPPDATA%\\Notion'.",
     "url": "https://desktop-release.notion-static.com/Notion%20Setup%203.9.6.exe#/dl.7z",
     "hash": "sha512:d0ede70eb34db0ed6d2d88a374f868c3175e7c09e1550af7f93c0f546271b20b9afc4b402dd93b60451e9b2d40cea7109159f184da90bbb976d11b586cee3cd1",
     "extract_dir": "$PLUGINSDIR",
@@ -30,5 +29,6 @@
             "url": "$baseurl/latest.yml",
             "regex": "sha512:\\s+$base64"
         }
-    }
+    },
+    "notes": "Your Notion data are storaged in '%LOCALAPPDATA%\\Notion'."
 }
