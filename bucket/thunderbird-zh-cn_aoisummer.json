@@ -1,0 +1,50 @@
+{
+    "homepage": "https://www.thunderbird.net/",
+    "description": "A free email application that's easy to set up and customize.",
+    "license": "MPL-2.0",
+    "version": "115.13.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.13.0/win64/zh-CN/Thunderbird%20Setup%20115.13.0.exe#/dl.7z",
+            "hash": "21bfc71a399fc705970e2a3982ddf419366ed3cf13c43c01e2b79905c2438498"
+        },
+        "32bit": {
+            "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.13.0/win32/zh-CN/Thunderbird%20Setup%20115.13.0.exe#/dl.7z",
+            "hash": "df801c30d8fddbc3599f93d3141d6fef2b380a9ed5a16c4401a7dd4a99680409"
+        }
+    },
+    "extract_dir": "core",
+    "shortcuts": [
+        [
+            "thunderbird.exe",
+            "Thunderbird Simplified Chinese Edition"
+        ]
+    ],
+    "checkver": {
+        "url": "https://download.mozilla.org/",
+        "script": [
+            "$req = Invoke-WebRequest -Uri 'https://download.mozilla.org/?product=thunderbird-latest&os=win&lang=zh-CN' -MaximumRedirection 0 -ErrorAction SilentlyContinue",
+            "$m = $req.Content | Select-String -pattern 'releases/([\\d.]+)'",
+            "Write-Output $m.matches.groups[1].value"
+        ],
+        "regex": "(?<version>[\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/$version/win64/zh-CN/Thunderbird%20Setup%20$version.exe#/dl.7z",
+                "hash": {
+                    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/$version/SHA256SUMS",
+                    "regex": "$sha256\\s+win64/zh-CN/$basename"
+                }
+            },
+            "32bit": {
+                "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/$version/win32/zh-CN/Thunderbird%20Setup%20$version.exe#/dl.7z",
+                "hash": {
+                    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/$version/SHA256SUMS",
+                    "regex": "$sha256\\s+win32/zh-CN/$basename"
+                }
+            }
+        }
+    }
+}
