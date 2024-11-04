@@ -2,7 +2,7 @@
     "version": "1.16.0",
     "description": "Share files to nearby devices. An open source cross-platform alternative to AirDrop.",
     "homepage": "https://localsend.org/",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "architecture": {
         "64bit": {
             "url": "https://github.com/localsend/localsend/releases/download/v1.16.0/LocalSend-1.16.0-windows-x86-64.zip",
