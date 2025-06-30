@@ -14,7 +14,7 @@
         },
         "arm64": {
             "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v1.4.7/Cherry-Studio-1.4.7-arm64-setup.exe#/dl.7z",
-            "hash": "bcb47c4c5c882df40d05db51f390406c277367606210a39bdae5ea1cf0cbe5c7",
+            "hash": "sha512:f6caff08315b9389295863ef7f9b5db8baa1147a30e4ce8d573dbf14c143460a8ddc7ec62124da47e2c90c782ef32abad6998381b4d944e9f7c75b2d179d7e92",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Unintall*\" -Recurse"
@@ -27,19 +27,20 @@
             "Cherry Studio"
         ]
     ],
-    "post_install": [
-        "if (Test-Path \"$persist_dir\\data\\*\") {",
-        "    New-Item \"$Env:AppData\\CherryStudio\" -ItemType Directory -Force | Out-Null",
-        "    Copy-Item \"$persist_dir\\data\\*\" \"$Env:AppData\\CherryStudio\" -Recurse",
-        "}"
-    ],
-    "pre_uninstall": [
-        "if (Test-Path \"$Env:AppData\\CherryStudio\\*\") {",
-        "    Remove-Item \"$persist_dir\\data\" -Recurse -Force",
-        "    Move-Item \"$Env:AppData\\CherryStudio\" \"$persist_dir\\data\" -Force",
-        "}"
-    ],
-    "persist": "data",
+    "installer": {
+        "script": [
+            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name muggle) scripts/DoradoUtils.psm1)",
+            "Mount-ExternalRuntimeData -Source \"$persist_dir\\data\" -Target \"$env:APPDATA\\CherryStudio\"",
+            "Remove-Module -Name DoradoUtils"
+        ]
+    },
+    "uninstaller": {
+        "script": [
+            "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name muggle) scripts/DoradoUtils.psm1)",
+            "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\CherryStudio\"",
+            "Remove-Module -Name DoradoUtils"
+        ]
+    },
     "checkver": {
         "github": "https://github.com/CherryHQ/cherry-studio"
     },
@@ -49,11 +50,15 @@
                 "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-setup.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
-                    "regex": "sha512: $base64"
+                    "regex": "x64-setup.exe\\s+sha512:\\s+$base64"
                 }
             },
             "arm64": {
-                "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-setup.exe#/dl.7z"
+                "url": "https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-setup.exe#/dl.7z",
+                "hash": {
+                    "url": "$baseurl/latest.yml",
+                    "regex": "arm64-setup.exe\\s+sha512:\\s+$base64"
+                }
             }
         }
     }
