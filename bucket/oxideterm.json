@@ -1,41 +1,44 @@
 {
-    "version": "2.0.27",
-    "description": "AI-native workspace for local shells and remote machines.",
+    "version": "2.0.28",
+    "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages",
     "homepage": "https://oxideterm.app",
-    "license": "GPL-3.0-only",
+    "license": "GPL-3.0-or-later",
+    "notes": [
+        "config location: C:\\Users\\<your username>\\AppData\\Local\\com.oxideterm.app",
+        "config location: C:\\Users\\<your username>\\\\AppData\\\\Roaming\\OxideTerm - https://github.com/vicrack/scoop-bucket/blob/master/bucket/oxideterm.json https://github.com/vicrack/scoop-bucket"
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v2.0.27/OxideTerm_2.0.27_windows_x64_portable.zip",
-            "hash": "7693261203ce9f5599b4ddecda4ed34d832cd6bd83357d5fe1c7a57e3287fe26",
-            "extract_dir": "OxideTerm_2.0.27_windows_x64_portable",
-            "bin": "resources\\cli-bin\\x86_64-pc-windows-msvc\\oxideterm.exe"
+            "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v2.0.28/OxideTerm_2.0.28_windows_x64-setup.exe#/dl.7z",
+            "hash": "bc8f660b38f9357603436fb0ccff9a30916a6ed2fbcf2e0245fabe070ae797e9"
         },
         "arm64": {
-            "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v2.0.27/OxideTerm_2.0.27_windows_arm64_portable.zip",
-            "hash": "3a4251c5b752d79916aa97534ea60a5615e3dfe176e025a525a83b8062014416",
-            "extract_dir": "OxideTerm_2.0.27_windows_arm64_portable",
-            "bin": "resources\\cli-bin\\aarch64-pc-windows-msvc\\oxideterm.exe"
+            "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v2.0.28/OxideTerm_2.0.28_windows_arm64-setup.exe",
+            "hash": "82b9498cde287e43a52c25eae588845c1693250cb1887ea1071421142a084ca1",
+            "shortcuts": [
+                [
+                    "oxideterm.exe",
+                    "Oxideterm"
+                ]
+            ]
         }
     },
     "shortcuts": [
         [
-            "oxideterm-native.exe",
-            "OxideTerm"
+            "oxideterm.exe",
+            "Oxideterm"
         ]
     ],
-    "persist": "data",
     "checkver": {
         "github": "https://github.com/AnalyseDeCircuit/oxideterm"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v$version/OxideTerm_$version_windows_x64_portable.zip",
-                "extract_dir": "OxideTerm_$version_windows_x64_portable"
+                "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v$version/OxideTerm_$version_windows_x64-setup.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v$version/OxideTerm_$version_windows_arm64_portable.zip",
-                "extract_dir": "OxideTerm_$version_windows_arm64_portable"
+                "url": "https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v$version/OxideTerm_$version_windows_arm64-setup.exe"
             }
         }
     }
