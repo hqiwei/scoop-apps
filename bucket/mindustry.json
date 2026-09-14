@@ -1,13 +1,13 @@
 {
-    "version": "160.1",
+    "version": "160.4",
     "description": "A sandbox tower-defense game",
     "homepage": "https://mindustrygame.github.io/",
     "license": "GPL-3.0-only",
     "suggest": {
         "Java Runtime Environment": "java/temurin-jre"
     },
-    "url": "https://github.com/Anuken/Mindustry/releases/download/v160.1/Mindustry.jar",
-    "hash": "5299ef6a0e1756c9696be2ecc610d3ba27993cc42f4fb885f06e59f6c5625de9",
+    "url": "https://github.com/Anuken/Mindustry/releases/download/v160.4/Mindustry.jar",
+    "hash": "3db9deef794d6595fd816f961232c64d8abfe238c3f1b7807a5aaa5aef1f44a9",
     "pre_install": "Set-Content -Path \"$dir\\mindustry.bat\" -Value \"pushd $dir && javaw -jar Mindustry.jar && popd\"",
     "bin": "mindustry.bat",
     "shortcuts": [

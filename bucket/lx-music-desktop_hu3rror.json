@@ -2,11 +2,11 @@
     "homepage": "https://github.com/lyswhut/lx-music-desktop",
     "description": "A music application based on Electron + Vue",
     "license": "Apache-2.0",
-    "version": "2.12.2",
+    "version": "2.12.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win_x64-green.7z",
-            "hash": "77a14f8983ff5cdb2b89798949fa2d06ed7062d46d4a53e476a8067169a9e6e5"
+            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.5/lx-music-desktop-v2.12.5-win_x64-green.7z",
+            "hash": "e04226c9eac921e190d1643b44a63517fa2314171667bb7dd9173875f358845b"
         }
     },
     "shortcuts": [

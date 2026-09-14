@@ -1,5 +1,5 @@
 {
-    "version": "275",
+    "version": "277",
     "description": "This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.",
     "homepage": "https://github.com/Rem0o/FanControl.Releases",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V275/FanControl_275_net_10_0_Installer.exe",
-            "hash": "3c7acf6b6323b7f33511d88a12e5f97ccac32a8edb074555b0745ff196f5e8a6"
+            "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V277/FanControl_277_net_10_0_Installer.exe",
+            "hash": "85484d1a9cb1895ad8212d1232e03af35d749497b3429a08a5c32bbd2da8ebf9"
         }
     },
     "innosetup": true,

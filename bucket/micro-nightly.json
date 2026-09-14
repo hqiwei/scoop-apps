@@ -1,20 +1,20 @@
 {
-    "version": "nightly-2026-09-12",
+    "version": "nightly-2026-09-14",
     "description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.",
     "homepage": "https://micro-editor.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win64.zip",
-            "hash": "7886c0589211d39790b87c28007697568a9d33f036509df057c602053d85ee7b"
+            "hash": "1be6432255b932af5515dee6e813dee00fc98f2b008c76456ad1a84b073f12ac"
         },
         "32bit": {
             "url": "https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win32.zip",
-            "hash": "aeed1df3b6a05fbff654384123e257dd9d2e58f640c6b292b19d61b61df51c05"
+            "hash": "fa8cedd5436aa8f054c05290c1b34e95884e96f0a56c32dffc7fb558f292ee9d"
         },
         "arm64": {
             "url": "https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win-arm64.zip",
-            "hash": "079cab5eabbee0efc07a92a657b6dc9f81dd0ad755f87ec2952f16ba7bff4f60"
+            "hash": "480a3c97d6ab4d9ac1082a55aada3db59b08f7d6684749cae3a6fd17639e0d6d"
         }
     },
     "extract_dir": "micro-nightly",
